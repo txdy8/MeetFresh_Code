@@ -1,0 +1,629 @@
+,id,name,state,city,zip code,review count,rating,address,categories,latitude,longitude
+0,jNd1zYkXFBX4PmuYpiGyBQ,Paradise Snow Shaved Ice,KY,Hartford,42347,1.0,5.0,S Main St,shavedice,37.4443504693231,-86.8982295421598
+1,s33Vi9Kwam0l2xCeZvvxmA,The Snow Shack Shaved Ice,KY,Morgantown,42261,1.0,5.0,111-115 West Porter St,shavedice,37.225005,-86.685407
+2,aCNuUoB3HthDYoL1DMChNg,Krakt Ice,KY,Rineyville,40162,1.0,5.0,,shavedice foodtrucks,37.75015624527965,-85.97030377693736
+3,atsReHJJTbzErMphF-3lMA,Pelican's SnoBalls: Bowling Green,KY,Bowling Green,42104,11.0,3.5,5844 Scottsville Rd,shavedice shavedsnow desserts,36.9159104,-86.4067885
+4,M6_KHYjjebMQ6NYJIs9Lcg,Maddy's Shave Ice,KY,Fort Knox,40121,1.0,5.0,1 Mobile Concession,shavedice,37.919256,-85.9406745
+5,Wz8UA-498eJM-Qjr3Kh2Dw,Bluegrass Brad's,KY,Scottsville,42164,1.0,5.0,1804 Old Gallatin Rd,shavedice icecream,36.73665,-86.21136
+6,5mrmpAo_FRd-7RlPbue21A,Charleys Cheesesteaks,KY,Fort Knox,40121,4.0,2.5,125 Binter St,shavedice sandwiches,37.885944,-85.954807
+0,dx79w8oS-Q5ewYmUuCRYBA,K & L Asian Restaurant,KY,Bowling Green,42103,57.0,4.0,1640 Scottsville Rd,vietnamese asianfusion,36.9714136875846,-86.4332413673401
+1,vUXdOFiIKnYHRf8kx006vQ,Best Donuts,KY,Franklin,42134,14.0,4.0,201 W Cedar St,donuts breakfast_brunch bubbletea,36.7222504,-86.5792755
+2,K1-kUB8kqVT8zcv7Pdru_g,2B Thai,KY,Elizabethtown,42701,224.0,4.5,3040 Ring Rd,thai,37.71058,-85.83883
+3,IblSVD4XKbInQiYdoRj3iQ,Boba Lounge and cafe,KY,Bowling Green,42101,48.0,4.0,1542 US 31 W Bypass,bubbletea vietnamese,36.980045,-86.446608
+4,aav99RM-AOgbe9_nnyL46g,Boba Lounge and Cafe,KY,Bowling Green,42101,2.0,5.0,1542 US 31 W Bypass,asianfusion bubbletea,36.980046,-86.4466093
+5,V3X6cgLTVnXVMRjcM0-21A,Zogam Khai Restaurant,KY,Bowling Green,42101,36.0,4.5,111 Old Morgantown Rd,thai asianfusion,36.98872141821915,-86.45726252149584
+2,dZcnLC-iRsGAkum685CLrg,Big Mike's Shaved Ice,KY,Louisville,40204,36.0,5.0,1265 Bardstown Rd,shavedice,38.23623,-85.71647
+5,ldt2803-emIR8L-AtMTgHA,Snow To Go,KY,Louisville,40258,2.0,5.0,6405 Greenwood Rd,shavedice,38.1449019346596,-85.8710854847715
+6,VmZDiQzbE15OZRfbROMReA,SnoWhat Snoballs,KY,Louisville,40203,63.0,5.0,1270 S Preston St,shavedice foodtrucks,38.23140097967878,-85.7502213433952
+7,VKScUr-1QlItfd0sxV0u9A,Boudreaux's New Orleans Style Sno-Balls,KY,Middletown,40243,48.0,4.5,11816 Shelbyville Rd,desserts shavedice,38.24779,-85.53622
+8,5VaggThwAwerztHPt809cg,Tikiz of Louisville,KY,Middletown,40223,1.0,5.0,,shavedice icecream foodtrucks,38.25832,-85.54185
+9,aCX_tXQ_JuYQtA6jOXPSHg,Philly’s Best Frozen Desserts,KY,Louisville,40218,36.0,4.5,3912 Bardstown Rd,desserts shavedice icecream,38.194582,-85.652508
+10,wH3qUswO9tr9e6g7aSVEvA,Inolvi's Shave Ice Temptations,KY,Louisville,40229,1.0,3.0,1679 Old Preston Hwy N,shavedice,38.08009138785582,-85.66834378219224
+11,YpPvG4tYrw95P2J1COxO_Q,Sarang,KY,Louisville,40204,189.0,4.5,1908 Eastern Pkwy,korean bubbletea chicken_wings,38.2317207328535,-85.7094144067373
+13,EHeNzwCXOt89FIT1GYFhGA,Barrel of Fun Ice Cream,KY,Louisville,40229,42.0,5.0,9421 Smyrna Pkwy,icecream burgers hotdog,38.110546,-85.644692
+14,BZtDknTXCN8yKZZth8x0iw,Fun Tea,KY,Louisville,40205,86.0,4.5,1608 Bardstown Rd,bubbletea shavedsnow juicebars,38.230395752915435,-85.70458910691146
+15,rPCKVbicx0daWt8Ci4Hz0g,Champion’s Gourmet Popcorn,KY,Louisville,40219,1.0,4.0,1679 Old Preston Hwy N,shavedice popcorn,38.0785475578152,-85.6682443970382
+16,TXGtIehxUawpNES5s7Z3QQ,Ace's Slushie World,KY,Louisville,40203,1.0,5.0,1821 W Broadway,bbq icecream shavedice,38.24934,-85.78244
+17,a17XPH0VtCRjyyOhNj1vpA,The Silver Dollar,KY,Louisville,40206,792.0,4.0,1761 Frankfort Ave,southern breakfast_brunch whiskeybars,38.25716,-85.71663
+18,YdpO4BiEFkmndamOoBdFAw,Norris Place Ice Cream,KY,Louisville,40205,1.0,1.0,1647 Norris Pl,shavedice icecream,38.2249718,-85.7064209
+1,endN0ax2vtV5-LccZXpy0g,Sharetea,KY,Louisville,40218,116.0,5.0,3333 Bardstown Rd,bubbletea coffee juicebars,38.206603,-85.666662
+6,jKPZX01gew1dI3S6lWTwNA,Mishik Cafe Boba Tea,KY,Louisville,40222,1.0,5.0,200 S 5th St,bubbletea coffee,38.25505,-85.75884
+7,lNtD9O18Gq-P8XOKD_t6Ww,Boba Fête,KY,Louisville,40204,34.0,4.0,1001 Logan St,bubbletea coffee,38.235679439659656,-85.73916358697622
+10,-hZ4i-Masq53sz1R4A7Utw,Mt Fuji,KY,Louisville,40208,126.0,4.0,309 Cardinal Blvd,japanese juicebars sushi,38.2207404,-85.7614992
+11,t5wex4jKjC6CLYtj6nrrCg,Padrino’s,KY,Brandenburg,40108,4.0,4.0,455 Bypass Rd,bubbletea,37.97951648373667,-86.1618978773325
+12,Qry-UkgqUfQ8N4a4rXEGhg,Namnam Cafe,KY,St. Matthews,40207,250.0,4.0,318 Wallace Ave,vietnamese soup bubbletea,38.25186,-85.65759
+13,6-Lp1Z_sLiB8nYNGGwCQTg,Kung Fu Tea,KY,Louisville,40207,53.0,3.5,5000 Shelbyville Rd,bubbletea coffee juicebars,38.2483083,-85.622531
+14,809GjbrynHj04EwqoKn98g,Sharetea,KY,Louisville,40223,9.0,4.5,13210 Shelbyville Rd,bubbletea,38.2422438968737,-85.51124574616719
+15,irKb304_kp6mFPp_SwfCJA,Aji Sushi and Asian Cuisine,KY,Louisville,40219,84.0,4.0,5610 Outer Lp,sushi asianfusion bubbletea,38.1385054238008,-85.656331
+16,ICStAyR3hniE4P93VUoB2w,DaLat's Gateaux and Cafe,KY,Louisville,40214,53.0,4.0,6915 Southside Dr,vietnamese coffee bakeries,38.15672512717562,-85.7636670496871
+17,ErY_UnC3seOOAy2LJe6Wow,Vietnam Kitchen,KY,Louisville,40214,530.0,4.5,5339 Mitscher Ave,vietnamese noodles,38.170529340487484,-85.7699458
+18,zwPfXo3wwAJ48-f8xxhyuA,Healthy & Delicious,KY,Louisville,40205,2.0,4.5,1561 Bardstown Rd,bubbletea juicebars,38.231318,-85.706059
+19,qvY2MN2tJvV3_TmFnXdcow,Heart & Soy,KY,Louisville,40204,212.0,4.5,1216 Bardstown Rd,vegetarian vegan panasian,38.236376,-85.71803
+20,DDMaR8LnZSTtsnJFZycOnA,Roots,KY,Louisville,40204,168.0,4.5,1216 Bardstown Rd,vegetarian asianfusion soup,38.2365,-85.7179
+21,H-fbrqyst5BUXONfImr_JQ,Asian Wok,KY,Louisville,40206,83.0,4.0,2235 Frankfort Ave,sushi chinese asianfusion,38.2535474489544,-85.704318598571
+22,2nOI_Ht-QHuFwLkNEu55SQ,Peking City Express,KY,Louisville,40207,41.0,4.0,4000 Dutchmans Ln,chinese taiwanese,38.23343,-85.6347399
+23,0yvqggJenPkzlCGeRU8BdQ,Simply Thai,KY,Louisville,40243,177.0,3.5,12003 Shelbyville Rd,thai sushi asianfusion,38.24946,-85.5348999
+24,qLDRflgg7KmhXtUQvpDZcg,All Thai'd Up,KY,Louisville,40202,28.0,4.0,211 South 5th St,thai foodtrucks cookingclasses,38.2549146,-85.7582133
+25,CBMKrRLK46mfeFPM4F4ieg,Bento Asian Kitchen + Sushi,KY,Louisville,40243,114.0,4.5,12951 Shelbyville Rd,japanese bubbletea sushi,38.244189,-85.510789
+26,3v_WPa3XzRZzoBV1aieExQ,China 1,KY,Taylorsville,40071,13.0,4.0,99 Settlers Center Rd,chinese,38.0424651454683,-85.3415557807872
+27,5rey1IvYK2GR_ph0k_qBiw,La Que,KY,Louisville,40204,216.0,3.5,1019 Bardstown Rd,asianfusion vietnamese thai,38.24002,-85.72342
+28,YqwwxSEsvcdVrriTQmsk2g,Jasmine Szechuan Chinese Cuisine and Tsubaki Sushi Bar,KY,Louisville,40245,143.0,3.0,13825 English Villa Dr,chinese sushi,38.2399908,-85.4949964
+29,cYEJZMDB64u34F2fUO4CdQ,Pho Phi,KY,Louisville,40207,115.0,3.5,4600 Shelbyville Rd,soup vietnamese,38.248167,-85.629494
+0,lxvv9J0svwFj4ZeQ8eSXOg,The Local,KY,Harrodsburg,40330,2.0,4.5,,shavedice foodtrucks,37.7630386352539,-84.845588684082
+1,DdUgPtZlRGSj9_75cbJZeQ,Black Pearl Bubble Tea,KY,Lexington,40503,40.0,3.0,3401 Nicholasville Rd,juicebars bubbletea,37.987044,-84.529395
+2,m70MSN495Tjt85zvD0XXew,Sakura 13,KY,Lexington,40503,66.0,4.0,3695 Nicholasville Rd,japanese sushi,37.984713,-84.527497
+5,oyIrAdkI9m6FdezEabw_tA,Tropical Snow Shaved Ice,KY,Shelbyville,40065,8.0,4.5,18 Main St,shavedice,38.2101860046387,-85.208740234375
+3,e0zJz_c-lEWEcwK8qvhiJA,Nutrition Place,KY,Shelbyville,40065,4.0,4.5,1661 Midland Tri,juicebars,38.2132,-85.24164
+0,vYYqTWv0v3diVgsR4UGjjg,The Sno Shack,TN,Livingston,38570,1.0,1.0,101 S Court Sq,shavedice,36.383049,-85.3225937
+1,U27iAyTZ56_UjavbY5SRiw,Lakeside Sno,TN,Byrdstown,38549,4.0,5.0,111 Frisco Ln,shavedice icecream foodstands,36.542289,-85.16071
+0,Hij997MBnqzJ0YXW39TJJw,Bubble TeaTalk,KY,Owensboro,42303,1.0,5.0,3238 Kidron Valley Way,bubbletea juicebars,37.75545718518067,-87.05910023964064
+1,Mmyx9p9uupGCuTLjm0PSSQ,Loco Ice,KY,Lexington,40509,7.0,4.5,1979 Pavillion Way,shavedice,38.0229178759484,-84.4201432962981
+3,lDsXePrWBoA44j_5EM0w-A,Loco Ice,KY,Lexington,40502,4.0,5.0,3101 Clays Mill Rd,shavedice,38.003691,-84.545197
+2,zp2qmShoU0SRkdU29NeZiQ,Pho Saigon,KY,Lexington,40509,189.0,4.5,1555 E New Circle Rd,vietnamese,38.01943,-84.45462
+3,Ya4CDTOPBpS-KRh1NEvidQ,Pho BC,KY,Lexington,40503,157.0,4.0,171 W Lowry Ln,vietnamese,38.00708,-84.52092
+0,T9koPt8ECKxSZ4-uCpKA7A,Crepe & Creme,TN,Cookeville,38501,17.0,4.0,644 N Walnut Ave,icecream bubbletea creperies,36.17159,-85.50536
+0,H9BzLqIz11RfOCeUhqIy7w,Chilljoy Frozen Treatery,OH,Columbus,43206,13.0,5.0,,foodtrucks shavedice icecream,39.9350010716894,-82.9928531968343
+1,NfNsDlhbKeeT_ytj4jNbgg,Bubba's Shaved Ice,OH,Canal Winchester,43110,4.0,4.5,8027 Lithopolis Rd,shavedice,39.8204042584226,-82.83118727338189
+2,LrnS_M2vVk8paXUuwFVSTA,Giuseppe's,OH,Marengo,43334,1.0,4.0,5383 Twp Rd,shavedice,40.4008945,-82.8107329
+3,JVubH6PkesGimSCZyaMQyQ,The Water Ice Shoppe,OH,Columbus,43229,5.0,4.5,,streetvendors shavedice cheesesteaks,40.08585934389202,-82.97601491135498
+4,Odr51X81uNRlSd_SPOoK-Q,Rita's Italian Ice,OH,Gahanna,43230,24.0,4.5,200 Granville St,icecream desserts shavedice,40.0189895629883,-82.8742752075195
+5,LV-ntcW1SpOUwYjGYKws8Q,Marlow’s Steaks,OH,Gahanna,43230,4.0,5.0,93 N High St,cheesesteaks foodtrucks,40.02022763704288,-82.87839417387151
+6,OqaBl_7oByZpH-9nx1ElDA,Rita's Italian Ice,OH,Westerville,43081,28.0,4.0,520A S State St,shavedice icecream desserts,40.11217,-82.92604
+7,j-BKw0jhwdKuHva38-FdlA,Libby Lou’s Fun Factory,OH,Columbus,43202,15.0,4.0,3039 Indianola Ave,candy shavedice icecream,40.02574667,-83.00167267
+8,0PLNUj1fHn6ANG4ASM8XOg,Kuya Ian's Bistro,OH,Columbus,43229,79.0,4.0,6863 Flags Center Dr,filipino,40.1095737,-82.9514791
+9,HlB6kVtJwVjZGKrBmULk0A,Tiger + Lily,OH,Columbus,43215,347.0,4.0,19 E Gay St,asianfusion japanese chinese,39.96356,-83.00021
+10,lTZhQKnwPQp6QajxhIv8kA,Del Mar SoCal Kitchen,OH,Columbus,43215,234.0,4.0,705 N High St,newamerican seafood,39.9767612,-83.0036879
+0,ALP7rrHJxXIHyzMMPGQ1vw,LittleMoon Cafe and Tea,OH,Columbus,43202,24.0,4.5,2899 N High,bubbletea coffee desserts,40.02132,-83.013436
+1,LWbubXwD-N9fJqTbmq0P7w,Vivi Bubble Tea,OH,Columbus,43202,66.0,4.0,2408 N High St,bubbletea coffee,40.01143,-83.01016
+2,sw6IpXS7nP_Gz6fEyqJMjg,First Corner Bubble Tea Shop,OH,Columbus,43209,8.0,4.0,2408 E Main St,bubbletea,39.95742,-82.93454
+3,Asn_NXeNmN846hlar5H0pQ,Pochi Cafe,OH,Columbus,43230,22.0,3.5,921 E Johnstown Rd,sandwiches bubbletea juicebars,40.041899,-82.8635506
+4,v_jWKKWEUyh1solQ3CLtsg,Mr O Kitchen,OH,Pickerington,43147,44.0,3.5,1722 Hill Rd N,chinese bubbletea,39.92519,-82.78427
+5,IHqP7NcjqVVIR6vQjuOiXw,Zen Cha Tea Salon,OH,Columbus,43201,289.0,4.0,982 N High St,coffee tea bubbletea,39.98238,-83.0044
+6,cQWTJIx9XjLu_X68E4KZLQ,Bubbles The Tea and Juice Company,OH,Columbus,43240,28.0,3.0,1500 Polaris Pkwy,coffee bubbletea juicebars,40.14575,-82.98036
+7,JGYKb4jd3VVCGtTM9X5PyA,BIBIBOP Asian Grill,OH,Columbus,43230,31.0,4.5,5091 N Hamilton Rd,asianfusion salad gluten_free,40.059812,-82.864006
+8,1FUFqU8KA_rfa56LJHFEPg,Bubbles The Tea & Juice Company,OH,Columbus,43219,26.0,2.0,Easton Town Ctr,bubbletea,40.0529305612785,-82.9151388024279
+9,52E1G7fNA2OGK4ksq1SAIw,Bubbles Tea & Juice Company,OH,Columbus,43215,85.0,3.5,59 Spruce St,juicebars bubbletea,39.9721250447045,-83.0043254398811
+10,ECF1rzYNudH6hCPs1KhHPA,Millions of Milk Tea,OH,Columbus,43201,24.0,2.5,1990 N High St,bubbletea chinese juicebars,40.002916,-83.008402
+11,QuABYDxVsIMZbUAYlqZS1w,The Brewed Leaf,OH,Columbus,43201,11.0,5.0,2060 N High St,bubbletea,40.00447,-83.00824
+12,7DUR88VUxu6eZVTFI2xQ9Q,Bubbles Tea & Juice Company,OH,Worthington,43085,8.0,2.0,661 N High St,juicebars bubbletea,40.08735,-83.01839
+13,NR-CkQYadMK_DuxewllOpg,Bangkok Grocery & Restaurant,OH,Columbus,43232,311.0,4.5,3277 Refugee Rd,thai importedfood,39.91708,-82.91392
+14,OpVZKrMMsZluYy7okzGPcw,Mi Li Cafe,OH,Columbus,43231,258.0,4.0,5858 Emporium Sq,vietnamese,40.0855399668217,-82.9456615447998
+15,-1rvXk4zbX3I6ddMCtPlmQ,ZenCha Tea Cafe,OH,Bexley,43209,111.0,4.0,2396 E Main St,coffee tea breakfast_brunch,39.957258,-82.93484
+16,B_eQcmqtdtBOQQpgCovwiA,Kung Fu Tea,OH,Columbus,43201,8.0,4.0,2202 North High St,bubbletea coffee juicebars,40.007183,-83.009232
+17,k9on0DqUzHuWlRZGwgiKSw,Kirin Noodle Bar,OH,Columbus,43214,70.0,4.0,4227 N High St,ramen dimsum noodles,40.04832,-83.02059
+18,AHMA7314bg975Gy1JxZDkg,Erawan Thai,OH,Columbus,43232,190.0,4.0,3589 Refugee Rd,thai,39.916240752255,-82.9007383553253
+20,vO2gQdiqwRuaXmr1w2TdVg,Mr Wok Restaurant,OH,Columbus,43230,43.0,3.5,931 E Johnstown Rd,chinese,40.04186,-82.86312
+21,3iH7J9CuJaQ7bcx-Lyw8_A,Ying's Teahouse & Yum-Yum,OH,Columbus,43214,128.0,3.5,4312 N High St,chinese,40.05002603896518,-83.01988703713975
+23,2TDR7cJDYenS_wHLaxPI1Q,6-1-Pho,OH,Columbus,43214,233.0,3.5,4386 N High St,vietnamese noodles soup,40.05178,-83.0197
+24,4SjI6UifUDuYjNb4ze7EuQ,Bubbles Tea & Juice Company,OH,Columbus,43201,1.0,4.0,1881 N Pearl St,bubbletea juicebars acaibowls,40.00084894036272,-83.00756150122247
+25,6rJwbvMfV45b52-LLbpreQ,Lieu's Asian Cuisine,OH,Columbus,43214,76.0,4.0,5320 N High St,asianfusion chinese vietnamese,40.07089,-83.01866
+26,YhDufeiyhQnpzfv-LjB91g,Cornerstone Deli & Café,OH,Columbus,43202,219.0,4.0,3296 N High St,delis sandwiches cafes,40.02937,-83.015
+27,_8OgXGJ3qbcmxljXTq5Pfg,Joy's Village,OH,Columbus,43201,102.0,4.0,2060 N High St,chinese,40.0044528,-83.0085199
+28,LGbgmsRy_a1peMOkxHQylQ,Yau's Chinese Bistro,OH,Columbus,43201,166.0,3.5,1493 N High St,chinese,39.99282,-83.00681
+29,ZAUqBV_UZqYdfvDIMfrXxQ,Great American Cookies,OH,Columbus,43240,1.0,3.0,1500 Polaris Pkwy,bakeries desserts,40.14575,-82.98036
+30,O6I69Elz0iYm2nHmJLSzyg,Lucky Dragon,OH,Columbus,43202,110.0,3.5,2800 N High St,chinese vietnamese,40.019462,-83.012158
+0,B8rvW6Pn5p-5lr9xLcnpbA,Tropical Chill Hawaiian Ice,OH,Hilliard,43026,1.0,5.0,,foodtrucks shavedice,40.0219573974609,-83.1817474365234
+2,i824OlAbwAIpsqldayJzPw,Rita's Italian Ice,OH,Columbus,43220,84.0,4.5,2116 W Henderson Rd,icecream desserts shavedice,40.0575292538154,-83.0749021995329
+3,gIIOGLIKYJf79WBbjeY84Q,Tea Zone Bakery & Cafe,OH,Columbus,43214,96.0,4.0,5025 Olentangy River Rd,bakeries coffee,40.0608844907124,-83.0397296936707
+4,ZeMT6gHqfbMUAm8px4YsVQ,Bubba's Shaved Ice Snoballs,OH,Grove City,43123,9.0,4.5,4075 Hoover Rd,shavedice,39.8801591407695,-83.0699250850168
+5,KyAYhtGx_XW4-i6AyK_Nnw,Bonifacio,OH,Columbus,43212,331.0,4.0,1577 King Ave,filipino breakfast_brunch bars,39.9915,-83.04924
+6,0jFrTHMEyIlHX0i_185tnw,Belle's Bread,OH,Columbus,43220,366.0,4.5,1168 Kenny Centre Mall,bakeries cafes customcakes,40.0501763839821,-83.0516333315606
+7,kFT2RIf7gknFiPeyNx2jjw,Tensuke Express,OH,Columbus,43220,424.0,4.5,1155 Old Henderson Rd,noodles ramen,40.05088,-83.051191
+10,fxQ7FTCG37TXRIMgD4SoQA,Laguna Mexican Street Food & Ice Cream,OH,Columbus,43235,70.0,4.5,1980 Hard Rd,mexican icecream shavedice,40.117879,-83.068644
+12,dJgBe5zjv8ILrVMDDMVHqg,The Columbus Coffee,OH,Powell,43065,1.0,5.0,,coffee foodtrucks shavedice,40.15559,-83.08782
+0,xDm9YTQyIMoXe8fOQFtSnQ,Bee Bubbly Juicery,OH,Hilliard,43026,11.0,4.5,4013 Main St,bubbletea juicebars,40.033704908982365,-83.1601285
+1,SCa_kUGySuGGqi61aQQTOQ,Sharetea Columbus,OH,Dublin,43017,23.0,4.0,2752 Festival Ln,bubbletea coffee,40.09337,-83.08988
+2,fqjaG6R6PIN18rW2iBB5bA,New Grounds Coffee House,OH,Hilliard,43026,63.0,3.5,6318 Scioto Darby Rd,coffee,40.03376,-83.17981
+3,UHKwDi3Hx-Vsav-S2jPoWQ,Rose Bubble Tea,OH,Hilliard,43026,2.0,3.0,2135 Hilliard Rome Rd,bubbletea juicebars,39.99516,-83.15306
+4,XKBjl89ZFqSqm-hpDvSFlQ,Kung Fu Tea,OH,Columbus,43235,83.0,4.5,7370 Sawmill Rd,bubbletea coffee juicebars,40.116221,-83.0896185751734
+5,PWwBmLYVlioHknccRaSKww,Vitality Juicery,OH,Dublin,43017,43.0,4.5,22 South High St,juicebars bubbletea acaibowls,40.0991152,-83.1135113
+6,lljBbpws--DALnMDSl9Chw,Bubbles Tea & Juice Company,OH,Dublin,43017,3.0,3.5,6750 Longshore St,bubbletea juicebars,40.10423130044589,-83.10988070026409
+7,phXTpI8JoKQdWX8TlOoTmg,Bubbles Tea & Juice Co.,OH,Dublin,43016,5.0,3.0,5043 Tuttle Crossing Blvd,bubbletea,40.073135,-83.131462
+8,mCVnDQnSD_TDIDJOs3nr6A,Crepe Stop,OH,Columbus,43220,4.0,4.5,2714 Bethel Rd,creperies desserts bubbletea,40.06701,-83.09118
+9,670uYG2W19te4Uy9EVVdgQ,Ty Ginger Asian Bistro,OH,Dublin,43016,299.0,4.0,5689 Woerner Temple Rd,asianfusion dimsum,40.0841224040013,-83.1427492477394
+10,ESgiv96j6QkUsf5nGzehIQ,BIBIBOP Asian Grill,OH,Plain City,43064,35.0,4.5,7286 Sr 161,asianfusion salad gluten_free,40.108609,-83.1888441
+11,vY5-lGGmYiD-5b3rhhtSUQ,Hiro Ramen & Tea,OH,Columbus,43235,27.0,4.0,4800 Sawmill Rd,ramen desserts juicebars,40.0672063613104,-83.0925652
+12,Gv03LW7LVmi3hXfvI-XKVA,Noodle Topia,OH,Dublin,43016,133.0,4.0,7541 Sawmill Rd,noodles dimsum,40.12013704931565,-83.09214
+13,nJ1T6sOdpnIibrBYCn7Meg,Pho Chef,OH,Columbus,43235,185.0,4.0,3540 W Dublin Granville Rd,vietnamese,40.0935707,-83.0839462
+14,6AlzJUimUP4FUSMw-5cC3A,Sunflower Chinese Restaurant,OH,Columbus,43235,306.0,3.5,7370 Sawmill Rd,chinese,40.1161,-83.089429
+15,aj0vJ51ZATfiU5XDqZ6zwg,Pho Thanh,OH,Hilliard,43026,18.0,4.0,4568 Cemetery Rd,vietnamese,40.03198,-83.13882
+0,FydM5Fk6htHgsw5FluCkGQ,Rollies,OH,Marysville,43040,18.0,4.0,125 S Main St,icecream bubbletea,40.23568,-83.36736
+4,_6-N0i9DDjNi4RL5yUFeVg,Bust N Boba,OH,Marysville,43040,2.0,3.0,,foodtrucks bubbletea,40.23714,-83.36686
+0,sP5ldOlViArNyKOc9sKbFA,Kung Fu Tea,OH,Columbus,43220,174.0,4.5,1161 Kenny Centre Mall,bubbletea coffee juicebars,40.0494543477817,-83.0517822148643
+1,TugTgBQ9UX4JGyO2XRDOvQ,Downtown Fruit Passion,OH,Lancaster,43130,8.0,5.0,207 W Main St,acaibowls icecream bubbletea,39.7139818,-82.6049053
+6,4lSrF9sk2r0y0TTHEax8BQ,The Brewed Leaf,OH,Columbus,43214,103.0,4.5,809 Bethel Rd,bubbletea tea,40.06066,-83.041581
+19,p_2pHjS9NkLKmNKHBYDXgg,OH-YO! Frozen Yogurt,OH,Grove City,43123,15.0,4.5,4226 Buckeye Pkwy,icecream desserts,39.87381,-83.03806
+27,VZKYJmrk8lEplFShYMFCHA,The Garden Bar,OH,Grove City,43123,26.0,4.5,3989 Broadway,sandwiches coffee juicebars,39.88281,-83.09336
+30,xv3N5G7YssMo4snVPR3gOw,Wali Dessert,OH,Columbus,43220,66.0,4.0,1440 Bethel Rd,icecream desserts bubbletea,40.06404,-83.05814
+31,dCAMmTewdOpMYhvFbF-HFQ,Light Bulb Asian Cafe,OH,Upper Arlington,43221,80.0,3.5,3110 Kingsdale Ctr,chinese asianfusion bubbletea,40.0217839,-83.0602128
+36,JWQBKsXK32g6o4Gto5IpHQ,Siam Hibachi,OH,Grove City,43123,113.0,4.5,2257 Stringtown Rd,steak thai japanese,39.878,-83.06318
+37,Okf2Qd9wVqpTN-aFScqbXw,Jiu Thai Asian Cafe,OH,Columbus,43214,320.0,4.5,787 Bethel Rd,chinese,40.0621574870438,-83.0411403558197
+41,IhWYUSneSZnjWqWJnljI4g,Chicken & Tea,OH,Columbus,43202,22.0,5.0,2781 Olentangy River Rd,taiwanese foodtrucks,40.01779,-83.0239063
+42,kYXYomzV1KQ4HD3XNUCFxw,Freeze Style Ice Cream,OH,Upper Arlington,43221,38.0,4.5,1731 W Lane Ave,juicebars icecream bubbletea,40.0071192,-83.0563326
+0,Op0fihvkJg2z9Kjx-aavXQ,Coco Hot Pot,OH,Columbus,43214,45.0,4.0,743 Bethel Rd,chinese seafood hotpot,40.06221,-83.04063
+4,n-yw1FfAnXZzL3Uce7DodQ,Tai's Asian Bistro,OH,Columbus,43221,462.0,4.0,1285 W Lane Ave,chinese sushi japanese,40.0068322,-83.0445495
+6,vXgNswX8dt6uaE8XfFPAEg,Pho Asian Noodle House & Grill,OH,Columbus,43221,370.0,3.5,1288 W Lane Ave,vietnamese noodles thai,40.007486,-83.045727
+8,tXxgA22d-tI2yatTq_zmFA,Ding Ho Restaurant,OH,Columbus,43228,115.0,3.0,120 Phillipi Rd,chinese,39.9553984097143,-83.1100720026636
+9,L0Aom4TO5-jGN0fOYplGzA,Orange Leaf Frozen Yogurt,OH,Columbus,43221,80.0,4.0,3130 Kingsdale Ctr,icecream desserts diyfood,40.0210460739933,-83.0592559635696
+13,k7VuAp0zAgoIKid1YNTrBA,Buckeye Pho,OH,Columbus,43214,507.0,4.0,761 Bethel Rd,vietnamese,40.0630229,-83.0404126
+2,FbQq_L8NldKmhFNlP6HYdQ,Hippie Shack Shaved Ice,OH,Dover,44622,1.0,5.0,117 East Front St,shavedice foodtrucks,40.52139,-81.4736
+1,EqZ20xBprS7Tlo-f1FiCHg,Boba Bowl,OH,Wooster,44691,2.0,4.0,127 W Liberty St,bubbletea acaibowls,40.79824402627569,-81.94259655350469
+17,43N_MTGbIcTmYp7PumTfVg,Thai Lanna & Sushi Bar,OH,Canton,44718,78.0,4.0,7257 Fulton Dr NW,sushi thai wine_bars,40.8616695976379,-81.4834962336423
+24,JcEpwUbVNq_jUmTYNpsjGw,Doughy Paws Pizzeria,OH,Massillon,44646,12.0,3.5,7232 Portage St NW,pizza,40.87886,-81.48392
+0,rn0qg945rkUMTrSKDsxMTw,Tropical Sno Whipple Hut,OH,Canton,44708,6.0,4.0,1522 Whipple Ave NW,shavedice,40.8146335,-81.4240652
+1,trmxJmUZC4uLObtBzW3bYw,T Bubbles,OH,Uniontown,44685,15.0,4.5,3700 Massillon Rd,bubbletea juicebars coffee,40.9603990122055,-81.4666630577235
+4,0fEjvloDok4X-YDCNvUG3A,Thai Pattaya Restaurant,OH,Akron,44319,82.0,4.0,497 Portage Lake Dr,bubbletea thai soup,40.9961446739875,-81.5356075018644
+12,FcnDOZkDwYG1Mi9vu6mMXw,Taste of Bangkok,OH,Akron,44304,98.0,3.5,514 E Exchange St,thai sushi asianfusion,41.0707698586469,-81.5051013976336
+16,070YKMZrXbnjOsCHL2M8ZQ,Mid-East Cafe & Restaurant,OH,Akron,44304,5.0,5.0,306 E Exchange St,mideastern,41.072501,-81.512403
+1,W_6BiwiEVlFSAHQBJcBgTA,Shaved Ice,OH,Troy,45373,1.0,4.0,15 S Dorset Rd,shavedice,40.0494408039549,-84.2265922483784
+4,_Ih-vRzATcbAWmLGCl_ZEw,Rita's Italian Ice,OH,Kettering,45440,28.0,4.0,3371 East Stroop Rd,icecream shavedice,39.69663,-84.10655
+7,j-vdtKxQizu0QZS47Ff2Iw,Duckys Snowballs And Ice Cream,OH,Troy,45373,23.0,4.5,100 W Market St,shavedice icecream,40.03169,-84.21046
+21,EhoCpHUxbmPDDJJgPsy8tQ,Jitterz Coffee Company,OH,Kenton,43326,8.0,4.0,23 N Detroit St,coffee shavedice juicebars,40.6480407714844,-83.6095275878906
+0,eGTKqH_RzBFT0NukRHDvyQ,Blossom Juicy Bar,OH,Dayton,45409,68.0,4.5,2801 S Dixie Dr,bubbletea juicebars,39.712801,-84.20119
+1,9MdIWvCdHPMC-bkyTVo9qw,Yumi Boba Tea,OH,Dayton,45431,32.0,5.0,170 Woodman Dr,bubbletea juicebars sandwiches,39.766916,-84.121115
+6,6rnuBEL2WbHDyGGo8XR84A,Blossom Juicy Bar,OH,Kettering,45440,4.0,4.5,5537 Bigger Rd,bubbletea,39.6617904,-84.1281205
+7,waZ5VQ9oo5QoISZ0qqYLCw,Billie Gold Bubble Tea,OH,Dayton,45377,15.0,4.5,,foodtrucks desserts bubbletea,39.89017,-84.19704
+13,ej8wodEYQKxfmQlhgynP8Q,Blossom Juicy Bar,OH,Centerville,45440,12.0,4.5,5537 Bigger Rd,bubbletea creperies,39.6617906,-84.1281002
+15,BfE8IdJGsywKKOsp6s1KMQ,Time 4 Noodle,OH,Dayton,45424,71.0,4.5,4622 Brandt Pike,thai noodles bubbletea,39.8197965,-84.1263481
+16,jaotimpxrdgdVzEH7yTf-A,Sweet Tooth - Springboro,OH,Springboro,45066,16.0,4.0,75 N Main St,desserts bubbletea juicebars,39.55871106417034,-84.23361177848561
+17,H10I7yVEBLsJsix39ynHEQ,Pumpkin Bubble Tea,OH,Circleville,43113,2.0,5.0,,foodtrucks bubbletea icecream,39.6026358136965,-82.9473690535819
+19,i_0waQZHn-gvb0SKhJYRPQ,Wat da Pho,OH,Beavercreek,45431,226.0,4.5,3464 Pentagon Blvd,vietnamese noodles soup,39.772329,-84.060129
+22,9FVGI2KP9qXUfHe2OiSxlA,Pho District,OH,Beavercreek,45440,57.0,4.0,4474 Glengarry Dr,vietnamese,39.69379,-84.10351
+31,WKBHBgDRn1mBSD8Hnl44XA,Ginger and Spice Asian Bistro,OH,Dayton,45409,167.0,4.5,1105 Brown St,chinese asianfusion,39.7434227,-84.1827831
+34,5Kl6Vwhx2YydK9EZEwFUgA,Tokyo Grill & Sushi Buffet,OH,Washington township,45459,73.0,4.5,1061 Miamisburg Centerville Rd,japanese bubbletea sushi,39.62915567,-84.18927
+36,3F0xcIZiWGt1EvD910gKsw,Thai Kitchen,OH,Dayton,45458,98.0,4.0,8971 Kingsridge Dr,thai sushi bubbletea,39.63096502204013,-84.22375091667175
+38,qyG9vY9DxnPtaT_hyJOswg,Tik's Thai Express,OH,Fairborn,45324,150.0,4.0,2808 Colonel Glenn Hwy,thai,39.7780304,-84.0594563
+39,dqEer7pGTD5rEMBbcqSEdA,Pho Mi,OH,Dayton,45458,167.0,3.5,8990 Kingsridge Dr,vietnamese,39.63001,-84.22442
+40,EWxSenxBsfQYJWxpxLWhXQ,Kung Fu Noodle,OH,Dayton,45409,128.0,4.5,2801 S Dixie Dr,chinese noodles bbq,39.7125,-84.20062
+47,b-BM3oqpyXFokzPGFcqcxA,Thai Silver Spoon,OH,Springboro,45066,112.0,4.0,249 W Central Ave,thai,39.558624,-84.239988
+2,iBAnxSC95u2swOKQTn3JAQ,Nida Thai Cuisine,OH,Centerville,45459,63.0,4.0,853 E Franklin St,thai asianfusion,39.62908,-84.14318
+5,lbEiByUExoVyw5e8tBEX9Q,Sima,OH,Dayton,45420,132.0,4.0,1771 Woodman Dr,japanese korean,39.7239303588867,-84.1231155395508
+7,bgLarEC_Vj6uVItHRLsmpw,New China,OH,Dayton,45410,25.0,3.5,2921 Linden Ave,chinese,39.7485122680664,-84.1404266357422
+18,wx_5KGa-uWyEDPpnlSq_eg,Thai Table,OH,Dayton,45429,38.0,4.5,5841 Far Hills Ave,thai sushi,39.66090811716711,-84.15969656971603
+23,1N_EBT501AssLM57qrz_Hg,Massaman Thai Cuisine,OH,Dayton,45419,40.0,4.0,467 Patternson Rd,thai sushi,39.725026,-84.161374
+32,1fDy1XKuKk3tUtLOPqsc9w,Blueberry Cafe,OH,Bellbrook,45305,204.0,4.0,72 Bellbrook Plz,breakfast_brunch desserts,39.636978,-84.073382
+19,liLun8y8VYrx6cl361sOPw,Millions Of Milk Tea,OH,Monroe,45050,37.0,3.5,834 Premium Outlets Dr,bubbletea juicebars icecream,39.4343095218588,-84.33709382082
+47,4XG_aJ_6jb6JbMgcXY4kYA,Mae Ploy's Thai Restaurant,OH,Lebanon,45036,151.0,4.5,11 S Broadway St,thai bars sushi,39.43415,-84.20877
+4,pJ-Ms0T0TbdJDnAS_VX-pQ,Numprik Thai Lao,OH,Monroe,45050,112.0,4.5,214 S Main St,thai,39.4411847551994,-84.3622900173068
+4,HmKBPll3E8yL3sOFiVVLnw,High Five Cakes,OH,Chillicothe,45601,13.0,5.0,81 N Paint St,desserts cakeshop bakeries,39.33517,-82.98221
+10,q8l2Qr-hvVPpjEQj9MWv5w,Yummy House,OH,Athens,45701,1.0,4.0,1002 E State St,asianfusion seafood bubbletea,39.3371869,-82.05671749999999
+26,2PegFd87CdWnKjSE-e04Hg,Coffee Pot,OH,Greenville,45331,32.0,4.5,537 S Broadway,coffee breakfast_brunch bakeries,40.10028,-84.63034
+3,aHAFvAM7rCTcAMJm5oY_vQ,Drop In Tea,OH,Oxford,45056,9.0,5.0,5 S Beech St,bubbletea,39.510243,-84.743846
+7,SvdJnV1u91LJW7BLtAlgfA,Aqua Tea,OH,Oxford,45056,1.0,5.0,33w High St,bubbletea desserts juicebars,39.510341,-84.743626
+23,F34PYfxme_59_XQ8dqv4kA,Brick House Cafe,OH,Oxford,45056,7.0,4.0,11 W Church St,bubbletea sushi cafes,39.511339,-84.743026
+24,MegaUb1QJ8jl0F35m-0M6w,Phan-Shin Chinese & Thai Restaurant,OH,Oxford,45056,49.0,3.5,104 W High St,chinese thai,39.5107574462891,-84.7444534301758
+14,g5A44d481HXpKpX4GmK-pg,Boba Hut,OH,Gallipolis,45631,3.0,3.5,161 Upper River Rd,coffee bubbletea pretzels,38.82823,-82.16452
+4,MoYS5hbNPa1Mm6xyy-mQug,Paradise Ice,OH,Milford,45150,26.0,5.0,1313 State Rt 131,shavedice,39.17497,-84.22057
+6,PxiEaUJgjyh8e7JRt8_BaQ,12 Degrees Italian Ice,OH,Maineville,45039,21.0,5.0,34 Grandin Rd,desserts icecream,39.3469248259205,-84.2193656611758
+0,txg2f-wW4cskyioQ_FXuoA,Sno Biz,WV,Parkersburg,26101,2.0,4.0,230 Park Center Dr,shavedice,39.2853128664448,-81.5507459878939
+3,kbJTVG-JLf8UZm0T4qlgLA,Jeremiah’s Coffee House,OH,Marietta,45750,40.0,4.0,175 Front St,coffee breakfast_brunch gluten_free,39.41204,-81.45371
+2,aFN715Cwdp4sOCztc00l3w,Hawaiian Shave Ice Trailside,OH,Loveland,45140,12.0,5.0,230 Railroad Ave,shavedice,39.2696151733398,-84.257194519043
+6,DPdFl_exuIJkoz9PmR9CVg,Hawaiian Five-OH,OH,West Chester,45069,1.0,5.0,6855 Tylersville Rd,foodtrucks shavedice,39.357117,-84.396227
+12,ouyWLDCfrR64UY7KWHuaaA,The Cone,OH,West Chester,45069,116.0,4.5,6855 Tylersville Rd,icecream desserts shavedice,39.357151367254474,-84.3962730846868
+19,ZgUDIKt1wPSRrreoHV2-Cw,Dolsot Bistro,OH,Mason,45040,125.0,4.5,7876 Mason Montgomery Rd,korean,39.324695,-84.311496
+27,fjg6ZzHdFrILIaG9CPU7Gg,Snowie Shaved Ice,OH,Cincinnati,45255,3.0,4.5,Cherry Grove Plz,shavedice,39.0740677,-84.3111687
+28,GToOtta-8hFM5ReV5R5ypg,Snowie,OH,Cincinnati,45255,1.0,5.0,,shavedice foodstands,39.07273,-84.33642
+29,HKyJvIjLATxvZFPaiGlzpA,Cinci Ice,OH,Milford,45150,1.0,5.0,837 US-50,shavedice,39.163836,-84.259327
+30,C-PcdiqjbMrS1Szg5YE3ew,Paris Banh Mi Cafe & Bakery,OH,West Chester,45069,36.0,4.5,7659 Tylersville Rd,bakeries coffee desserts,39.35318992706297,-84.36899989843369
+2,v-TMELux174RuMKPC9_eoA,Milk Jar Mason,OH,Mason,45040,6.0,4.5,5057 Deerfield Blvd,bubbletea icecream coffee,39.307055039191695,-84.31577754319733
+4,yQ1rq33y_zDyd5Hjhw1L9A,Milk Jar Station,OH,West Chester,45069,37.0,5.0,7743 D Tylerville Rd,bubbletea,39.351997,-84.367034
+21,e6K4GYiyDvFtGR6ahi90Ag,Kung Fu Tea,OH,Mason,45040,11.0,3.5,7892 Mason-Montgomery Rd #15,bubbletea coffee juicebars,39.3246334,-84.3121248
+26,vbHdNHxHlGOS0_cumGnw_w,Bread House Bakery,OH,Sharonville,45241,83.0,4.5,11974 Lebanon Rd,bubbletea bakeries,39.2933283685367,-84.3931491531164
+28,niFQcQRGvhsU17QCeOXxnw,Boba Tea Time,OH,Milford,45150,6.0,4.5,205 Main St,bubbletea coffee juicebars,39.17409563463792,-84.295948
+31,Nf67iVqAWr4iC50dUCLqNw,Boba House,OH,Milford,45150,2.0,5.0,501 Chamber Dr,bubbletea fooddeliveryservices,39.15769,-84.27531
+32,VXZPRbwAo5P9RKa9pYEz9A,iPho Vietnamese Cuisine,OH,Cincinnati,45249,130.0,4.0,11929 Montgomery Rd,bubbletea vietnamese noodles,39.28735,-84.30809
+35,qke3cL0PShBrJHyL4BDEsg,Kung Fu Tea,OH,Cincinnati,45236,54.0,3.5,7875 Montgomery Rd,bubbletea coffee juicebars,39.202336,-84.377147
+48,JEykkK5YCLqMdwoTGiLYEA,Noodle & Hot Pot,OH,Cincinnati,45249,92.0,4.5,4750 Fields Ertel Rd,noodles hotpot,39.2926549,-84.3115951
+5,KtW0iY0A6KRscfn745oLXQ,Queens Bakery,OH,Cincinnati,45249,26.0,4.0,4770 Fields Ertel Rd,cafes bubbletea customcakes,39.293682,-84.311375
+7,qtw77cSvDlAxtGkKr147zQ,Pho 96,OH,West Chester,45069,188.0,4.0,7844 Kingland Dr,vietnamese,39.351968,-84.36793
+10,-QbzMXb8F3wC5sG1ArMU9w,Rokaru Ramen,OH,Blue Ash,45242,47.0,4.5,9405 Kenwood Rd,noodles ramen chicken_wings,39.227491597189506,-84.37806045448657
+17,P09H2rRxGtlIXwaFIdxLsg,Tasty Pot,OH,Cincinnati,45241,70.0,4.5,12075 Lebanon Rd,hotpot taiwanese bubbletea,39.293585,-84.394145
+28,YSTacCSB_XYt0Tx6ifUm_g,Bangkok St,OH,Cincinnati,45236,88.0,4.0,7687 Montgomery Rd,thai,39.19691,-84.38693
+37,QdZPQTXFO90ZgioTxEJn_g,Pho Kimmy,OH,Sharonville,45241,292.0,4.0,11974 Lebanon Rd,vietnamese bubbletea,39.2933594576508,-84.3929819082056
+48,gYu5dcurNncsSaqLBiobAg,Thai Terrace,OH,Mason,45040,22.0,4.0,101 E Main St,thai,39.360184,-84.308851
+10,GhY4bchjjjjY8z2VzTgReQ,Hallowbeans Coffee House,WV,Ripley,25271,2.0,4.5,516 1/2 W Main St,coffee bubbletea juicebars,38.81875,-81.717973
+6,ZQbNG0qaBifqlVoukSOCQQ,George House Coffee & Tea,OH,Findlay,45840,43.0,4.5,1041 N Main St,coffee,41.0543469589541,-83.649713
+0,jK-tUjFk6bocdzNKt4odDg,The Sundae Station,OH,Bowling Green,43402,12.0,4.5,1240 W Wooster St,icecream sandwiches shavedice,41.37289,-83.6743
+1,2roPz-9b0Qh8k4HKu0TIJQ,Drown's Dairy,OH,Oak Harbor,43449,2.0,3.5,114 E Water St,streetvendors shavedice icecream,41.5079613,-83.1444473
+3,P4BF73tXBpRLdk9TqJMXQg,Kona Ice of Sandusky,OH,Castalia,44824,1.0,4.0,,shavedice foodtrucks,41.39988,-82.80846
+4,0IS9ptTWVONNXf4QMa5eGw,The Original Margaritaville,OH,Sandusky,44870,106.0,3.0,212 Fremont Ave,desserts cocktailbars bbq,41.4449417135534,-82.7706030904669
+1,Sp8_BNZQzWkQOvZ5CzApvg,Boom Town Coffee,OH,Sandusky,44870,19.0,4.5,217 E Water St,coffee,41.4581604003906,-82.7102890014648
+2,2OCyIESpueqk1kd10bxl6w,Lola's,OH,Perrysburg,43551,29.0,4.0,26597 Dixie Hwy,icecream bubbletea,41.537519,-83.637384
+3,Jpb4RPD_oPcyVKIkzQ-IVg,R Coffee Corner,OH,Port Clinton,43452,27.0,4.5,3848 E Harbor Light Landing Dr,bakeries cafes,41.511233,-82.85816
+4,_7kbsuJJv2LuBX49Po72lg,Balance Pan-Asian Grille,OH,Perrysburg,43551,38.0,4.0,26520 N Dixie Hwy,panasian,41.5371551513672,-83.6346282958984
+5,I7qdtosMDG81ST8fuMceRA,Shokudo Kitchen,OH,Perrysburg,43551,22.0,4.0,27072 Carronade Dr,asianfusion bubbletea gluten_free,41.5442752341495,-83.59910534928116
+6,VGKl623TJt3f06R294BDvQ,Lola's Frozen Yogurt,OH,Bowling Green,43402,12.0,3.5,183 S Main St,icecream bubbletea,41.388737,-83.653048
+7,7b8-iE7oBK7mLKgVU7IDFA,Yala Kol Express - Rossford,OH,Perrysburg,43551,39.0,4.5,27151 Crossroads Pkwy,mediterranean juicebars tradamerican,41.5460652391652,-83.5853495353486
+9,X884Uy8LhuQ9fwVLTIgXyA,Cabin Fever Coffee,OH,Defiance,43512,1.0,5.0,1882 S Jefferson Ave,coffee bubbletea cakeshop,41.261535,-84.362391
+1,kaYsAuT0jw6yd7DRBk7e5A,R&B Bubble Tea and Poke Bowl,OH,Toledo,43607,31.0,4.0,3402 Dorr St,karaoke bubbletea poke,41.65332,-83.62434
+3,EZQJffBkV1r7NcT6OmtrLg,Krazy Philly’s & Mustache Mike’s,OH,Toledo,43607,5.0,3.0,1122 N Byrne Rd,shavedice cheesesteaks,41.65159,-83.62553
+3,7iPwS5_CVK4DX605R4ZxKQ,Kung Fu Tea,OH,Toledo,43623,7.0,4.0,4038 Talmadge Rd,bubbletea coffee juicebars,41.69227046398422,-83.64401150402098
+6,Mf0a6OyBKcz82V15sW4XIw,Poke Yogurt,OH,Toledo,43606,10.0,4.5,3550 Executive Pkwy,bubbletea icecream,41.68235,-83.6244
+8,RpM0G1xwO3MAhd8xgyg4nA,Balance Pan-Asian Grille,OH,Toledo,43615,123.0,3.5,5860 W Central Ave,panasian tacos,41.6764918340607,-83.6825501281237
+9,JPNUUvZK1fInp3oM-Kqsxg,Pho Viet Nam,OH,Toledo,43613,155.0,4.0,3636 Upton Ave,vietnamese soup,41.68639,-83.58902
+10,QBx33Hbzj_lQ2w81GU2c_g,Kay's Table,OH,Sylvania,43560,20.0,4.5,6600 Sylvania Ave,vietnamese,41.69057,-83.70246
+11,3dVS8JL498zlUYVXuYBVvA,Rice Blvd,OH,Toledo,43607,142.0,4.5,1440 Secor Rd,sushi japanese,41.65394,-83.62146
+12,j07T-6J0EJcmSsjKcglDFA,Osaka Sushi,OH,Oregon,43616,41.0,3.5,3150 Navarre Ave,sushi japanese,41.6363110136539,-83.4734327426234
+13,7IKD1UVqR4DkWvMVUw6FNA,Totally Tea,OH,Toledo,43623,2.0,1.5,5001 Monroe St,bubbletea,41.69457765975056,-83.64014047790927
+14,oWExdAJac4r0K0uKuGiLNQ,Balance Pan-Asian Grille,OH,Toledo,43604,19.0,4.5,215 N Summit St,asianfusion panasian,41.64989,-83.53492
+15,_P5kOMYRQwW7DB_hAdOAJQ,Tropical Grill,OH,Toledo,43623,6.0,3.5,5001 Monroe St,newamerican,41.693412,-83.640408
+5,OB2fbLZFcgYdJyytTT-Rtw,The Purple Penguin,MI,Lambertville,48144,7.0,4.5,7300 Secor Rd,juicebars bubbletea icecream,41.746393,-83.623826
+16,fmah3edBhv4SrCHuamnVZw,Roy's Dixie Delight,MI,Erie,48133,4.0,4.5,10916 S Dixie Hwy,burgers icecream pizza,41.817345,-83.483206
+18,KIdR05wQGpKWcQ89wkhLIg,Dacapo Coffee,MI,Temperance,48182,43.0,4.5,7370 Lewis Ave,coffee bakeries,41.7500727,-83.5671503
+10,4vrhcd3kJlxttLIC0ZqUGg,Bingo Chinese Restaurant,OH,Oberlin,44074,11.0,4.5,9 S Main St,chinese,41.291518,-82.217033
+4,Pa8JA_5mT_tg03uPE5_Emg,Bubblz Bubble Tea & more,MI,Blissfield,49228,4.0,4.5,417 E Adrian St,bubbletea icecream juicebars,41.8296043,-83.8535356
+13,cdjLSS4Gi9BVgwFEI0X_oA,Cool Beanz Coffee,MI,Dundee,48131,23.0,4.0,112 Park Pl,coffee bubbletea,41.95711,-83.66097
+3,6bI31ExV1CGYoy4TGHonnQ,One Bowl Asian Cuisine,MI,Ann Arbor,48104,173.0,3.5,1220 S University Ave,vietnamese korean chinese,42.274783,-83.7333166
+4,v19u4Om7Nhk5CrIHA_RqTw,Sweeting,MI,Ann Arbor,48104,126.0,3.5,1205 S University Ave,desserts bubbletea,42.275191,-83.7338832
+6,iMplEd06RGmjBTR1LWqW0A,Kona Ice of Western Wayne County/Ann Arbor,MI,Canton,48188,1.0,4.0,,shavedice,42.2926445007324,-83.4745712280273
+9,pA8qeKTtM5NpIb0-4LMzuA,Ginger Deli,MI,Ann Arbor,48104,154.0,4.0,203 E Liberty St,delis sandwiches vietnamese,42.2793085395298,-83.7438063
+0,nNRyj_A2P1RfVXvyZa81Vw,808 Shave Ice,OH,Avon,44011,7.0,4.5,35669 Detroit Rd,icecream bubbletea juicebars,41.457423,-82.01385
+2,gGWKzTh7Yp72UWmej0XCsA,Sugar Marmalade,ON,Windsor,N9B 1J7,8.0,4.0,2020 Wyandotte St W,desserts,42.30645,-83.05945
+7,wDQIgskhIMUZt61h1xhj4w,The Takeout Box,MI,Canton,48187,86.0,4.5,39958 Ford Rd,asianfusion,42.3239016550786,-83.4347385540605
+9,72xbLJ08oqKf4lT4_GI6DQ,Tacos Morelotes,MI,Detroit,48209,1.0,4.0,1823-1865 Lansing St,shavedice streetvendors,42.3194389,-83.0986481
+3,iOF6UQ3npa9cUMiHNJHrnQ,BAMBU,MI,Canton,48187,57.0,4.5,45152 Ford Rd,juicebars bubbletea vietnamese,42.322771,-83.485632
+4,JfJfktbgk4IsHL4divBxrA,Yogurtown Cafe,MI,Wyandotte,48192,1.0,5.0,2958 Biddle Ave,icecream coffee bubbletea,42.203543,-83.149525
+6,y_XgEFFNxEf6gduPj4LrgA,Poke Doo,MI,Garden City,48135,6.0,5.0,2051 Middlebelt Rd,poke bubbletea,42.32403,-83.33148
+10,cZhlNU5yA2gV39xI5hulwA,Bubble Tea Express,ON,Windsor,N9A 4J1,8.0,3.5,359 Ouellette Avenue,coffee,42.31657,-83.03878
+11,T208-yl-OdUFFJgFCy8S3A,Ding Tea Canton,MI,Canton,48187,42.0,4.0,42743 Ford Rd,bubbletea,42.32136747807386,-83.4628004117289
+12,Gkrb-pJnCUPD5xTwmiN7PA,Yophoria Froyo & More,ON,Windsor,N9H 1S7,1.0,5.0,5975 Malden Road,icecream bubbletea juicebars,42.2443847263,-83.0621333639
+13,9s_hOPk__FHZ7byWKPhizg,CITY TEA BOBA,MI,Garden City,48135,7.0,4.0,861 Inkster Rd,bubbletea juicebars,42.3166819,-83.3112293
+15,hDgMlrRqFI4_u54x3NQR0g,Bubbleology,MI,Dearborn,48124,18.0,3.5,22259 Michigan Ave,bubbletea,42.304859,-83.2491563
+16,uyTVtHxUsNoJRrnTtVOE6A,Crepe Escape,MI,Canton,48187,4.0,5.0,145 N Haggerty Rd,creperies icecream bubbletea,42.3088083,-83.4484249
+17,tRu8ebT5VCFK_P4BaCB4MA,Fresh Bean Coffee,MI,Southgate,48195,20.0,4.5,18855 Eureka Rd,coffee,42.19836,-83.224658
+18,OixEmhb_q-VWvkHp4DIz2Q,Boba Bar,MI,Dearborn,48124,1.0,5.0,21931 Michigan Ave,bubbletea,42.306064,-83.243541
+19,ueCpRL9ZphsqWwE5GQZYpA,Presotea,ON,Windsor,N9B 1K1,14.0,4.0,2195 Wyandotte St W,bubbletea,42.30555,-83.06071
+20,TB2yXJlEJyx22UTUqLMaYg,Chatime,ON,Windsor,N8X 5E7,2.0,4.0,650 Division Road,bubbletea,42.2696082,-82.9975268
+21,8Z9E7Ag3F36FO_dT_095JA,BB's Smoothies & Wraps,MI,Taylor,48180,2.0,3.0,23000 Eureka Rd,juicebars bubbletea icecream,42.200443,-83.254386
+23,8xCUekEEc-PKoa4FkUqO9Q,Kung Fu Tea,MI,Canton,48187,22.0,2.0,45470 Ford Rd,bubbletea coffee juicebars,42.322563,-83.488529
+26,JHtxvPm0XFAeGJ1OdviCrA,Thai Chili,OH,Lake,44012,114.0,4.0,32730 Walker Rd D3 Avon,thai,41.4936085529925,-82.0171231533805
+27,glcP8iuoRD5IeBFiN_8SHA,Ume Asian Cuisine,MI,Grosse Ile Township,48138,37.0,4.5,9105 Macomb St,sushi asianfusion bubbletea,42.130219,-83.15813
+28,X6l6TnP_mqSVNRFfQ6OYxw,Bamboo Garden Restaurant,MI,Westland,48186,67.0,4.0,124 S Merriman Rd,chinese sushi seafood,42.310146662715745,-83.35200524317182
+29,hgO_IOLjvPKp01VsKP1THg,Cafe Teaory,ON,Windsor,N9B 1J8,4.0,5.0,2065 Wyandotte Street W,bubbletea icecream coffee,42.30592,-83.05952
+30,CRldz-NJAQuxajiB1iUwWQ,Yum Yum Express,MI,Lincoln Park,48146,78.0,3.0,1512 Southfield Rd,thai chinese,42.25204,-83.18181
+32,sYI0hCpHX4TQkbgSKG9LzQ,PhoHouse TAYLOR,MI,Taylor,48180,64.0,3.5,23370 Eureka Rd,vietnamese noodles ramen,42.1984754,-83.2592101
+33,NhkUMPzpL8S6a0kiL5hTnw,Tea Station,ON,Windsor,N9B 1J8,2.0,5.0,2017 Wyandotte Street W,bubbletea hotdogs taiwanese,42.3061415,-83.0592214
+34,XSB84kfbthzlNLbofFYXkg,Hop Sheing Noodle House,MI,Lincoln Park,48146,106.0,3.5,4232 Fort St,noodles bubbletea soup,42.221502,-83.181704
+35,G1DSdyFv5GPt_-GylnM9xA,Spicy Bangkok Cafe,MI,Allen Park,48101,28.0,4.5,23117  Outer Dr,thai,42.2795646823738,-83.2122235000133
+36,4nevXgYvLRn_dNCwfUEDQA,Jee's Top 5 Thai Food,MI,Wyandotte,48192,119.0,4.5,3391 Fort St,thai,42.1982312464154,-83.1798202791076
+39,cjik70L-AZtH7cwcxeRYyg,Bangkok Flavor 2,MI,Canton,48187,126.0,4.0,42480 Cherry Hill Rd,thai,42.3080669044912,-83.4589649364352
+40,cVqtIOgBM7NPuK0IQGloaQ,Flowers of Vietnam,MI,Detroit,48209,228.0,4.0,4440 W Vernor Hwy,vietnamese,42.32025,-83.096543
+41,i39_anIKX8XnmW24leGSSA,Poke Poke - Sushi Unrolled dearborn,MI,Dearborn,48124,30.0,4.5,21931 Michigan Ave,poke sushi,42.306191,-83.2434494
+42,fbDbeA1E3YmpSxdGnFSDow,K-BBQ,MI,Canton,48187,80.0,4.5,5758 N Canton Ctr Rd,korean bbq chicken_wings,42.32385,-83.48733
+45,CSy3DjYLVoSzMVdz7KMosA,Shawarma Lounge,MI,Southgate,48195,5.0,4.5,13501 Allen Rd,mideastern arabian falafel,42.21022,-83.22867
+48,Gt-84wERAxgvDB8A4FJprQ,Q-Tea Asian Food & Bubble Tea,ON,Windsor,N9C 1A9,6.0,3.0,3211 Sandwich Street,bubbletea asianfusion,42.3015094,-83.0757284
+0,GEyIXeBKrWjRDm_1goPA0Q,Golden Chopsticks,MI,Westland,48185,96.0,3.5,1989 Wayne Rd,chinese sushi,42.3229286760233,-83.3898603450837
+1,bx2nXydRCWI3LaQt_C2l7w,Cameo Restaurant,MI,Lincoln Park,48146,30.0,3.5,4101 Dix Hwy,newamerican,42.2234116,-83.1937332
+2,lMPfMj4BRBfwh4XkPwUQ1Q,Pacific East,OH,Westlake,44145,42.0,4.5,186 Union St,bubbletea ramen,41.461284,-81.9521618
+7,oBX1gy7oj6w6W3VocRQaGw,Thai Spice,OH,Westlake,44145,234.0,4.0,25099 Center Ridge Rd,vietnamese thai,41.4567353,-81.8983832
+0,Ji5_-TOA97r9j1dnfZfjJA,Hang 10 Tropical Ice,IN,Auburn,46706,6.0,5.0,112 N Main St,desserts,41.36721,-85.05575
+1,3Z8VKer0LNdxgbcckRopsg,Summer Sno,IN,Fort Wayne,46805,1.0,5.0,2426 Crescent Ave,shavedice icecream,41.09833944003777,-85.1221472905582
+2,3A9GcB8C_-G7NXY1pnaByw,Sno Balls Hawaiian Shaved Ice,IN,Fort Wayne,46835,4.0,4.0,4530 Maplecrest Rd,shavedice hawaiian,41.1224273924952,-85.0612922153431
+0,ZqUIAz6MfptoUe3sUTuJSQ,Kommon Kravings,OH,Montpelier,43543,2.0,5.0,217 West Main St,coffee icecream bubbletea,41.5866066547458,-84.609517701835
+1,IadfP7xWELst553KlSrzOw,Serendipity The Brew,MI,Marshall,49068,2.0,5.0,108 W Michigan Ave,coffee giftshops bubbletea,42.27232,-84.95921
+2,lByOWfVZSET7Z1EZY9B9OQ,Numazu Delights,MI,Adrian,49221,4.0,5.0,410 E Maumee St,japanese sushi,41.89672638425715,-84.0304170822088
+3,P7BzfRrRilwV2RItbMLBzQ,Bubble Bee,IN,Fort Wayne,46805,7.0,4.0,4201 Coldwater Rd,bubbletea waffles coffee,41.11529,-85.138894
+5,fas4vdR0Mx31Fl5cyhEAAQ,BAMBU,IN,Fort Wayne,46825,27.0,4.5,8812 Coldwater Rd,juicebars bubbletea vietnamese,41.160858,-85.134338
+6,V4gPB3aTUoqtFMlPcj8Fdg,Chatime,MI,Ann Arbor,48104,90.0,4.0,340 Maynard St,bubbletea,42.27807,-83.74241
+7,ChKoROerfAG4Xc_L-Jmz6A,Sharetea,MI,Ann Arbor,48104,31.0,4.5,310 S State St,coffee bubbletea,42.278934,-83.741135
+8,3-tLQyc0-pZfku7hP3ZfIw,Artisan Floral & Gift Boutique,OH,Bryan,43506,8.0,4.0,106 N Union St,florists coffee giftshops,41.4750242,-84.5359623
+11,yw9uTI4fTT8Vqj0dMoalkw,Quickly - Ann Arbor,MI,Ann Arbor,48326,33.0,4.5,1220 S University Ave,bubbletea juicebars cafes,42.27477,-83.73343
+12,ngv9BcPfCh7rgegv5EFMdw,Amanda Lee Coffee,IN,Fremont,46737,4.0,5.0,6245 N Old 27,coffee,41.734701708572125,-85.0027574
+14,liu31let08JB-lUzPSM7fA,Bambu,MI,Ann Arbor,48104,12.0,5.0,3354 Washtenaw Ave,bubbletea juicebars coffee,42.255501237345726,-83.69342449999999
+15,Elu_0UIDuH-GJcGOp_Z8qQ,Tea Ninja,MI,Ann Arbor,48104,48.0,4.0,535 E Liberty St,bubbletea desserts coffee,42.279492,-83.742054
+17,XuZ1wItEB9L-0uxdvT4uGg,Banh Mi Barista,IN,Fort Wayne,46825,224.0,4.5,5320 Coldwater Rd,hotdogs vietnamese sandwiches,41.128003,-85.1352
+18,djbOXlBEMswEzZyd64WGtQ,AA Poke,IN,Fort Wayne,46805,83.0,4.5,700 E Coliseum Blvd,japanese poke sushi,41.11795,-85.13082
+20,eA-DdKQ-64GJzH7F66fDLg,Kim Vu Vietnamese Cuisine,IN,Fort Wayne,46825,198.0,5.0,433 E Dupont Rd,vietnamese,41.1795952494246,-85.1376404301636
+21,xfa0AI7xFGtmKVOt-OuwUw,Banh Mi Pho Shop,IN,Fort Wayne,46802,115.0,4.5,1925 Fairfield Ave,vietnamese bubbletea sandwiches,41.06794,-85.1450799
+22,ReQWilpGeqwVaGzGmGo-mg,UniTea,MI,Ann Arbor,48104,19.0,4.5,522 E William St,bubbletea icecream coffee,42.27764,-83.74224
+23,Mfv5UxjNqgGpKe4SrDe0Sw,Yum Thai,IN,Fort Wayne,46815,68.0,4.0,6420 E State Blvd,thai,41.10076,-85.05842
+24,dzquB2ipoMgofyUNXE-oyw,Sweet Monster,IN,Fort Wayne,46818,51.0,3.5,6421 Lima Rd,icecream desserts bubbletea,41.138607858755236,-85.16255183204464
+25,5ffeitHh9MmVcAQ58uwWMQ,West Coast Grille,IN,Fort Wayne,46807,33.0,4.5,2310 S Calhoun,asianfusion,41.06382,-85.13834
+26,8E1nTNBmYDShoFmt-ZbK0w,Ding Tea,MI,Ann Arbor,48104,42.0,4.0,607 E William,bubbletea,42.2779964,-83.741632
+27,B11sPElV5xrmmNvDIZ4gog,Cup O' Joy Coffee Barn,OH,Edgerton,43517,1.0,5.0,108 W Vine St,bubbletea coffee donuts,41.4479995,-84.74904149999999
+28,oWgNjgVxvkcRm7rZsLXZJg,Pho-Shi,IN,Fort Wayne,46804,100.0,4.0,6735 W Jefferson Blvd,vietnamese sushi,41.0540145872763,-85.2276082030084
+29,VymucGkgNtz9byk9yt6Syg,Amanda Lee Coffee,OH,Sherwood,43556,1.0,5.0,9915 US-127,bubbletea coffee,41.29730562294388,-84.55298931657391
+30,7FdXz5vromd3sI4NsdXGPw,Pho Indy,IN,Fort Wayne,46825,65.0,4.5,4634 Coldwater Rd,vietnamese,41.12051,-85.13356
+31,LMw3vcUGCcbqdb-AVx7saQ,Vanilla Bean Cafe,MI,Ypsilanti,48197,3.0,2.5,2227 Ellsworth Rd,icecream creperies bubbletea,42.2304451,-83.6445998
+32,v1COowypRcErB4xlr8NQkw,Sweeting,MI,Ann Arbor,48108,4.0,3.5,854 Briarwood Cir,bubbletea desserts,42.240504,-83.745279
+33,CXfKQrY0y7wZBfhiLjCi4g,Dalat,MI,Ann Arbor,48103,86.0,4.0,2216 S Main St,asianfusion vietnamese,42.25269,-83.75121
+35,GHP8RiBewOHjwqSqopEYgA,The Grind Coffee House Of Garrett,IN,Garrett,29841,3.0,1.5,1308 S Randolph St,coffee bubbletea juicebars,41.33769933480318,-85.13519230280804
+36,-dqs12b9EeH_-1ihaE3bpw,Lan City Noodles,MI,Ypsilanti,48197,376.0,4.0,2612 Washtenaw Ave,noodles chinese singaporean,42.2495183,-83.6527657
+37,jKBT39NYzac7Yr4LeT8SYA,Yee Siang Dumplings,MI,Ann Arbor,48108,441.0,4.0,4837 Washtenaw Ave,chinese noodles,42.25103,-83.664197
+38,1m4ftmR0tbD3cY9w0L4cBw,Momo Sushi,MI,Ann Arbor,48103,164.0,4.5,895 W Eisenhower Pkwy,japanese sushi,42.24519215121,-83.7582424655557
+39,It5COGIQQivWM-Z9xfZFmQ,Pho House,MI,Ypsilanti,48197,246.0,3.5,2224 Washtenaw Rd,vietnamese,42.249049,-83.648394
+40,YJXWUCaO1wl3cqG6H-5e9w,TK Wu,MI,Ann Arbor,48104,242.0,3.5,510 E Liberty St,chinese,42.279125213623,-83.7425155639648
+42,KoGQMYU8xiSjwGh4V9PBVQ,Godaiko Japanese Restaurant,MI,Ann Arbor,48103,160.0,3.0,3115 Oak Valley Dr,japanese sushi,42.242396,-83.769698
+43,bVzPMxu6QtCMfSA6OY-F7w,China Palace,MI,Ypsilanti,48197,58.0,3.5,2905 Washtenaw Ave,buffets dimsum,42.249354019058,-83.6573679372668
+44,8ibyZ3pQ9K2fPkm3olRLsw,V Kitchen Vietnamese Cuisine,MI,Ann Arbor,48103,246.0,4.0,883 W Eisenhower Pkwy,vietnamese noodles sandwiches,42.244869132949866,-83.75888770649134
+45,LsILevbq-MfE4HO8o9KunQ,Tianchu Restaurant,MI,Ann Arbor,48104,159.0,2.0,613 E William St,korean chinese,42.2779731750488,-83.7411651611328
+46,v67PS7vxT5nFxe9tQ8mJyg,Lan City Noodle Bar,MI,Ann Arbor,48104,17.0,4.0,1235 S University Ave,noodles chinese bubbletea,42.27526503799302,-83.7333086990338
+47,oZFoTjiL78EB306hi6VfaA,Asian Legend,MI,Ann Arbor,48113,185.0,3.0,516 E William,taiwanese szechuan,42.2776831,-83.7423144
+48,wdFyiQJ2Hegy6F4JK5aifg,Surf City Squeeze,MI,Ann Arbor,48108,4.0,1.5,334 Briarwood Cir,juicebars,42.239646,-83.747298
+3,1hmsqdGbenA8xzGtSFYmeA,Apple Knockers Ice Cream Parlor,MI,Vicksburg,49097,16.0,4.5,220 W Prairie St,icecream burgers juicebars,42.1203472,-85.5326192
+4,ZujWk6XerPXygGcLetgS6g,Ohana Kalea Shave Ice,IN,Howe,46746,1.0,5.0,508 7th St,shavedice foodtrucks,41.72151679489452,-85.42397666012702
+1,rt0WQ7dDwG0OnKAFusv8Wg,CoCo Fresh Tea & Juice - Ann Arbor,MI,Ann Arbor,48105,92.0,4.5,1731 Plymouth Rd,bubbletea juicebars,42.2986468817554,-83.721387825817
+5,pR0NEywBHUY2yGSSvCJDTA,Boba Tea House,MI,Ann Arbor,48103,7.0,4.0,3780 Jackson Rd,bubbletea coffee juicebars,42.2856,-83.80498
+21,KdNI-M4RyXVBzy_s2iDdjA,Moge Tee,MI,Ann Arbor,48105,12.0,4.0,2603 Plymouth Rd,tea bubbletea,42.30262,-83.70933
+44,Cs4xEd7MKKlYK4vjM8rV-Q,Evergreen Restaurant,MI,Ann Arbor,48105,272.0,3.5,2771 Plymouth Rd,chinese,42.30375,-83.705875
+47,Y1UGTOC2xpNWKKMbjw2lMg,Nagomi Sushi & Noodle,MI,Ann Arbor,48105,192.0,3.0,1754 Plymouth Rd,sushi noodles,42.298002331671,-83.722936532715
+5,oVVSiUStuXVFXXIkNtvY5w,Wolverine Sushi Bar,MI,Ann Arbor,48104,36.0,3.0,413 E Huron St,sushi,42.281524,-83.743259
+2,2i22KOQZzCnbbgoQel34hQ,Osaka Steak House,OH,Saint Clairsville,43950,25.0,4.0,67800 Mall Ring Rd,japanese sushi chinese,40.0688649759523,-80.8666143936411
+0,bsmbXH-HZ_jmt3whYgMJkw,Sno Biz- Moundsville,WV,Moundsville,26041,1.0,4.0,1917 1st St,shavedice icecream,39.92696330304652,-80.73276937349439
+2,fuU0qyqey5kMY0PW4Y1ptA,Rita's Italian Ice,PA,Washington,15301,6.0,4.5,74 Trinity Point Dr,icecream desserts shavedice,40.18341,-80.21884
+1,AijmW7pbXBNIbNSNYGjzow,Bubble World,WV,Bridgeport,26330,2.0,2.0,2399 Meadowbrook Rd,bubbletea waffles icecream,39.312888,-80.271931
+3,mmabEFN36hKEQC7-7alevw,Kona Ice,PA,Moon Twp,15108,1.0,1.0,,shavedice foodtrucks,40.5161247253418,-80.1665649414063
+2,u_RXij6HfvNGB2FgTIUCdg,Tropical Snow,OH,Alliance,44601,2.0,3.0,2100 Pwy Blvd,shavedice,40.9010735786475,-81.1175805330276
+3,vtf5gwlJWDxLvrfuykKzPA,Bann Thai,OH,Alliance,44601,28.0,5.0,20430 Harrisburg Westville Rd,thai,40.901658,-81.038758
+2,kIhSf0z0VEfvw9CGL-slug,Kona Ice,PA,Pittsburgh,15106,3.0,3.5,,foodtrucks shavedice,40.40542,-80.08658
+5,ypSDELi0xMgoChahZkB3NA,Rita's Italian Ice,PA,Mckees Rocks,15136,13.0,4.0,6154 Steubenville Pike,icecream desserts shavedice,40.444459,-80.148496
+7,T_p58FAZTTRztGtASp6QgA,Rita's Italian Ice,PA,Cranberry Twp.,16066,10.0,4.5,1302 Freedom Rd,icecream desserts shavedice,40.68425,-80.10976
+8,f3y-4wAlDodHv-3Qnrg-vQ,Rita's Italian Ice,PA,Wexford,15090,12.0,3.5,10376 Perry Hwy,desserts shavedice icecream,40.6044991314411,-80.0506326556206
+9,9LxqI_Tatz6B1x7CbOLL7A,Kelly's Riverside Saloon,PA,Beaver,15009,60.0,2.5,1458 Riverside Dr,tradamerican irish_pubs,40.71068,-80.29904
+10,xKZ4YIid7eJbypOAGT2-NA,Rita's Italian Ice,PA,McKees Rocks,15136,2.0,1.5,1803 McKees Rocks Rd,icecream desserts shavedice,40.469276,-80.096253
+11,jemRU9DvmS0WGZuZ-k3jCQ,Rita's Italian Ice,PA,Pittsburgh,15220,12.0,3.5,2070 Greentree Rd,icecream desserts shavedice,40.392497,-80.068778
+1,ogGlctEavEWSVxFQ0ju3Gg,Sincerely Yogurt,PA,Bridgeville,15017,14.0,4.0,1025 Washington Pike,icecream juicebars,40.3694725036621,-80.1050796508789
+2,O6MwxUBEAYmb_RWDlEtKCw,Saigon 88 Express,PA,McKees Rocks,15136,128.0,4.5,5500 Steubenville Pike,vietnamese noodles sandwiches,40.4505208153035,-80.12685097754
+3,QLTe5e-wKcNJOAfmydHt1A,Avor Thai,PA,Cranberry Township,16066,192.0,4.0,900 Commonwealth Dr,thai,40.6833267211914,-80.1116409301758
+4,50KEvLtQl9Vv4YE1vs681Q,Thai Foon,PA,Pittsburgh,15205,233.0,3.5,1950 Settlers Ridge Center Dr,asianfusion thai vegan,40.438617960479,-80.146132531925
+5,sGLdSwi3zKNM3c3f5Ep8jw,Gloria Jeans Coffees,PA,Pittsburgh,15241,19.0,4.5,301 S Hills Vlg,coffee,40.3424447894728,-80.0559294722137
+6,swfdlAMXwV8OjYD5nkA6nQ,China Palace of Wexford,PA,Wexford,15090,56.0,3.5,10441 Perry Hwy,chinese sushi bubbletea,40.60674,-80.05271
+7,q-vggL5FMBz_CnxWB2_XYA,Crave Mexican Grill,PA,Beaver,15009,45.0,3.0,431 3rd St,mexican,40.69606,-80.30212
+8,m2ESeAsMeKojQm3KXmHLGA,Yama Sushi,PA,Mars,16046,109.0,4.5,515 Adams Shoppes,sushi modern_european japanese,40.6877267360687,-80.0549148023129
+9,0sKUrbcWsnbx5gI5LCEVrw,Sincerely Yogurt,PA,Cranberry Township,16066,29.0,3.5,1183 Freedom Rd,icecream desserts juicebars,40.6822094,-80.1243399
+10,i4CF-bIEfNeYoQ87klS78Q,Benichopsticks Restaurant,PA,Canonsburg,15317,64.0,3.5,1025 Waterdam Plz,japanese chinese,40.262821,-80.133828
+2,LtlHwfNIPTdMzbEXVwB5xA,Rita's Italian Ice & Frozen Custard,WV,White Hall,26554,1.0,5.0,2600 White Hall Blvd,icecream desserts shavedice,39.428449584525836,-80.1862260028432
+0,GeP9t1b9F0scfg_wSIox5A,Kona Ice Of Youngstown,OH,Canfield,44406,2.0,4.5,,shavedice icecream foodtrucks,41.0263214111328,-80.7182235717773
+1,u8NdJbRHSu26k1Ri1ZKyNQ,Bobba Tea Southern Park Mall,OH,Boardman,44512,1.0,5.0,7401 Market St,juicebars icecream bubbletea,41.021165642755975,-80.6587007734681
+4,Y9Pbq0Tzl-VE2hYYXv8g-Q,Izumi Japanese Restaurant,OH,Youngstown,44512,61.0,4.5,840 Boardman Poland Rd,sushi japanese,41.024871,-80.637786
+7,FsfAdBwkdMtUk9e1n4vNoA,Pho Saigon,OH,Youngstown,44512,83.0,4.0,6532 South Ave,chinese vietnamese,41.03186,-80.6353
+11,Y2Vmt8HfdB-aLTh6ME9x5g,Mizu Japanese Restaurant,OH,Youngstown,44512,103.0,4.0,60 Boardman Poland Rd,japanese bars,41.0246053814223,-80.6597159243021
+8,SaBQcVm_qyRbiQBcVgAa1Q,Rita's Italian Ice,PA,Bethel Park,15102,9.0,4.0,5029 Library Rd,icecream desserts shavedice,40.340165648456,-80.0252952662776
+1,FJAz6T7yDf_ph4Gnm-ka9Q,Amy’s Bakery,PA,Mount Lebanon,15228,28.0,4.5,654 Washington Rd,bakeries bubbletea customcakes,40.381148,-80.044573
+5,kiB4iXKPj69_wms2dd0U-w,Pho Saigon Cafe,PA,Bethel Park,15102,62.0,4.5,2822 South Park Rd,vietnamese,40.3280605,-80.03646117
+10,i-fdgshW3xovHeMZosDerw,My Thai,PA,Pittsburgh,15216,130.0,4.0,3024 W Liberty Ave,thai salad noodles,40.3930420493059,-80.0370368071787
+12,Ac-DbrST8bF9Cpge5D9_Cg,Pho Kim 88,PA,Pittsburgh,15234,197.0,4.0,4100 Library Rd,vietnamese,40.3603668212891,-80.0290145874023
+15,qh1GCWP_2TKxevp3ZeMxag,Chan's Tea House,PA,West View,15229,37.0,3.0,1009 W View Park Dr,chinese noodles soup,40.5159677540245,-80.0378046557307
+16,qAzOcHnWerREl678su-p0A,Asian Garden,PA,Pittsburgh,15234,23.0,2.5,4136 Library Rd,chinese,40.358953,-80.029218
+1,MwzaVRXRu5CBnYnJxMViNg,Wu's Shaved Ice,PA,South Park Township,15129,3.0,5.0,,shavedice foodstands,40.2909736633301,-79.993537902832
+8,d2ZQRjuizstCTnicysmpMQ,Eleven,PA,Pittsburgh,15222,789.0,4.0,1150 Smallman St,newamerican,40.44602,-79.99325
+12,BfIcrMq0Me0D7BBSYij7Fg,Difiore's Ice Cream Delite,PA,Pittsburgh,15211,108.0,2.5,120 Shiloh St,icecream sandwiches tradamerican,40.4310949665867,-80.0073662852848
+13,6qjYqf6memou9O3jiVcv3A,Rita's Italian Ice & Frozen Custard,PA,Pittsburgh,15226,1.0,5.0,427 McNeilly Rd,desserts shavedice icecream,40.383124,-80.014798
+14,cngjoKeAEdre-mBk5KSWuQ,Pittsburgh Rib Fesitval,PA,Pittsburgh,15212,3.0,3.0,Heinz Field,bbq,40.45505,-79.99264
+4,MG5Mwc-dA34-L2LUCv43jg,Chatime,PA,Pittsburgh,15237,33.0,3.5,1000 Ross Park Mall Dr,bubbletea juicebars,40.5442586910429,-80.0073454224762
+9,vnT_AQXCkchNRnKJNd0i7Q,Bae Bae’s Cafe,PA,Pittsburgh,15222,34.0,4.5,945 Liberty Ave,cafes sandwiches bubbletea,40.44376183,-79.99649867
+11,VgWvHMs5TJ2lr0ec2DaMtQ,Bae Bae's Kitchen,PA,Pittsburgh,15222,530.0,4.5,951 Liberty Ave,korean comfortfood,40.443682,-79.996195
+16,QXKN5MYb5O1sg6-G2pwTzg,Shaka,PA,Pittsburgh,15212,44.0,4.0,200 Children's Way,asianfusion hawaiian cocktailbars,40.451519,-80.006036
+18,P4w7kxvrr4odvXdyQzXIvw,Maiku Sushi,PA,Pittsburgh,15222,220.0,4.0,1611 Penn Ave,sushi soup vietnamese,40.4490736801823,-79.9872996658087
+19,ZKBUoCqTpwMtmImz64DGyQ,Hong Kong Express II,PA,Pittsburgh,15219,15.0,3.5,529 Ct Pl,chinese,40.437018,-79.997166
+20,GjX2WgchvvS-JAWBmzkLyQ,Pho Van,PA,Pittsburgh,15222,267.0,3.5,2120 Penn Ave,vietnamese,40.4519857,-79.9824067
+3,CEVkoAYuBhoPGS4WQZTeBA,The Snowman,PA,Portersville,16051,20.0,4.5,238 E Portersville Rd,shavedice icecream,40.92222,-80.12632
+15,Wpi5H1YHFv6jjna0ViUqTw,Kintaro Sushi & Hot Pot,OH,Akron,44333,32.0,4.0,4054 Medina Rd,hotpot sushi fooddeliveryservices,41.13124591979853,-81.645716261556
+19,dHJ4PT5C9mr6QPs4o_DaSA,Golden Dragon,OH,Cuyahoga Falls,44223,45.0,3.5,1634 State Rd,chinese japanese sushi,41.12775,-81.50881
+20,X1RLcu527EkR6lDMffI2LA,Lyeh,OH,Akron,44310,53.0,4.5,501 N Main St,thai burmese,41.098738,-81.510931
+21,zG3GJiIrF01bwgP0tQdkZg,House of Hunan,OH,Fairlawn,44333,128.0,3.5,2717 W Market St,sushi chinese,41.124969943673,-81.6013761333359
+12,QEBS_iXJeUvZEP-tvoGAkg,Rita's Italian Ice,PA,Pittsburgh,15209,7.0,4.0,1320 Babcock Blvd,icecream desserts shavedice,40.4959599,-79.97645
+14,19m3NtbbP2VX-tDFJB1lKQ,Rita's Italian Ice,PA,Pittsburgh,15236,6.0,3.5,229 Curry Hollow Rd,icecream desserts shavedice,40.337262,-79.979377
+21,BrORoLCE5zVY6ekUb6omNA,Mad Noodles,PA,Pittsburgh,15203,133.0,3.5,2017 E Carson St,bubbletea ramen noodles,40.4288,-79.97688
+23,1_Dg-GguWatioW4mvFQKQA,Little Tokyo Bistro,PA,Pittsburgh,15203,161.0,4.0,2122 E Carson St,sushi japanese korean,40.4281845092773,-79.9753036499023
+24,eNsM5ezjhPQWI6XlUGrUhw,Lin's Asian Fusion,PA,Pittsburgh,15203,135.0,3.5,2018 E Carson St,asianfusion,40.4283,-79.97682
+4,KQSEzg_DmPtTEt_UdNTSzg,C Fruit Life,WV,Morgantown,26505,5.0,5.0,370 Patteson Dr,desserts bubbletea chinese,39.6512964743649,-79.968264350018
+5,pv__91LMXAbNX50NgeO55g,Sumi's Cakery,PA,Pittsburgh,15217,95.0,4.5,2119 Murray Ave,bakeries korean desserts,40.4331,-79.92289
+8,wUr4HeEhhPeiFb7UmiYRzg,Chick'n Bubbly,PA,Pittsburgh,15213,179.0,4.0,117 Oakland Ave,korean bubbletea chicken_wings,40.44193,-79.95718
+9,YTzi3m5AkcmGQlJUMXGQBg,Rita's Italian Ice,PA,Belle Vernon,15012,4.0,4.0,Tri-County Plz,desserts shavedice icecream,40.1380081,-79.8393326
+11,6Az5aA5sdrqwfJjnS8TROQ,Bao,PA,Pittsburgh,15213,121.0,4.5,114 Atwood St,taiwanese noodles dimsum,40.44123665182891,-79.95801470314531
+13,08t3_HjbpLyPeuft6eoa5A,Page Dairy Mart,PA,Pittsburgh,15210,268.0,4.5,4112 E Carson St,icecream desserts,40.4112284,-79.9557968
+14,7IQ_ZBBMh8kP2UoPe4Y_ww,Meet BAO,PA,Pittsburgh,15213,3.0,2.5,114 Atwood St,panasian,40.4412353,-79.9580146684343
+16,TmGxQgFdiG585PCs_2hCew,Rita's Italian Ice,PA,Pittsburgh,15217,47.0,4.5,5880 Forbes Ave,icecream desserts shavedice,40.43782,-79.91978
+25,qAVoausNrMEByp2cFt8EaA,Rita's Italian Ice,PA,Oakland,15213,13.0,4.0,3712 Fifth Ave,shavedice desserts icecream,40.4419607456418,-79.9579681519875
+0,FA96RzH0uFDrDHosI4Z-QQ,Tsaocaa,PA,Pittsburgh,15217,91.0,4.5,5871 Forbes Ave,bubbletea,40.43827,-79.92027
+2,DOMr84L1ENSVjP6XmI7HCg,Love Tea,PA,Pittsburgh,15213,23.0,4.5,229 Atwood St,coffee bubbletea,40.440572,-79.956502
+3,5u27mhDjcJ4Y7QbDhRyaXg,Fuku Tea,PA,Pittsburgh,15213,205.0,4.0,3800 Forbes Ave,coffee bubbletea,40.4415422065159,-79.956820957154
+4,emb1r_tKM14KRkwtPotl0Q,Kung Fu Tea,PA,Pittsburgh,15217,19.0,4.5,2109 Murray Ave,bubbletea,40.43350417,-79.9231075
+5,psaJSEHd8o7C8PucQHpZcw,Bubble Fish,WV,Morgantown,26505,1.0,5.0,1006 Suncrest Towne Centre Dr,poke bubbletea,39.6515375,-79.9421901
+8,CXq8Jh0Pow5OO9tr9Ie_2w,Asian Bistro,WV,Morgantown,26505,93.0,4.0,3006 Northpointe Plz,vietnamese japanese chinese,39.6522177010775,-79.9209820479155
+11,yRttVEIQSwRiBA8dOjCMPw,Green Tea Asian Fusion Restaurant,WV,Morgantown,26505,92.0,4.0,511 Burroughs St,asianfusion chinese,39.6574046,-79.9707919
+13,Fow67bYli1t2mny__9YinQ,Boba Tea Bar,PA,Pittsburgh,15237,27.0,3.5,4316 Butler St,cafes,40.4710517,-79.9597953
+14,hg3pidNXBVcErL1l6EyQHw,Kungfu Tea,PA,Pittsburgh,15106,3.0,5.0,,bubbletea foodtrucks,40.4404976897654,-79.9602848048527
+15,mooEWKEZERUDX1oMhfvc_A,Churn,PA,Glenshaw,15116,25.0,4.5,3390 Saxonburg Blvd,coffee icecream,40.54899,-79.91429
+16,nZBEYj3V8Fs0wP3zyuHw6g,Saigon Pho Kitchen,WV,Morgantown,26505,91.0,4.5,3109 University Ave,vietnamese soup sandwiches,39.653918,-79.970437
+24,F6F0JHqFtvYaEPlU2zj84w,Mico’s Kitchen,PA,Butler,16001,5.0,4.0,236 S Main St,bubbletea chinese asianfusion,40.85889,-79.89562
+30,4mYS-4UOjTKgsf0tX1_IkQ,Banh Mi & Ti,PA,Pittsburgh,15201,323.0,4.5,4502 Butler St,vietnamese cafes bubbletea,40.472145273083,-79.9589364429569
+34,H-40G2Ozor49MvDuN1vtGA,Super Red Bowl,WV,Morgantown,26508,3.0,3.5,6100 Mid Atlantic Dr,asianfusion,39.64846,-79.89083
+36,ix8EZnEGi7pLJCf-KhKecQ,Burgh Thai,PA,Verona,15147,54.0,4.5,321 South Ave,thai,40.50501,-79.84348
+37,ujInFnyExqAXtsti-qdrzg,Mola,PA,Pittsburgh,15206,179.0,4.5,6018 Penn Ave,sushi cocktailbars,40.4610694442199,-79.924216077817
+40,Fozo0B-y42EhRMomR0K5vQ,Waffallonia,PA,Pittsburgh,15217,331.0,4.5,1709 Murray Ave,desserts icecream waffles,40.43769,-79.92283
+41,EZ9Uf-lSRtj1fvdMQlrwAw,Thai Me Up,PA,Pittsburgh,15203,242.0,4.0,118 S 23rd St,thai,40.427086,-79.973273
+42,-8F04F54iDT6VgWPCgybug,Ineffable Ca Phe,PA,Pittsburgh,15224,159.0,4.5,3920 Penn Ave,vietnamese coffee sandwiches,40.46466,-79.95929
+44,LDVTTqruIDhbJcmrPr9D5g,KaFair Cafe,PA,Pittsburgh,15206,25.0,5.0,1806 Chislett St,coffee breakfast_brunch bakeries,40.48551,-79.92543
+45,MKd_EUD0PG__cOfIbeqYAg,Té Café,PA,Pittsburgh,15217,133.0,4.5,2000 Murray Ave,coffee sushi,40.43457,-79.92301
+46,tetKWtLT0639lqnD9QJRKw,Panda Express,PA,West Mifflin,15122,84.0,3.0,2070 Lebanon Church Rd,chinese hotdogs,40.3479348692857,-79.9462279517355
+47,S-WbBty-kGOO3Fmwx3Jmlw,Pink Box Bakery Cafe,PA,Pittsburgh,15217,130.0,4.0,2104 Murray Ave,bakeries coffee desserts,40.4333842481899,-79.9231549468701
+48,vmR1bRA2liNwwxsUKS1k3w,T-Swirl Crepe,PA,Pittsburgh,15217,95.0,4.5,1714 Murray Ave,creperies japanese,40.437483,-79.9231457
+49,Yewf5KT9c-z8oc2-GeF06g,JJPOKÉ,PA,Pittsburgh,15213,82.0,4.5,110 Atwood St,bubbletea poke taiwanese,40.44141,-79.95823
+0,uRybQLCYWkC6N19MhaHf_w,Taiwanese Bistro Cafe 33,PA,Pittsburgh,15217,379.0,4.5,1711 Shady Ave,taiwanese noodles seafood,40.4376110828313,-79.9191114696594
+1,cGQKUOAZm_VHcQOJWbatog,P.F. Chang's,PA,West Homestead,15120,217.0,3.0,148 W Bridge St,chinese asianfusion,40.407150649512886,-79.9160729348659
+2,vTOe_2zCHlElAjyaXnHh5g,Yue Bai Wei,PA,Pittsburgh,15217,33.0,3.5,5874 Forbes Ave,chinese,40.43785220737042,-79.92011302534436
+3,xRsm1kRIGbL_nGCtxd551g,Took Took 98,PA,Pittsburgh,15217,106.0,4.5,2018 Murray Ave,thai bubbletea asianfusion,40.4342,-79.92305
+5,Msq2CBPFaY7Fe7h7R20fOA,Dragon Palace,PA,Pittsburgh,15215,34.0,4.0,1714 Main St,chinese,40.494867,-79.922603
+7,cG82vmu-bQd-WWmsveJlGw,Fuku Tea,PA,Pittsburgh,15213,9.0,4.0,300 S Craig St,bubbletea coffee,40.445527,-79.949217
+8,hcFSc0OHgZJybnjQBrL_8Q,Everyday Noodles,PA,Pittsburgh,15217,832.0,4.0,5875 Forbes Ave,chinese noodles,40.438262,-79.920082
+9,xULATz2siGXOPia614mg2A,Lulu's Noodles,PA,Pittsburgh,15213,444.0,3.0,400 S Craig St,chinese noodles,40.44514,-79.94904
+12,j3YEV0H16fRaSiKh-ne00g,Kiin Lao & Thai Eatery,PA,Pittsburgh,15217,132.0,4.5,5846 Forbes Ave,laotian thai,40.437770689507126,-79.9211285
+13,AYr2URtjoQ8Toh8_Jr4G6A,Rose Tea Cafe,PA,Pittsburgh,15213,93.0,3.0,414 S Craig St,chinese bubbletea taiwanese,40.44476,-79.94887
+14,K6AKMjAdCSe8xllsbyeL9Q,Asia Tea House,PA,Pittsburgh,15213,64.0,3.0,4230 Forbes Ave,chinese bubbletea,40.4427240453859,-79.9528134936706
+15,xCmFGgpTkf77fNCrvkDBsA,Thai Terrace,PA,Pittsburgh,15218,38.0,4.5,247 Edgewood Ave,thai,40.43035,-79.88411
+16,DXP3MbE8srQITLlAuS45aQ,Hunan Bar,PA,Pittsburgh,15213,102.0,3.5,239 Atwood St,szechuan,40.4403038024902,-79.9562759399414
+17,Y4pqydzydqrVp_o56VmIig,Dagu Rice Noodle,PA,Pittsburgh,15217,17.0,4.0,5829 Forbes Ave,bubbletea chinese chicken_wings,40.43828,-79.921871
+18,f1K6hzQecl-sJFYRUHvDDQ,Szechuan Spice,PA,Pittsburgh,15206,121.0,4.0,5700 Centre Ave,sushi szechuan hotpot,40.45701,-79.93346
+19,qfBp53c7Z2DpqUrGhV80zg,Thai Cottage,PA,Pittsburgh,15218,155.0,4.0,1109 S Braddock Ave,thai,40.4325718,-79.893728
+20,DwmAsemahJywywhuqv5J1Q,Sichuan Gourmet,PA,Pittsburgh,15213,176.0,4.0,328 Atwood St,szechuan,40.4389524203373,-79.9551590458901
+21,X2X3n0PutSNonQQj2cjsCw,Tan Lac Vien,PA,Pittsburgh,15217,250.0,4.0,2114 Murray Ave,vietnamese,40.4332,-79.92325
+23,S6dARuOrrOXd4xSiTHti8g,Chengdu Gourmet,PA,Pittsburgh,15217,208.0,4.0,5840 Forward Ave,chinese,40.4295421034818,-79.9223725553359
+25,9PTRou9XCkO6ZiCBrbeh0A,Phat's Bar,PA,Pittsburgh,15213,2.0,1.5,418 Semple St,bars karaoke bubbletea,40.43651,-79.95461
+26,kkD0tv_e5E6a8kRpLYEcaA,Oishii Bento,PA,Pittsburgh,15213,319.0,4.0,119 Oakland Ave,japanese korean sushi,40.4418999,-79.95714
+27,e7M2GgkCfDYTxdPN1LL1sQ,Wai Wai Chinese Cuisine,PA,Pittsburgh,15224,160.0,3.5,4717 Liberty Ave,chinese,40.4620628356934,-79.9491577148438
+28,jDZJsIyc3jXjcTtJk_p8ZA,Orient Express,PA,Pittsburgh,15213,103.0,3.0,4609 Forbes Ave,chinese,40.44465,-79.94818
+29,X4CRPHvv-33kjxVJISZpUg,Little Asia,PA,Pittsburgh,15213,139.0,3.0,311 S Craig St,sushi chinese,40.4454,-79.94853
+30,7aZf5c1UNotq4MabBXMZLA,Sichuan Gourmet,PA,Pittsburgh,15217,311.0,3.5,1900 Murray Ave,szechuan,40.43588,-79.92307
+14,YhsWJmWjG4TMrxE8DuJH-w,Bobba,PA,Grove City,16137,4.0,4.5,1911 Leesburg Grove City Rd,bubbletea icecream wraps,41.142233,-80.157525
+25,OmAov2UYqewGomdSvZQTxQ,Mobogo Asian Cuisine,PA,Hermitage,16148,50.0,4.5,1656 E State St,vietnamese soup,41.23285,-80.47931
+28,G_f-lzXmrLtLLDRt9ATq3g,Rita's Italian Ice,PA,White Oak,15131,4.0,3.0,1985 Lincoln Way,icecream desserts shavedice,40.338341,-79.806593
+5,xbemwYwPqi2v92Gj7cZbpA,HA!TEA Bubble Tea House,OH,Kent,44240,70.0,4.5,836 N Mantua St,coffee bubbletea tea,41.16078,-81.35919
+7,9PDb3GDLPNXplWKdfrpGqw,Beautiful Whirl’d,OH,Warren,44481,5.0,5.0,141 W Market St Exd,juicebars salad sandwiches,41.23583,-80.8188
+14,ygcX18rboNOaYnNmRCDytw,Ming's Bubble Tea,OH,Kent,44240,59.0,4.0,1699 E Main St,bubbletea,41.1560625277643,-81.332846
+15,IXU_uBPr1IFQ09pK1N112g,Elephant #8 Thai Taste,PA,Slippery Rock,16057,35.0,4.5,126 S Main St,thai,41.06354,-80.05644
+25,pHEW9CuiF9uEgZ4vaOUL1A,Icy Blast,OH,Ravenna,44266,9.0,4.0,133 E Main St,bubbletea icecream juicebars,41.1579171909722,-81.2417419999838
+34,MNmQ1s-zdjEgm3bdRs7iEw,The Green Mango,PA,Pittsburgh,15235,196.0,3.5,3461 William Penn Hwy,thai,40.430732,-79.810192
+37,1cyDJImrTxQOVcCAQZqQkw,Restoration 44 Coffee Company,OH,Mantua,44255,31.0,4.5,10675 Main St,coffee,41.28224,-81.22436
+1,O30OpiUnjSetgqDG87DKxA,Kenko - Kent,OH,Kent,44240,30.0,3.5,220 S Depeyster St,sushi bubbletea japanese,41.151979,-81.356685
+2,jtvy90-8KNih9-LanDTiOg,Pacific East Japanese And Maylaysian,OH,Kent,44240,87.0,4.0,100 E Main St,malaysian sushi asianfusion,41.15346,-81.35778
+6,c6ed3FFQjKUb4vHOjHCcfA,Wild Papaya Thai Cuisine,OH,Kent,44240,92.0,4.0,1665 E Main St,thai,41.15494,-81.33382
+21,9BQGpsIRhs9cRHuGh9xuJw,Toko Japanese Steak House,OH,Kent,44240,79.0,3.5,1855 State Route 59,ramen asianfusion steak,41.155537,-81.32692
+37,06LmLcjFUb6b1HmhNllJZg,Lemongrass Grill,OH,Munroe Falls,44262,187.0,4.5,20 N Main St,thai,41.13968,-81.43867
+41,SdXdNEMU_kNVyfYFFEVOdg,Poké Fresh,OH,Cuyahoga Falls,44223,37.0,4.0,2022 Portage Trl,bubbletea hawaiian seafood,41.1481075,-81.507517
+43,yDk_gqG_h24zqu4dGp6Mkw,Papaya Salad Thai Food Restaurant,OH,Cuyahoga Falls,44223,77.0,4.5,3233 State Rd,salad thai noodles,41.159533,-81.509002
+48,rPshoySU7Xfafoi3S0KDfg,Bangkok Thai Restaurant,OH,Stow,44224,120.0,4.5,3767 Darrow Rd,chinese thai,41.1673719904518,-81.4399877563119
+1,rbD7zlRbS_u5RoToT33mSA,"TK'S Fruits, Produce & Bubble Tea",WV,Morgantown,26505,15.0,4.5,300 High St,bubbletea markets grocery,39.6297874,-79.9557266
+2,k-CGzOGHp1RtHeN7tJqXgg,bubble fish,WV,Morgantown,26505,26.0,4.5,376 High St,hawaiian bubbletea poke,39.63076,-79.95492
+4,hq_QhItY_FeX86hVVAZiDg,Lavender Cafe,WV,Morgantown,26505,108.0,4.0,247 Beechurst Ave,taiwanese chinese bubbletea,39.6384,-79.95851
+23,XBV4kCIuUol_2xpM79Rasw,Chaang Thai Restaurant,WV,Morgantown,26505,136.0,4.0,361 High St,thai vegetarian vegan,39.6306,-79.95538
+26,MdWgXO1yItB7-OT8ZtW5iQ,T J Sushi,OH,Fairlawn,44333,10.0,4.5,3265 W Market,japanese,41.133969,-81.617555
+0,K2p5X-geTci1tjnvo9POzQ,808 Shave Ice,OH,Fairview Park,44126,62.0,4.5,21280 Lorain Rd,shavedice juicebars,41.4450729933909,-81.8564449623227
+2,_ORq1IdWvpm2_34TMt2gKw,Sugar Shack Creamery,OH,Parma,44129,2.0,4.5,5793 Pearl Rd,shavedice icecream,41.405196,-81.743405
+3,ZtGcRajHGlBXHVABpRt10Q,808 Shave Ice,OH,Strongsville,44136,10.0,5.0,12457 Pearl Rd,shavedice bubbletea juicebars,41.3220872,-81.8361473
+4,ReJGdmdrZ5s8NLDb5DtcvQ,Kona ice,OH,Strongsville,44149,2.0,5.0,,foodtrucks shavedice icecream,41.2981289521837,-81.8683733768116
+5,P6zVMViaS9x-K7biL3WGgQ,Happy Bees,OH,Cleveland Heights,44118,1.0,4.0,1783 Coventry Rd,icecream coffee shavedice,41.51116,-81.57979
+6,cX2Nr_XmGYlMaBW35M0sUg,Mabel's BBQ,OH,Cleveland,44115,1107.0,4.0,2050 E 4th St,bbq bars,41.4989512054125,-81.6902246153941
+7,1cLXGXThDYZ5WK_KpBLtkw,Koko Bakery,OH,Cleveland,44114,285.0,4.0,3710 Payne Ave,bakeries bubbletea cakeshop,41.5095,-81.66247
+9,zscpjfq8zkmuiKytwHCwrA,CP's Cooler Homemade Ice Cream & Treats,OH,Willowick,44095,23.0,4.5,32433 Vine St,icecream juicebars,41.6427227731508,-81.4571307599545
+11,7sz9Rw1dbIEfLy-L9qB3Tw,Chopstick Chinese Restaurant,OH,Cleveland,44106,58.0,3.5,11332 Euclid Ave,chinese asianfusion,41.5084707890612,-81.6051659116394
+4,ytZRQpiP_ipoC8azMzSaQw,Waffle O Waffle,OH,Medina,44256,22.0,5.0,799 N Court St,breakfast_brunch waffles bubbletea,41.14855288914674,-81.86508304313618
+5,Zgp2mLww3lVFGrMReJmKKw,Sweet Mango Berea Thai Cuisine,OH,Berea,44017,112.0,4.0,54 Front St,thai,41.3667602539062,-81.8527755737305
+8,k2sHZR4-JsFQhZHAf4JRQw,Cool Beans Cafe,OH,Medina,44256,98.0,4.0,103 W Liberty St,coffee cafes bakeries,41.13923,-81.8642
+9,OaHJvi10dJbMIaQXg5e2Ag,Nam Wah Chinese Vietnamese,OH,Berea,44017,158.0,4.5,392 W Bagley Rd,chinese vietnamese,41.3722949,-81.867235
+10,OD2Ou5BktKVaOszgsUEIPg,Sweet Mango Thai Cuisine,OH,Medina,44256,29.0,4.5,871 N Court St,thai,41.1502542640212,-81.8648751452565
+1,IvYQAv3R3UH9beGV3PNVBg,Fat Lenny's,PA,Erie,16502,38.0,4.5,443 W 8th,icecream toys bubbletea,42.1235773372645,-80.0938014686108
+2,j3WPr3GO5iL3AK_WsWFawA,Rita's Italian Ice,PA,Erie,16509,15.0,3.5,1406 W Gore Rd,icecream desserts shavedice,42.082088470459,-80.0889663696289
+0,4LLCQgyJMHZqyhCR_0Y06w,Andora's Bubble Tea Shop,PA,Erie,16501,32.0,4.5,516 State St,bubbletea coffee importedfood,42.1300712433952,-80.0857664366224
+4,CaTDHr2sQzlcf4Di-fA9Uw,F&F Poke Bowl,PA,Erie,16505,41.0,4.5,2501 West 12th St,poke bubbletea,42.102359566742294,-80.1352912
+7,PAJ6enRLMRgbsBtISqimhg,Thai Eatery,PA,Erie,16509,151.0,4.5,5641 Peach St,thai,42.0713566607163,-80.0930163894891
+8,X7tWmqGq07PvtFFZyFCkQA,Ichiraku Japanese Noodle Shop,OH,Mentor,44060,26.0,3.5,9853 Johnnycake Ridge Rd,ramen bubbletea,41.673615,-81.28276
+9,lvG_jHXWB2AnatvdM_qrgA,Hong Kong Chinese Restaurant,PA,Erie,16506,16.0,4.0,2887 W 26th St,chinese,42.086193,-80.137579
+10,X-bAS7tFhh49YfwvSpalHQ,Happy Wok,PA,Erie,16508,17.0,4.0,1537 W 38th St,chinese,42.089865,-80.0985
+13,UIJnUdvM0J39JqK5ubR7bA,Thai 999 Express,OH,Mentor,44060,88.0,4.5,9853 Johnnycake Ridge Rd,thai,41.6736368,-81.2827667
+14,4dN7w6zuoPcPAAmTMUKCeA,f&f Poke Bowl,PA,Erie,16509,11.0,3.5,6831 Peach St,bubbletea poke,42.056505,-80.088475
+16,4dyhVIonhuvaX1YeUA5sHA,Froyo Shop,OH,Madison,44057,6.0,3.5,2709 Hubbard Rd,icecream bubbletea,41.80107,-81.04812
+20,IOL4F0B0r0oa5oyJ7HEvtg,Seesan Thai Cuisine,OH,Painesville,44077,12.0,4.5,2736 North Ridge Rd,thai desserts bubbletea,41.764357,-81.182415
+21,UEC5kzDFtw6KGhLLHmH3EA,DJ Hibachi & Sushi,OH,Aurora,44202,7.0,4.5,549 S Chillicothe Rd,japanese sushi asianfusion,41.301176660116994,-81.34108221369294
+22,GyPEDDIgpmThkzsq4TYlPQ,Thon Buri Thai Cuisine,OH,Chagrin Falls,44023,95.0,4.0,8545 E Washington St,thai,41.410911,-81.337036
+23,Gk_leAREKfnhByT_evPuqA,Thai Orchid,OH,Mentor,44060,99.0,3.5,7329 Mentor Ave,thai,41.65287117792,-81.379769244465
+25,68c7mPI8KGl505wxFRfYWw,Ferroni's Allegro Cafe & Bistro,OH,Middlefield,44062,14.0,5.0,14991 S State St,coffee bakeries cafes,41.4606667,-81.072891
+27,9WMBTUjzDFZf2KcBqNc2xw,My Thai,OH,Chesterland,44026,92.0,4.0,12646 Chillicothe Rd,thai vegetarian,41.5250721996143,-81.3386015396466
+2,JJCNhchz6d-4W0E9dVC9pw,KP Thai Street Food & Bubble Tea,OH,Willoughby,44094,42.0,4.0,4825 Robinhood Dr,bubbletea thai,41.627334,-81.4266703
+8,sww52tpNDCTg7W-wkrG4UA,Sugar Bowl,OH,Willoughby,44094,63.0,4.5,34912 Ridge Rd,vietnamese bakeries bubbletea,41.6072740891105,-81.4388920739293
+9,Hm2hDEUCLev9E_fjyFeUEA,Koko Bakery,OH,Cleveland Heights,44118,13.0,5.0,1767 Coventry Rd,bakeries bubbletea cakeshop,41.51145,-81.5798
+10,7P-CDPo5NOxJKXUJf6jiOw,Sweetly Shoibhan,OH,Valley View,44125,12.0,4.5,5524 Turney Rd,cakeshop desserts bubbletea,41.4118765,-81.6025121
+11,jmTirQw-n4V_Z4g1-RE9iw,Kung Fu Tea,OH,Cleveland,44106,74.0,3.5,11310-11314 Euclid Ave,bubbletea coffee juicebars,41.5083190730828,-81.6057157754631
+12,J0hxuy24ESXTZu0Ej3AYQA,Kintaro - Willowick,OH,Willowick,44095,21.0,4.0,33550 Vine St,japanese seafood hotpot,41.642024,-81.449407
+17,VXVm7OkAxGEY90DhMwas8Q,Woop Bubble Tea,OH,Beachwood,44122,31.0,2.5,26300 Cedar Rd,bubbletea juicebars,41.498414,-81.494257
+19,TXSS8HmvSVDQdNNqB-4INA,BIBIBOP Asian Grill,OH,Beachwood,44122,142.0,4.0,511 Park Ave,asianfusion salad gluten_free,41.45073,-81.486883
+20,asDrr6HbNNIliCdSiqte3w,Poké Fresh,OH,Highland Heights,44143,54.0,4.0,6319 Wilson Mills Rd,poke bubbletea hawaiian,41.539472,-81.4515795933
+24,zzSYBWuv_fXGtSgsO-6_1g,Bowl Of Pho,OH,Woodmere,44122,255.0,4.0,27339 Chagrin Blvd,vietnamese,41.4624701,-81.4861821
+25,SVCUA3QkgAvSxs84KMGOew,Pho & Rice,OH,Cleveland Heights,44118,193.0,4.0,1780 Coventry Rd,vietnamese thai,41.5111713900419,-81.5801511220617
+27,XF2eTNV5RfzoSJQ-kRZJmA,Spice Thai Cuisine,OH,Twinsburg,44087,93.0,4.0,8870 Darrow Rd,thai,41.3074471345316,-81.442004442215
+28,ElqLoKM__uU7DcYzRnMpNw,Hunan Solon,OH,Solon,44139,122.0,3.5,6050 Enterprise Pkwy,chinese,41.395033,-81.463795
+30,ErxACeMyF4hSQyGhpEt4Tw,Peppermint Thai Cuisine,OH,Pepper Pike,44124,258.0,4.0,30769 Pinetree Rd,thai,41.462942,-81.461824
+31,xAbGtOHkdp3khmSpEGgkZg,BIBIBOP Asian Grill,OH,Cleveland,44106,93.0,4.0,11431 Euclid Ave,salad asianfusion gluten_free,41.509654,-81.60467
+32,fTfX3vGrV8GYBGcfweY6Kg,Pacific East,OH,Woodmere,44122,139.0,3.5,28601 Chagrin Blvd,japanese sushi seafood,41.462983,-81.47771
+33,X6chSU0KBGHGNxZ8UH_qag,Kenko,OH,Cleveland,44106,158.0,4.0,11312 Euclid Ave,sushi japanese asianfusion,41.5082855,-81.6058426
+34,3e0IGa_-zqTemKLc1dbdmg,Phusion Cafe,OH,Cleveland,44106,185.0,4.0,11611 Euclid Ave,taiwanese chinese,41.5109853006326,-81.6030496358871
+35,jRAUH6Ypc_2rX_nh3NMqcQ,Otani Japanese Restaurant,OH,Mayfield Heights,44124,167.0,3.5,1625 Golden Gate Plz,japanese sushi,41.51614,-81.45047
+36,VTh9kRFmgxYZTllCJZZ6wQ,BIBIBOP Asian Grill,OH,University Heights,44118,53.0,4.0,13934 Cedar Rd,asianfusion salad gluten_free,41.501,-81.53854
+37,APPZiUz_CEvR_--qY-tbig,Pacific East Japanese Restaurant,OH,Cleveland Heights,44118,441.0,4.0,1763 Coventry Rd,japanese malaysian sushi,41.5115,-81.5798
+38,RwwV2LrIbdquFw6SN-l27Q,Nüjoy,OH,Cleveland,44106,50.0,3.0,11311 Euclid Ave,bars chinese soup,41.5087236,-81.6059985
+39,SP7H3zPArNvbHKQW0c_gpA,High Thai'd,OH,Cleveland Heights,44118,142.0,3.5,1791 Coventry Rd,thai asianfusion,41.51099,-81.57978
+40,QQqI1z1FohJGSLV0qKvOjQ,Tree Country Bistro,OH,Cleveland Heights,44118,197.0,3.5,1803 Coventry Rd,sushi korean thai,41.51065,-81.57973
+28,RpMp700t8ON-2AvAAcohxA,Ball Ball Waffle,OH,Cleveland,44114,51.0,4.5,2999 Payne Ave,hkcafe waffles,41.50811,-81.6691
+29,xDnkfWCyaUdR6iMoxnuWyg,Dagu Rice Noodle,OH,Cleveland,44114,72.0,4.5,3710 Payne Ave,noodles shanghainese soup,41.509346,-81.662188
+37,tZpxk604kWWHsJKyirraZg,LJ Shanghai,OH,Cleveland,44114,403.0,4.5,3142 Superior Ave,shanghainese,41.51093,-81.66888
+2,2YFLHXLanzULxxLHbuy5Qg,Asiatown Food Tour,OH,Cleveland,44114,6.0,4.5,E 30th St,panasian foodtours,41.50811,-81.66871
+7,228mfqUuGbnCs1kiupJXZw,Map Of Thailand,OH,Cleveland,44114,263.0,4.5,3710 Payne Ave,thai,41.5095,-81.66247
+8,AbPQf-X7awuPFDULiJ43bg,Superior Pho,OH,Cleveland,44114,683.0,4.0,3030 Superior Ave E,vietnamese soup sandwiches,41.51056,-81.6698
+9,GDpd9KZdUgnjcoCWTTphqw,Szechuan Gourmet,OH,Cleveland,44114,254.0,4.5,1735 E 36th St,szechuan,41.508505,-81.663319
+10,ijY4C4ut4M9xg3QvK2R2pg,Li Wah,OH,Cleveland,44114,390.0,3.5,2999 Payne Ave,dimsum cantonese seafood,41.5083668054267,-81.669370655881
+11,wftmt-n8OUA4Ng3bWWH5dw,Wonton Gourmet & BBQ,OH,Cleveland,44114,305.0,4.0,3211 Payne Ave,chinese bbq,41.5088920593262,-81.6662826538086
+12,Tm2dKN_-DCdZfF2xMWrX7w,Siam Cafe,OH,Cleveland,44114,287.0,4.0,3951 Saint Clair Ave NE,vietnamese thai chinese,41.516503,-81.66492891104507
+15,XUA7xA7myMaCuN6G3xYdIA,Number One Pho,OH,Cleveland,44114,243.0,3.5,3120 Superior Ave E,vietnamese,41.5107498168945,-81.6690826416016
+16,cRTkev8c66o6q6v7FstjLA,Szechuan Cafe,OH,Cleveland,44114,58.0,3.5,2999 Payne Ave,szechuan,41.50811,-81.6691
+4,_4qndNOqaB-dDIPCI2MkCg,Cravings Thai Cuisine,OH,Rocky River,44116,96.0,4.0,19701 Lake Rd,coffee thai bubbletea,41.48340563045333,-81.84005458222275
+6,h2Gc7ZP0LN6VZWqIRYtCEA,Thai Thai,OH,Lakewood,44107,230.0,4.0,13415 Madison Ave,thai bubbletea vegan,41.47676,-81.78617
+9,eBeTO_2kXxa6UDjvIGAM2g,Sweet Mango Thai Cuisine,OH,Strongsville,44136,211.0,4.0,14610 Pearl Rd,thai,41.3088226318359,-81.8358917236328
+10,ZKleJOmu2er2HVBvcnNuKA,Macaron Cafe,OH,Strongsville,44136,10.0,2.5,17271 Southpark Ctr,bubbletea cafes,41.307916,-81.822184
+11,oPvKw4geZZRheMhkQC4TMA,Pho & Beyond,OH,Strongsville,44136,37.0,4.0,13500 Pearl Rd,vietnamese,41.31595437751892,-81.83534935810938
+13,YQ8BgjttUCgyUNVv4lLVrA,Kintaro Sushi & Hot Pot,OH,Rocky River,44116,98.0,4.0,3111 Westgate Mall,sushi hotpot,41.46172333,-81.84974667
+16,Pnh4BZZjI7rjMFIH6S3Irg,City Pop Sushi,OH,Cleveland,44114,4.0,5.0,1816 E 12th St,bubbletea sushi,41.50175787925382,-81.6849879138489
+17,pfKRzf2-Mna36bJ4KgKIxg,Brown Sugar Thai Cuisine,OH,Rocky River,44116,112.0,3.5,20130 Ctr Ridge Rd,thai,41.4647380392225,-81.8439335508532
+18,t0T_4MM4EUHbCzBTF11FHA,Thai Kitchen,OH,Lakewood,44107,221.0,4.0,12210 Madison Ave,thai salad soup,41.47719,-81.77435
+21,was-ZYQR2VKyyWrlkQnQWQ,Corner 11 Bowl & Wrap,OH,Cleveland,44113,156.0,4.5,2391 W 11th St,asianfusion poke ramen,41.47948,-81.68903
+23,LBQRwD514qV6VMmCGIFYsA,Omizu Japanese Restaurant,OH,Parma,44129,112.0,4.5,6843 Ridge Rd,japanese bars sushi,41.379137,-81.733429
+24,ix8Xv6sHk0F0e8wJ5_a9Og,Larb Thai Restaurant,OH,Brunswick,44212,161.0,4.5,452 Pearl Rd,cocktailbars thai,41.2630106222151,-81.8416246343171
+26,PJ8VJqsTdJno0beARzaTrQ,Kintaro Sushi & Hot Pot,OH,Brooklyn,44144,367.0,4.0,7325 Northcliff Ave,japanese hotpot sushi,41.42457,-81.73608
+27,T2JwvV8hH15KbnS1OCnrJg,Thai Elephant Restaurant,OH,Cleveland,44111,123.0,4.0,16610 Lorain Ave,thai,41.4506683195004,-81.8140539100868
+28,bFTrpstGo0INBIVMDumMKA,Otani Noodle - Downtown,OH,Cleveland,44114,214.0,4.5,234 Euclid Ave,ramen noodles,41.4994509,-81.6915759
+29,ESCeeLwhOSZ1ketQn1nq8A,Kim Se Cambodian Cuisine,OH,Cleveland,44113,19.0,4.5,1979 W 25th St,cambodian thai,41.484668,-81.703108
+30,JftoP9r6TT98v83hfY9RZw,Mandarin House Chinese Restaurant,OH,Cleveland,44130,45.0,4.0,10393 W Pleasant Valley Rd,chinese vietnamese,41.36352,-81.75811
+32,DPRFD406aRHhv1cL_RGmyw,Brown Sugar Thai Cuisine,OH,Lakewood,44107,122.0,3.5,14725 Detroit Ave,thai sushi,41.48457,-81.79924
+35,Kxlt3ZNmTzbxRFYelWAmKA,China Chef,OH,Cleveland,44135,19.0,3.5,15200 Puritas Ave,chinese,41.435459,-81.8028408
+36,0G-WFdOu3_KW3mBZJQq5Cg,Phuel Cafe,OH,Cleveland,44115,132.0,4.0,1350 Euclid Ave,cafes hotdogs newamerican,41.5006907,-81.6824334
+37,K1GMWMm_BfG_0ew_PtMnhA,Balance Pan-Asian Grille,OH,Cleveland,44114,86.0,4.5,515 Euclid Ave,panasian,41.50005,-81.68958
+38,LsCPb_oYzeB_LkDlDp5Udw,Lotus Thai House,OH,Parma,44134,74.0,4.0,5869 Broadview Rd,thai,41.40358,-81.68989
+39,kXIJwryYY2xDHNnI7jz-WQ,Pho Thang Cafe,OH,Cleveland,44114,341.0,4.0,815 Superior Ave E,vietnamese,41.50228,-81.68935
+44,a58P2BPCCbQgDMbEoLfWzg,Emperor's Palace,OH,Cleveland,44114,152.0,3.5,2136 Rockwell Ave,dimsum cantonese,41.5083399,-81.67853
+45,4rSHsXO4ozQoD0hoPCDatQ,China Express,OH,Lakewood,44107,38.0,2.5,13621 Detroit Ave,chinese,41.4851178,-81.7868316
+46,-_DxZ8gKU50sfuZEu4ypKg,Saigon Restaurant and Bar,OH,Cleveland,44115,242.0,4.0,2061 E 4th St,vietnamese chinese thai,41.4989085,-81.6899104
+49,ja7zjowr6ymsVglQXZZ6BA,Great Taste Chinese Restaurant,OH,Cleveland,44114,92.0,3.0,1803 E 12th St,chinese buffets,41.5019684,-81.6846008
+1,idRi0ydXM_Za_Tdujcuc8g,Snobug,OH,Cincinnati,45247,3.0,4.5,5884 Cheviot Rd,shavedice,39.2004599923634,-84.60009789967314
+2,I1VQoAdTU7D-hQU9uZc0-A,Snowie Shaved Ice,OH,Cincinnati,45209,1.0,2.0,3760 Paxton Ave,shavedice,39.14435333,-84.42891833
+3,gfpq6TchuTyzvPsjJ47BuA,Kona Ice West Cincinnati,OH,Cincinnati,41073,3.0,3.5,,foodtrucks shavedice,39.10713,-84.50413
+5,eShQ9qsAYEVxhWx2VS-MYw,Chako Bakery Cafe,KY,Covington,41011,69.0,5.0,611 Main St,cakeshop bakeries japanese,39.0836873,-84.5177131
+6,33nLuyUMZE4g3sQP_soXAg,Schneider's Sweet Shop,KY,Bellevue,41073,87.0,4.5,420 Fairfield Ave,candy chocolate shavedice,39.10711,-84.48189
+7,f5WVGO3tA2vM-39pCyi1WA,Cone Zone,OH,Cincinnati,45211,30.0,3.5,4101 Harrison Ave,icecream juicebars shavedice,39.1578314482786,-84.6176704891325
+9,pd1OUKeSfKqIMI3ARggptA,Dai Trang Bistro,OH,West Chester,45069,166.0,4.0,4970 Union Centre Pavillion Dr,vietnamese filipino asianfusion,39.341631,-84.457383
+13,9fcFE47BVo5fxVBGbOIvXw,Mr. Genes Dog House,OH,Cincinnati,45223,35.0,4.5,3703 Beekman St,hotdog,39.15364,-84.55074
+0,nMbmcvx9FSKDMrkXXls86Q,Boba Cha,OH,Cincinnati,45202,166.0,5.0,1606 Main St,bubbletea,39.11295,-84.51223
+1,S2k1xavOBp3j32ubwxpQgA,Thai Tea House,KY,Florence,41042,7.0,5.0,7563 Mall Rd,bubbletea thai,39.00121697601383,-84.65392430904134
+3,Q71dBguMiZlL4jkANPqrBA,Milk Jar Cafe,OH,Cincinnati,45209,185.0,4.5,3880 Paxton Ave,icecream coffee bubbletea,39.14726,-84.42734
+4,zMJfiySX10-Ek12Zi5__nA,Smoochies Boba & Crepes,OH,Hamilton,45013,7.0,4.5,113 Main St,creperies bubbletea juicebars,39.4025852766105,-84.5675018057227
+6,Z_CE18B9PnfveiJ8jbJ8FA,Tea 'n' Bowl,OH,Cincinnati,45219,252.0,4.0,211 W Mcmillan St,bubbletea asianfusion szechuan,39.127723,-84.519864
+7,-BKzrhdl3tv7e9uyFleXgw,BobaTea,OH,Cincinnati,45218,5.0,3.5,20 Eswin St,bubbletea juicebars shavedsnow,39.26975,-84.52227
+8,nQexC9Oflp1MlS_66aYm4g,Mai Thai Restaurant and Sushi Bar,KY,Florence,41042,331.0,4.5,7710 US 42,sushi thai,38.991793,-84.636714
+9,Gdw_apTSIUaOgxi7aK4WaA,Pholicious,KY,Florence,41042,63.0,4.0,2094 Florence Mall,vietnamese,38.9950412067719,-84.6494976465593
+11,yP0pPyYqDish-4SbNrnS3g,Chatime,OH,Cincinnati,45219,40.0,3.5,204 W McMillan St,bubbletea coffee juicebars,39.12815,-84.51957
+14,DJvajs6N5i3Xr7ExNxgFmw,Poke Hut,OH,Cincinnati,45202,238.0,4.5,1509 Race St,poke bubbletea asianfusion,39.11176,-84.51756
+15,5F25smnbPsbYz6B0qLjdeA,Bon Mi Street,KY,Newport,41071,12.0,4.5,1 Levee Wy,bubbletea vietnamese juicebars,39.09533487958106,-84.49607142570885
+18,3DESvVBHlsGarqJ0nvDgNQ,Maki Express Ramen House,OH,Cincinnati,45219,208.0,4.0,209 W McMillan St,ramen,39.12777,-84.5198
+19,bG8loiQE3xBzrQ-O0zOjdA,Owl Tea,OH,Cincinnati,45219,2.0,3.5,204 W McMillan St,bubbletea coffee juicebars,39.1281065616012,-84.51961991748786
+20,T2jnXjvCszd880MPHRl_VA,Memorie Makers Cafe & Cupcakery,KY,Florence,41042,14.0,4.5,8460 US Hwy 42,customcakes coffee cupcakes,38.977663,-84.658595
+22,Sr8LNubU6A3ZNT9HRtgYpA,Basil Thai Kitchen,KY,Florence,41042,3.0,3.5,2074 Florence Mall,bubbletea ramen thai,38.99510483,-84.64975833
+24,8nfNnMn6exDNXS2z2jfKWQ,Pho Lang Thang,OH,Cincinnati,45202,642.0,4.0,1828 Race St,vietnamese,39.116361,-84.5183507
+25,BSlQWn6ZuugFBfHpb-w9Vg,Fusion Wok Sushi Bar,OH,Cincinnati,45251,56.0,3.0,3645 Stone Creek Blvd,japanese sushi asianfusion,39.2525697298945,-84.600099362433
+31,AvTT4GA_tUmK-n_kUVPxMQ,Saigon Subs and Rolls,OH,Cincinnati,45202,90.0,4.5,151 West 4th St,vietnamese,39.0993208249493,-84.5153464767474
+32,Os5iXZdc4mP9MJkdzMKxmg,Kung Fu Tea,OH,Cincinnati,45219,18.0,3.5,228 W McMillan St,bubbletea coffee juicebars,39.12809,-84.52043
+34,GSb2WdNWSQdegRGu-ch8WQ,FUSIAN,OH,Cincinnati,45202,240.0,4.0,600 Vine St,sushi japanese,39.10287,-84.51295
+35,RSL5-7hJ-tNmvfCBMpkjOA,China Inn,OH,Hamilton,45013,29.0,4.0,1436 Main St,chinese asianfusion,39.4250305554717,-84.5926988124847
+37,JiV9rc-_l8YfJCozVzww9A,Bolly Bears,OH,Cincinnati,45202,14.0,3.5,1801 Race St,indpak asianfusion cookingschools,39.1153984,-84.5184402
+38,cmHb2UnNSLUExB-Md8FIyg,Green Papaya,OH,Cincinnati,45209,340.0,4.0,2942 Wasson Rd,thai sushi,39.14459,-84.43391
+39,z3zrupctJVC6luFJAQo5GA,Thai Koon Kitchen,OH,West Chester,45069,210.0,4.0,9114 W Chester Towne Ctr,thai noodles,39.3260098,-84.4305251
+40,oSRIdD7BAcqeS0b6okHUYQ,King Wok,OH,Cincinnati,45219,76.0,3.0,203 W McMillan St,chinese,39.12764,-84.51952
+41,Mc98LPJSQbE-vGkLcTcBuQ,Asiana Thai & Sushi,OH,Cincinnati,45209,435.0,4.5,3922 Edwards Rd,thai sushi asianfusion,39.15072,-84.44194
+42,E2Vgixf9ICqyUPbANwZpQw,Fortune Noodle House,OH,Cincinnati,45219,296.0,4.0,349 Calhoun St,chinese noodles soup,39.12837,-84.52052
+43,1T-0aO-C9jfedIVjqMiNlg,Brunch,OH,Cincinnati,45202,1.0,4.0,1801 Race St,newamerican,39.1154,-84.51844
+45,Q6gRKM-mqjbuSPIwv-qyyA,China Chef Restaurant,OH,Cincinnati,45239,46.0,3.5,8034 Colerain Ave,chinese,39.21847,-84.58536
+47,sS3mEd_ZSHEBkEQVEGPkFw,Norwood Nutrition,OH,Cincinnati,45212,2.0,4.0,3919 Montgomery Rd,juicebars bubbletea acaibowls,39.15096,-84.46403
+0,cMYED4mnj0RUOv2MkzrXrQ,Hawaiian Shaved Ice,KY,Cynthiana,41031,1.0,4.0,1797 Paris Pike,shavedice foodtrucks,38.38064952815564,-84.30800937438016
+1,x-aOzFDOSkOSsXkbVk1-zw,Bella Shave Ice,KY,Lexington,40511,2.0,4.5,,shavedice foodtrucks,38.0875015258789,-84.4780807495117
+8,ru6DzLpo-5cDR6duH9DzNw,Roll Over Rolled Ice Cream,KY,Morehead,40351,1.0,1.0,168 E Main St,icecream bubbletea,38.18325,-83.43379
+4,06tArVnrs1HbXYfuRglv4Q,Ohana Ice,KY,Georgetown,40324,1.0,4.0,814 S Broadway St,shavedice foodstands,38.19402,-84.56115
+3,s85zkZVxPXhEtxw3FVYCTw,Dairy Dream of Albany,IN,Albany,47320,25.0,3.5,805 W Walnut St,icecream shavedice sandwiches,40.3022537231445,-85.2456741333008
+0,jEo_-UKzGV2K_wXqNggdpQ,Hoku Poke,IN,Muncie,47303,30.0,4.0,1615 W University Ave,poke bubbletea icecream,40.1975753106956,-85.4048695767494

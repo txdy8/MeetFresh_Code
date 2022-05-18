@@ -1,0 +1,465 @@
+,id,name,state,city,zip code,review count,rating,address,categories,latitude,longitude
+0,HrKzqMFrcaBapatzfjZp-A,Bubble Tea Cafe,IA,Davenport,52806,16.0,3.0,320 W Kimberly Rd,juicebars bubbletea,41.564517,-90.573445
+1,RfWp0SfAEtbb7K8I5PtIFQ,Miss Phay Cafe,IA,Davenport,52801,67.0,4.5,512 Brady St,asianfusion,41.524951,-90.574358
+2,GW1Hj9Va4_Z9-EE0NlHpkA,Icy Bubbles,IL,Moline,61265,6.0,3.5,4601 16th St,bubbletea icecream juicebars,41.46662,-90.50772
+3,9QThbjttTwr9LT3rujCPTw,Eddy's Snack Bar,IA,Davenport,52804,27.0,5.0,1132 W Locust St,asianfusion sushi,41.538469,-90.589894
+4,X73h5UZTjUljVpZtq0uteA,Royal Tea,IA,Le Claire,52753,1.0,1.0,316 N Cody Rd,coffee nonprofit jewelry,41.60006,-90.34403
+5,OqAGdWV6_FmVF-5r318vVg,Bubble Tea southpark mall,IL,Moline,61265,5.0,1.5,4500 16th St,coffee juicebars,41.4665079924215,-90.5033684418342
+0,HxyGYLiuE-p-7fyz8hsslg,Sno Biz of Iowa City REAL Shave Ice Made Right,IA,Iowa City,52245,4.0,4.5,812 S 1st Ave,shavedice foodstands,41.6514053344727,-91.5008926391602
+0,LwArK88jtowNBgMeQIP7FA,Teamo Tea,IA,Iowa City,52240,31.0,4.5,121 E Washington St,bubbletea,41.65975,-91.53366
+1,UJo1BzL61AAfse6X4e8Dqw,Hi Tea,IA,Cedar Rapids,52402,10.0,4.5,5472 Blairs Forest Way NE,bubbletea coffee desserts,42.033118,-91.6785
+3,pZO_Q4JTXQJ-vQg5ds1Sww,La Tea,IA,Iowa City,52240,10.0,3.5,123 E Washington St,bubbletea accessories,41.659751,-91.533593
+4,JeAiW5wYoMdoBRu-_bAHnw,Bubble Pop,IA,Iowa City,52240,13.0,4.0,201 S Clinton St,bubbletea,41.659268015631,-91.5353561
+8,m38prG2YSVZSyg1xJIxsxA,LA Wine Bar & Restaurant,IA,Iowa City,52240,9.0,4.5,180 E Burlington St,korean bubbletea karaoke,41.65802,-91.53356
+10,vkC9uwLvVQ05oYWRKIE_6w,Pho Mai Restaurant,IA,Cedar Rapids,52404,108.0,4.0,2315 Edgewood Rd SW,vietnamese,41.95555,-91.71504
+11,-tyy3knugCLNGmJ3TU3lYQ,Pinoy Cafe,IA,Cedar Rapids,52401,3.0,2.5,1100 3rd St SE,filipino foodstands bubbletea,41.9712781381993,-91.65764154255699
+12,ZQclX6V0cBcL36cu7w8nkA,No.18 Karaoke & Bubble tea,IA,Iowa City,52240,2.0,2.5,223 S Gilbert St,bubbletea karaoke,41.6587057,-91.5302166
+14,1OLMnGatzpKU2qJvTGgFIg,Soseki Café,IA,Iowa City,52240,78.0,4.5,227 S Dubuque St,sushi japanese coffee,41.6582939651956,-91.5332741508928
+15,nJfpZE6V1xE-ovpOe0biGg,Orange Leaf Frozen Yogurt,IA,Cedar Rapids,52402,11.0,3.5,4866 1st Ave NE,desserts icecream diyfood,42.0266865,-91.619847
+16,1fiUMU90Y1Ag3SiKfmRIJg,Uncle Sun,IA,Iowa City,52240,55.0,2.5,100 S Linn St,chinese,41.6600911001859,-91.5315966666615
+17,gplthUOqt28Qar-YQSpI2A,Szechuan House,IA,Iowa City,52240,117.0,3.5,320 E Burlington St,szechuan,41.6581611633301,-91.5307235717773
+18,DensY6Kenq6u8ZhHVbgeYA,NaRa Thai Cuisine,IA,Marion,52302,84.0,4.5,1725 Blairs Ferry Rd,thai panasian asianfusion,42.03294,-91.63054
+0,f36TN3YkL6pR2C6_3D4NFg,Kealohas Seasonal Shave Ice Stand,WI,Milwaukee area,53201,3.0,5.0,,streetvendors shavedice,43.0346298217773,-87.9150772094727
+1,8FIrip9y7zJ5nP17zxNMUQ,Fusion Poke,WI,Milwaukee,53202,84.0,4.5,1813 E Kenilworth Ave,poke ramen,43.0598446760545,-87.8874788259521
+2,EcMDuvX7fTOpp20n4Id1jw,Ono Kine Grindz,WI,Wauwatosa,53213,510.0,4.5,7215 W North Ave,hawaiian bbq delis,43.06048,-88.0026
+3,CpaMBEYupQrelpl97TN-iw,Meat on the Street,WI,Milwaukee,53233,58.0,4.0,1125 N 9th St,filipino,43.04493,-87.923696
+4,W8jtWVd_y5IkPf4wS7dfLQ,Blue Bat Kitchen & Tequilaria,WI,Milwaukee,53202,423.0,4.0,249 N Water St,newamerican breakfast_brunch,43.0336317,-87.9092532
+5,tEdIvCtkc_bKDtg2J5FUqQ,Champps Americana,WI,Brookfield,53005,143.0,4.0,1240 S Moorland Rd,tradamerican sportsbars,43.01844,-88.10569
+0,dmuA3vymlN3tz_8DCSgbLQ,Pearl of Canton,WI,West Bend,53095,57.0,4.0,102 S Main St,sushi thai chinese,43.4232739981177,-88.1826012209058
+1,bjVLhHzpjiBnhzfODaPGSw,Pho VN,WI,Sheboygan,53081,68.0,4.0,2209 S Business Dr,vietnamese noodles sandwiches,43.73058,-87.72964
+2,bQ8LpjRnPyNQrNjYNbFruw,SereniTea,WI,Milwaukee,53233,47.0,4.0,1414 W Wells St,bubbletea,43.04051,-87.93053
+3,6sOwZcubajTC9HZZgso6QA,Bangkok Thai Cuisine,WI,Oshkosh,54901,45.0,4.0,80 Wisconsin St,thai,44.019551,-88.548238
+4,MIU0oMnyyVor-6orkkUfOw,Fusion Poke,WI,Milwaukee,53202,3.0,5.0,1433 N Jefferson St,ramen poke bubbletea,43.04896,-87.90621
+5,Ro6SzQF7excvmhXMBPld3A,Le's Pho,WI,Cedarburg,53012,89.0,4.5,W63 N148 Washington Ave,vietnamese,43.2807404660115,-87.9871952533722
+6,-HfKSZ8l5PHOzD8xjo_eEQ,Bubblelicious,WI,Wauwatosa,53226,18.0,3.5,2500 N Mayfair Rd,bubbletea,43.063668,-88.044399
+7,kuXjduZxxILXQZLCVjqelA,R&R Poke,WI,Wauwatosa,53213,78.0,4.5,1460 Underwood Ave,sushi juicebars poke,43.050889,-88.008342
+8,dihFK3WDo0cXYxcl-PAtvQ,Fusion Cafe - West Allis,WI,West Allis,53214,146.0,4.0,1427 S 108th St,chinese sushi noodles,43.01558,-88.04746
+9,xHf3sZWyWp448Cz9XJf6Jg,Xankia,WI,Milwaukee,53203,156.0,4.0,222 W Wells St,vietnamese bubbletea sandwiches,43.0402794,-87.913414
+10,678_7pGRnQSqmC1Rj8kd_g,Evie's Vietnamese Kitchen,WI,Menomonee Falls,53051,74.0,4.5,N89W16851 Appleton Ave,vietnamese,43.180336,-88.119916
+12,AMAPqrnb00Le2Iyx1D-S5Q,Pho One24,WI,Brookfield,53005,206.0,4.0,3705 N 124th St,vietnamese,43.08544,-88.06696
+13,aGku_HhnIiLMA4_O3Rl70Q,Bento Xpert,WI,Milwaukee,53233,58.0,5.0,1125 N 9th St,taiwanese chinese,43.04499,-87.92371
+14,BCxnxlqdzptqJVastOCm1Q,DanDan,WI,Milwaukee,53202,354.0,4.0,360 E Erie St,asianfusion dimsum,43.0300114967349,-87.9053248279705
+15,sewGdnVzNyvSclu59HhRLQ,Swaye Tea,WI,West Allis,53214,8.0,4.5,7326 W Greenfield,tea herbalshops juicebars,43.016974,-88.004271
+16,dqsP3VWz4HVKV7R-EMzXKQ,Rice N Roll Bistro,WI,Milwaukee,53202,398.0,4.5,1952 N Farwell Ave,sushi thai asianfusion,43.0562591552734,-87.8888854980469
+17,_l72RF5dwuJ_RxqlGsNsgA,Asian Fusion,WI,Milwaukee,53202,131.0,4.0,1609 E North Ave,asianfusion chinese noodles,43.0598405274044,-87.8901134688587
+18,CNKAwzEuM_KQjklPRmAk6A,PHO 4 U Vietnamese Cuisine,WI,Brookfield,53005,66.0,4.0,3835 N 124th,vietnamese,43.08662567,-88.06724633
+19,ayk85ML_76bKu-8lhCSuhQ,Tangled - Noodles and More,WI,Milwaukee,53233,108.0,4.0,1404 W Wells St,chinese noodles,43.0403949,-87.9303894
+20,K8gurISD9lfFXC3L1lYxJw,O So Good,WI,Milwaukee,53218,29.0,4.0,6309 N 76th St,asianfusion,43.13246,-88.00632
+21,V_4CC3zryGdAzzw0zcj64w,The Drive Thru,WI,Milwaukee,53202,50.0,3.5,1801 E N Ave,donuts coffee hotdogs tradamerican,43.0598183,-87.8877792
+22,RH_HWeJeeRHzFV5bPTwViQ,Artisan Ramen,WI,Milwaukee,53202,215.0,4.0,530 E Mason St,asianfusion ramen sushi,43.0402008,-87.904937
+23,Jd7aUNdeHIRo8tLeuXByrw,Huan Xi,WI,Milwaukee,53211,189.0,3.5,2428 N Murray Ave,chinese hotpot,43.06207,-87.88522
+24,iNGUnsNJd0V3KR3Qr5Lg4A,Vientiane Noodle Shop,WI,Milwaukee,53215,106.0,4.0,3422 W National Ave,thai noodles laotian,43.02196,-87.95726
+25,c7ctzkIH3jfHfI1tJTaFdw,RuYi,WI,Milwaukee,53223,109.0,3.5,1721 W Canal St,chinese sushi japanese,43.030471,-87.934636
+26,jzQVnUZigCAL3OO5lunR7w,East Garden Chinese Restaurant,WI,Milwaukee,53211,80.0,3.5,3600 N Oakland Ave,chinese,43.084377,-87.887231
+27,9zGzoNCAFFM4VcMEr0uS6g,Siam Thai,WI,West Milwaukee,53214,70.0,4.0,4819 West National Ave,thai,43.0197688985516,-87.9742575380287
+28,Br5k1FWZ_demWPUqSKL9yQ,Pho Saigon,WI,West Allis,53214,100.0,4.5,10534 W Greenfield Ave,vietnamese,43.01675,-88.04416
+29,VMSepkyUwC5pKgywZmddOQ,Mekong Café,WI,Milwaukee,53208,211.0,3.5,5930 W N Ave,vietnamese thai laotian,43.0608296799669,-87.9873718681931
+30,0Wlbz0xz8Ml7qDSkEKwi1A,Fushimi ,WI,Milwaukee,53202,285.0,3.5,2116 N Farwell Ave,sushi seafood buffets,43.0580826,-87.8872032
+31,BobxxfIQSprzDbQf5kw_Qw,Chopstix,WI,Milwaukee,53202,97.0,3.0,1820 N Farwell Ave,chinese,43.0543883,-87.8907773
+32,NMAPrvJlBUTHS0bBzwrfAA,Twisted Cafe,WI,Milwaukee,53202,7.0,2.5,1505 N Farwell Ave,newamerican breakfast_brunch cocktailbars,43.05002,-87.89556
+33,wV1Dqk1aoGHXezTof5W9Jw,Thai Bar-B-Que Restaurant,WI,Milwaukee,53214,124.0,3.5,3417 W National Ave,thai,43.02127,-87.95681
+1,0izpkeyBoktXuzqVZJFBRQ,Am Ice Cream,WI,South Milwaukee,53172,6.0,5.0,1232 Milwaukee Ave,bubbletea shavedice icecream,42.9110295097695,-87.8666825965047
+4,prolZXYvLRL5S4ArqH9pyg,Bubblelicious,WI,Greendale,53129,31.0,3.5,5300 South 76th St,bubbletea juicebars,42.9481465239848,-88.0043026697518
+6,62iNJczC0j_mzbQcTHmBgw,BAMBU,WI,West Allis,53227,25.0,4.5,10708 W Oklahoma Ave,bubbletea juicebars vietnamese,42.9886392,-88.0460234
+11,37FCmqhykhb5_OLFX0BkMQ,Pho King Awesome,WI,Waukesha,53189,133.0,4.0,316 W Sunset Dr,vietnamese,42.98866,-88.23327
+17,0E5aLMKlywY4odyOPKJfhA,Kyoto,WI,Greenfield,53220,366.0,4.0,7453 W Layton Ave,japanese sushi,42.9590651,-88.0064365
+19,2F3i1Z5QdohmcWHr1eYoKg,Cafe Lolo,WI,Milwaukee,53207,2.0,3.5,2900 S Shore Dr,foodtrucks bubbletea coffee,42.993819,-87.881069
+21,VY54yrgvq5wXGCXdHCvK3g,Huế,WI,Milwaukee,53207,263.0,4.0,2691 S Kinnickinnic Ave,vietnamese,42.99588,-87.8971399
+22,8xJ-PcK6JF4xP1WmKbvu4A,Tanpopo Ramen & Sushi Restaurant,WI,Hales Corners,53130,271.0,4.0,5191 S 108th St,sushi ramen bubbletea,42.95003,-88.04881
+29,vlQ_M74MwwwPGgs2RhGcrw,Fujiyama,WI,Milwaukee,53227,209.0,4.0,2916 S 108th St,sushi teppanyaki,42.9901159,-88.0468551
+30,Cotd86YcFb7qxAdpQLt5tg,PHO EVER,WI,Hales Corners,53130,156.0,4.0,5740 108th St,vietnamese,42.9400491,-88.047777
+33,9EdBWM3ZWCV1BYakagVt8A,Pho Cali,WI,Milwaukee,53221,171.0,3.5,4756 S 27th St,coffee breakfast_brunch,42.958128,-87.948195
+35,8jnt3fGOfWrDuiDcJNamQQ,Pho Viet,WI,Milwaukee,53221,182.0,3.5,5475 S 27th St,vietnamese,42.9452694,-87.9493365
+45,hNGqy4vYBa1EdD5e2bUO-w,Singha Thai Restaurant,WI,Milwaukee,53227,161.0,3.5,2237 S 108th St,thai desserts soup,43.00337,-88.04753
+12,SHwy1-dDUwp10-s8b7SbZw,Divino Gelato Cafe,WI,Racine,53403,40.0,4.0,245 Main St,gelato cafes,42.730894,-87.783222
+16,vt_FMxc7i6mucKz-cgpgdw,Takarajima Sushi,WI,Madison,53716,13.0,4.0,4674 Cottage Grove Rd,japanese sushi,43.08509,-89.30095
+30,_nXBA8U3O4nzBYMjlze4YA,Hong Kong Restaurant,WI,Kenosha,53140,14.0,3.0,2727 18th St,chinese,42.62427,-87.84274
+2,p5LmGtCNBI74xmwhSmyo8Q,Jade Mountain Tea Company,WI,Madison,53704,148.0,4.5,2611 E Johnson St,bubbletea taiwanese,43.102963,-89.349804
+0,HgaZK2rAIE7N39PGjryvQg,Jasmine Leaf,WI,Appleton,54915,7.0,4.5,1804 S Lawe St,bubbletea coffee,44.24651,-88.39466
+0,W7ZP6RqlqziQ4gy1ap1pwA,Green Bay Ice Clouds,WI,Ashwaubenon,54304,5.0,5.0,2271 True Ln,shavedsnow shavedice,44.4926699,-88.07288
+1,UA93m5KhUm-D3ca8gmFUZw,Frio Mexican Treats,WI,Appleton,54911,33.0,4.5,131 W Wisconsin Ave,icecream coffee juicebars,44.27285,-88.40698
+2,ooZtCedmSMLXmIo7DxL4Bg,Doughlicious,WI,Appleton,54911,12.0,4.0,322 W College Ave,desserts shavedice icecream,44.26213,-88.40978
+3,4QKyX0ESjWr2x4_uh7H4tw,Pink Guava,WI,Green Bay,54301,6.0,4.0,614 Bodart St,bubbletea shavedice,44.51494603831463,-88.00793206885803
+1,fBPzm4_IA2tnezLENtJy_w,Fika Tea Bar,WI,Appleton,54911,19.0,4.0,207 W College Ave,bubbletea coffee bakeries,44.26148,-88.40764
+3,Cv42OEUaLOhBZDq4CF3iYA,Basil Cafe,WI,Appleton,54911,207.0,4.5,1513 N Richmond St,vietnamese thai asianfusion,44.27515,-88.41611
+4,9LGnWcMXVROAXIKjV0Niaw,Bubblelicious,WI,Appleton,54913,2.0,3.0,4301 W Wisconsin Ave,bubbletea,44.268942,-88.47142079999999
+5,EfkMhZgRozNMHPGUsRAITA,My Lee's Egg Roll House,WI,Appleton,54911,50.0,4.5,305 N Richmond St,vietnamese thai,44.264232635498,-88.4160003662109
+0,81yK9b--8ZEVduUkKNagVQ,Boba Bae,WI,Green Bay,54304,2.0,4.0,2321 S Oneida St,bubbletea desserts,44.48836517026853,-88.06529386172954
+9,nAk9bFtoc9gf7U1QVPhXGg,Narin's Thai Kitchen,WI,Green Bay,54302,32.0,4.0,1981 East Mason St,thai,44.490941,-87.975186
+10,0deyVO52ZSwX48y9xt_IkQ,Pho 1 Noodle and Grill,WI,Green Bay,54304,105.0,3.5,2201 S Oneida St,vietnamese noodles,44.49182,-88.06229
+1,mki9cH-6mz7-0nlth7BI-A,Icki Sticki,WI,Verona,53593,14.0,4.0,103 South Main St,coffee icecream shavedice,42.99009,-89.53302
+2,NF55GQLi4CTpjsqnjdrPqA,Tahiti Sweetie Shave Ice,WI,Oregon,53575,1.0,5.0,,foodstands streetvendors,42.92645,-89.38304
+3,VTJIw7e4s5MSkg4OdNer6w,Miko Poke,WI,Madison,53711,245.0,4.0,2701 Monroe St,poke hawaiian,43.05679,-89.42893
+5,pQDI36eyR7Swk6tPJaxruA,BAMBU,WI,Madison,53705,50.0,4.5,550 N Midvale Blvd,juicebars bubbletea vietnamese,43.07233,-89.45172
+0,EQRJDcr_ms-X5MIC479xYQ,Yummee Treats,WI,Madison,53705,71.0,5.0,5510 University Ave,bakeries bubbletea,43.083093,-89.475506
+2,58AYlURsCtCHLEYic_sBBg,Le C’s Patisserie & Tea House,WI,Madison,53703,39.0,4.5,411 State St,desserts bubbletea bakeries,43.07465,-89.392222
+5,nWbKigQTHKXMuwsvva_rXQ,Kung Fu Tea,WI,Madison,53703,78.0,4.0,449 State St,bubbletea coffee juicebars,43.07447,-89.39339
+8,jaHKCpllY6Vb_kgQ4DYFkw,Sencha Tea Bar - Madison,WI,Madison,53703,84.0,4.0,430 State St,coffee bubbletea,43.075,-89.39224
+9,HVpwpXneaCWMeEBF7H8jpQ,Taiwan Little Eats,WI,Madison,53703,117.0,4.0,320 State St,bubbletea taiwanese asianfusion,43.07495,-89.39076
+13,kVXyz0mYd7NaGuGdM_VMeQ,Asian Sweet Bakery,WI,Madison,53715,111.0,4.5,1017 S Park St,bakeries chinese,43.05601,-89.39775
+14,8GZzmc_XBgGvFUbYuzJugA,Ten Tea,WI,Madison,53703,19.0,4.5,540 State St,bubbletea,43.07513,-89.39444
+19,sepsmC6DR3rwZGdH0GI2ZA,Greenlife Essence,WI,Madison,53719,2.0,3.0,66 W Towne Mall,juicebars bubbletea,43.056348,-89.506715
+21,fzZVN4KPwxqpChEy0FEj7Q,Viet Kitchen - pho & bánh mi,WI,Madison,53719,35.0,4.0,682 S Whitney Way,vietnamese bubbletea sandwiches,43.05042424933408,-89.47525579535983
+24,pZu7AChm-rW8apEfFHYQBA,Fancy Roll,WI,Madison,53719,10.0,4.0,66 W Towne Mall,desserts,43.058402,-89.505665
+26,QlAPX3c0Vm2dU_w3puIAIw,Double 10 Mini Hot Pot,WI,Madison,53703,175.0,4.5,600 Williamson St E,hotpot chinese,43.07683981422445,-89.37430188801501
+27,HHCn1akqIpl_BhdcJoYPbw,Saigon Noodles,WI,Madison,53719,403.0,4.0,6754 Odana Rd,vietnamese noodles,43.0571,-89.49924
+28,uoV4aDfXbRmvyHSezdn--w,Tai's Asian Bistro,WI,Madison,53719,114.0,4.0,638 S Whitney Way,asianfusion chinese,43.0518290810292,-89.4757021904907
+29,wX8btbqgyFh0yHgmyR8ovA,Monsoon Siam,WI,Madison,53704,220.0,4.0,2045 Atwood Ave,thai soup bars,43.092222,-89.353436
+31,Ff9YHvBxijzhdtYVQU09dQ,Hmong Legacy Market,WI,Madison,53713,23.0,4.0,2119 Fish Hatchery Rd,grocery importedfood delis,43.042906895037,-89.4035880256875
+32,VUbACJQR-_dVwyPYMFSodg,Takara 88,WI,Middleton,53562,137.0,3.5,1900 Cayuga St,japanese sushi,43.096109,-89.514261
+34,8cjXEmuqgCbIRudb2D52qw,Nani Restaurant,WI,Madison,53719,222.0,3.5,518 Grand Canyon Dr,dimsum cantonese seafood,43.05513,-89.49728
+36,LtIwF6HuA2dGWJ7OpvLHog,Capitol Café.,WI,Madison,53719,4.0,1.0,66 West Towne,bubbletea coffee juicebars,43.056304015750825,-89.50624874419123
+45,2cetuQgbP1Bnzm-uMRlocQ,Nam's Noodle,WI,Madison,53715,127.0,3.5,1336 Regent St,noodles bars karaoke,43.06805,-89.40864
+47,QIgeUHHn2hrrdEBBm1wFvA,Taste of Sichuan,WI,Madison,53703,42.0,4.0,515 State St,chinese chickenshop soup,43.07459,-89.39423
+48,LG6vpg5Qx_DstY2aT8-O4Q,Asian Kitchen,WI,Madison,53703,111.0,3.0,449 State St,chinese,43.07447,-89.39339
+0,x8EXXJpcbrIeaVefej2aJw,Takara Sushi Station,WI,Madison,53711,137.0,3.0,696 S Whitney Way,sushi japanese,43.05034138940594,-89.47453898969776
+3,B-MM-MxGRuUquPkfnP1FPQ,Flying Pig,WI,Beloit,53511,44.0,3.5,431 E Grand Ave,cafes bubbletea popcorn,42.499961,-89.034366
+8,me1OOLwnUArkKNiVh-QFQQ,O2 Lounge,WI,Lake Geneva,53147,3.0,5.0,647 W Main St,bubbletea oxygenbars juicebars,42.5921187,-88.4330442
+10,r4MGjfidqG_JYd21V3G35A,Happy Cafe,WI,Lake Geneva,53147,12.0,3.0,526 Wells St,cafes,42.585376739502,-88.428092956543
+9,y7d_1d71aUlSaFpIhc4Svg,Two Sisters,WI,Walworth,53184,137.0,4.5,207 N Main St,thai,42.53196,-88.599851
+6,2OoG2sc6c4Zjn_Ppdcc9wQ,PhoComa,WI,Green Bay,54303,23.0,4.5,154 N Broadway,bubbletea coffee panasian,44.5176,-88.020726
+12,MgCwEkRracbjRz-AcMpg7A,Q-Tea Premium Tea House,WI,Green Bay,54303,6.0,3.0,124 S Military Ave,tea coffee,44.52925,-88.06095
+13,jdiqxpkYvnp93i8jWigWqQ,Madame Pho,WI,Kenosha,53142,133.0,3.5,7410 118th Ave,vietnamese,42.5683451,-87.9500862
+14,foWxEJebStfBF1BDBtqbRA,Saigon Cafe,WI,Kenosha,53142,105.0,3.5,3105 80th St,vietnamese coffee juicebars,42.55845,-87.84627
+2,6nGTRF4yRArBih3nE-WrjA,Saigon Panda,WI,Kenosha,53142,12.0,3.0,3105 80th St,chinese,42.5584491897001,-87.8462374582887
+2,X_zoiHUaVCQR-Mfd4Egc6Q,My Flavor It! Place - Lake Zurich,IL,Lake Zurich,60047,17.0,4.0,10 E Main St,desserts shavedice icecream,42.19717,-88.09275
+3,JDL4mHdmLcQV45srrak_dQ,Kona-Ice of Arlington Heights,IL,Arlington Heights,60004,6.0,4.5,,shavedice,42.1523780822754,-88.0073547363281
+5,6X5VXZhFzjk2K0eqRFF2Hg,My Flavor It! Place - Palatine,IL,Palatine,60067,18.0,4.0,117 W Slade St,desserts shavedice icecream,42.1111335331541,-88.0469816552254
+7,nP942EjFe5nNMQsPreAhOQ,My Flavor It! Place - Wauconda,IL,Wauconda,60084,5.0,4.0,321 N Main St,desserts shavedice icecream,42.2625352096543,-88.1444406183853
+8,oQpRgEMKYWYguq187nxuqg,Cafe Koco Bowl,IL,Morton Grove,60053,188.0,4.5,7923 Golf Rd,bubbletea bakeries,42.0539167,-87.8233702
+9,sEbx_ZBM8OQkNfXE2w_dBA,Lina's Frozen Treats and Cafe,IL,Niles,60714,108.0,4.5,9001 N Milwaukee Ave,coffee icecream bubbletea,42.04404,-87.82924
+10,cT8Vvj0a22KNoHnaPhnSBA,Tealicious Bubble,IL,Evanston,60201,96.0,4.5,1565 Sherman Ave,bubbletea taiwanese juicebars,42.045909,-87.681591
+11,dwam3i-2z2IW9pTgvKsiNg,Hangout Cafe,IL,Palatine,60067,82.0,4.5,1937 S Plum Grove Rd,cafes,42.089598,-88.044752
+12,znAow_NHsTKGbpC_5x7fkg,527 Cafe,IL,Evanston,60201,319.0,4.0,527 Davis St,taiwanese chinese bubbletea,42.0461827,-87.6790856
+13,t9ibz97aH3LfhG3ro8HAfA,Coffee Haus,IL,Schaumburg,60195,510.0,4.0,209 W Golf Rd,coffee bubbletea juicebars,42.047891,-88.084485
+14,tpxFBQI-SyafSgshVt5X6g,releaf,IL,Arlington Heights,60005,165.0,4.5,100 E Algonquin Rd,icecream coffee bubbletea,42.0449668,-87.9809377
+15,A8E3d8SaM7UjyLYp_88PTg,Phat Phat,IL,Schaumburg,60193,248.0,4.0,17 S Roselle Rd,noodles dimsum singaporean,42.02644,-88.07965
+17,1vo-CeOaq2gmvspFWQV4pQ,Liquid Fusion Cafe,IL,Northbrook,60062,227.0,4.0,3375 Milwaukee Ave,coffee bubbletea,42.09179,-87.87426
+18,dVhFnV_pLB8StaaLm64FGw,Tugo Tea House,IL,Arlington Heights,60004,148.0,4.5,1285 N Rand Rd,bubbletea taiwanese,42.102062,-87.959247
+19,HmzdlrpNM4hS27BJ-YRNiw,Bayan Ko,IL,Chicago,60613,151.0,4.5,1810 W Montrose Ave,cuban filipino,41.96169,-87.67492
+20,7YEhilJMQOntdKMleZCGuw,Java & Mug Cafe,IL,Chicago,60659,211.0,4.5,3247 W Bryn Mawr Ave,coffee bubbletea,41.98279,-87.71071
+21,Pp1cIZ7rfp6xOxko3lpeQA,Handsome Bakery and Cafe,IL,Schaumburg,60173,170.0,4.0,204 E Golf Rd,coffee bakeries cakeshop,42.050943,-88.07421
+23,-WbHjMI54ZToUDd4DqFc6w,Coffee Haus,IL,South Elgin,60177,67.0,4.0,406 Randall Rd,bubbletea,41.9833014,-88.3416358
+24,FopsAZhFB56ZKtOxNI7r3g,Miko's Italian Ice,IL,Chicago,60618,50.0,4.5,4125 N Kimball Ave,shavedice,41.9564805118135,-87.712901014097
+25,4yiB6iRQuJXzBiq72DVq3g,Van's Frozen Custard & Burgers,IL,East Dundee,60118,190.0,4.5,16 E Main St,sandwiches tradamerican desserts,42.098151,-88.274596
+26,NHEeWlZyCSd7PcIaV__f8Q,Shang Noodle & Chinese,IL,Evanston,60201,181.0,4.0,608 Davis St,chinese noodles bubbletea,42.04612,-87.68031
+27,1CmTajzmWv_BozC0P0RLlA,Knead Bakery and Cafe,IL,Schaumburg,60195,73.0,4.0,233 W Golf Rd,cafes bakeries,42.04898,-88.08565
+28,kXIL1i0ZuyNtu9966PHxfQ,Johnnie's Beef,IL,Arlington Heights,60005,507.0,4.0,1935 S Arlington Heights Rd,hotdog shavedice,42.04959,-87.98147
+29,WjxpYELZa8ztOgAr8V9i_A,Mumbai Cafe,IL,Hoffman Estates,60169,215.0,3.0,1069 W Golf Rd,pakistani indpak hotdogs,42.048151152191,-88.1048439637868
+31,XlVLxE97AeXh2Nld0vTfxg,Manooben,IL,Glenview,60025,77.0,4.0,1728 Milwaukee Ave,japanese korean noodles,42.0856132560691,-87.8690294937241
+32,CfAjS4WAY7n6NDp96k96Bw,Bacolod Chicken Haus,IL,Chicago,60659,120.0,3.5,6320 N Lincoln Ave,filipino chicken_wings,41.9961842,-87.7171328
+33,t2GHZEOKH0o8MU-n-ui1PA,Mitsuwa Marketplace,IL,Arlington Heights,60005,1240.0,4.5,100 E Algonquin Rd,japanese sushi intlgrocery,42.04492,-87.980318
+34,wGwnYWcFUrYmH-YLPc-vbw,BAMBU,IL,Chicago,60640,202.0,4.0,5010 N Broadway,bubbletea juicebars vietnamese,41.97307495952027,-87.66000870203767
+35,4xsXseZCGktFp54EsxyY2Q,Kung Fu Tea,IL,Evanston,60201,177.0,3.5,726 Clark St,bubbletea juicebars icecream,42.049826183416506,-87.68132065538254
+36,rf_5tolVz9owJ92MwHC-PA,Sarap Bistro,IL,Hoffman Estates,60192,28.0,4.0,1457 Palatine Rd,filipino comfortfood breakfast_brunch,42.11028065556078,-88.1163348226192
+37,leiWub8vFh8H3sN4QK7nVA,Touhy Fruity,IL,Lincolnwood,60712,8.0,2.5,3333 W Touhy Ave,juicebars coffee creperies,42.00995948097709,-87.71398717318263
+38,i6HL_y1ZGiHbFN7HZhAf9w,Jollibee,IL,Skokie,60076,360.0,3.0,3534 W Touhy Ave,filipino hotdogs chickenshop,42.01195,-87.71723
+39,bNjTKBs2RG-VW-PQvWLaqA,Joy Yee - Evanston,IL,Evanston,60201,854.0,3.5,533 Davis St,noodles panasian,42.046287,-87.679354
+40,DMaVdq0OhLjeGq65kaLirA,Antojitos Majicos,IL,Chicago,60625,10.0,4.0,3540 W Lawrence Ave,desserts shavedice icecream,41.96864,-87.71751
+41,11855kAfayv4GH6DgGwvkQ,Sushi Joon,IL,Chicago,60625,276.0,5.0,5503 N Lincoln Ave,sushi japanese korean,41.9815602,-87.6925329
+42,CeJLGk3pMinVCRYw85dxqQ,Tous Les Jours,IL,Glenview,60025,289.0,4.0,1685 Milwaukee Ave,bakeries coffee desserts,42.0863025,-87.86896151859857
+43,MNwnu0eF9YZAmv4mfzEmzw,La Michoacana Premium,IL,Elgin,60120,12.0,4.0,943 N Liberty St,icecream juicebars shavedice,42.0533868093812,-88.26693858665409
+44,mlM3Jmhz02WzFrxwI6xsEQ,Tous Les Jours,IL,Schaumburg,60173,284.0,4.0,20 E Golf Rd,coffee bakeries desserts,42.0514595147086,-88.0775836420511
+45,u3aM3t-iw0V99uEkARp88A,Penang Malaysian Cuisine,IL,Arlington Heights,60005,377.0,3.5,1720 W Algonquin Rd,asianfusion malaysian thai,42.0575571455209,-88.0041967853661
+47,yv7NhQQOkyAsP_yYOQ3P7g,Touhy Fruity,IL,Norridge,60706,32.0,3.5,4104 N Harlem Ave,juicebars coffee creperies,41.9574788,-87.8076453
+48,xfLm4vi8pAmpSy3_BV1ewA,Tous Les Jours,IL,Vernon Hills,60061,44.0,4.5,670 Hawthorn Ctr,bakeries coffee desserts,42.2412206,-87.951883
+49,d0NIffPX6qIfjFEXY16AEw,Los Tamales Oaxaquenos,IL,Des Plaines,60018,34.0,4.0,782 W Oakton St,mexican,42.0230497295459,-87.9389560595155
+0,COiY2CbstFf_bGhUdpJhDA,Handsome Bakery & Cafe,IL,Niles,60714,30.0,3.5,8502 WGolf Rd,bakeries coffee cakeshop,42.056158,-87.836319
+1,9Q_DIWukrAT_f01r_QtciQ,Eggrolly and Sweets Cafe,IL,Niles,60714,35.0,4.5,7023 W Dempster St,asianfusion bakeries noodles,42.04022746670572,-87.80200605025465
+2,iW1jftELveorPf_XhNZlxQ,Outdoor Café,IL,Chicago,60659,231.0,4.0,3257 W Bryn Mawr Ave,icecream coffee,41.9829615,-87.711179
+3,T-CK0e7rLoouTZRhvboO5A,Crazy Quesadilla Mexican Restaurant,IL,Arlington Heights,60005,32.0,4.0,644 E Golf Rd,mexican,42.052077,-87.973574
+4,oBHa_ZfSnuzsXn077CEFMw,La Michoacána Bensenville,IL,Bensenville,60106,6.0,3.5,140 W Irving Park Rd,icecream shavedice,41.9606282324713,-87.9419499385567
+5,6stjHiOWQJZjzlGGZDGdUg,Ruby's Fast Food,IL,Chicago,60630,279.0,4.5,4551 N Pulaski Rd,filipino hotdogs,41.96407172293697,-87.72757509522815
+6,hRYN65DXOBwIZ5Hzq_UxaA,Sticky Rice,IL,Chicago,60618,901.0,4.0,4018 N Western Ave,thai,41.95467,-87.68883
+7,NHpaDf5o658qzR-RlCRk-Q,Kawayan,IL,Chicago,60630,116.0,4.0,4859 N Milwaukee Ave,filipino,41.96931,-87.760906
+8,pqyGVhpYy96uXgd-M3wbew,Jollibee,IL,Chicago,60630,140.0,3.0,5033 N Elston Ave,hotdogs chickenshop,41.973039388029626,-87.7455317756966
+9,Y1GnwefMOEfnpUaD67WH8Q,Chill Bubble Tea,IL,Vernon Hills,60061,24.0,3.5,122 Hawthorn Ctr,bubbletea tea,42.2430635,-87.9499412
+10,ALwH81_sqskLmwfWS-_eeQ,Tank Noodle,IL,Chicago,60640,1843.0,4.0,4953 N Broadway,vietnamese noodles,41.9731100981603,-87.65954048683
+11,1Pcf9Ejpv1GGK1qVgit_OA,Spinzer Restaurant,IL,Chicago,60659,72.0,3.5,2331 W Devon Ave,indpak pakistani,41.9974822998047,-87.6888961791992
+12,NlrQZMJlMoC6gY9jb5zOQw,Merla's Kitchen,IL,Chicago,60625,113.0,4.0,5207 N Kimball Ave,filipino empanadas,41.9758575617891,-87.7134847486592
+13,D3_w7n9IyNlK7bWBdrX_TA,Tita Mia Filipino Restaurant & Cafe,IL,Niles,60714,124.0,4.0,8520 W Golf Rd,cafes filipino seafood,42.056125,-87.8367799
+2,LNxGFZGY_3OcayFb2YF0tQ,Bubble Tea Waukegan,IL,Waukegan,60085,2.0,4.5,550 N Green Bay Rd,bubbletea,42.36809,-87.8814
+5,EWSt98mhUIbzO-zwPOvM1g,Bubble Tea Lab,IL,Libertyville,60048,40.0,3.0,1757 N Wilwaukee,bubbletea coffee,42.304091,-87.959292
+7,wt8k03YqhC8lOmcQlUFbTg,Dangela's Dumplings,IL,Libertyville,60048,124.0,4.5,133 N Milwaukee Ave,dimsum,42.28402,-87.95407
+8,aACKVgo7N-0YGntwnt4Q1A,Sakura Japanese Restaurant,IL,Mchenry,60051,136.0,4.0,2302 N Richmond Rd,japanese sushi,42.3598484906176,-88.2664572354981
+9,dm6vAQKRKIVAbB3vpeZwvw,Ohsio Sushi,IL,Waukegan,60085,16.0,4.5,550 N Green Bay Rd,sushi asianfusion,42.36821291890681,-87.8808652651831
+10,pT2Dd5Kl0i4vchMVQc2m5g,Green Peapod,IL,McHenry,60050,224.0,4.0,1225 N Green St,thai,42.34496,-88.26696
+11,_Tn_xlkfvA2OS1hawA3FxQ,Red House Bar,IL,Lakemoor,60051,7.0,3.5,620 Rand Rd,tradamerican bubbletea,42.333462,-88.209407
+12,qw_NK_OyjHEMbsvhYv2sOA,Tokyo@siam,IL,North Chicago,60064,212.0,4.5,2450 Buckley Rd,japanese thai sushi,42.30904,-87.86154
+13,jtVUso1Wa9Xp7B2Ymav8gg,Long Feng,IL,Round Lake Beach,60073,117.0,3.0,401 W Rollins Rd,chinese,42.37874,-88.09237
+14,qzbw4_KiNNbg5KDe9F95Lg,Thai Noodles Cafe,IL,Libertyville,60048,299.0,4.0,318 S Milwaukee Ave,thai noodles asianfusion,42.2802668,-87.9525781
+15,OvHoeiR3_cIoF6brRwjurQ,Viet Taste,IL,Libertyville,60048,59.0,4.0,1183 S Milwaukee Ave,vietnamese bubbletea,42.264521,-87.950913
+17,rWqDgFC0BoKF8Pq1xKp9gw,Sushi Thai,IL,Libertyville,60048,229.0,3.5,1742 N Milwaukee Ave,sushi thai asianfusion,42.3046462,-87.958912
+18,ZBdfgSLBmE8QZl7ajb3ECw,Oishi Sushi,IL,Libertyville,60048,78.0,3.5,163 N Milwaukee Ave,japanese sushi,42.284376,-87.953831
+2,8ItWJ2MSuvKH_XgB5zSmGQ,Pho Square Vietnamese Restaurant Boba Tea,IL,Loves Park,61111,139.0,4.0,6338 E Riverside Blvd,vietnamese coffee juicebars,42.3187609,-88.9934335
+8,n341ztDv6Y1O6oBGV1TkRw,Coco Rolls,IL,Crystal Lake,60014,32.0,4.0,5 Crystal Lake Plz,bubbletea desserts icecream,42.22749,-88.326579
+10,10IUhB1-zKyFak0-yA3xIQ,Bearology,IL,Vernon Hills,60061,11.0,5.0,555 E Townline Rd,bubbletea,42.24031,-87.95025
+12,Jc5Z5YS_oQxU9ylCPLseTg,Milkcow Cafe,IL,Vernon Hills,60061,102.0,4.5,240 Hawthorn Village Commons,icecream coffee bubbletea,42.24153,-87.95685
+16,iJ9UyhTFZr-sXB8AR_GsOA,Tien Tea House,IL,Rockford,61104,1.0,4.0,324 7th St,coffee bubbletea,42.26401,-89.08043
+20,WTIWSk504_Fg1z01RVHAUw,Sweet Cafe,IL,Wheeling,60090,25.0,4.5,1568 E Lake Cook Rd,icecream bubbletea juicebars,42.15488,-87.95394183
+21,Jjom7nD1-TLJR8orP78OWg,Liquid Fusion,IL,Lincolnshire,60069,149.0,4.0,275 Parkway Dr,bubbletea coffee juicebars,42.1800956963491,-87.9265453562551
+22,ub6jSDU85_zUE92SdmWQcg,Liquid Fusion,IL,Deerfield,60015,20.0,4.0,461 Lake Cook Rd,coffee bubbletea juicebars,42.1526251,-87.8398985
+24,LcCxSqhqp4bNEwxuYtXcQQ,CM Chicken & Boba,IL,Vernon Hills,60061,10.0,4.0,1270 S Milwaukee Ave,waffles burgers chicken_wings,42.20283,-87.93368
+27,hGeVKCXJCkLPCfty2qYlrA,Yofruito,IL,Buffalo Grove,60089,24.0,4.0,1240 W Dundee Rd,icecream coffee juicebars,42.139034,-87.988285
+28,veveWA_iU0IF7Mauk1J3FA,Roll N' Donuts Cafe,IL,Algonquin,60102,104.0,4.5,3907 W Algonquin Rd,donuts coffee breakfast_brunch,42.1752496918574,-88.3669853210449
+31,1uArpLElu1VRKxsQyZu0Zg,P------a,IL,Crystal Lake,60014,8.0,3.0,230 W Virginia St,juicebars coffee bubbletea,42.229255,-88.328325
+34,77niR87ekXRaBpKJ-iL9Lg,Poke Burrito,IL,Deer Park,60010,85.0,4.0,20530 North Rand Rd,poke bubbletea ramen,42.16094,-88.05449
+36,9T7S8d8aGkz8kz5C8qsqBQ,Arctic Spoon,IL,Wheeling,60090,36.0,4.5,371 W Dundee Rd,icecream bubbletea juicebars,42.1392151,-87.9261222
+40,hKI6t4cWl1hvtM1zjd1URg,Kimbop,IL,Wheeling,60090,32.0,4.5,274 Mchenry Rd,asianfusion sushi korean,42.142842,-87.935796
+41,7XUFRP7uVkb-KqEUeQwphg,Grounds Coffee Bar & Cafe,IL,Crystal Lake,60014,61.0,4.5,89 N Williams St,coffee,42.24322209374655,-88.3169837172381
+42,kHWSaIEK6Dtqedha2mhhDg,Lung Fung 2,IL,Rockford,61108,46.0,3.0,2209 S Perryville Rd,chinese,42.2437844494861,-88.9800124681352
+43,-55DykHkUqaLjjwL_QQmQA,Krystal Thai,IL,Crystal Lake,60014,253.0,4.0,230 W Virginia St,thai,42.229409,-88.3286377
+47,rNFsY0YwQVkq4zbi7SC7xg,China Bistro,IL,Algonquin,60102,100.0,4.0,3979 W Algonquin Rd,chinese,42.1749856576698,-88.3682164597387
+4,GqfTFS6RGGQp2XrWTF1LFA,Yummy Asian Bistro,IL,Fox River Grove,60021,115.0,3.5,918 Rt 22,asianfusion chinese,42.1946958913649,-88.2084730752194
+6,UhMpFcxhvk1CLqv9oQKHCg,Wajo Sushi,IL,Wheeling,60090,44.0,4.0,73 S Milwaukee Ave,sushi asianfusion,42.1389181845631,-87.906315587461
+7,vv0QIZjmycFXkPmwtaAbZw,Thai House,IL,Palatine,60074,199.0,4.0,575 E Dundee Rd,thai,42.1390651,-88.0297974
+9,u5nxSVOOct3eB4NrCnccww,Szechwan North,IL,Glenview,60026,176.0,3.5,2857 Pfingsten Rd,szechuan,42.1067738,-87.8489051
+10,reUUSsrYUd5X3j6Zo6j9jw,Pho Royal,IL,Crystal Lake,60014,36.0,4.0,230 W Virginia St,vietnamese,42.229255,-88.328325
+11,8H1qNZ0ZNov7xzteqN7lvA,Viet Taste,IL,Palatine,60074,54.0,4.5,2377 N Hicks Rd,vietnamese coffee juicebars,42.15335,-88.02876
+14,ls1sjBMRXvbqVpyy5l8Ucg,Fuji Thai,IL,Buffalo Grove,60089,177.0,3.5,1000 Weiland Rd,thai japanese sushi,42.17075,-87.95049
+15,nt0MZPBjf6fuiQ2nT4hJbw,Green Basil,IL,Vernon Hills,60061,266.0,3.5,701 N Milwaukee Ave,thai,42.239116070097,-87.9415825433777
+16,06Y_gEVM8QT_jw2cLuZGxw,Ruby Of Siam,IL,Highland Park,60035,125.0,3.5,1849 2nd St,thai,42.1861687,-87.8013382
+17,zsE0dat36w9D7zUF7-k2EA,Yu's Mandarin,IL,Vernon Hills,60061,197.0,2.5,4 E Phillip Rd,chinese,42.23995,-87.96315
+28,amYMMHe7HItgWBoJMsz8aQ,Sushi Thai Restaurant,IL,Vernon Hills,60061,188.0,3.5,445 E Townline Rd,japanese thai sushi,42.2400118318507,-87.953833937645
+30,D7gaQx5oP5_Xykfsm7LlzQ,Chef Yan Can,IL,Vernon Hills,60061,68.0,3.0,122 Hawthorn Ctr,cantonese dimsum,42.24531,-87.94977
+23,i3ODNsExVbjkiHRW9X6dcg,Taiyaki Chicago,IL,Chicago,60614,137.0,4.0,2468 N Clark St,desserts bubbletea icecream,41.92733,-87.64201
+28,majGt6w0H0i-9TtVwvu2Qg,Kubo Chicago,IL,Chicago,60657,189.0,4.5,1232 W Belmont Ave,filipino newamerican cocktailbars,41.94008,-87.66026
+41,oUzzZmyEP0LPfkSYFjcG-A,Bella’s Italian Ice & Helado de Coco,IL,Chicago,60647,20.0,4.5,3523 W Fullerton Ave,icecream shavedice,41.92449819425682,-87.71476138992564
+48,f1P5hZSitUEAC-mtXlBB7w,Del Seoul,IL,Chicago,60614,2200.0,4.5,2568 N Clark St,korean asianfusion tacos,41.929444,-87.643016
+5,FxUgnkmknRfg37dct5A19A,Miko's Italian Ice,IL,Chicago,60647,181.0,4.5,2236 N Sacramento Ave,shavedice,41.9225391,-87.7024122
+6,kyZQnv62VQnDk23i_TxO3g,Parachute,IL,Chicago,60618,653.0,4.0,3500 N Elston Ave,korean newamerican,41.944707,-87.706518
+9,BMdRFPxMEGSDI3gGcNJBdw,Fruit Paradise,IL,Chicago,60647,103.0,4.5,2355 N Milwaukee Ave,icecream juicebars acaibowls,41.924216,-87.698846
+10,RNsldUTu1LKKcRZYPw3gjA,Kapitan,IL,Chicago,60614,63.0,4.0,2142 N Clybourn Ave,asianfusion malaysian singaporean,41.92008,-87.66261
+17,tCBKjclvCuiuSkiNz1fOjw,Wood,IL,Chicago,60657,595.0,4.0,3335 N Halsted St,bars newamerican breakfast_brunch,41.94285906788237,-87.64915912883504
+18,AKngvU-VIsVwM8A-PW3utw,Kizami Sushi,IL,Chicago,60614,87.0,4.5,2235 N Lincoln Ave,sushi japanese wine_bars,41.92297,-87.64479
+25,kr2ipJbSnYUYI0fdwQizaw,Soupbox,IL,Chicago,60657,609.0,3.5,2943 N Broadway St,soup sandwiches,41.936229,-87.644115
+25,p31OxfpwjoNezYCmMFfcHg,Annette's Italian Ice,IL,Chicago,60614,309.0,4.5,2009 N Bissell St,icecream shavedice juicebars,41.9184732,-87.6519588
+38,kuJLjqq0m_tWfkgkMV6WrA,Sweet Rice Asian Kitchen,IL,Chicago,60647,26.0,5.0,1904 N Western Ave,thai panasian desserts,41.915980361557416,-87.68754992634057
+12,q684td_kKNRMTHMeMchXOg,En Hakkore,IL,Chicago,60647,721.0,4.5,1840 N Damen Ave,korean tacos,41.9150939,-87.6777957
+14,AmyMmgoyJQsECiNaegsVgg,Ava's Italian Ice,IL,Chicago,60647,124.0,5.0,1814 N Western Ave,shavedice,41.9145338,-87.6875495
+13,G3hp9OAtmCdrq_yhyGNh6A,Lotus Chinese Restaurant,IL,Elmwood Park,60707,109.0,4.0,7230 W North Ave,chinese taiwanese,41.910149,-87.807443
+16,FzYi3AVHoYZnWXe1BQrQEw,Mott St,IL,Chicago,60622,825.0,4.0,1401 N Ashland Ave,asianfusion bars,41.9071254164458,-87.6673834605751
+17,r9nhM5bc2FC7mKxAc46bNA,Cebu,IL,Chicago,60647,161.0,4.0,2211 W North Ave,filipino venues desserts,41.91021,-87.682878
+19,fMzeGTei6R4zn4qqZBkKxA,VinnyD's,IL,Chicago,60622,126.0,5.0,1709 W Division St,shavedice hotdog hotdogs,41.90299,-87.67034
+20,F95agIcsD5g1bykGVTVWZQ,Kizuki Ramen & Izakaya,IL,Chicago,60622,747.0,4.0,1482 N Milwaukee Ave,ramen izakaya,41.908769,-87.6751833
+21,7IVcoxanHNjzBVYRCOEDHA,Pizza Metro,IL,Chicago,60622,434.0,3.5,1707 W Division St,pizza italian,41.90299,-87.67024
+24,pbEiXam9YJL3neCYHGwLUA,Alinea,IL,Chicago,60614,2387.0,4.5,1723 N Halsted St,newamerican modern_european,41.9134194160823,-87.6482384681229
+29,FHBrUwpxXCw3SUCeqnRO0Q,Johnnie's Beef,IL,Elmwood Park,60707,1458.0,4.5,7500 W North Ave,sandwiches shavedice hotdog,41.908958,-87.813319
+34,euO3-H92LCivH2B0CQPlnw,Chicago q,IL,Chicago,60610,1913.0,4.0,1160 N Dearborn St,bbq breakfast_brunch venues,41.903617442969,-87.63023965658
+1,5vkjT6tgKR5KzRU9sCCBww,Icki Sticki,WI,Mount Horeb,53572,7.0,5.0,1225 Springdale St,icecream coffee shavedice,43.00966,-89.72368
+20,Si_ySjsW30-v0zZputf7Gg,Gee N Jays,IL,Elgin,60120,55.0,4.0,925 Dundee Ave,chinese icecream,42.054003,-88.269481
+28,udEq9M9bih46qQyz9v8AJg,Little Panda,IL,Elgin,60123,107.0,3.5,267 S Randall Rd,chinese,42.0273058,-88.3384749
+34,zB3J7_j-ZufuuDZQ7zTqKg,Gogoji Restaurant,IL,Elgin,60123,88.0,3.0,1014 S McLean Blvd,chinese asianfusion vietnamese,42.0089858,-88.3152031
+42,SeEQrNrK-bouP5dYfcyqGQ,Thai Town,IL,South Elgin,60177,130.0,3.5,359 N Mclean Blvd,thai salad seafood,41.9983629371591,-88.3159062055784
+44,U7o_O-dhRltoaA2IXo-zAg,Silver Lake Chinese Restaurant,IL,Elgin,60123,102.0,2.5,881 S Randall Rd,chinese,42.007775114467385,-88.33553930948395
+3,luiZPaVtw8q65-OCKsTQWQ,La Petite Creperie,WI,Wisconsin Dells,53965,4.0,4.0,116 Broadway St,creperies shavedice icecream,43.62752,-89.77608
+4,W9ZSmfbaON9ykn-CxnFG8g,Dells Bistro,WI,Wisconsin Dells,53965,5.0,4.0,126 Broadway,breakfast_brunch pizza juicebars,43.6275,-89.77566
+5,Ypd8cGuVE-b6Q5SFb_FHZw,The Green Vine,WI,Baraboo,53913,13.0,3.5,102 4th Ave,juicebars icecream,43.471181,-89.742729
+37,SNNLjya8M-wGFcVJflpCQA,Bamboo Spoon Frozen Yogurt Cafe,IL,South Barrington,60010,109.0,4.0,100 W Higgins Rd,icecream bubbletea juicebars,42.07519767929297,-88.1842097376454
+1,5amBCTmQ64zlCoDdsgJInA,Hong Kong Cafe,IL,Schaumburg,60173,212.0,4.0,1608 E Algonquin Rd,chinese noodles soup,42.067773,-88.039997
+11,9_PrUCHNySspA5BA3qzPew,Tô Pho,IL,Schaumburg,60173,336.0,3.5,823 E Algonquin Rd,vietnamese taiwanese asianfusion,42.0726986752519,-88.0586507047827
+3,XNB7NhoLAHSsz7dRGCdJYg,Norie RestoBar,IA,Guttenberg,52052,1.0,1.0,7 Schiller St,newamerican asianfusion breakfast_brunch,42.780475,-91.095627
+0,Agd6Utl52ijtO5Tz_gEOdQ,Hmong's Golden Egg Roll,WI,La Crosse,54601,78.0,4.0,901 State St,laotian vietnamese thai,43.81294,-91.24368
+1,v4joJ-p3ymQSOq7NUMi9Sw,Five Star Eggrolls,WI,La Crosse,54601,21.0,4.0,1203 La Crosse St,thai laotian chinese,43.817675,-91.239365
+1,7Wm8VzIregI61juZow67Qw,Kobe Japan,WI,La Crosse,54601,1.0,5.0,3800 State Rd 16,japanese,43.86784128862494,-91.19713787311979
+1,GIsqTWX-8LaeooKlWVFHfw,Shrubb’s Street Eatery,IA,Fayette,52142,2.0,5.0,128 S Main St,tradamerican desserts bubbletea,42.8440523,-91.802472
+0,qSVg4egA_nR7QR7wPZdubw,Point Market & Vietnamese Restaurant,WI,Stevens Point,54481,34.0,4.0,3511 Church St,vietnamese thai,44.497757,-89.559164
+0,GAlmkLp2recnWZoj74YrWw,Tii Cup,MN,Roseville,55113,53.0,4.0,1771 Lexington Ave N,bubbletea coffee shavedsnow,44.9948225,-93.1465949
+1,1FEuZu_E3zj67O8wREyqIw,ChaYes Tea,MN,Saint Paul,55104,80.0,4.0,738 University Ave W,bubbletea,44.95539,-93.13108
+2,Kzfc_QGyc7-C-JZV-d4_qg,Rita's Italian Ice,MN,Eagan,55123,29.0,4.0,1016 Diffley Rd,icecream desserts shavedice,44.8037687878422,-93.1393456196375
+3,m7Tq7AD47AaFVBHDEg9u7A,Cafe Astoria,MN,Saint Paul,55102,416.0,4.5,180 Grand Ave,coffee breakfast_brunch creperies,44.9411851,-93.1077381
+4,K77trgKuz93SW47MWPQiSQ,Hoban Korean Restaurant,MN,Eagan,55122,415.0,3.5,1989 Silver Bell Rd,korean,44.8207011819646,-93.2053801963961
+5,ZDYdJLi4XoY07DrJKjaTOQ,Red Rabbit - St. Paul,MN,Saint Paul,55105,253.0,4.5,788 Grand Ave,italian,44.9398212560972,-93.1332063531045
+6,neyCxeAAgblatxB57GuJzA,Doremi Karaoke,MN,Eagan,55122,16.0,4.0,1989 Silver Bell Rd,karaoke korean,44.820386,-93.205823
+7,s9TEL1aA1-OFN8lSFilQgg,A Chau,MN,North Saint Paul,55109,66.0,3.0,2231 11th Ave E,vietnamese,45.0161552429199,-93.0060729980469
+0,jLTEUNyoNYMTbIbay9yYzA,Tealicious Boba,MN,Little Canada,55117,6.0,5.0,45 Little Canada Rd E,tea bubbletea,45.0257637227572,-93.09946954250336
+1,F38zcGJ2FerUQo--3dw1cA,Ding Tea St. Paul,MN,Saint Paul,55104,43.0,4.5,1327 University Ave W,bubbletea coffee juicebars,44.9559349,-93.1559401
+2,z84SmDO03nXgSbojL2hGYg,TeaBar,MN,White Bear Lake,55127,18.0,4.5,1011 Meadowlands Dr,bubbletea juicebars,45.08064,-93.06074
+3,p0WTMyqA6TxX1BT4XAo4Yg,Chatime,MN,Woodbury,55125,16.0,4.0,9000 Hudson Rd,bubbletea desserts coffee,44.9469432756808,-92.9222663864494
+4,oiKEz3zJXq6F93YVBwdsfA,Sencha Tea Bar - Woodbury,MN,Woodbury,55125,55.0,3.5,783 Radio Dr,coffee juicebars,44.9374318814558,-92.932051179065
+5,P4NAHxCodoy-jxttx86ElA,Chatime,MN,Roseville,55113,4.0,5.0,10 Rosedale Center,bubbletea,45.0129204368775,-93.1726351752877
+6,uyCb0ov7PBJav_cqHm9ACQ,Boba & Tea,MN,Saint Paul,55106,47.0,4.0,827 Maryland Ave E,bubbletea,44.9776549,-93.0657014
+8,8ZkFrxhcEOzcuEeFWtXffQ,Blueberry,MN,Saint Paul,55106,26.0,4.5,Hmong Village,coffee bubbletea,44.9719027,-93.0453199
+9,I-rTAdonalvw5_rO74KChw,Mint Tea,MN,Eagan,55122,45.0,4.0,1981 Silver Bell Rd,bubbletea,44.820139,-93.205492
+10,1m900TcQbLfG-ZssGLrcrQ,Vivi Bubble Tea,MN,North Saint Paul,55109,3.0,1.0,3001 White Bear Ave N,bubbletea,45.0315,-93.02232
+12,mJxh-Zc8hH6YPqTgI251oA,Quench,MN,Maplewood,55109,3.0,4.5,2088 Maplewood Mall Dr,bubbletea juicebars,45.03156483,-93.02203833
+13,Xpch4JmLQl7R1z0KOranjA,Treats,MN,St Paul,55105,152.0,4.5,770 Grand Ave,icecream bubbletea waffles,44.93963,-93.13267
+14,KlJ4HKAKt0MxtS_K-Pg03w,Sencha Tea Bar,MN,Saint Paul,55105,62.0,4.0,1692 Grand Ave,bubbletea coffee,44.9399551,-93.1720399
+15,BpbE4gAxFqUOTCAvnlOkXg,Simplicitea,MN,St Paul,55105,25.0,4.5,272 S Snelling Ave,bubbletea,44.9331011991218,-93.1667487750084
+16,WJX03pS0ZNZ0FRIxHRgYuA,Mi Sant,MN,Roseville,55113,26.0,4.5,1881 MN-36,bakeries coffee sandwiches,45.01125,-93.17929
+17,_Tmicl4v0GBJlx4CyooW6w,Tii Cup,MN,West Saint Paul,55118,12.0,4.0,1193 Robert St S,bubbletea shavedsnow taiwanese,44.91018,-93.08115
+18,A2JhkJhs9uCtdOB9AkxcCQ,Peachy Cup,MN,Saint Paul,55101,3.0,4.5,56 E 6th St,juicebars,44.94711,-93.09316
+19,C1-mbl2FAaj6BEFB2fvnKQ,Bambu,MN,Maplewood,55109,119.0,3.5,1715 Beam Ave,asianfusion vietnamese sushi,45.0286639807093,-93.029741002006
+20,vMu6MVNiksnAaXDzXssLaw,Tii Cup,MN,Woodbury,55125,8.0,4.0,8144 Coller Way,bubbletea shavedsnow coffee,44.93774,-92.9385544
+21,4mSRESsiTEohrvz93sLwlg,Poke House & Tea Bar,MN,St Paul,55105,66.0,4.5,1570 Randolph Ave,poke bubbletea juicebars,44.9269450340118,-93.1666912357795
+22,najME9hwl_GaYK7-DuGnIg,Lisu's Thai Taste | Cottage Grove,MN,Cottage Grove,55016,48.0,4.5,7145 E Point Douglas Rd So,thai salad soup,44.832784,-92.9603153
+23,R9WPi4ros7dWRBWPe0tmug,iPho,MN,Inver Grove Heights,55076,34.0,4.5,6508 Cahill Ave,vietnamese,44.854711097103,-93.0443384125829
+24,lM36VRgOYuIj68zul8SuAg,Classic Saigon,MN,Eagan,55123,107.0,3.0,1272 Town Center Dr,vietnamese soup,44.831885715784374,-93.15828266176327
+25,Mshpl-moUUSFQskzRuXJbQ,Hotpot 7,MN,Roseville,55113,48.0,2.5,2100 Snelling Ave N,vietnamese hotpot noodles,45.005561,-93.165083
+26,pf5fPPLzwpK0GfAG13iRHQ,Trung Nam French Bakery,MN,Saint Paul,55104,236.0,4.5,739 University Ave W,bakeries french vietnamese,44.9560546875,-93.1309967041016
+27,rDMLbgP1k0fpRJc8BIWepw,Bambu Kitchen & Sushi Bar,MN,Oakdale,55128,58.0,3.5,7061 10th St N,vietnamese thai chinese,44.9602497095307,-92.9622435936327
+28,tgA8bjfUMWgRcFqFGL46_Q,Sushi Cafe,MN,Cottage Grove,55016,34.0,4.0,7750 Harkness Ave S,sushi bubbletea noodles,44.836825,-92.9598
+29,UymNBfvZrVTMkIcp-BJvtw,Just/​​Us ​E​a​​t​ery​,MN,Saint Paul,55101,53.0,4.5,275 4th St E,newamerican italian burgers,44.949144,-93.085532
+30,oiV59HR1Js_-rfIN8UWtUw,On's Thai Kitchen,MN,Saint Paul,55104,513.0,4.0,1613 University Ave W,thai,44.9558464,-93.1683905
+31,mZLgEL5nBb5DODDIMYdUuw,Asian Fusion Kitchen,MN,Maplewood,55113,5.0,5.0,1700 Rice St,bbq asianfusion ramen,44.99285,-93.104216
+32,p9ImfC6ZbGLqtVZbqdrnDQ,Ichiddo Highland Park,MN,Saint Paul,55116,33.0,4.0,2073 Ford Pkwy,ramen asianfusion,44.91825,-93.18789
+33,8iaDvOZUmBXO8kFuedbe8A,iPho by Saigon,MN,Saint Paul,55104,425.0,4.0,704 University Ave W,vietnamese,44.9554681020232,-93.1297714405111
+34,gt2JLmotJXuf51oIMThnWw,Pajai Fruit Arrangements & Bakery,MN,Saint Paul,55104,16.0,3.0,712 University Ave W,bakeries catering desserts,44.9553514615948,-93.1304738670588
+35,0psSArKoqKrBGSrBBcX2gQ,Cheng Heng Restaurant,MN,Saint Paul,55103,247.0,4.5,448 University Ave W,cambodian desserts laotian,44.95546,-93.11943
+36,5nyw3hDb8tIhMFcvM6LfOw,Caribou Coffee,MN,White Bear Lake,55110,34.0,3.5,4733 Highway 61,coffee,45.0851139155376,-93.0109123899412
+37,8M3-Gq9iyHf2aaWzj73_BA,Thai Café,MN,Saint Paul,55103,124.0,4.5,371 University Ave W,thai,44.9559049676343,-93.1156640836899
+38,YzJjO3XKaj3lM4CSCoXCwA,Pho Pasteur VN,MN,Saint Paul,55104,64.0,4.0,694 Snelling Ave N,vietnamese,44.96225,-93.16668
+39,4251zXiUxKzZHHCuFCr7fQ,A Taste of Saigon,MN,Maplewood,55109,19.0,3.5,3001 White Bear Ave N,vietnamese,45.0300413344381,-93.022294677794
+40,hzz4N1s4K13jf3pTaz99SA,Master Noodle,MN,Saint Paul,55104,231.0,4.0,1337 University Ave W,chinese noodles,44.9559349,-93.1564329
+41,pb_X5mIz2ccgosxg4CLYzQ,Little Asia Cafe,MN,Saint Paul,55104,54.0,3.5,995 University Ave W,asianfusion thai,44.95605,-93.14248
+42,pnBUd-flzp0LQk7vOBHnng,Caribou Coffee,MN,Eagan,55123,6.0,4.5,610 Opperman Drive,coffee,44.824846,-93.112926
+43,T4o6YMgPnUudqyHeRN09Dg,Destiny Cafe 2,MN,Saint Paul,55106,96.0,2.0,1151 Clarence St,cafes,44.9761276245117,-93.0434799194336
+44,0JS7i1g5nKe4pDEfO4ZN0w,Grand Ole Creamery & Grand Pizzeria,MN,Saint Paul,55105,293.0,4.0,750 Grand Ave,icecream pizza,44.9398228,-93.131913
+45,BXLExPNh3aIVdJ_4MTCjBA,Pagoda,MN,Roseville,55113,467.0,3.5,2401 Fairview Ave N,dimsum szechuan cantonese,45.01421,-93.17725
+46,B2EOAVr_MVmJuH60VXRsTQ,I Heart Pho,MN,Saint Paul,55106,93.0,4.0,850 Maryland Ave E,vietnamese,44.9772682189941,-93.0646820068359
+47,YmxWwNkXrerJEujVYGqYgQ,Pho Ca Dao,MN,Saint Paul,55103,146.0,4.0,439 University Ave W,vietnamese,44.9559849,-93.1184596
+48,7b-Qkf3LBN9i92xUJrsHPQ,Ishita Ramen,MN,Saint Paul,55104,147.0,4.0,712 University Ave W,ramen,44.9555217,-93.1303958
+49,8l0Wkb6dxiA050ghhxI4KA,King Thai Restaurant,MN,Saint Paul,55103,106.0,2.5,225 University Ave W,thai asianfusion vietnamese,44.956272,-93.109975
+0,ZV27QGqcuBe-YMT3-3CgPw,Kolap Restaurant,MN,Saint Paul,55103,35.0,4.5,601 Dale St N,cambodian asianfusion,44.9594801,-93.1265149
+3,a7PtjF_mWdX7OKtYKcqa-Q,Coco's Place,MN,Northfield,55057,7.0,4.5,306 Division St S,mexican shavedice icecream,44.45725,-93.15987
+4,Sw4eW74QiSaV7mOkjvVWAA,Los Mangos Fruteria Y Cafeteria,MN,Burnsville,55337,1.0,4.0,1501 Riverwood Dr,desserts shavedice icecream,44.78569,-93.253828
+5,QNthX-u59M4kWFPL1TQOiw,Mu Mu Tea,MN,Minneapolis,55414,98.0,4.0,313 SE Huron Blvd,bubbletea desserts coffee,44.9738314722053,-93.2238179141481
+0,rPz-aFK2bM3PdWJIZ0bqIQ,Bao Bao Tea,MN,Blaine,55434,2.0,4.5,517 Northtown Dr NE,bubbletea,45.12512,-93.25901
+1,uUuRHSStR5XRTmaybBIdDg,Thai Express,MN,Apple Valley,55124,6.0,5.0,7707 147th St W,thai bubbletea sushi,44.73566493479339,-93.22246609999999
+6,vlTq6YhQCtOMIeBdfKr06w,Feng Cha Teahouse,MN,Minneapolis,55414,61.0,4.0,2929 University Ave SE,bubbletea desserts coffee,44.9713,-93.21433
+7,U0nC_UNCVZoYKyJLWtTiWg,Tiger Sugar,MN,Minneapolis,55414,20.0,4.5,318 14th Ave SE,bubbletea desserts,44.98013,-93.2354
+8,yJ-vNkuiXHigdbYRUifVZQ,Waffle Bar,MN,Lakeville,55044,67.0,4.5,16289 Ipava Ave,bubbletea waffles icecream,44.713305,-93.259557
+9,wN3QIreCkOzB6bwzLvBYiA,Song Tea & Poke,MN,Blaine,55449,21.0,4.0,10400 Baltimore St NE,bubbletea poke,45.15968254565769,-93.23417140735783
+10,43p95RkcHPHbCoJLFSpdeA,Mi Tea,MN,Minneapolis,55414,12.0,4.0,330 15th Ave Se,bubbletea coffee,44.979557,-93.234223
+13,PmnDnvUyMxV8RfMitvXl8A,Chatime,MN,Bloomington,55425,128.0,4.0,60 E Broadway,coffee,44.853592,-93.24256
+16,EyFavqjrAGsHvW8jLSuMpg,Kung Fu Tea,MN,Minneapolis,55414,84.0,4.0,923 Washington Ave SE,bubbletea coffee juicebars,44.973871,-93.224839
+19,bixRpXkzkSwSbDXulUdzyw,Indigo Tea Co.,MN,Burnsville,55337,80.0,4.5,1501 Riverwood Dr,coffee bubbletea tea,44.7861298928187,-93.2533800601959
+20,cfqazp93Q0oCV-Kte7mAxA,Treats,MN,Blaine,55449,11.0,4.0,10340 Baltimore St NE,bubbletea waffles icecream,45.15853,-93.23399
+24,UmDKA51XLyd53wvNbSDvMg,Uni Uni,MN,Bloomington,55425,8.0,4.0,114 E Broadway,bubbletea,44.85371,-93.24043
+25,xPAjvis6Wk0vMoFqxe2FNg,UniUni Tea,MN,Minneapolis,55414,3.0,5.0,317 Huron Blvd SE,bubbletea coffee,44.973262,-93.223159
+26,tuxtHFJWHVJkxyuMd92CVA,Freshly Leaf,MN,Blaine,55434,2.0,3.5,11724 Ulysses Ln NE,bubbletea coffee juicebars,45.183367,-93.238799
+31,93XV8FhwUzkaDycy2jljAA,Sencha Tea Bar,MN,Bloomington,55425,65.0,3.5,60 E Broadway,coffee bubbletea,44.8544766,-93.2401046
+32,fYdKi4k6ISTPGxpcUQUA9A,Chatime,MN,Minneapolis,55414,87.0,3.5,321 14th Ave SE,bubbletea coffee,44.980206,-93.236305
+34,FpGgYduzAjfvpxMZ0cJkzw,Phoviet 126 Vietnamese Restaurant,MN,Blaine,55434,114.0,4.5,1250 126th Ave NE,vietnamese,45.1979255928667,-93.2388770207763
+35,EwTcVnyDMAyQxYsJNMHs6g,Satay 2 Go,MN,Apple Valley,55124,179.0,4.5,6670 150th St W,chinese malaysian,44.7313537597656,-93.2011642456055
+36,d03xSWDW-2AjIDsfEIPXXw,Mango Mango Dessert,MN,Minneapolis,55414,34.0,3.5,408 14th Ave SE,desserts,44.98077,-93.23504
+37,lASh9b0QnjmHpXifMij29Q,PhoValley Vietnamese Cuisine,MN,Apple Valley,55124,71.0,4.0,7538 149th St W,vietnamese,44.73288,-93.21911
+39,qwH12jQpK9fIsVdJ_i-Y1A,Lu's Sandwich NE,MN,Minneapolis,55413,107.0,4.0,10 6th St NE,vietnamese sandwiches coffee,44.9899693,-93.2526208
+40,3ZMaf2UJDf809e7hL7xH4g,Hawaii Poke Bowl,MN,Richfield,55423,25.0,4.0,1818 E 66th St,asianfusion hawaiian poke,44.88399,-93.24874
+42,5rCqUXL_BB6oIWHGzREiEA,Best Taste of Pho Saigon,MN,Blaine,55434,13.0,4.0,11712 Ulysses St NE,vietnamese bubbletea noodles,45.18351603756108,-93.2380855269526
+49,WOw7EMJF35I-GTliAwx0MQ,Pho Everest,MN,Lakeville,55044,91.0,4.0,17617 Glasgow Ave,vietnamese gluten_free breakfast_brunch,44.6941630844911,-93.2152115970904
+0,ZsZlcG0sO7px3gS7Defntg,Simplee Pho,MN,Apple Valley,55124,182.0,4.5,15265 Galaxie Ave,vietnamese chinese soup,44.72764,-93.20811
+5,S1DGmf-HDJO74iwhzSaqKg,Masu Sushi & Robata,MN,Bloomington,55425,331.0,3.0,344 South Ave,sushi ramen,44.853513,-93.24266
+8,nqaz3pxRecmg6B5QjUN1Jw,Tasty Pot - Minneapolis,MN,Minneapolis,55414,173.0,4.0,423 14th Ave SE,taiwanese bubbletea hotpot,44.9812539,-93.2355284
+9,x7XharOQpxdFI3b2HHdr_w,Kung Fu Tea - Dinkytown,MN,Minneapolis,55414,49.0,3.5,507 14th Ave SE,bubbletea coffee juicebars,44.9819161497308,-93.2351177374344
+11,YU-m4roZJo6srfCQ1XELxw,Sidewalk Kitchen,MN,Minneapolis,55414,137.0,4.0,817 Washington Ave SE,chinese seafood asianfusion,44.9738136,-93.2263274
+12,XJauyIA1VHTcvWav-zgKcQ,Dunn Brothers Coffee,MN,Apple Valley,55124,26.0,4.0,15265 Galaxie Ave,coffee coffeeroasteries,44.7274858,-93.2081522
+14,j5BghHVC9FWi3GcOsOZRRA,University Food Hall,MN,Minneapolis,55414,3.0,4.0,330 15th Ave Se,bubbletea korean sandwiches,44.979557,-93.234223
+20,r8YD1Wbqp9iq-JFgTZ_Viw,Hong Kong Noodle,MN,Minneapolis,55414,363.0,3.5,901 Washington Ave SE,chinese noodles seafood,44.9738173366585,-93.2254046201705
+25,rInKEdhCggS4pytGWQzMSA,The Cajun House,MN,Minneapolis,55414,81.0,3.5,2600 University Ave SE,cajun,44.97221,-93.22004
+26,lxPP5yNUQJMYmW2dsZclLQ,Bona Vietnamese,MN,Minneapolis,55414,144.0,3.5,815 Washington Ave SE,vietnamese asianfusion,44.97379,-93.22624
+29,JsPgSq4EfTpSdFW5WUVtcw,Lepot Chinese Hotpot,MN,Minneapolis,55414,184.0,4.0,507 14th Ave SE,chinese hotpot,44.9817325803656,-93.235014975071
+33,aHXHG_HLdU2dFqItTugoKQ,Panda Express,MN,Bloomington,55425,10.0,3.0,370 Central Parkway,chinese hotdogs bubbletea,44.856178,-93.241826
+34,9vd3o2jIvtWLcJGyqpSbxg,Cali's Vietnamese,MN,Minneapolis,55413,86.0,3.0,648 Broadway St NE,chinese vietnamese salad,44.9985,-93.2558899
+35,fIol0ba3o3ZxnAENOStUcw,Caribou Coffee,MN,Minneapolis,55414,24.0,4.0,917 Washington Avenue SE,coffee,44.97393,-93.22483
+36,K6nVFB8352tIrEA5x7Bdmg,Sabbai Cuisine,MN,Minneapolis,55407,39.0,4.0,920 E Lake St,thai cambodian,44.948974,-93.260597
+39,mGVLaAn-3TfSjlKUbvTlLg,Pham's Rice Bowl,MN,Minneapolis,55407,69.0,3.0,920 E Lake St,vietnamese asianfusion chinese,44.9484849,-93.2610135
+40,J9v6WDZnJ27SB9NtUo3hdQ,Caribou Coffee,MN,Minneapolis,55455,9.0,3.0,515 Delaware St SE,coffee bubbletea juicebars,44.973,-93.23167
+0,afEQ8PMn7bd4Zu3kKAvx_g,Summer Snow,WI,Eau Claire,54701,3.0,3.5,2203 Fairfax St,shavedice foodtrucks,44.7957347147793,-91.468133866877
+0,t0MOeV4XsJfjk6615knOKw,Star Cup,WI,Eau Claire,54701,3.0,4.5,4800 Golf Rd,bubbletea juicebars,44.775655,-91.441416
+1,f_B7d_zlp-xql5e7jbWmiA,Star Cup,WI,Eau Claire,54703,3.0,4.0,316 N Barstow St,bubbletea coffee juicebars,44.816115,-91.502026
+2,ge-HqvsLpZgulf8bEd5w1Q,TemptAsians,WI,Chippewa Falls,54729,4.0,3.0,504 N Bridge St,bubbletea juicebars vietnamese,44.938535075765024,-91.39512016502141
+3,KR5TqzYJwO2MYa2lI1iM5g,Egg Roll Plus,WI,Eau Claire,54703,128.0,4.5,1611 Bellinger St,chinese thai vietnamese,44.8158378601074,-91.5110626220703
+0,Ece5BT9sp0OG8Z8vi1vKLQ,Tii Cup,MN,Brooklyn Park,55445,143.0,4.0,7958 Brooklyn Blvd,coffee bubbletea shavedsnow,45.095192,-93.3747
+1,SBlm2qIvmTZpfECJj58KGQ,Thanh Vi,MN,Brooklyn Park,55443,115.0,4.0,3023 85th Ave N,vietnamese chinese soup,45.1085152958536,-93.3205402573934
+3,17u3OUC_CynuUTMrnMDLgA,Where 2 Tea,MN,Champlin,55316,4.0,4.5,516 Jefferson Hwy N,bubbletea,45.184004050335375,-93.39298959999999
+6,WoQLIsoj4pzYN0Ftr-TMRg,GoCha Teahouse,MN,Brooklyn Park,55444,44.0,4.0,8462 Xerxes Ave N,bubbletea coffee,45.108263850894,-93.3205368742347
+8,ZChpImcABLONhLpoa_42zw,Sweet Percent,MN,Brooklyn Park,55445,36.0,4.0,8048 Brooklyn Blvd,bubbletea bakeries,45.0961817401321,-93.37974667054691
+13,SqcSIx4hs_O1pWsgTphX2Q,The Lotus Maple Grove,MN,Maple Grove,55369,160.0,4.5,13704 83rd Way N,vietnamese,45.1060446785556,-93.4535861097715
+14,fW-0LK30KOHn3888v5IxpA,Mi-Sant Banh Mi,MN,Brooklyn Park,55443,221.0,4.5,8540 Edinburgh Centre Dr,sandwiches vietnamese noodles,45.1105,-93.30227
+16,KOLs1Oml3wa6M_kwYamSPA,Gion Restaurant,MN,New Hope,55427,193.0,4.0,9422 36th Ave N,vietnamese chinese thai,45.0221549,-93.3990448
+19,JkZOdbeJSCLFvyczpHxu9w,Mango Mango Maple Grove,MN,Maple Grove,55369,22.0,4.0,11630 Fountains Dr,desserts juicebars icecream,45.093223,-93.426544
+20,-FQ05TKTVSFHcNPja2KvuA,Travail Kitchen & Amusements,MN,Robbinsdale,55422,391.0,4.5,4134 N Hubbard Ave,newamerican,45.0299937,-93.3390402
+21,C36WokHBhpAtC4vS0mHlzw,Sweet Basil,MN,Brooklyn Park,55443,99.0,3.5,9310 Zane Ave N,panasian vietnamese thai,45.1239991587132,-93.3553749958874
+22,W_G517ZIq1Z9KE8Gx-JcYw,Kim Anh Vietnamese Cuisine,MN,Minneapolis,55443,124.0,3.0,8586 Edinburgh Centre Dr,sandwiches vietnamese noodles,45.111842,-93.303442
+23,jB3cP9O75_0eS8yX8PSu3A,MT Noodles,MN,Brooklyn Park,55445,232.0,4.0,8459 West Broadway,vietnamese noodles,45.1077194,-93.3770981
+24,M2nYqEvn6ZhoJ9SkevDAtA,Cajun Deli,MN,Brooklyn Park,55445,178.0,4.0,8038 Brooklyn Blvd,cajun seafood,45.09523534289,-93.3795633356638
+27,o7y17-kmonMBTzh5RvjoQA,Vietnam House,MN,Brooklyn Park,55445,138.0,4.0,7962 Brooklyn Blvd,vietnamese noodles sandwiches,45.09536,-93.37537
+30,iW_vYEGTgDqPtRKFnjYBug,Mandarin Restaurant,MN,Brooklyn Park,55443,62.0,3.5,4626 85th Ave N,chinese vietnamese,45.10896474123,-93.3397579193115
+0,gycahCGNd8XiOvyNCDoFug,Minnesnowii Shave Ice,MN,Savage,55378,5.0,5.0,,foodtrucks streetvendors shavedice,44.7790237,-93.3354608
+1,2p132ZolL2DvKvuyH-m0tg,Kurb Side Ice,MN,Minneapolis,55408,1.0,5.0,,foodtrucks shavedice,44.9479791,-93.2935778
+2,_p43aetrgtjulJt7KbWIFA,Tropical Sno MN,MN,Burnsville,55337,4.0,5.0,12735 County Rd 5,shavedice,44.771918160976796,-93.30435004451594
+11,Co3zrO-u0zoRV3xBi9DhCQ,Crystal Fresh,MN,Burnsville,55337,1.0,1.0,12701 Sheridan Ave,shavedice,44.772665,-93.311721
+12,gZPo2ZNevTvi57rwc9crMA,Apoy MPLS,MN,Minneapolis,55409,96.0,3.5,4301 Nicollet Ave,filipino,44.925053101371,-93.2777758187917
+13,Xnsa4CJMPqyHkyISgxrzxg,Peninsula Malaysian Cuisine,MN,Minneapolis,55408,339.0,4.0,2608 Nicollet Ave S,malaysian,44.95511,-93.2783199
+14,NfV9d71AgruTcwABdkgKDQ,BAMBU,MN,Minneapolis,55408,114.0,4.0,2743 Nicollet Ave,bubbletea juicebars vietnamese,44.95222,-93.27751
+15,83mW24NnFzdTlfbjQ4VXXQ,Tilia,MN,Minneapolis,55410,638.0,4.0,2726 W 43rd St,newamerican breakfast_brunch,44.92464,-93.314127
+10,gYjoxGM6NZVAI1PeImDmVg,Pink Tea,MN,Bloomington,55420,14.0,4.5,8772 Lyndale Ave S,bubbletea juicebars,44.84430640103213,-93.2892160541336
+25,7pPCQEB8snXZ-n0OastKkg,Tii Cup,MN,Richfield,55423,22.0,4.0,760 W 78th St,bubbletea shavedsnow coffee,44.86297933,-93.28966133
+28,0_43noHbsP0ubXkch9oDcg,Tastea Licious,MN,Richfield,55423,22.0,3.0,6521 Nicollet Ave S,bubbletea juicebars,44.8849158066301,-93.2778388232788
+29,4FQNSxHe2Mf7lDlSvz1lfw,Chatime,MN,Edina,55435,20.0,4.0,10 Southdale Ctr,coffee bubbletea,44.8785294592381,-93.3241441100836
+32,1RgakhUoq3XFHqTThStzeQ,Jinx Tea,MN,Minneapolis,55410,19.0,3.5,4503 France Ave S,bubbletea,44.92112,-93.32874
+36,GHmB9TB0nK6rxAB7TEEH7w,Ichigo Tokyo Crepes,MN,Minneapolis,55408,44.0,4.5,5W 34th St,creperies coffee,44.9411691,-93.2782676
+37,tZxHrCmJeFgI9PfPxzYNJw,Sencha Tea Bar - Uptown,MN,Minneapolis,55408,213.0,3.5,2601 Hennepin Ave S,coffee bubbletea,44.95540802237967,-93.29664308392098
+48,NHq-dA_9OQZ-28GMBH9jwA,Coconut Whisk Cafe & Boba Shop,MN,Minneapolis,55402,24.0,4.5,905 Nicollet Mall,cafes bubbletea waffles,44.974623,-93.2739881
+49,p13IKfqqRykrLhIaBBX0Ig,Waffle Bar,MN,Minneapolis,55408,188.0,4.0,2758 Lyndale Ave S,waffles bubbletea icecream,44.9527015,-93.2882666
+4,YACK9hnufo8YvhpmfOvtSQ,Tii Cup,MN,St. Louis Park,55426,1.0,4.0,8140 Highway 7,coffee shavedsnow bubbletea,44.93686081770176,-93.3834011
+11,WmhXNdcz41zfExQoJTm50w,Kung Fu Tea,MN,Minneapolis,55404,1.0,5.0,2532 Nicollet Ave,bubbletea coffee juicebars,44.956237,-93.278155
+14,O-On_JfItCH5lFudaUAS6w,Tenka Ramen,MN,Minneapolis,55408,126.0,4.5,1404 W Lake St,ramen,44.948677,-93.297478
+15,34J4kG6Hk5ZqM7pjWlRy8g,Master Noodle,MN,Edina,55435,101.0,4.5,7529 France Ave S,noodles chinese bubbletea,44.866005,-93.326666
+16,FAZ0HOJM84iyn9ghfihMiA,Jinx Tea,MN,Minneapolis,55410,12.0,3.0,,foodtrucks bubbletea,44.9234848022461,-93.3186874389648
+18,IgvFKHDdYSFdXlzdKUVdyA,Karen Asian Thai Food,MN,Burnsville,55337,4.0,3.0,12621 Nicollet Ave,asianfusion thai,44.77329,-93.27693
+20,rJY7EbVlXPXWgwojyEJq8w,Lotus Restaurant,MN,Minneapolis,55403,769.0,4.5,113 W Grant St,vietnamese,44.96961,-93.27993
+25,smrdXQyTcbqOHnK_OuScDw,My Huong Kitchen,MN,Minneapolis,55408,403.0,4.5,2718 Nicollet Ave,vietnamese bubbletea creperies,44.953101,-93.278291
+26,wapzhDay1s4-k5M-Vo3rdg,I WOK Asian Cuisine,MN,Savage,55378,38.0,3.5,4391 Highway 13 W,chinese vietnamese,44.7779870073548,-93.3352055210719
+37,Losq2H67kunQy6qQ6LFjmg,Quang Restaurant,MN,Minneapolis,55408,1191.0,4.0,2719 Nicollet Ave S,vietnamese sandwiches noodles,44.953094,-93.277728
+39,cPtTvlIeb-9Rz4H5850BLg,The B and Pho,MN,Savage,55378,37.0,4.0,4207 Hwy 13 W,vietnamese,44.77809333,-93.33290917
+41,ggG9wkD-d_ndQtF_pC1K_Q,Red Pepper,MN,Richfield,55423,94.0,3.5,2910 W 66th St,chinese vietnamese cambodian,44.8847345698148,-93.316959778234
+45,e2WatjZ97Cg-Um1tEeck6A,Joy's Pattaya Thai Restaurant,MN,Richfield,55423,274.0,3.5,7545 Lyndale Ave S,thai,44.8657073974609,-93.287971496582
+0,3vL7hXyLlRkz77bvy4_LYA,Jasmine Deli,MN,Minneapolis,55404,153.0,4.0,2532 Nicollet Ave,vietnamese sandwiches,44.9562932291908,-93.2780600680534
+2,GN4BVQMDrXCFhkzcsu0aXg,Saigon Uptown Restaurant,MN,Minneapolis,55408,76.0,4.0,3035 Lyndale Ave S,chinese vietnamese,44.9471817,-93.2876816
+3,dwigGH39o1cuHO0rbOOJ-g,Maruso Party Bar & Grill,MN,Minneapolis,55403,37.0,3.0,715 Hennepin Ave,bars newamerican tradamerican,44.9774254,-93.275209
+6,Gy-NeMabCd4jsyO7Q8XrAw,Caribou Coffee,MN,Minneapolis,55402,58.0,3.0,555 Nicollet Mall,coffee,44.9781382,-93.2709224
+11,UC0KkDTAZYgk-NivNjsN0A,Ichiddo Ramen,MN,Minneapolis,55408,265.0,4.0,2710 Nicollet Ave S,ramen,44.9533206,-93.2784367
+17,G0ULL97D7OQvjPMpZxlscQ,Lu's Sandwiches,MN,Minneapolis,55408,362.0,4.0,2624 Nicollet Ave S,vietnamese sandwiches hotdogs,44.95474,-93.2783199
+18,OGHbFg4HzRcFQW0nH_SWjQ,Pho Tau Bay,MN,Minneapolis,55408,232.0,4.0,2837 Nicollet Ave,vietnamese,44.9507294,-93.2775269
+20,MdNGAfkF0S0GIWoJIs7pTA,Jasmine 26,MN,Minneapolis,55401,199.0,4.0,8 E 26th St,vietnamese,44.9556462345352,-93.2775031018764
+25,zlKpigpu5_8yLXKrQmtlTA,Pho 79,MN,Minneapolis,55404,374.0,4.0,2529 Nicollet Ave,vietnamese,44.956333,-93.277473
+28,UotXxgFeLur2Lj6BwwZIDw,Caravelle Restaurant,MN,Minneapolis,55404,30.0,3.5,2529 Nicollet Ave,chinese buffets vietnamese,44.956333,-93.277473
+32,RKA1e7TXMu9fTk7STMCGgQ,Kyoto Sushi,MN,Minneapolis,55408,149.0,3.0,2841 Lyndale Ave S,japanese sushi,44.951301,-93.2879551
+33,KbfQtgnMvr51BDyja1mneA,Pho Hoa Noodle Soup,MN,Minneapolis,55404,158.0,3.5,2450 Nicollet Ave S,vietnamese noodles,44.9582142,-93.2780158
+6,TmL419DYzaxVcs02-DBeNw,Tii Cup,MN,Burnsville,55337,103.0,4.0,14115 Irving Ave S,coffee bubbletea shavedsnow,44.7482950507851,-93.2974223294304
+3,PYJIu6xJB71MpukdcLfUMQ,Song Tea & Poke,MN,Savage,55378,1.0,5.0,14049 Highway 13 S,poke bubbletea,44.7494419,-93.3774595
+21,c3TIUngXR2zJYm7ACWcPQQ,Spice Thai Cuisine,MN,Savage,55378,129.0,3.5,3989 Cr 42 W,thai chinese,44.745939,-93.330097
+12,uTkUKdmTowS2mAoGdWLvJA,Poke house & tea bar,MN,Plymouth,55441,49.0,4.0,10160 6th Ave N,poke coffee juicebars,44.98559517,-93.40954483
+0,Ik7VGcvuJpvd0vn9OrBg8A,Jameson's Whiskey Darlin’,WI,Crandon,54520,1.0,4.0,306 N Lake Ave,bubbletea cafes coffee,45.57176,-88.90304
+0,c_yVtyd1s4RrfRlruf11vg,Big Bear Mini Golf,WI,Tomahawk,54487,1.0,5.0,24 N 2nd St,shavedice icecream mini_golf,45.47182,-89.73178
+0,JOOtbs_pOYVBE3MDJoZ_eQ,Panda Express,WI,Wausau,54401,32.0,2.5,4400 Rib Mountain Dr.,chinese hotdogs bubbletea,44.917064666748,-89.650032043457
+2,vemb6MuK0yKRB701-41q0g,Taste of Thai,WI,Holmen,54636,42.0,4.5,205 S Holmen Dr,thai,43.96054,-91.26146
+0,Dg0lMGTLnkwrXLtXGLMnlQ,The Beach Club,WI,La Pointe,54850,55.0,3.5,817 Main St,tradamerican,46.7793002099163,-90.7880759239197
+0,DN0R0et0Ky45VJ7jL_EjBA,Kung Fu Tea,MN,Rochester,55906,29.0,4.5,1006 N Broadway Ave,bubbletea juicebars coffee,44.03345,-92.46257
+1,hukZg1pepmM9e66DM5xlkw,Tea Time,MN,Rochester,55902,35.0,4.5,20 2nd Ave SW,bubbletea juicebars,44.02324750077289,-92.46578469229351
+7,q-nxw7sQSdaqQmZcCuiMfQ,Pho Chau,MN,Rochester,55906,372.0,4.0,1014 Broadway Ave N,vietnamese chinese thai,44.033622,-92.462526
+8,Oq9fbffSimDnpO3JyiSYvQ,Wabi Sabi,MN,Rochester,55904,6.0,3.5,1505 12th St SE,sushi asianfusion noodles,44.010489,-92.441017
+12,gdjHhmd0nCRMXVP4ma5CxA,Wabi Sabi Express,MN,Rochester,55902,33.0,3.0,100 1st Ave SW,sushi japanese,44.0224311528042,-92.4642296614187
+0,IAG39sOx3QJnzycZlfb-hA,Lilly's Asian Cafe,MN,Two Harbors,55616,1.0,5.0,826 7th Ave,panasian bubbletea soup,47.025466792150524,-91.67618751525879
+0,ELIgg2Z-BawRov_Vjtkt6w,T-Icy Roll Ice Cream,MN,Duluth,55807,9.0,4.0,4602 Grand Ave,icecream bubbletea juicebars,46.74505,-92.15938
+2,cGSRzstYl-V74LCB5h1t9w,PhoHolic Taste of Vietnam,MN,Duluth,55811,93.0,4.5,309 E Central Entrance,vietnamese,46.800573,-92.125683
+3,3npRXmh5v7NtkeNhVKKZPg,PhoCali   Vietnamese Family Noodles Restaurant,WI,Superior,54880,64.0,3.5,1320 Belknap St,vietnamese noodles,46.72031,-92.09747
+4,bsxKNntEg0Vs1hmDf0ScoA,Dog Park Gourmet Hot Dogs,MN,Chanhassen,55317,35.0,5.0,7828 Market Blvd,hotdog bubbletea hotdogs,44.86172083,-93.53946817
+2,AcXSiHwPvzv-x_eKVNcpbw,Songtea & Poke,MN,Plymouth,55447,7.0,4.5,3505 Vicksburg Ln N,bubbletea poke sushi,45.02069855614282,-93.48404195225544
+24,EPz8CjzGKLTMIndrTlgdig,Asian Duck,MN,Plymouth,55447,96.0,4.0,16605 County Rd 24,chinese thai,45.0199714656817,-93.49153
+13,DSN5tZNbs_dAOS54u0cEow,Boba Tonka Bubble Tea,MN,Minnetrista,55331,14.0,4.5,19905 Highway 7,bubbletea,44.90768,-93.531104
+31,izFFwAuyiZ-fzAJp0Ok7ZA,Bellas Ice Cream,MN,Hopkins,55343,7.0,4.5,738 11th Ave S,donuts icecream coffee,44.91248646124375,-93.4150487445116
+46,RqP4eT8jGp5TcJcKdAqjTg,Lotus Garden,MN,Long Lake,55356,14.0,4.5,2067 Wayzata Blvd W,chinese seafood soup,44.9881851,-93.5761899
+0,l25ZS5GQvrDvkFjPHh8IBg,Viet Hoa,MN,Minnetonka,55345,50.0,4.0,4773 County Rd 101,chinese vietnamese,44.917203,-93.5028458
+0,q1_6oi0-BYT53TLmCe5efQ,Shaka Shack Hawaiian Ice,MN,Saint Cloud,56303,1.0,5.0,60 Waite Ave S,shavedice foodstands,45.55187,-94.21245
+1,ByudNcq5CsglwQq0tlFEyw,Vivi Bubble Tea,MN,St. Cloud,56301,24.0,4.0,305 5th Ave S,bubbletea,45.5578756059392,-94.1556339338422
+2,2oUKpCQWPk8re5W8iekagw,Spice of Life Tea Shop,MN,Saint Cloud,56301,10.0,4.5,820 W St Germain St,coffee,45.5592399,-94.1622534
+6,UHahXr6RTokVtfXmCdbE0w,Viet Tien Market,MN,Waite Park,56387,61.0,4.0,311 3rd St NE,vietnamese salad intlgrocery,45.55909,-94.20818
+14,7Mot9taXouHb7BE0eWjh2g,D K Express,MN,Saint Cloud,56301,31.0,3.5,3616 W Division St,chinese,45.552823,-94.202911
+7,uH9s_ZbcJF-bP45l1JxFgg,Main Street Donut and Deli,MN,Belle Plaine,56011,9.0,4.5,,donuts delis,44.6230409,-93.7684042
+37,_mpwVkKG9J9JU1nEjGD4Rg,Jungle Kitchen,MN,Chanhassen,55317,150.0,4.0,460 Lake Dr,panasian bubbletea noodles,44.856362,-93.532855
+39,OY-maiUAyOBD3aCAJzU5ZA,The Donut Hole,MN,Shakopee,55379,12.0,5.0,1145 Canterbury Rd S,donuts bubbletea,44.7862026,-93.46856564305008
+1,lGpZ31pg_F3KR1EQ9oZUFw,Thai Tempo,MN,Shakopee,55379,59.0,3.5,4051 Dean Lakes Blvd,delis grocery thai,44.7797020457328,-93.4689168836003
+1,ndpfZy6fGB9BcEOQnym5IA,1910 Fresh Mexican Kitchen,MN,Austin,55912,41.0,5.0,507 1st St NW,mexican,43.6701157,-92.9762042

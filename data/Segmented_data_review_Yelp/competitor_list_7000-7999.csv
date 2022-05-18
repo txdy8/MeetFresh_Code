@@ -1,0 +1,691 @@
+,id,name,state,city,zip code,review count,rating,address,categories,latitude,longitude
+0,jPZgXKH48lTsoVbJOOB3mQ,Makua's Shave Ice,WV,Martinsburg,25404,1.0,5.0,,shavedice,39.4625,-77.95522
+1,ysMSR-n4rT2ShdK6ggOCHA,Ono Wai Shave Ice,VA,Leesburg,20176,1.0,5.0,19123 Dalton Points Pl,shavedice,39.08626,-77.50548
+2,hOIDAGfqp1-DjzbGJ6R2Sw,Branch's Soft Serve Ice Cream,VA,Harrisonburg,22801,5.0,5.0,54 S Main St,foodtrucks shavedice icecream,38.44886657843096,-78.86830991998202
+3,qw2AtDmdQzdHNwu-nI5rVg,New Town Creamery,VA,Stephens City,22655,18.0,3.5,320 Fairfax Pike,hotdog icecream newamerican,39.0804682389566,-78.2055572777294
+4,XK1No2VTSeBjmz3E5KItKQ,Snowie Bus,VA,Manassas,20108,1.0,5.0,,shavedice,38.76296,-77.47987
+5,EigjQBhwddN5g_QyLyXArA,5t Ice,VA,Sterling,20166,128.0,4.0,24555 Dulles Landing Dr,desserts bubbletea gelato,38.9370566,-77.5215936
+6,_3W05JOae65DxOqisU7cCw,Sarah's Snowballs,VA,Manassas,20109,3.0,3.5,,shavedice foodtrucks,38.78633,-77.52374
+7,gS1xbUkqNhmL62NcdV0EKQ,Rita's Italian Ice,VA,Fredericksburg,22407,13.0,4.5,11105 Leavells Rd,icecream desserts shavedice,38.26226,-77.53926
+8,SrO3wDMUwdy3VwZnQ2-1yA,Swirlie's Soft Serve,VA,Manassas,20110,84.0,4.5,9901 Pennsylvania Ave,icecream shavedice,38.739026,-77.523972
+0,hlo_4fiKFS44Gp7l2uieGw,Y-TEA,VA,Ashburn,20148,32.0,5.0,22621 Amendola Terrace,bubbletea coffee,38.9908621,-77.5046997
+1,YFAU5Vrnb5ZGZ_Gzptq-lw,Kung Fu Tea,VA,Harrisonburg,22801,46.0,4.5,1645 Reservoir St,bubbletea coffee juicebars,38.4309621844864,-78.8541994874396
+2,t4llo4b_rdHUMDjbeBUPQQ,J-Petal,VA,Harrisonburg,22801,69.0,4.0,1645 Reservoir St,icecream creperies poke,38.430827,-78.854243
+3,2MgHdvMQ-zAb0ov_MciC3Q,Try Thai Restaurant and Sushi bar,VA,Front Royal,22630,68.0,4.0,205 E Main St,sushi thai,38.91752,-78.19145
+4,bcqz_panklCw6AN9kFaT-g,The Empress Pearl Tea,VA,Purcellville,20132,11.0,4.5,737 E Main St,coffee bubbletea tea,39.13763,-77.70359
+5,ZNr6LOjMu2pM2-nc1NQf4w,Compass Tea Room,VA,Luray,22835,9.0,5.0,5 S Broad St,tea jewelry bubbletea,38.66526,-78.45989
+6,HxhCHYr7r9y0ZpaVJQspGA,UniTea Cafe,VA,Leesburg,20176,14.0,4.5,11 W Market St,sandwiches bubbletea tea,39.115523668124915,-77.5652542
+7,ThOLKggS1AzUKkRfH3pDZA,Daily Buzz,VA,Stephens City,22655,4.0,3.5,114 Elizabeth Dr,coffee bubbletea juicebars,39.0817733,-78.2029033
+8,WIpG3Dvh5pA6zSn_9BQhGQ,Vietopia,VA,Harrisonburg,22801,174.0,4.5,1015 Port Republic Rd,vietnamese sandwiches soup,38.4206783873907,-78.8715721294284
+9,sdv58-Bl_1VZqyZGOre3xQ,Teahouse,VA,Chantilly,20152,67.0,4.0,24640 Southpoint Dr,coffee bubbletea,38.936269,-77.5403208724708
+10,foD9pFFymFjt6cqV2Uk_Lg,Bubbleology,VA,Leesburg,20175,58.0,3.5,1604 Village Market Blvd,bubbletea coffee,39.0900123533084,-77.5247998345488
+11,QqSXgIPFgdwSVPToilDqzg,Greenberry's - Harrisonburg,VA,Harrisonburg,22801,38.0,3.0,400 S High St,coffee desserts sandwiches,38.443397,-78.878419
+12,Rc-av1Spx11GhbVnPUAQQA,4 sisters asian snack bar,VA,Ashburn,20147,159.0,4.5,43670 Greenway Corporate Dr,vietnamese bubbletea,39.0094214,-77.4915368
+13,v-QBbe2FMd_lQCalZeqSgw,Poke Sushi Bowl,VA,Fredericksburg,22401,207.0,4.5,1625 Carl D Silver Pkwy,poke hawaiian bubbletea,38.3043989471131,-77.5078014771755
+15,038tjuNt-8EQbTziydG0Ew,Green Pineapple,WV,Shepherdstown,25443,73.0,3.5,140 East German St,bubbletea korean asianfusion,39.4301575667509,-77.8041723930218
+16,9SCgYY5YbI_vLmUIavq2JQ,Bubblicous,VA,Fredericksburg,22407,16.0,2.0,630 Spotsylvania Mall Dr,juicebars bubbletea icecream,38.29041667,-77.51298167
+17,QIMRnlr0A4XrFCu4qr0mNw,Chop Stick Cafe,VA,Winchester,22601,128.0,4.0,207 N Kent St,thai asianfusion,39.18615,-78.16182
+18,nYNbRMvq3jo5bA2sDkWEiQ,Kung Fu Tea,VA,Manassas,20109,48.0,3.5,10689 Sudley Manor Dr,bubbletea coffee juicebars,38.785343618445864,-77.51670152883554
+19,CuWw9kavDgkhR3syNdJB_w,Freddy Donuts,VA,Fredericksburg,22401,45.0,4.5,801 William St,desserts donuts coffee,38.3007075759,-77.4677995
+20,piG2hf0nmBDjL4ws467skQ,China Inn,VA,Culpeper,22701,42.0,3.0,15309 Montanus Dr,chinese,38.48248,-77.96957
+21,qP8hUgGjveW57ETkJxTm5A,The Inn at Little Washington,VA,Washington,22747,551.0,4.5,309 Middle St,hotels newamerican,38.7135533333333,-78.1597566666667
+22,fNthCH5KITMg4yBVg2d0NQ,Pho Duong Banh Mi & More,VA,Manassas,20110,170.0,4.5,8667 Sudley Rd,vietnamese delis,38.7684559,-77.4859181
+23,Ap_C8IxC62syVnNNCqL0Jw,Yen's Cafe,VA,Ashburn,20147,579.0,4.0,43490 Yukon Dr,taiwanese seafood chickenshop,39.00938757450192,-77.4934091
+24,DToZ8F3YOT45zCHrFpDM-Q,Kung Fu Tea,VA,Harrisonburg,,1.0,2.0,,bubbletea coffee juicebars,38.451530456543,-78.8690414428711
+25,PP3DVoM77EqgYWJFYW0YkQ,Chau's Cafe,VA,Ashburn,20147,185.0,4.0,20020 Ashbrook Plaza,chinese,39.061593,-77.470021
+26,rFRN8Xt0IAsmCagwqHHilA,Xuan Saigon,VA,Leesburg,20176,210.0,3.5,15 Fort Evans Rd NE,vietnamese,39.10722,-77.547613
+27,JOoqz5kzSNuEcNZFv6ppaw,Grounds Central Station,VA,Manassas,20110,141.0,4.0,9360 Main St,coffee sandwiches juicebars,38.751482,-77.471868
+28,m3UCcQkbAwTiqsNl2C8hSA,Pholicious,VA,Ashburn,20148,72.0,3.5,43150 Broadlands Ctr Plz,vietnamese soup juicebars,39.027852,-77.509627
+29,HlsNzqmIaTYGXTB-pzoQRg,China Restaurant,VA,Warrenton,20186,35.0,3.5,589 Frost Ave,chinese,38.71749,-77.81175
+30,m5zbSWc5Y0I7CcfyB5ydOA,Viet Flavor,VA,Bristow,20136,137.0,4.0,10278 Bristow Center Dr,vietnamese salad asianfusion,38.734096,-77.550668
+31,SK-0YOT-J8pHUySD94w6hQ,Thai Tyme,VA,Manassas,20110,224.0,4.0,10167 Hastings Dr,thai salad noodles,38.7335865,-77.4760014
+32,FzbO1WBCP6b_9d5RtTzlow,Texas Donuts,VA,Manassas,20109,78.0,4.5,8130 Ashton Ave,donuts coffee breakfast_brunch,38.78176,-77.51756
+33,LbYn2C_2g4IzVIs6glEkVg,Pho Royal II,VA,Leesburg,20176,78.0,3.5,542 Fort Evans Rd,vietnamese noodles,39.1058198922165,-77.5282809259276
+34,1q7LiJpQzet9JBA704P5oQ,Pho Saigon,VA,Manassas,20109,412.0,4.5,8130 Sudley Rd,vietnamese,38.7788114365369,-77.5095628201962
+35,80G_JOJKaTTsSG_USZKbOw,Pho 234,VA,Manassas,20109,281.0,4.0,10376 Festival Ln,vietnamese,38.7772069715427,-77.5049412934279
+36,zZckKrfzpTN-7ZU5Fn-FBg,Hong Kong Restaurant,VA,Ashburn,20147,76.0,3.5,43761 Parkhurst Plz,cantonese bubbletea,39.029588,-77.485996
+37,mXhl6lQCmqkh33C1nOt77g,Siam Classic,VA,Manassas,20110,334.0,4.0,9403 East St,thai,38.75171,-77.47047
+3,_-n6mpnwiiA5lvBEFaC8KA,Mama Rosa's Ice,VA,Woodbridge,22191,10.0,5.0,13618 Jefferson Davis Hwy,streetvendors shavedice mexican,38.6561190036679,-77.2522661620479
+4,Bm7RVXBrJWBzYCQMsifeeg,Aloha Munchies,VA,Ashburn,20103,1.0,5.0,,shavedice,39.04237365722656,-77.48724365234375
+5,jnF3rYtZlBMSzxsLA2nLzw,Bears Shaved Ice,MD,Gaithersburg,20878,14.0,4.0,12311 Darnestown Rd,shavedice,39.1183221,-77.2562328
+6,vR32GkmfR2OjAsqceocrZw,Mama Rosa’s Ice,VA,Manassas,20111,4.0,5.0,8270 Centreville Rd,shavedice foodtrucks,38.7755306706907,-77.452113968521
+7,q5TASnRUHk2xr2zziPgsGA,SnoCream Company,VA,Annandale,22003,756.0,4.5,4221 John Marr Dr,desserts shavedice bubbletea,38.830673,-77.1884929
+8,R23-_9iMAjeS7nkTtWBVUw,Snowmoon,VA,Falls Church,22042,7.0,4.0,7231 Arlington Blvd,shavedice bubbletea,38.8670671979703,-77.1948515179894
+10,Py8K6EnYmNdJA92k-s23Hg,Cents Taro Family,VA,Fairfax,22031,119.0,4.5,9534 Lee Hwy,desserts,38.8663099281309,-77.2748781171966
+12,-09hjXZj3_WkQOw9sly8MQ,New Orleans Style Snow Balls,VA,Dumfries,22026,14.0,4.5,,foodtrucks shavedice shavedsnow,38.566979981900204,-77.32343194007811
+13,vYk5NViNVHVkMx5E9_PmGg,Siroo Juk Story and Tea Cafe,VA,Annandale,22003,447.0,4.0,4231 Markham St,korean coffee shavedice,38.832614,-77.197902
+15,4dn_yZ9UFkKxefAXn2MDaw,Uncle J's Snowcone,VA,Newington,22122,2.0,5.0,8253A Backlick Rd,foodtrucks shavedice,38.7308935,-77.1887185
+16,LwLBButz54Ou-ojsW-hbwg,Iron Ice,VA,Centreville,20121,337.0,4.0,13814-D Braddock Rd,desserts juicebars shavedice,38.83711,-77.42684
+17,2mmWxSW5V22gQ2xTWPXt1Q,Fruti Raspados Mary,MD,Gaithersburg,20877,2.0,5.0,6 E Diamond Ave,shavedice,39.14186,-77.19817
+18,IkcbMU0FQGAkuIqGaEP52g,T zone Dessert,VA,Sterling,20165,124.0,4.0,45999 Regal Plz,bubbletea cafes desserts,39.036379,-77.408136
+19,WGo-FjWJsI2WFBD19GCZrA,Snowmoon”1”,VA,Falls Church,22042,1.0,5.0,3039 Graham Rd,shavedice,38.86727,-77.19452
+20,-7mtTaJVlmx9TqWM-CAw-A,Breeze Bakery Cafe,VA,Annandale,22003,1027.0,4.0,4125 Hummer Rd,bakeries cafes,38.83359,-77.209918
+21,lmDdFeiGDDuRiGc2eIlBKQ,Who Seek,VA,Chantilly,20151,369.0,4.0,13910 Lee Jackson Memorial Hwy,desserts bubbletea coffee,38.8932721485688,-77.4275039233661
+22,NFjbxYN8y8r3zPdYAOX6-A,Melt Cafe & Gelato Bar,MD,Boyds,20841,20.0,4.0,22705 Clarksburg Rd,desserts creperies gelato,39.228038,-77.285245
+23,3kM0uODO7h909tGCi_VVGw,Siroo and Juk Story,VA,Centreville,20120,167.0,3.5,13830 Lee Hwy,shavedice coffee korean,38.839603,-77.426063
+24,XdEMca3qWxANxf8LUwqmOg,Chateau De Chantilly Cafe,VA,Chantilly,20151,267.0,3.5,13974 Metrotech Dr,bakeries coffee desserts,38.8961202,-77.42698797729817
+25,IwV8OxG4JfsGxu0Um3eSTg,Magnolia Dessert Bar & Coffee,VA,Vienna,22180,1059.0,4.0,431 Maple Ave W,desserts coffee breakfast_brunch,38.89552,-77.27359
+26,FZYTUBE1syQMv1BS-cG8-g,Soricha Tea & Theater,VA,Annandale,22003,344.0,4.5,7112 Columbia Pike,coffee,38.8330300196999,-77.1914365769644
+27,hCgxWRN48ubC-QSnlx3IeA,Matcha Cafe Maiko,VA,Centreville,20121,358.0,4.5,5947 Centreville Crest Ln,desserts cafes icecream,38.83768,-77.43424
+28,ncKJnevIZpQDxuU7GwPEuA,Carmen's Italian Ice & Cafe,MD,Rockville,20850,373.0,4.5,1115 Nelson St,icecream cafes shavedice,39.091840608606,-77.1743243036659
+29,wRNGY1ahLb9KWo8F56FqQg,Jireh Bakery Cafe,VA,Centreville,20120,575.0,4.0,13848 Lee Hwy,coffee bakeries breakfast_brunch,38.839218,-77.427215
+30,ji_mlC_LLeTrdgoyHmIpPw,Malaysian Kopitiam,VA,Centreville,20120,221.0,4.5,5085 Westfields Blvd,indpak chinese malaysian,38.8676977342718,-77.4469969630447
+31,WPqF-1FZDxpwpRqcyJ3WiQ,Kababayan Filipino Gourmet Food,VA,Woodbridge,22192,137.0,4.0,13352 Minnieville Rd,grocery filipino,38.6590782,-77.3018156
+32,VK__zhVhAqW0tFMnhD4_Bg,Kona Ice of Annandale and Burke,VA,Lorton,22079,1.0,5.0,7000 Newington rd,shavedice foodtrucks,38.739507,-77.184398
+33,XH6FWblL9wiVY9bEctX8Vw,Manoa Bakery Cafe,VA,Annandale,22003,355.0,4.5,7326A Little River Tpke,coffee bakeries sandwiches,38.83093,-77.19761
+34,SlY5DI3nWdYnTjw7azNFIg,Ritas of Chantilly,VA,Chantilly,20151,7.0,4.0,4299 Chantilly Shopping Cnt,icecream shavedice desserts,38.886986,-77.4418701
+35,IRvkyb02-veXejLCRHSxrQ,Nathan's Dairy Bar,VA,Manassas,20110,284.0,4.5,8948 Mathis Ave,icecream shavedice,38.7616324572773,-77.4626716251313
+36,EXXSC0tOgt6BoD2qGrEZ-Q,Frufetti,VA,Fairfax,22032,3.0,5.0,,foodtrucks shavedice icecream,38.80589,-77.29665
+37,N_qM2hMmGANnlUVGwYdPXw,Safari Ice,MD,Gaithersburg,20878,1.0,1.0,,eventplanning shavedice,39.1452868350348,-77.2018849779297
+39,wQtqmL7g3UoM50h7sTfaSA,Four Sisters Restaurant,VA,Falls Church,22042,1211.0,4.0,8190 Strawberry Ln,vietnamese,38.872516,-77.228246
+40,r-BRHexo3sI5WVe_0_Sudw,Rita's Italian Ice - Fairfax,VA,Fairfax,22030,69.0,4.5,10726 Fairfax Blvd,icecream shavedice,38.8556834,-77.3149248
+41,pQpzDah5g4PbNDRyYLpi2A,Shamshiry,VA,Vienna,22182,1073.0,4.0,8607 Westwood Center Dr,mideastern persian,38.9286117516713,-77.2460132215658
+42,Q0UIznn5mdGJ3DIRx9lBLQ,The Block,VA,Annandale,22003,881.0,4.5,4221 John Marr Dr,asianfusion cocktailbars foodstands,38.83118,-77.1885099
+43,WqFmeasewrNwQ6uFPM5odg,Shilla Bakery & Cafe - Tysons Corner,VA,McLean,22102,216.0,3.5,1961 Chain Bridge Rd,desserts coffee bakeries,38.9174049114414,-77.2205286473036
+44,FVXIdhkDlhFHpby0d2fpQg,Semicolon Cafe,VA,Chantilly,20151,95.0,4.5,13915 Metrotech Dr,sandwiches desserts coffee,38.894972,-77.42514899999999
+45,bxvzEbNKaJzpp1oj7ePnng,Matthew's Grill,MD,Gaithersburg,20878,271.0,4.5,213 Muddy Branch Rd,filipino asianfusion,39.1283549786855,-77.2048717383858
+46,zP-hHEhcbQI2KxBAzp9u2A,Jumbo Jumbo Cafe - Germantown,MD,Germantown,20874,132.0,3.5,19732 Germantown Rd,taiwanese coffee bubbletea,39.180501,-77.265835
+47,6dRa1EQ_bXDWS0cyhbOtQw,Matcha Cafe Maiko - Tysons,VA,Tysons Corner,22102,138.0,4.5,1961 Chain Bridge Rd,desserts icecream coffee,38.9170135,-77.2227938
+48,YcCEIDXG-VTVrEXaONlJ8Q,Sushi On,VA,Fairfax,22033,628.0,3.0,Fair Oaks Mall,sushi japanese buffets,38.8620002523269,-77.3580599299194
+49,1vR8r9WBVJfXT-VZmDqxLA,Shilla Bakery,VA,Centreville,20121,326.0,3.5,6015 Centreville Crest Ln,bakeries korean sandwiches,38.8371346682518,-77.4343009184746
+0,uMiddVkJWY2kebEmjdfO-Q,Rita's Italian Ice,MD,Frederick,21701,29.0,3.5,538 W South St,icecream desserts shavedice,39.4129064,-77.4250841
+1,A-utx4lygyE-w7rfbxdtEA,Byers Market,MD,Hagerstown,21740,4.0,3.5,152 N Burhans Blvd,grocery convenience delis,39.6473122,-77.7250671
+2,FhiiiZyo2wYCovMKZkynsw,Shilla Bakery & Cafe - Annandale,VA,Annandale,22003,778.0,3.5,7039 Little River Tpke,bakeries desserts coffee,38.8288120460666,-77.1894385159552
+3,K-Qe3WpivRgL0ZMOnYKXiw,Rita's Italian Ice,MD,Gaithersburg,20877,14.0,4.5,701 Russell Ave,icecream desserts shavedice,39.153864,-77.20422
+4,w_KIG8bsFwHmbcJ_aNb-4A,Yechon,VA,Annandale,22003,1727.0,3.5,4121 Hummer Rd,korean japanese bbq,38.83376,-77.20995
+5,HY2yNRwmKmULRSLqyMHMtg,Napoleon Bakery,VA,Annandale,22003,49.0,4.0,4217 Tom Davis Dr,bakeries desserts coffee,38.8316194313465,-77.1911424598609
+6,ObvbFLmbvyzG5s3GCkxYJw,Sweet Berry,VA,Fairfax,22031,275.0,4.0,9432 Main St,icecream gelato creperies,38.842199025526,-77.270253049706
+7,OqNmlr0g2Eym3PkjGH2R-w,Rita's Italian Ice,MD,Germantown,20874,44.0,3.5,12801 Wisteria Dr,icecream desserts shavedice,39.1762828,-77.2687877
+8,LXuhJmP9Ox0eMQFa8W4hZg,Rita's Italian Ice,MD,Hagerstown,21742,5.0,3.5,1313 Pennsylvania Ave,icecream desserts shavedice,39.6643829345703,-77.7193756103516
+9,sSREv7OwhiSZafAWihKHmw,MangoLina - Springfield Town Center,VA,Springfield,22150,46.0,3.0,6814 Springfield Mall,gourmet juicebars desserts,38.7750306,-77.1735056
+10,KlEzQTp4OKweCrSvQ8P9Aw,Cafe Rice & Kabob,VA,Sterling,20164,134.0,4.0,47100 Community Plz,mideastern vegetarian sandwiches,39.01431,-77.37566
+11,AkU5_H2ayGyuuw5WbcUDig,Bingbing,VA,Fairfax,22030,1.0,3.0,10500 Main St,desserts farmersmarket shavedice,38.8469810038805,-77.3088055104017
+12,pjE55j9SqwobeiP96y4_eA,Vivi Bubble Tea,MD,Montgomery Village,20877,39.0,3.5,18320 Contour Rd,bubbletea,39.154654,-77.2001256
+13,HMru5q9iEaSCoPjZVE52ag,Dairy Queen,MD,Frederick,21701,19.0,2.5,1293 Riverbend Way,icecream hotdogs,39.4471294,-77.3885871
+0,QojjBN3aFPdFrRXvIi6_tg,Sweet Hut Cafe,WV,Martinsburg,25401,13.0,4.5,220 N Queen St,poke icecream bubbletea,39.459285,-77.963262
+4,MDFTMBigAYyDxQeUrXKvcg,Golden China Restaurant,WV,Martinsburg,25404,44.0,4.0,1117 N Queen St,chinese bubbletea seafood,39.4706345,-77.954653
+23,qCIwtvSGrf7kUaRUl3Gfzg,Rita's Italian Ice,MD,La Vale,21502,3.0,3.5,1055 National Hwy,desserts shavedice icecream,39.641113,-78.826599
+27,CIwbPFedU73LF8baA9ZhOA,Merge Cafe,VA,Stafford,22554,42.0,4.5,44 Mine Rd,vietnamese korean sandwiches,38.469895,-77.4168133972808
+2,XO4FhUW-MgS-T9BRfVKFVA,Bubble Mochi,VA,Vienna,22180,29.0,4.5,155 Maple Ave W,donuts macarons bubbletea,38.90042,-77.26714
+3,agFLzZ5g56QmC5OvGa2hUQ,Yo Bubble,MD,Frederick,21704,49.0,4.0,3327 Worthington Blvd,juicebars icecream,39.326331,-77.342488
+6,RROUEmuJJjktepix2glXHA,Cafe Miki,VA,Woodbridge,22192,90.0,4.5,14569 Potomac Mills Rd,desserts bubbletea icecream,38.635102381464364,-77.29659240692854
+8,4hPwhbhGVWmLMRqMRe_1Ow,Mr. Wish,VA,Herndon,20170,33.0,4.5,1242 Elden St,bubbletea juicebars,38.962045462458136,-77.40073013894929
+9,cLa8QFj1ye4da07ighfrqQ,Sharetea Germantown,MD,Germantown,20874,12.0,4.0,13012 Middlebrook Rd,bubbletea coffee juicebars,39.1805620388865,-77.27165122033838
+12,ddSB60389L0RVBv16pSQww,BoBaPoP Tea Bar - Kentlands,MD,Gaithersburg,20878,194.0,4.5,312 Main St,bubbletea coffee tea,39.12189,-77.23824
+13,TPkzhj_4ZAFXZKE2MEPtFA,Heo Tea,VA,Centreville,20121,59.0,4.5,6041 Centreville Crest Ln,bubbletea,38.83618,-77.434548
+14,l8xEWpQwUsDHQ1jY8wn-Hw,Teas'n You Fusion Tea House,VA,Vienna,22182,1195.0,4.5,8032 Leesburg Pike,bubbletea coffee macarons,38.91379,-77.2229
+16,q1Aig7z0L_Di01dYOwsbgw,Ben Gong's Tea,MD,Gaithersburg,20879,77.0,4.0,108 Paramount Park Dr,bubbletea coffee juicebars,39.15946,-77.22129
+17,SOjuvGsnZfVsC-ZhQ3w4yA,Kung Fu Tea,VA,Woodbridge,22192,16.0,3.0,4160 Merchant Plz,bubbletea coffee juicebars,38.674632,-77.333513
+19,T-F_jY5x55fcphFgljC2Yg,One Zo,VA,Fairfax,22030,103.0,4.0,10780 Fairfax Blvd,bubbletea,38.856382,-77.316508
+20,Ce2j8AVPRNwrXPFOCcskZA,Kung Fu Tea,MD,Gaithersburg,20878,4.0,5.0,130 Market St,bubbletea coffee juicebars,39.12255,-77.2347698
+22,4JH7er2Q9QAcdSHYTr3lUg,BobaPop Tea Bar - Germantown,MD,Germantown,20874,13.0,5.0,19847 Century Blvd,bubbletea coffee,39.181558880848776,-77.26587982839627
+26,OD7C-B1e4GCvFujodyeAHQ,Komma Tea,VA,Woodbridge,22192,53.0,4.0,2700 Potomac Mills Cir,coffee bubbletea juicebars,38.6435443853755,-77.2986585541784
+27,FR7sZVFKPmWlLcRZQcY_BQ,BoBaPoP Tea Bar - Merrifield,VA,Falls Church,22042,92.0,4.5,2831 Gallows Rd,bubbletea coffee juicebars,38.8736868,-77.226773
+28,ZmPjbeITNN2pth_fMN0PYQ,Koi Tea,VA,Stafford,22554,73.0,4.0,418 Garrisonville Rd,bubbletea icecream,38.4756250541848,-77.4275066703558
+29,mNmwlLRYJp9iAjTc9oDhag,8Tea8,MD,Frederick,21701,6.0,4.0,211 Shorebird St,bubbletea,39.447474,-77.395212
+30,pI6zNGKw0UfQ-2-9P8-Tbg,Juno Bakery & Cafe,MD,Frederick,21702,2.0,4.5,1063 W Patrick St,coffee customcakes bubbletea,39.418783,-77.446488
+33,obfyE8Eo1vb9P5H3c5cNCA,Kokee Tea,VA,Fairfax,22031,127.0,4.0,9668 Main St,bubbletea juicebars coffee,38.8421977656657,-77.2769449828038
+34,iNV9U8P_ld7AYKrxJsfI-Q,Tea DM,VA,Fairfax,22031,20.0,4.5,9416 Fairfax Blvd,bubbletea juicebars coffee,38.86529124486808,-77.2716454488986
+36,UXTzYCs3zH_1Tr2Xr3GhYQ,Kung Fu Tea,VA,Sterling,20164,81.0,4.5,46950 Community Plz,bubbletea coffee juicebars,39.016345,-77.3769248
+37,eznn-O8YZHl-3vzJwzj_SA,Gong Cha Chantilly,VA,Chantilly,20151,75.0,4.0,13945 Metrotech Dr,bubbletea juicebars coffee,38.8947153886133,-77.4267321825027
+38,P3y4VbBaDYG8I-LMxIdooQ,Sharetea,VA,Fairfax,22030,369.0,4.0,11211 Lee Hwy,bubbletea juicebars coffee,38.850898,-77.333455
+39,01OTyIZjXQ752W8JDoVfvw,TeaDM Mini,VA,Vienna,22180,182.0,4.0,142 Maple Ave W,bubbletea coffee juicebars,38.89994,-77.26635
+41,OnsmscLkuS3LGGqeBNmzyQ,ViVi Bubble Tea,VA,Fairfax,22031,109.0,4.0,9974 Main St,bubbletea,38.84440683,-77.29087517
+42,dTr7iPNa1g3Es7_4LxiO6g,Market Street Boba & Beans,MD,Frederick,21701,22.0,3.5,35 N Market St,coffee bubbletea,39.41504,-77.411
+43,8cF3ogHF6F_UqTUovgUQsg,Kung Fu Tea,VA,Burke,22015,70.0,4.0,9530B Old Keene Mill Rd,bubbletea coffee juicebars,38.7783375368797,-77.2733875496855
+45,tf9Ath7sM1ooNYHcX_q_-w,Teabreak Pho & Boba,VA,Sterling,20164,213.0,4.0,46580 S Cottage Rd,vietnamese bubbletea juicebars,39.029024,-77.389129
+46,2hX0BC3kI247SDhZ7zAOUA,Coldspoon Coffee,VA,Sterling,20165,208.0,5.0,20789 Great Falls Plz,icecream coffee,39.0395140446262,-77.358118
+47,x7ZH2sSY-QkJhB-n2t4Jkw,Gong Cha,VA,Tysons,22102,29.0,4.0,1632 Boro Pl,bubbletea coffee juicebars,38.9245498331536,-77.2338122874498
+48,F6cae_A8cG6qUmuhnXWjlQ,Kung Fu Tea,VA,Centreville,20120,255.0,4.0,13830 Lee Hwy,bubbletea coffee juicebars,38.8396269894047,-77.4263389457848
+49,_hecqSFD6OL1YmFz8traxw,Ben Gong's Tea,VA,Centreville,20121,285.0,3.5,14260F Centreville Sq,bubbletea,38.8378277,-77.4388963
+1,anUUKJsOxBzIv8tyIYDlsQ,Pinay Sweet Creations,VA,Dumfries,22026,65.0,4.5,17319 Jefferson Davis Hwy,bakeries bubbletea filipino,38.57660033670546,-77.31232794290733
+2,kLzzlPWl4dqRgylqTogXDA,Kung Fu Tea,VA,Lorton,22079,7.0,4.0,9423 Lorton Market St,bubbletea,38.70229,-77.22036
+3,rr4nEGO4y8AcLFpoiEVEHA,Tea Break Pho & Boba- Herndon,VA,Herndon,20170,142.0,4.0,150 Elden St,vietnamese bubbletea,38.9670124518295,-77.3678452894092
+4,GTY14VoFmwlpgyRVHUNuBQ,Jasmine Smoothie World & Bubble Tea,VA,Woodbridge,22192,3.0,2.5,2700 Potomac Mills Cir,juicebars,38.6821939553537,-77.3223287910156
+5,hy_9FUAlBjulGjffg1JG_g,Fuji Asian Food & Sushi Bar,MD,Hagerstown,21742,72.0,3.5,11205 John F Kennedy Dr,sushi asianfusion,39.62263,-77.67613
+6,foRWEBAdxokqgcBePmbMjA,Moge Tee Tysons Corner,VA,Tysons Corner,22102,98.0,4.0,1961 Chain Bridge Rd,bubbletea coffee,38.917461,-77.22138
+7,yZqDXGMNmACwfJ4djp033A,Pholicious,VA,Woodbridge,22192,31.0,2.5,2700 Potomac Mills Cir,vietnamese,38.643557,-77.295374
+8,wABwdtzP9U2kva4iUxPA6Q,Panda Tea House,VA,Sterling,20166,35.0,3.5,21100 Dulles Town Cir,icecream bubbletea,39.03166,-77.42297
+9,3icy3cGEta-pC632t-RfJQ,Cafe Banh,VA,Quantico,22134,40.0,4.5,324 Potomac Ave,coffee sandwiches breakfast_brunch,38.52169,-77.29198
+10,Q12NBtnj7JquZj669Qblgw,Gong Cha Poki DC,VA,McLean,22102,27.0,4.0,1632 Boro Pl,bubbletea hawaiian juicebars,38.9245734196196,-77.2337353700946
+12,c4JI9FgNM2XStyQbg2MIhQ,Kung Fu Tea,MD,Germantown,20876,112.0,4.0,19717 Frederick Rd,coffee bubbletea juicebars,39.1785664861058,-77.2372257239005
+14,YRrwnICEc3UwSHGAu4yu9g,Poke Bowl,MD,Frederick,21704,55.0,4.5,5253 Buckeystown Pike,hawaiian asianfusion,39.37481667,-77.412905
+17,SL62mGpJuUQH29keR42hfg,520 Ice Cream and Tea,VA,Fairfax,22031,209.0,4.0,2985 District Ave,bubbletea icecream,38.869646,-77.230863
+18,VaLEmfgFvEJAKdVbyto6Ig,Kung Fu Tea,VA,Sterling,20166,37.0,3.5,21100 Dulles Town Cir,bubbletea coffee juicebars,39.03238658500485,-77.4239385
+19,oWkO0cMudSaJ8sZXQdcJdQ,Kung Fu Tea,VA,McLean,22102,184.0,3.5,1961 Chain Bridge Rd,coffee bubbletea juicebars,38.91702,-77.222792
+24,sNwCHUwFnOeBXxilTFDgXg,Kung Fu Tea,VA,Reston,20191,117.0,3.5,2280 Hunters Woods Plz,bubbletea coffee juicebars,38.936782,-77.363303
+25,7CaQXzlYpD2RJpt-WSb7ng,Cafe O’Clock,VA,Fairfax,22031,21.0,4.5,9860 Main St,coffee bubbletea sandwiches,38.84391,-77.287624
+26,tF_-7pBgUsFErM7e5OplHg,H Mart - Frederick,MD,Frederick,21702,73.0,4.0,1063 W. Patrick St.,grocery korean food_court,39.4187400165834,-77.4465925991535
+29,uzU8PCFVAAwcfeM9bpwcBA,Ibiza Cafe,MD,Frederick,21701,28.0,5.0,8 West 4th St,cafes coffee,39.418971,-77.4109474
+30,0QL2a1yQlwzDjwvzXqNKKQ,Ben Gongs Tea,VA,Fairfax,22030,3.0,5.0,10760 Fairfax Blvd,bubbletea,38.8553288,-77.3158176
+31,EnnIAyyCuHcFbnGMRxMWRQ,Cafe L'ami,MD,Frederick,21702,4.0,5.0,1063 W Patrick St,cafes,39.4188688002443,-77.446323688078
+33,ldz1ynRG38tEncupNwH-aA,Kung Fu Tea,MD,Clarksburg,20871,33.0,3.5,22705 Clarksburg Rd,bubbletea coffee juicebars,39.228732,-77.285848
+34,XdIh5016ZBDLnuRilbM2Ag,The Pham,MD,Frederick,21701,18.0,4.5,440 Prospect Blvd,foodtrucks vietnamese,39.4046001,-77.4283359
+36,5_Pv05D_LButD9oty8M46w,Cafe L'ami,VA,Burke,22015,10.0,3.5,9550 Burke Rd,cafes bakeries,38.795648,-77.272145
+37,lOWwyplRtc9TANfFZGKfOA,Pho-nomenal,VA,Ashburn,20147,435.0,4.5,20447 Exchange St,vietnamese sandwiches bubbletea,39.050361,-77.45405
+38,kzENjRtdOtvL9ovJi2EQbA,Wok In Wok Out,MD,Frederick,21701,105.0,4.0,211 Shorebird St,asianfusion,39.4473354,-77.3952407
+39,udDFeNOXroXBVk-E99nhyw,epiQ Food Hall,VA,Woodbridge,22193,118.0,4.0,14067 Noblewood Plz,food_court,38.650863,-77.3142065
+40,PTHh_ABrZhiH4ZiWD-Odsg,Viet Chopsticks,VA,Woodbridge,22192,319.0,4.0,14532 Potomac Mills Rd,vietnamese,38.6363507,-77.2963119
+42,ql1VZk-szpCV7K-oQft3BA,Bulgogi Korean BBQ,VA,Stafford,22556,249.0,4.0,32 Doc Stone Rd,korean bbq,38.4757879864624,-77.4159838834609
+43,KN3Ti0cCHQ5SyC3qM43uzQ,Smash'D Creamery,VA,Fairfax,22030,271.0,4.5,10427 North St,icecream bubbletea,38.846824,-77.30553
+44,mmJrPKPxEtR3YzQ8hevFvw,Tsunami,MD,Frederick,21701,88.0,4.5,20 N Market St,ramen tapasmallplates,39.414567,-77.410574
+45,qbT0H8xT4lSeFe_qhmJz-w,Roll Play Grill,VA,Vienna,22182,1539.0,4.5,8150 Leesburg Pike,vietnamese,38.9164603,-77.2266338
+46,XMfEilL56UrldWe4p9Bs5Q,UMAI Ramen & Rice Bowl,VA,Herndon,20170,292.0,4.5,482 Elden St,ramen japacurry,38.970474,-77.376007
+2,WI8y8dxeRL9POY29aT7s7Q,Donutchew - Fair Oaks Mall,VA,Fairfax,22033,27.0,4.5,11703 Fair Oaks Mall,desserts bubbletea donuts,38.861744,-77.3548484
+3,Ov-tuN0TjK-dwe3pXQPa-w,Siam Spice,VA,Sterling,20164,309.0,4.5,22330 S Sterling Blvd,thai,38.9973952163539,-77.4064503237605
+4,w8kHhauhFEkvfS9AhDF9iQ,Hot Pot Legend,VA,Ashburn,20147,83.0,4.0,20462 Exchange St,hotpot szechuan,39.05019067,-77.45363033
+5,dDa3kXCLEWPdWy1C5jnwDg,Tutti Frutti Kentlands,MD,Gaithersburg,20878,18.0,4.5,130 Market St,icecream bubbletea,39.1224371851173,-77.2348976317617
+6,QAw5CrfpkwbGd7lSFdZBZg,Chao Phra Ya,VA,Herndon,20171,334.0,4.0,2465 Centreville Rd,thai,38.94986,-77.41197
+7,V1lX7ES8kuq9Uv7rH5A7Bg,Tea Mansion,VA,Fairfax,22033,4.0,5.0,11804U Fair Oaks Mall,coffee bubbletea tea,38.862904,-77.3583615
+9,6lH8NjtHcCSB_9Q_Uf3DKw,Argo Tea,VA,Fairfax,22030,25.0,3.0,4400 University Dr,coffee bubbletea,38.831982,-77.307182
+11,kCbwMyD3JscFf5TF-kustg,Love: Juice Drink Bites,VA,Fairfax,22030,23.0,4.0,10394 Willard Way,coffee bubbletea juicebars,38.8487204,-77.3043609
+12,OTSieYMnWFUFd5gPgKHw2g,Pho Banh Mi and Grill,VA,Woodbridge,22193,59.0,3.5,4317 Dale Blvd,vietnamese soup juicebars,38.64632551455302,-77.33974481349183
+13,_NzmRp5JGxa-cN6MtUWlrQ,Pho Basil,MD,Frederick,21701,76.0,3.5,701 Motter Ave,vietnamese,39.42326,-77.411859
+15,IZkYEX_Z27V9LRzINi_nmw,Sisters Thai Mosaic District,VA,Fairfax,22031,971.0,4.0,2985 District Ave,thai,38.8699971762943,-77.2307790443301
+16,wL1TRlsWgXZRnWK58a-bvA,Grove,VA,Vienna,22180,138.0,4.5,2673 C Avenir Pl,poke hawaiian ramen,38.881738613549636,-77.22872801503851
+19,SumQXE-Xhv8b6_SrLTAgRg,Kung Fu Tea II,VA,McLean,22102,7.0,4.0,1961 Chain Bridge Rd,bubbletea coffee juicebars,38.91792,-77.22138
+20,eoY3g6ouR0nr5vV0zKT0xA,Fairfax Bakery,VA,Fairfax,22030,80.0,4.5,11211 Lee Hwy J,bakeries bagels coffee,38.85058,-77.33347
+21,SUZ_m56BsRm4ZqswEwPJcQ,Lakeside Asia Cafe,VA,Reston,20191,239.0,3.0,11130-J S Lakes Dr,chinese,38.939267,-77.330425
+22,GLKdXevyKqMeGtuPx5pl1w,Lei'd Poke,VA,Vienna,22182,725.0,4.5,8032 Leesburg Pike,hawaiian poke sushi,38.91379,-77.2229
+24,Ili5O3sDX6WrTGkGPsWTsA,Paris Baguette,VA,Centreville,20121,229.0,4.0,14240 Centreville Square,bakeries coffee cakeshop,38.8377695116823,-77.4387600405698
+25,tWPzvRYPkInB2vokMCbK8Q,East Wind,VA,Fairfax,22030,429.0,4.5,10414 Main St,vietnamese vegetarian bubbletea,38.8464,-77.30589
+26,f9ENLq2K2o-hH1zENfbaTQ,Old Dominion Grill and Sushi,MD,Frederick,21704,108.0,4.0,5732 Buckeystown Pike,sushi bbq thai,39.39294193996934,-77.41030410079927
+28,-ZB_ItZhaAwblPFfPH3wcQ,Cakes By Happy Eatery,VA,Manassas,20110,134.0,3.0,9685 Liberia Ave,bakeries cafes customcakes,38.7470032285517,-77.4490352494228
+29,pAw9E3JL3O4mr27xdR2QgA,E-Saan Thai Sushi,VA,Herndon,20170,15.0,4.0,1106 Herndon Pkwy,thai sushi seafood,38.963836,-77.3998344
+31,NDMjI8mKx2Wv0KbPeHtGGQ,Cameron's Coffee & Chocolates,VA,Fairfax,22031,150.0,4.5,9639 Fairfax Blvd,coffee bakeries chocolate,38.8630883706553,-77.2771135783942
+33,T2jQ_wP_tGZrObmc4kOqnA,Zane Japanese Eatery,MD,Germantown,20874,284.0,4.0,19833 Century Blvd,sushi ramen thai,39.1815105,-77.2659483
+34,FGmScz_nVLAHkitwdEqaQA,Kokee Tea,VA,Fairfax,22033,56.0,3.5,11750 Fair Oaks Mall,bubbletea,38.862589,-77.359189
+36,YAEyiQjymlDcgqgIsTTP7w,Senberry Bowls,VA,Fairfax,22030,82.0,4.5,10407 Main St,acaibowls coffee juicebars,38.84591,-77.30595
+37,cxqdIQC4xX3yZNCv-7LHkA,H Mart - Burke,VA,Burke,22015,62.0,4.0,9550 Burke Rd.,grocery korean food_court,38.79562,-77.272152
+38,njzIjhDKsASp53X5gQB8Xw,Supreme Thai Bistro,VA,Chantilly,20151,156.0,4.0,13971 Metrotech Dr,thai bubbletea noodles,38.89538,-77.42774
+39,1RYrEGoFbHPIEwhQTKkkLA,Pho 2000,VA,Herndon,20170,169.0,3.0,13045 Worldgate Dr,vietnamese,38.9581012,-77.4004976
+40,te4_ZubMLFBvszq7Gn3ikA,KIRORAN,VA,Fairfax,22030,167.0,3.5,10728 Fairfax Blvd,chinese asianfusion afghani,38.856541,-77.315505
+41,OauEaWv34gtnarBVfTmRCg,Sir Sandwich,VA,Vienna,22182,160.0,3.0,8490 Tyco Rd,hookah_bars sandwiches desserts,38.9314704212979,-77.2385020951679
+42,frTthI8ZECgNLd4HvO1vkA,Hunan Gourmet Restaurant,MD,Frederick,21701,71.0,3.5,915 W 7th St,chinese,39.4262545,-77.417065
+43,fy1XcxOfZTrD6t4QOMRqog,Kokee Tea,VA,Fairfax,22033,12.0,3.5,11950 Fairoaks mall,bubbletea coffee juicebars,38.865642080523,-77.3613454032992
+44,8rTaKjffsVOoXpDFQrr4GA,Hula Inn,VA,Sterling,20166,57.0,3.5,46000 Old Ox Rd,chinese,38.9775619506836,-77.4087524414062
+45,zn-QBsaWMzuDTtVB6kvZ_A,Hot Spot,VA,Fairfax,22031,1185.0,4.0,3232 Old Pickett Rd,asianfusion chinese hotpot,38.863417,-77.274047
+46,s6srGu1SyvUoCHr-5QPnnA,Jasmine Garden,VA,Falls Church,22042,263.0,3.0,8106 Arlington Blvd,chinese japanese asianfusion,38.866773,-77.22564
+47,LHosR9qfgbrOVAjW-Jpo7w,Pho 7,VA,Vienna,22182,225.0,3.5,8377 Leesburg Pike,vietnamese,38.921528,-77.236499
+48,6mP31kgVgCtVU4ebthgKAA,Pho Dulles 75,VA,Herndon,20170,178.0,4.0,1058 Elden St,vietnamese,38.967458,-77.397186
+49,W__aRQzGFtt8k8ZhE-t35A,Pho VietFresh,VA,Herndon,20171,87.0,4.5,13340 Franklin Farm Rd,vietnamese bubbletea noodles,38.908798,-77.407093
+0,Y8AlWVfTKaeH9LaDCDWdmA,Kara Hibachi & Sushi,MD,Gaithersburg Md,20878,29.0,4.0,12146 Darnestown Rd,japanese sushi,39.11733,-77.25239
+1,Vp1c0UxCzrlv4KSGLUnmzg,Mr K's Chinese Cafe,MD,Germantown,20874,146.0,3.5,12611 Wisteria Dr,chinese thai cafes,39.170790188084645,-77.26083519553322
+2,YoAq1a5KHlL9vUIB-74D8w,Dulce Crepes,VA,Fairfax,22030,275.0,4.0,11217F Lee Hwy,breakfast_brunch vegan acaibowls,38.850751478471,-77.3347656056285
+3,I4yH9gkoHGgIYMXnlvWlEg,Euphoria Kitchen,MD,Gaithersburg,20878,114.0,3.5,304 Main St,vietnamese,39.1219899,-77.23836
+4,15lp35YBB-4NUMnNCMfRdQ,Super Pho,VA,Herndon,20171,384.0,4.0,3065 Centreville Rd,vietnamese,38.921696,-77.41610383
+5,jwO94CmA5xeN866qlRsaxg,Rolling Cooking,VA,Springfield,22152,191.0,3.5,6351 Rolling Rd,chinese,38.77855,-77.23174
+8,KB9Af-xHWo8IKj2pHen5vA,Hot Pot Hero,MD,Gaithersburg,20879,371.0,4.5,100 Paramount Park Dr,hotpot seafood cajun,39.159738,-77.221286
+9,n3yiGiuCIkUNmkAos2leEA,NAN THAI RESTAURANT ,VA,Herndon,20170,210.0,3.5,13021 Worldgate Dr,thai desserts bubbletea,38.9576014,-77.3998644
+10,Vrky4w8jO7oCvJQ2JvG1YA,Pho New,VA,Herndon,20171,209.0,3.5,2443 Centreville Rd,vietnamese,38.9497957052561,-77.4087200257626
+11,hNTJSy3-xOIEPtIbJMnP4Q,Pho Bac,VA,Chantilly,20151,96.0,3.5,13924 Lee Jackson Memorial Hwy,vietnamese chinese,38.89408,-77.42791
+12,HPvSk-f-cIAgyKjdB_efgw,Bonchon Germantown,MD,Germantown,20876,301.0,3.0,19775 Frederick Rd,korean asianfusion chicken_wings,39.178856,-77.23802
+13,NDF2Hz18IkdtM9N_TF7EKQ,Pho Duong,VA,Fairfax,22031,213.0,4.0,9412 Main St,vietnamese,38.8415506325451,-77.270410042289
+14,cEb0St1rOYEk5hF-tZGGfQ,Pho Deluxe Tysons,VA,Vienna,22182,228.0,3.0,1577 Spring Hill Rd,vietnamese,38.9273610690787,-77.2424530237913
+15,KTpPFjlIjcAL7g72NkWgXw,Pho4ever,VA,Fairfax,22031,216.0,4.5,9966 Main St,vietnamese,38.84414,-77.2908
+16,4Uak4WHEdyI3XNRAm5Yi_Q,Nanjing Bistro,VA,Fairfax,22030,175.0,3.5,11213 Lee Hwy,chinese,38.8512756,-77.3344158
+17,hHbSqqBkHjHLfZl6n7-cuQ,Pho Duong,VA,Centreville,20121,324.0,4.0,14215W Centreville Sq,vietnamese,38.83754,-77.43744
+18,B5ylK6JiTUvEdkWoknTTUQ,Pho 24,VA,Manassas,20111,89.0,3.5,8448 Centreville Rd,vietnamese,38.773119,-77.4523953
+19,XTrplMR4K3m57wfbnpIPIA,Pho Viet Saigon,MD,Gaithersburg,20879,186.0,4.0,18509 N Frederick Rd,vietnamese,39.161277087303,-77.2203966681461
+20,ucClQMWElwTc7lzqyjLDLg,Good Fortune Cafe,MD,Gaithersburg,20878,124.0,3.0,237 A Kentlands Blvd,sushi chinese thai,39.1251097355991,-77.2389998203271
+21,OMpFTxuUZIPl2-kPt8uq-g,Pho Cyclo Vietnamese,VA,Falls Church,22042,392.0,4.0,8102 Arlington Blvd,vietnamese,38.8667890635139,-77.2118137951402
+22,XC5PL8gLoF8A_KKUqnShmA,H Pho,VA,Burke,22015,168.0,3.5,9546 Old Keene Mill Rd,vietnamese soup noodles,38.77863,-77.27389
+23,82sBvofGPLgUE4WZhi1cJA,Pho House,MD,Germantown,20874,330.0,4.0,13073 Wisteria Dr,vietnamese,39.1781655902526,-77.2714145359061
+24,9fFY2NXPt4ZpXWP_aClcvw,Hong Kong Express,VA,Burke,22015,70.0,3.5,6030-I Burke Commons Rd,chinese,38.7874815613031,-77.2991435229778
+25,6hvHqPXMx73yYoSPdtYEQg,Pho City,MD,Gaithersburg,20878,109.0,3.5,12123 Darnestown Rd,vietnamese,39.118050737345,-77.250832545029
+26,1uM6Tfb_UqgaHmUqUBYc1A,Bonchon Gaithersburg,MD,Gaithersburg,20878,38.0,3.5,130 Market St,korean chicken_wings asianfusion,39.12206,-77.234856
+27,UpsiEnD_23n8Cv-VGD0iYA,Pho Thang Long,VA,Fairfax,22031,249.0,3.5,3071 Nutley St,vietnamese,38.869807,-77.261137
+28,OSubA2Mr7c8u3jyzVktfiQ,Pho 81,MD,Germantown,20876,197.0,4.0,19735 Frederick Rd,vietnamese,39.1796372157745,-77.2362655028701
+29,PVbHgYN_QBvMH3T6b7SMcQ,Cafe Hong Kong,MD,Germantown,20874,112.0,3.0,13038 Middlebrook Rd,chinese seafood soup,39.1822464,-77.2705733
+30,W_hs8tUbJCldBsn4IvK5tQ,Kim's Pho Kitchen + Bar,VA,Fairfax,22031,221.0,3.5,9675 Fairfax Blvd,vietnamese bars seafood,38.8640598,-77.278264
+31,maUpliFF0kfsnnxYfjfl8A,"PHO, BANH MI&GRILL",VA,Fairfax,22030,404.0,3.5,4290 Chain Bridge Rd,vietnamese,38.838399,-77.312105
+32,GIQ-z63sPcoCBtdqlt91WQ,Viet House,VA,Fairfax,22030,212.0,3.0,11216 Lee Hwy,vietnamese,38.85272802506893,-77.33190628311264
+2,Ec8UhxTsd2nbGPVgFAKknQ,Kona Ice,VA,Fredericksburg,22401,2.0,5.0,,shavedice foodtrucks,38.3008232116699,-77.4634017944336
+12,207npuDSH_riTpL6YiXdzg,Sapporo,PA,Waynesboro,17268,117.0,5.0,5 E Main St,japanese korean sushi,39.755724,-77.577213
+10,rFHvsRDzes_7UtavJ-ab8w,Hot Wok,VA,Staunton,24401,15.0,2.5,1015 D Richmond Ave,chinese,38.13923611711721,-79.04552026901051
+9,jpUWeKKpLCWmuyCrQpByBw,Frosties Rail Stop,VA,Louisa,23093,8.0,3.5,301 W Main St,icecream hotdog shavedice,38.02609,-78.00389
+16,h7QS_YEnewDkE674c-3qbg,Maru Korean Restaurant & Bar,VA,Charlottesville,22902,142.0,4.0,412 E Main St,korean,38.0298233,-78.4789124
+20,UKUmEkMpaiKAlsJ08viUYw,Rita's Italian Ice,VA,Doswell,23047,2.0,4.5,16000 Theme Park Way,desserts shavedice icecream,37.841887,-77.445212
+47,2HuOdA4ld3XKOT0kWBNpEg,Pineapples Thai Kitchen,VA,Charlottesville,22903,62.0,4.5,722 Preston Ave,thai,38.03619037847934,-78.48774415273608
+2,8Y8MCLovJD7BmItzESxbnw,Manila Street,VA,Charlottesville,22903,6.0,4.0,946 Grady Ave,filipino,38.03814486967496,-78.49107891812471
+2,6DOEYkHD0jhh51t3cErsaA,Möge Tee,VA,Charlottesville,22903,26.0,4.5,109 14th St NW,bubbletea,38.034668,-78.499563
+5,H_aQFhcyiOTUPCP8CRJc2A,Kung Fu Tea,VA,Charlottesville,22903,72.0,4.0,1001 W Main St,bubbletea coffee juicebars,38.0329519440386,-78.4949222104334
+7,jVNRbLm8SYQadGKWwxF6Zg,Tea Tyme,VA,Fredericksburg,22401,21.0,4.0,814 Caroline St,bubbletea sandwiches,38.3022669910874,-77.458722519536
+9,mzlucTpeeQqNPXrRsH7KXQ,Mashu Festival,VA,Charlottesville,22903,4.0,4.0,946 Grady Ave,food_court japanese bubbletea,38.038,-78.49066
+14,EetWjHmioz_UhtEHOV7a2g,danbap,VA,Charlottesville,22903,13.0,5.0,1001 W Main St,korean,38.032919,-78.494915
+15,rGsi9ha0stoXBD7R8V1PyQ,Sweeties Novelty Brewhouse,VA,King George,22485,1.0,5.0,9239 Kings Hwy,coffee cupcakes bubbletea,38.2692733,-77.1869533
+18,CVusDfm9zEOE2Yqkwma-8g,Got Dumplings,VA,Charlottesville,22903,115.0,3.5,1395 W Main St,chinese,38.033578,-78.4977068
+25,-KzfZKVSopEJDuxrbak_qg,Poke Sushi Bowl,VA,Charlottesville,22903,57.0,4.5,1104 Emmet St N,poke ramen sushi,38.051921,-78.501887
+27,c8fPqUqYjSZcLX51iLS8Vw,Kung Fu Tea,VA,Springfield,22150,228.0,4.0,7000 Brookfield Plz,bubbletea coffee juicebars,38.7731257430817,-77.1846148049108
+31,NBbDXp3rHgCJ0QUCfFJRmg,Tan-Cha,VA,Annandale,22003,94.0,4.5,6920A Bradlick Shopping Ctr,bubbletea,38.813181296474674,-77.18396934738982
+38,GXZ59ayidb8ow9qYaHOC6w,Cafe 88,VA,Charlottesville,22903,161.0,4.0,923 Preston Ave,chinese taiwanese,38.038547,-78.489783
+43,eS1iXKcOnpHc1GozXuve3g,Gong Cha,VA,Annandale,22003,131.0,4.5,4230 Annandale Rd,coffee bubbletea juicebars,38.831325,-77.197176
+46,InCTCNSyIDyra7FSKOOWYQ,Ben Gong’s Tea - Annandale,VA,Annandale,22003,60.0,4.5,4235 John Marr Dr,bubbletea,38.8310643579905,-77.18841809999999
+1,H1IVhBwu_oppcCW7FoaUxw,Kyoto Restaurant,VA,Charlottesville,22901,51.0,4.0,1864 Rio Hill Ctr,japanese chinese,38.0873759106044,-78.4737065510322
+2,M06xfFANYjDeRjSG5C9KqQ,Kung Fu Tea,VA,Annandale,22003,525.0,4.0,7895 Heritage Dr,bubbletea coffee juicebars,38.826133,-77.213667
+6,LgLW2eCPTEcoko1MXV--Xg,Tea-Do,VA,Annandale,22003,156.0,4.0,7031 Little River Tpke,bubbletea coffee juicebars,38.82826,-77.18926
+9,OVnxImIYqYOZPUdmcUR3Bg,Red Lantern Chinese Restaurant,VA,Charlottesville,22902,109.0,3.5,221 Carlton Rd,chinese,38.02319295176316,-78.47034752733435
+16,Y5jWdJ6uxupEcwPDcm_Qdw,Yomie's Rice X Yogurt,VA,Annandale,22003,76.0,4.5,4367 John Marr Dr,desserts juicebars coffee,38.8296745,-77.1898358
+27,yRCkDkpW_BLgjnIvRiUksQ,BAMBU,VA,Annandale,22003,114.0,4.0,4220 Annandale Rd,juicebars bubbletea vietnamese,38.83187,-77.19708
+30,V23tSsMzZfY-rIG6iJq-VA,Pho Chateau,VA,Lorton,22079,243.0,4.0,7718 Gunston Plaza Dr,vietnamese desserts beer_and_wine,38.7053492,-77.2080398
+3,6ihdhEWgklrj5X4u27XKlg,Donutchew Annandale,VA,Annandale,22003,128.0,4.0,4239 John Marr Dr,desserts bubbletea donuts,38.8309808,-77.1894194
+12,Be1i7NBOauyU1ZfuTm3V9g,Java Loco - Falls Church,VA,Falls Church,22043,28.0,4.0,7516 Leesburg Pike,coffee bubbletea breakfast_brunch,38.9044547,-77.2039047
+15,5gohcvrz0L8317HRYWsnrg,O Bread Bakery,VA,Annandale,22003,125.0,4.5,7867 Heritage Dr,coffee bakeries,38.82506,-77.2134202
+19,q4forca2s9QNRA3bXRWG5Q,Miso,VA,Annandale,22003,528.0,4.0,7410 Little River Tpke,japanese asianfusion,38.8312502,-77.2003463
+35,nuvu967M94ORtElQPw31OQ,Loving Hut,VA,Falls Church,22042,707.0,4.5,2842 Rogers Dr,vegan vietnamese,38.87522,-77.20099
+38,d3km1kkoqvRRlL8YB6qDSw,Ba Le Friends Bakery,VA,Falls Church,22042,328.0,3.5,2822 Graham Rd,bakeries coffee juicebars,38.8758007012667,-77.192037532016
+45,WLrQluAkSf0UW-HlbZ2OqQ,Banh Mi DC Sandwich,VA,Falls Church,22044,718.0,4.0,3103 Graham Rd,vietnamese delis sandwiches,38.8657569534117,-77.1938049243006
+47,tiqB0OTT-BcQ-Fa3PBpnOQ,Rice Pot Asian Cuisine,VA,Annandale,22003,329.0,4.0,4709 Backlick Rd,chinese thai asianfusion,38.82161,-77.19079
+7,C7Hy45m6xebL42p-hb2NbA,A&J,VA,Annandale,22003,910.0,4.0,4316 Markham St,taiwanese chinese,38.830297,-77.200974
+11,uXgRi2zqY_NmrwMRoZ80GQ,Balo Kitchen,VA,Annandale,22003,348.0,4.0,4221 John Marr Dr,comfortfood asianfusion,38.83118,-77.1885099
+13,TJ-mzO_uYSCbxCSW2m5P7A,Saigon City,VA,Springfield,22150,200.0,3.0,6333 Brandon Ave,vietnamese,38.78179,-77.18208
+14,Ze5bYVUvivdy7hWxBeTcQQ,Pho Sate,VA,Falls Church,22042,803.0,4.0,2814 Graham Rd,vietnamese,38.87619,-77.19204
+22,dSKvHIkc1SEn9-mxzkYaDw,Honey Pig Gooldaegee Korean Grill,VA,Annandale,22003,1680.0,3.5,7220 Columbia Pike,korean,38.831818,-77.194086
+25,SAhVZNr1BPRL7etO88oXkw,Pho Cong Ly Noodle & Grill,VA,Annandale,22003,229.0,3.5,6920-I Braddock Rd,vietnamese noodles,38.812828,-77.18395
+26,kLzD0f8bH7QkfiP89b7tyA,Tanpopo Ramen House,VA,Annandale,22003,386.0,3.5,4316 Markham St,sushi ramen,38.83029,-77.20099
+28,ohBhwFVlJOP54Frr7b1UVA,Pho Hot,VA,Annandale,22003,291.0,3.5,7442 Little River Tpke,vietnamese noodles soup,38.83249,-77.20262
+31,DSq6JVH0ttByY7lp1d08Hg,Pokeworks,VA,Annandale,22003,348.0,4.0,4221 John Marr Dr,poke salad sushi,38.8314811,-77.1884586
+32,6rRA9tT8MNTpGPhMfFTefw,Pho Hai Duong,VA,Annandale,22003,274.0,4.0,4231M Markham St,vietnamese noodles soup,38.8327,-77.19774
+33,po0em9SD6Fd9K-F-O_QFSA,Pho Anh Duong,VA,Annandale,22003,107.0,3.5,7899 Heritage Dr,vietnamese sandwiches,38.8262028664744,-77.2136752087372
+19,NppigKGKr9COGSZ9MKrq1Q,Bear's Shaved Ice,MD,Bethesda,20814,9.0,4.0,8804 Old Georgetown Rd,shavedice,38.9999670614323,-77.1100353565672
+21,NhmkWddaRVyKC-Ixn5JfZA,Snowmoon1,VA,Falls Church,22044,1.0,5.0,3015 Patrick Henry,shavedice,38.8672981,-77.1471634
+22,PKFZmEiQzMjVqf_QtU8gSA,Tiki Treats,MD,Bethesda,20817,4.0,5.0,10319 Westlake Dr,foodtrucks shavedice catering,39.0259094,-77.1480942
+23,E50TYss1pPYQvAID04xPYQ,SnowBots,MD,Rockville,20852,722.0,3.5,1701 Rockville Pike,desserts bubbletea shavedice,39.0611330304181,-77.1242393725521
+25,Rl5vPw3_s6UdLgIG3AcGVg,Blanca's Snow Cones,VA,Arlington,22204,7.0,3.5,4821 Columbia Pike,foodtrucks shavedice,38.8565142,-77.109246
+28,yI53cmtcCz2BGE480LprJg,Clayboys Shave Ice,MD,Bethesda,20814,6.0,5.0,4803 Bethesda Ave,shavedice desserts,38.981144,-77.096131
+32,Vnq8EHy0-qVZA8Jfspb6hg,Mama Rosa's Ice,VA,Bailey's Crossroads,22041,2.0,5.0,,foodtrucks shavedice,38.84911,-77.13058
+33,hfmrtXrowkQXbVmAfMuOLA,Chill Zone,VA,Arlington,22207,288.0,4.5,2442 N Harrison St,coffee juicebars cafes,38.896683,-77.138731
+39,BtSOttKaXhtuv-Ek2cElqw,Kyoto Matcha,MD,Rockville,20850,425.0,4.5,33 Maryland Ave,desserts cafes bakeries,39.0855446,-77.1511761
+43,OxYFiR0rI0l9ACCzmc_MnA,Vivi Bubble Tea Eden,VA,Falls Church,22044,319.0,4.0,6769 Wilson Blvd,taiwanese bubbletea coffee,38.874187,-77.1551001816988
+46,q298SO7pY-u7rP4MbKx0OQ,Bubbles&Tea,MD,Rockville,20852,180.0,4.0,1319 B Rockville Pike,bubbletea,39.06872,-77.13084
+1,YFq_vC0QiZb-qXONM3SDJg,Temari Japanese Cafe,MD,Rockville,20852,727.0,4.0,1043 Rockville Pike,japanese,39.0714270798006,-77.1333415754005
+3,0MS_nHaj5fk434u-jRNbYg,Taipei Cafe,MD,Rockville,20850,420.0,4.0,802 Hungerford Dr,taiwanese chinese,39.0941629777418,-77.1536915631576
+4,EsJQ1I7pguDKe16KuRb4QA,Snow Show Eden Center,VA,Falls Church,22044,15.0,2.5,6769 Wilson Blvd,shavedice,38.874167,-77.155111
+5,L8RSBLzf8a2ibeQTne_KdA,Thanh Son Tofu,VA,Falls Church,22044,425.0,4.0,6793 Wilson Blvd,vietnamese,38.8727008,-77.1542566
+6,4Oy2BhiLXkp6mE2FuZyCkQ,Mango Mango Dessert,VA,Falls Church,22044,314.0,3.5,6795 Wilson Blvd,desserts juicebars creperies,38.872874,-77.154454
+7,34SIp3olCmOFtflwPgWHmg,BAMBU,MD,Rockville,20852,179.0,4.0,12242 Rockville Pike,bubbletea juicebars vietnamese,39.05644,-77.12024
+8,I1cwajsgXPzfFCsekznsqA,Bar Bao,VA,Arlington,22201,707.0,4.0,3100 N Clarendon Blvd,asianfusion,38.88643,-77.0953
+9,CaI48e6h-gD88ojN-W6AmQ,The Block,MD,North Bethesda,20852,275.0,3.5,967 Rose Ave,asianfusion bars sandwiches,39.0509391,-77.118538
+12,E5MQ2fpBEljbM9OhfFSr5w,Shilla Bakery,MD,Rockville,20851,161.0,3.5,2098 Veirs Mill Rd,bakeries coffee desserts,39.0752267,-77.1158247
+16,3RK8cBMciI7NFSH7bwz5Iw,Pike Kitchen,MD,Rockville,20852,530.0,4.0,1066 Rockville Pike,korean vietnamese coffee,39.072276,-77.132562
+19,KS3qXKvUxJIRdpPG2xMhfA,Capitol Snow,VA,Alexandria,22310,1.0,5.0,6201 Franconia Rd,shavedice desserts,38.78088,-77.15104
+21,smTFfg1g_BjsUkorL_ZxLQ,Kuya Ja's Lechon Belly,MD,Rockville,20895,693.0,4.5,5268-H Nicholson Ln,filipino,39.0442007,-77.1069208
+24,3WupV-yujHBW3fG66X-7Dw,Bob's Shanghai 66,MD,Rockville,20850,1305.0,4.0,305 N Washington St,shanghainese seafood noodles,39.0889926587079,-77.1531214361068
+26,aJ4lOuHnC0lY5-ha7nR8RA,Sofia's Pupuseria,VA,Arlington,22204,114.0,4.5,3610 Columbia Pike,salvadoran honduran tacos,38.860403986949,-77.0942621673067
+32,cvHouR1ESe5QM5WgsKeTFw,The Spot,MD,Rockville,20850,354.0,3.5,255 N Washington St,taiwanese sushi ramen,39.087424,-77.152515
+35,7hzPVIMvKkMZQIesyn7IbA,Jumbo Jumbo Cafe Asia Taste,MD,Rockville,20850,340.0,3.5,15192 Frederick Rd,taiwanese asianfusion bubbletea,39.104272,-77.157873
+39,RlVQcyODytG0XUvv4fZlXg,"Bayou Bakery, Coffee Bar & Eatery",VA,Arlington,22201,893.0,3.5,1515 N Courthouse Rd,bakeries coffee breakfast_brunch,38.891077,-77.083687
+40,NshgPTwtIdxvZqjmFAZ29Q,Berrycup,MD,Rockville,20850,99.0,2.5,36-B Maryland Ave,icecream shavedice,39.0859179771357,-77.1508916646881
+41,l1yP7pdwOCz_GOJD6Wd5og,Gwenie's Pastries,MD,Rockville,20852,127.0,4.5,12113 Nebel St,desserts cupcakes bakeries,39.051603,-77.109732
+42,jlQZ8ZQtboJ3X3P6-jRbdw,Carmen's Italian Ice Truck,DC,"Washington, DC",20850,2.0,3.5,,foodtrucks shavedice icecream,39.087347,-77.17452
+43,2t_W-ePLkY1KysqfD4LfZA,Hot Pot City,MD,Rockville,20850,172.0,4.5,199 E Montgomery Ave,chinese noodles hotpot,39.083964,-77.150733
+45,UD_Ap7enNn7aPByJkqDZtg,BlackSalt,DC,"Washington, DC",20007,981.0,4.0,4883 MacArthur Blvd NW,seafood newamerican,38.9177695486924,-77.0966798923806
+46,x9WPCKDpMBrQLCAmodzKHQ,Tutti Frutti Frozen Yogurt,MD,North Bethesda,20852,89.0,3.5,11802 Rockville Pike,icecream bubbletea,39.049637078461565,-77.11553064906278
+47,Yv3Q-hC8CsX9O3FaUuJJnA,Pho Nom Nom,MD,Rockville,20852,804.0,4.0,842 Rockville Pike,vietnamese,39.0756378,-77.137001
+48,avyz1tLuh11GRCooq8zQ9A,Super Bowl Noodle House,MD,Rockville,20852,141.0,3.5,785-G Rockville Pike,chinese noodles,39.0769097703546,-77.1414869873108
+15,Jitqs_KORJsN_tq4ZuCvjQ,Kona Ice of Charles County,MD,National Harbor,20745,3.0,3.5,,desserts icecream,38.7886944,-77.0190228
+16,HVDw0WV-tLIhF8mGYNq1vg,Tiki Taco,DC,"Washington, DC",20036,334.0,4.5,2010 P St NW,tacos hawaiian shavedice,38.90939,-77.04541
+40,jgXx0OYNuWmjymh1IGCawg,Lily Bubble Tea and Smoothie,VA,Arlington,22202,161.0,4.0,251 18th St S,juicebars bubbletea,38.8582383,-77.0510563
+47,ZgjCUSm-El-zEGdRm769nQ,Purple Patch,DC,"Washington, DC",20010,979.0,4.5,3155 Mt Pleasant St NW,filipino tradamerican cocktailbars,38.93051713928244,-77.03786124423574
+1,wTz5b1FR8Af06LKjf9eTDQ,Daikaya the Izakaya,DC,"Washington, DC",20001,862.0,4.0,705 6th St NW,izakaya,38.8986,-77.0195899
+4,A-89i7_ipR-QOlg4Z1echQ,Kaliwa,DC,"Washington, DC",20024,662.0,3.0,751 Wharf St SW,filipino thai korean,38.87879245709948,-77.02439501873694
+17,BwgndDRDoHcCGwAUhUQ0bA,Nasime Japanese Restaurant,VA,Alexandria,22314,210.0,4.5,1209 King St,japanese,38.8059558,-77.0527915
+18,yHdtly-icWogBH3vD2ytlg,Ted's Montana Grill - Alexandria,VA,Alexandria,22314,432.0,3.5,2451 Eisenhower Ave,steak burgers tradamerican,38.8016739687058,-77.0718381958241
+21,ZTx1HW9aDXJyfMahgIZEkw,Reverie,DC,"Washington, DC",20007,140.0,4.0,3201 Cherry Hill Ln,newamerican,38.9038417852175,-77.063282
+23,mhAC6aVjmMI1G5UNPk-tfA,Bub and Pop's,DC,"Washington, DC",20036,929.0,4.5,1815 M St NW,sandwiches tradamerican delis,38.906029,-77.042368
+25,xPlRRI_bixl9GXqNP3aEFg,Doi Moi,DC,"Washington, DC",20009,882.0,4.0,1800 14th St NW,vietnamese coffee juicebars,38.9141018649927,-77.0321429153443
+28,f-2c6G4-pJkWjWwviSblFw,Jont,DC,"Washington, DC",20009,37.0,4.5,1904 14th St NW,newamerican,38.915791,-77.032215
+29,oCqTQZhcgIEDddXkbuG3hg,China Chilcano,DC,"Washington, DC",20004,1324.0,4.0,418 7th St NW,peruvian asianfusion,38.8952905,-77.0220449
+30,Qt14DkOz6QNb6HoUdBguXw,ANJU,DC,"Washington, DC",20009,304.0,4.0,1805 18th St NW,korean,38.91437,-77.04149
+33,wrwNt5U1DQSaAWSDTEMxfQ,minibar by José Andrés,DC,"Washington, DC",20004,361.0,4.5,855 E St NW,newamerican,38.89633,-77.02345
+36,mdvXcvHWmS9rfB10FfbRug,Sisters Thai - Old Town Alexandria,VA,Alexandria,22314,205.0,4.5,503 Montgomery St,thai salad coffee,38.8140106,-77.0429835
+37,SUXqfPhJXJ_MzTpqUoLhZg,EatsPlace,DC,"Washington, DC",20010,36.0,4.0,3607 Georgia Ave NW,newamerican,38.9346844415776,-77.0237932302288
+38,Q9gwUvxtvZo6pZfAindzXA,BKK Cookshop,DC,"Washington, DC",20001,239.0,4.0,1700 New Jersey Ave NW,thai,38.91275,-77.01785
+39,aJxcnex9LgJQcndtpDn0aw,Xiquet by Danny Lledó,DC,"Washington, DC",20007,54.0,4.0,2404 Wisconsin Ave NW,spanish seafood mediterranean,38.921277,-77.072491
+40,rfzOKEelfxDMTFIHiGTPEg,Haikan,DC,"Washington, DC",20001,506.0,4.0,805 V St NW,ramen bars,38.91792797682187,-77.0231292
+41,frjEgJ5jlu0ltl1zIqYjGA,Bubble Tea Licious,DC,"Washington, DC",20001,51.0,3.5,,foodtrucks bubbletea laotian,38.91409,-77.02021
+42,qng-4RwgUJoYz8MjN7qTFQ,Rita's  Italian Ice,DC,"Washington, DC",20032,1.0,5.0,3109 Martin Luther King Jr Ave SE,icecream desserts shavedice,38.84369,-76.99959
+44,4flZECEzjCfnQJqDvjHLIg,Fiola Mare,DC,"Washington, DC",20007,1246.0,4.0,3050 K St NW,seafood italian bars,38.901628831044,-77.0609554767212
+45,m3tC1NYUZcSRFv-VROnI9A,Jaleo by José Andrés,DC,"Washington, DC",20004,2111.0,3.5,480 7th St NW,spanish tapas,38.895929,-77.022274
+46,36_x03xNnGZg1Q_KoNHq4g,Métier,DC,"Washington, DC",20001,71.0,4.0,1015 7th St Nw,newamerican,38.90342,-77.0216
+47,GbGvS-KM1j51mvomcfaDhQ,Nobu Washington D.C,DC,Washington Dc,20037,391.0,3.5,2525 M St NW,japanese sushi asianfusion,38.905478817556194,-77.0542038033379
+48,XNRDnKyd6RZL-WyOt_yaXg,Iron Gate,DC,"Washington, DC",20036,658.0,4.0,1734 N St NW,newamerican greek,38.9071662479801,-77.039715307664
+49,bCs2exo87MZzP7OkZNs9qg,Lincoln,DC,"Washington, DC",20005,1157.0,3.5,1110 Vermont Ave NW,bars breakfast_brunch tradamerican,38.9043858184832,-77.033009474205
+47,84nP8yA8l-WtAN5RB9IOeQ,Black Lion Cafe,MD,Rockville,20850,282.0,4.5,9705 Traville Gateway Dr,coffee coffeeroasteries,39.0913405,-77.2040876
+39,Xtw2z6MW-zlm6noyAVzhxA,Kung Fu Tea,MD,Gaithersburg,20878,63.0,4.0,6 Grand Corner Ave,coffee juicebars bubbletea,39.11862,-77.20237
+21,USGgYJGni6ImkoTVqihPmQ,Okey Poke,MD,Gaithersburg,20877,75.0,4.5,501 N Frederick Ave,sushi japanese poke,39.151004,-77.209204
+3,yfLoGcq-mgiwE9Ysi2wQMw,Java Junction,MD,Gaithersburg,20877,17.0,3.0,5 S Summit Ave,coffee,39.14168,-77.19326
+4,gxgv3vZRKIX8epnKJ3Wxew,Pholuscious Vietnamese Grill,MD,Rockville,20850,249.0,4.0,10048 Darnestown Rd,vietnamese asianfusion,39.0956738521228,-77.2072216265513
+5,oOSKtM7OcdEF4YsDfRGfAg,Tea.com,MD,Gaithersburg,20877,1.0,2.0,Lakeforest Mall,bubbletea juicebars,39.1526336669922,-77.2064819335938
+6,X-wf47DTOAx5NC2CmEBPIA,Love Sushi,MD,Gaithersburg,20877,463.0,4.0,9031 Gaither Rd,japanese sushi,39.117919342138,-77.1851152834671
+9,GMKNpr-GoYCOXBkh569J2g,Oriental Cafe,MD,Rockville,20850,62.0,3.0,9745 Traville Gateway Dr,chinese seafood soup,39.0919576,-77.2034894
+12,L6SDLSxCQwrgOg3Q5xezdg,Pho & Grill,MD,Gaithersburg,20877,244.0,3.5,18310 Contour Rd,vietnamese,39.1540919379856,-77.1995715021247
+14,1fDWZDBM9gLi7IPcWPo93w,Pho Chi,MD,Gaithersburg,20879,316.0,3.5,20 Montgomery Village Ave,vietnamese,39.15561,-77.20886
+21,tVez1aoatY9Sti49bnUjMg,Hearty's,MD,Gaithersburg,20878,52.0,3.5,227 Muddy Branch Rd,taiwanese szechuan seafood,39.1287308,-77.2080078
+22,WcBdbyvwrdLP99IJ2SWiLg,Sichuan Cuisine,MD,Gaithersburg,20878,2.0,2.5,227 Muddy Branch Rd,chinese seafood chicken_wings,39.12814367,-77.20595483
+23,YPMK3cSl90p58PNCET-vdQ,Chinese Express,MD,Gaithersburg,20879,56.0,3.0,849 Russell Ave,chinese,39.1569583,-77.2121157
+3,jZ6Qs60cTjTOhZDI5pRTVQ,Sweet Spot-S,VA,Madison Heights,24576,4.0,4.0,4133 S Amherst Hwy,shavedice icecream foodtrucks,37.464827,-79.117862
+0,D88vvss4Z0DaJbz0Gut1fA,Beach Hut Shaved Ice,VA,Lynchburg,24502,1.0,4.0,2010 Wards Rd,shavedice,37.37415092497,-79.1859716244727
+3,TIZdnWtkJ9UTEEqW2bPFkA,I Scream You Scream-S,VA,Lynchburg,24501,19.0,4.5,13955 Wards Rd,shavedice icecream,37.31907,-79.18799
+0,zMvX92EBdzoGKoutJKiHUg,Mizumi Japanese Bistro,VA,Lynchburg,24504,7.0,4.5,1125 Main St,japanese bubbletea,37.41247,-79.14057
+3,IPqmDxqKndzeOpMRw-rcQw,Suzaku Cafe,VA,Lynchburg,24502,143.0,4.5,120 Simons Run,cafes sushi japanese,37.34242,-79.19092
+6,mS970gIE7EMaOTu0UukS4Q,Sawa Japanese Steakhouse,VA,Forest,24551,56.0,4.5,14595 Forest Rd,japanese steak bubbletea,37.36857,-79.30011
+11,s-CbvO8_CKvgPG9AcjjD-Q,Saigon Palace,VA,Lynchburg,24502,150.0,4.5,20722 Timberlake Rd,vietnamese,37.33796870844606,-79.23807944907558
+12,_dYOWHYIgoixFYBn09x7dQ,Caribou Coffee,VA,Raphine,24472,4.0,4.0,2440 Raphine Rd,coffee bubbletea,37.92905,-79.22863
+13,hi_7bx4q8NtvUI2VpNLJRg,Oishii! Japanese Hibachi & Sushi,VA,Lynchburg,24502,69.0,4.5,3412 Waterlick Rd,japanese sushi,37.329493,-79.249629
+15,hzMM8u-kdye6vVqDnJGIhw,Musashi,VA,Farmville,23901,24.0,2.5,219 Sunchase Blvd,japanese,37.2948132868022,-78.3762066811323
+17,RdY367legDJ2H0qN9x0qvQ,Mikado Express,VA,Lynchburg,24501,12.0,3.0,3028 Memorial Ave,sushi japanese,37.3966789,-79.1706467
+2,IFwkVVIxUdE7FnSt7JmXXA,JustIce,VA,Richmond,23173,2.0,5.0,,shavedice icecream foodtrucks,37.57539,-77.54397
+6,_DgqDczsZ8HJuNo0Wlvm0w,Zen Cafe Treats,VA,Richmond,23294,2.0,5.0,9041-1 W Broad St,desserts bubbletea,37.63548,-77.5481
+2,vw1MBTAoEaDHMMUcryld1g,Aloha Shave Ice,VA,Richmond,23219,1.0,5.0,,shavedice foodstands,37.54129,-77.4362
+4,iBvQ13bMhJsRw7u7gDe7eQ,Suzy Sno,VA,Richmond,23219,5.0,5.0,317 N 2nd St,shavedsnow desserts icecream,37.54513,-77.43945
+9,rI-YDaPjyA3YAl3ulvGuzw,Chum Chum Onigiri,VA,Richmond,23221,45.0,3.5,2820 W Cary St,bubbletea shavedice,37.552209,-77.47733
+10,d1F9CpRMDnT43Xb2kbw2xQ,Qui's Cafe,VA,Richmond,23225,2.0,4.5,5501 Midlothian Tpk,tradamerican cheesesteaks comfortfood,37.503812,-77.498838
+11,oKT2Pgd0kR594nmapiigIw,Boba Tea & Snow Ice House,VA,Richmond,23221,13.0,4.5,3431 W Cary St,bubbletea juicebars macarons,37.5545501,-77.4849703
+12,hX9svVwwTccldjlVDaiRHA,RVA Street Foodies,VA,Richmond,23224,4.0,2.5,1011 Hull St,shavedice tacos,37.5219969241539,-77.4430480599403
+17,J3W7dK9cb1py-YQMA3ThEg,Rappahannock Restaurant,VA,Richmond,23219,488.0,4.0,320 E Grace St,bars newamerican seafood,37.54285181148146,-77.43922637268996
+18,yJtRjLvYhdiFgLn708SCSQ,Kokonut Grill,VA,Richmond,23220,345.0,4.5,1201 W Main St,asianfusion malaysian bubbletea,37.5457820387606,-77.45671279326545
+8,Vq-3GnWqTCo6IHsQCQR8Lg,Brecotea,VA,Richmond,23294,123.0,4.0,9125 W Broad St,bakeries coffee bubbletea,37.63524183123759,-77.55203160754058
+25,VeplG9bF3_YJPwq-J1f3DQ,Kung Fu Tea,VA,Henrico,23233,51.0,3.5,10827 W Broad St,bubbletea coffee,37.6465217,-77.5824608
+27,7-c71OwJE4lpQLxoyrke1Q,Pho 1 Grill,VA,Henrico,23233,343.0,4.5,201 Town Center W Blvd,vietnamese bubbletea vegetarian,37.6588717,-77.6268411
+31,uPO9y_U-TOqCcSUbAvGkWQ,Dragon Treats Dessert Cafe,VA,Henrico,23229,11.0,4.0,1404 N Parham Rd,desserts bubbletea icecream,37.601852,-77.568223
+42,_RNLIL-voo3gp5aZjur9-A,Kokonut Box,VA,Glen Allen,23060,43.0,4.0,10921 W Broad St,asianfusion bubbletea halal,37.646543,-77.585348
+46,r-9trekNl5UzbfUeF_UmvA,Poke Sushi Bowl,VA,Henrico,23233,123.0,4.5,11628 W Broad St,hawaiian poke sushi,37.652759,-77.613528
+4,kbGZBl-ANmookL3QTLoiTw,Pho Que Huong,VA,Glen Allen,23059,150.0,4.5,10085 Brook Rd,vietnamese,37.67301,-77.45708
+10,GnCPNsaUZLryNR7SkvQidQ,Little Asia,VA,Richmond,23228,160.0,4.0,3991 Glenside Dr,vietnamese thai chinese,37.61336,-77.49802
+12,St0_SCMv8yaNnzEQQQbQDA,Catina,VA,Richmond,23230,86.0,3.5,6215 W Broad St,sandwiches bubbletea vietnamese,37.5952099115424,-77.5112499296665
+15,-f860Zs0PbRZ52Q8h36Y1A,Tay-Ho,VA,Richmond,23294,180.0,4.0,7927 W Broad St,vietnamese asianfusion bars,37.6242370605469,-77.5297698974609
+17,0OZOwzHh6pqdT6txAUADyg,Pho 95 Hai Ky Mi Gia,VA,Richmond,23230,84.0,3.5,1601 Willow Lawn Dr,vietnamese noodles bubbletea,37.581403,-77.498047
+23,xHIIy7ECkEhF_u05opKKAg,Mekong,VA,Richmond,23230,612.0,3.5,6004 W Broad St,vietnamese beerbar,37.593444,-77.5074639
+24,hvxpvgUksbd00Fyct1Mbhg,Pho Saigon,VA,Glen Allen,23060,246.0,4.0,10190 W Broad St,vietnamese vegetarian bars,37.6462942784009,-77.5749043656067
+25,VHp3QxiV7_WK-5-JwJYGxw,Vietnam One,VA,Richmond,23230,175.0,4.0,6215 W Broad St,vietnamese noodles soup,37.59521,-77.51125
+32,1dA5GvofCYDyMwlX615k1w,Pho Thien Phat,VA,Richmond,23226,539.0,4.0,6403 Rigsby Rd,vietnamese,37.59574,-77.51542
+40,kQyyyYVR74eiGg5kYbdaRg,Pho So 1,VA,Richmond,23294,189.0,3.5,9135 W Broad St,vietnamese,37.6363046243363,-77.551134377718
+2,m_LC0_p-kbY5kxGYy6B2Og,Pho Thien Phat 2,VA,Richmond,23294,42.0,4.0,9031 W Broad St,vietnamese,37.63473871494402,-77.54888150818392
+3,P4BF73tXBpRLdk9TqJMXQg,Kona Ice of Sandusky,OH,Castalia,44824,1.0,4.0,,shavedice foodtrucks,41.39988,-82.80846
+0,ByNTItuvr55wgzeMRMWF4Q,Happy Yappy Bubble Tea & Froyo Ice-Cream,VA,Midlothian,23112,6.0,4.5,13924 Hull Street Rd,icecream bubbletea juicebars,37.40563,-77.66284833
+1,S1olXW4gETw7d7UbULAh5w,ZZAAM Fresh Korean Grill And Kokee Tea,VA,Midlothian,23112,83.0,4.5,4508 Commonwealth Centre Pkwy,korean juicebars bubbletea,37.4191789367654,-77.6324390191348
+6,rEc2SJwe3VqI_2Jz44xxcA,Pho Saigon Garden,VA,Midlothian,23112,239.0,3.5,12020 Southshore Point Dr,vietnamese seafood soup,37.4051776528358,-77.6661917567253
+7,p3FXarOp68b6mEwbCQKUvA,DOMOISHI,VA,Richmond,23235,18.0,4.0,9101 Midlothian Turnpike,asianfusion poke ramen,37.495454,-77.565188
+9,Absy7aXFAl7LTjcqc5TEow,Teriyaki & Sushi,VA,Midlothian,23112,66.0,4.0,13544 Waterford Pl,japanese sushi,37.4510656960862,-77.6485398620262
+1,AoEpp4lcUS9kMFKPWuyKjA,Gigi Tea Time,VA,Richmond,23220,141.0,4.5,1355 W Broad St,bubbletea juicebars icecream,37.55348,-77.45549
+2,4x53jORzqhpfuMEx2VpbrA,Mochinut and Kkoko Icecream,VA,Richmond,23284,64.0,4.0,900 W Franklin St,donuts bubbletea icecream,37.54937,-77.45233
+9,fi8lL9xHsDTfvj5QsU1tQQ,Kokee Tea,VA,Richmond,23221,79.0,4.0,3152 W Cary St,desserts bubbletea waffles,37.55399,-77.48188
+10,2MaEDpi93TLOANndMjTWAQ,TT Lounge,VA,Richmond,23220,222.0,4.0,705 W Cary St,coffee bubbletea,37.5443799,-77.45061
+11,e7llJ_kF7g0cJKSvktJreQ,Kung Fu Tea,VA,Richmond,23220,136.0,4.0,946 W Grace St,bubbletea coffee juicebars,37.5510219495539,-77.4528845167211
+19,Z3wMLglN5v3MHW49WBvdGg,Sabai Jai Market,VA,Richmond,23220,1.0,3.0,2713 W Broad St,juicebars bubbletea tikibars,37.561480945461,-77.46878308477477
+20,zCQez16FA4xVd4pO6n7jkA,Spoon,VA,Richmond,23220,58.0,4.5,903 W Grace St,thai vietnamese japanese,37.549905,-77.451916
+27,y7Fw_c5F83OKbpXDOBLmng,Korean Garden,VA,Richmond,23225,143.0,3.5,6827 Midlothian Tpke,korean bbq,37.50125,-77.52177
+28,7wVV8_27hmeDC4uxVasWTA,Poke Sushi Bowl - VCU,VA,Richmond,23220,49.0,4.0,927 W Broad St,sushi hawaiian poke,37.55027,-77.45008
+30,-p26yb2KphgBtrPbohgzYg,K-town Kitchen & Bar,VA,Richmond,23219,180.0,4.0,9 North 4th St,bars korean asianfusion,37.54108,-77.44029
+32,NEuGJR1XhtM_W8U51e9BEA,Ramen Spot,VA,Richmond,23220,143.0,4.0,948 W Grace St,ramen,37.5510165533783,-77.4529397648642
+33,kVaCo0y9RvqbDU7F8J6ZaQ,Nisa Thai,VA,Richmond,23220,144.0,4.0,118 S Belvidere St,sushi thai asianfusion,37.54362,-77.44927
+0,YrlugMyrWSg2TI05YXecww,Peach Beach Shave Ice Shack,VA,Cape Charles,23310,5.0,5.0,15 Peach St,shavedice,37.267825,-76.016646
+2,06vIHq9mK4qpGANS9C_n4g,Sno To Go,VA,Williamsburg,23185,105.0,4.5,2229 Richmond Rd,icecream shavedice foodtrucks,37.3020700372261,-76.7275182877214
+5,tdMj07-_rNKlNDU5oMUjJA,Shoofly Dairy Bar,VA,Williamsburg,23185,45.0,4.5,7127 Merrimac Trl,shavedice icecream,37.2644142146332,-76.6746873781085
+6,IG4nwFJ9pgH7N3qoEQSpLA,Sno Kingz Snoballz,VA,Newport News,23602,1.0,5.0,,shavedice icecream foodtrucks,37.1290321350098,-76.5247955322266
+7,J_RduYZ9egPObaEy4TEiAA,Rita's Italian Ice,VA,Williamsburg,23185,32.0,4.5,220D Monticello Ave,icecream desserts shavedice,37.2817677004753,-76.7218464188794
+8,EuGnLy-YgeSNV-MuSnacvQ,Pelican's Snoballs of Yorktown,VA,Yorktown,23692,22.0,4.0,5519 George Washington Memorial Hwy,shavedice icecream,37.160581873685,-76.4641289412975
+9,Vck-Zpbkzkw_yr6TimklSQ,Pelican's Snoballs,VA,Newport News,23601,36.0,4.5,11075 Warwick Blvd,shavedice desserts icecream,37.04788,-76.47442
+10,CfCLVcjn5tpdoxdaGVpH8A,Koda's Shave Ice,VA,Suffolk,23435,1.0,5.0,3118 Kings Hwy,shavedice,36.82353,-76.50258
+11,loxfr_cG8X2Az_iMyjjE0g,Lil’ Yeti Snoballs,VA,Suffolk,23435,5.0,4.0,6550 Hampton Roads Pkwy,desserts shavedice,36.8771908286893,-76.4178815846764
+12,vYDI2HotE5jkPbPshQ4EPw,Penguin's SnoBalls,VA,Norfolk,23518,38.0,4.5,2388 E Little Creek Rd,desserts hotdogs,36.915539,-76.2170811
+16,x4xKClIWpXx8uMDrYwkI_Q,On Ice,VA,Norfolk,23505,30.0,4.5,1101 West Little Creek Rd,icecream shavedice,36.915878,-76.294229
+17,CqKb_dVyxXTutvUB7WH3_w,Polar Snoballs,VA,Portsmouth,23707,15.0,4.5,505 Airline Blvd,shavedice icecream,36.83377,-76.33954
+18,fY7CFK3xJEQA4rUcCPGFlQ,Poquoson Ice & Coffee Shoppe,VA,Poquoson,23662,3.0,4.0,550 Wythe Creek Rd,shavedice,37.13159,-76.39104
+19,bwvOU4hmLXMW65F2aB--gQ,Pelican's SnoBalls,VA,Norfolk,23502,28.0,4.5,6011 E Virginia Beach Blvd,desserts shavedice,36.85499,-76.19926
+20,vzP9SYSfLDeWjTwvwwKFyw,Rita's Italian Ice,VA,Newport News,23606,27.0,4.0,12286 Warwick Blvd,icecream desserts shavedice,37.06322,-76.48875
+22,SYVmr7baYoptIOIKzb8rDw,Pelican's Snoballs,VA,Poquoson,23662,5.0,4.5,550 Wythe Creek Rd,shavedice tradamerican,37.1316325200535,-76.3912866666733
+25,oQdcJKF3xljiyIfNnRqN4w,Rita's,VA,Hampton,23666,22.0,3.0,2328 W Mercury Blvd,icecream desserts shavedice,37.03822,-76.40683
+27,2JRGrhzuNP2kZa178PMXVg,O's Donuts,VA,Norfolk,23517,146.0,4.5,222 W 21st St,donuts coffee juicebars,36.86847,-76.28722
+28,YIfyAyspooUkUrOAr1Qptw,Pho 79,VA,Virginia Beach,23462,270.0,3.5,4816 Virginia Beach Blvd,vietnamese,36.844745,-76.143287
+29,LLhfAduQhGZu3F-Lrr_dBg,Zero's Subs,VA,Norfolk,23508,11.0,2.5,4310 Monarch Way,sandwiches,36.8843431,-76.3002514
+32,WAZ5mXrzYdrdIYe744sVfQ,Rita's Italian Ice,VA,Virginia Beach,23455,43.0,4.0,4640 Shore Dr,icecream desserts shavedice,36.9042,-76.13142
+0,W3DUQTiIkQESLxU39b-2JQ,Secret Garden,VA,Williamsburg,23185,50.0,4.0,110 S Henry St,coffee juicebars icecream,37.26999883,-76.705981
+1,8ZSxUA97O0U3eS0ZAIHTvg,Domoishi,VA,Williamsburg,23185,68.0,3.5,3044 Richmond Rd,ramen asianfusion poke,37.308811,-76.7315779
+2,-L3g-CfL7ipcfVRm3vj-oA,Kung Fu Tea,VA,Williamsburg,23188,19.0,3.5,4902 Courthouse St,bubbletea coffee juicebars,37.278282,-76.74113
+3,94M0A53stsBrKb2T_HywWw,Chopsticks Pho & Grill,VA,Williamsburg,23185,134.0,4.0,5251 John Tyler Hwy,vietnamese,37.258120864175,-76.7412368496577
+4,s49tQ_ogwBW1yOGM9nDhvQ,Pho 79 Williamsburg,VA,Williamsburg,23188,95.0,4.0,4903 Courthouse St,vietnamese,37.2784580337031,-76.7415752922939
+5,tFV3NWQyZf3wdpy2Eyg9Gw,Oishii Japanese Ramen & Hibachi Grill,VA,Williamsburg,23185,94.0,3.5,515 Prince George St,sushi japanese,37.272653,-76.708029
+6,T39b-DqojjkcMvZy8BezsQ,Lyn's Mini Mart,VA,Bena,23018,1.0,5.0,8835 Guinea Rd,grocery bubbletea,37.2712642246917,-76.4558791192851
+7,05uTCox_lkIqKf5KxjQyxg,Peking Restaurant,VA,Williamsburg,23185,317.0,3.0,120 Waller Mill Rd,buffets chinese mongolian,37.2889399,-76.71825
+8,aRj4b8e1A6nIoInV6GL7Ig,TKK Fried Chicken,VA,Williamsburg,23188,8.0,3.5,4902 Courthouse St,bubbletea chickenshop asianfusion,37.27825,-76.74097
+9,JtdT_jEzFvDb7TSYc9zjYg,Kyoto Sushi Bar & Grill,VA,Newport News,23608,25.0,4.0,15525 Warwick Blvd,japanese,37.1573222389647,-76.5572365098893
+9,3_NlZY-3ZHJP_zJT6wrCnw,Landon’s Ices & Creams,MD,La Plata,20646,47.0,4.5,505 Charles St,icecream shavedice gelato,38.5289874945462,-76.9751326380691
+15,2yhACTh5bobmezLYTQm8BQ,Rita's Italian Ice,MD,La Plata,20646,12.0,4.0,6360 Crain Hwy,desserts shavedice icecream,38.537410736084,-76.9832992553711
+5,d2_HBlet_sKpBmt4HcB_oQ,Bamboo One,VA,Newport News,23602,163.0,4.0,70 Colony Rd,vietnamese dimsum,37.1146,-76.51834
+6,gN5_ekgyKhu1v_i6UkAC9g,Domoishi,VA,Newport News,23602,22.0,3.5,412 Denbigh Blvd,poke chicken_wings ramen,37.129485,-76.535438
+7,T1BQZ8TYFvTExtiQJh0cmA,Pho 79,VA,Newport News,23602,308.0,4.0,12551 Jefferson Ave,vietnamese soup sandwiches,37.129049,-76.514846
+9,cIY07lp2i88a9XOSC4yWWA,Chef Lu Chinese Cuisine,VA,Poquoson,23662,47.0,4.0,456 Wythe Creek Rd,chinese,37.1247372044713,-76.390569023788
+13,7usxhTmWADaDmGi2TlKFQw,Kero Sushi,VA,Yorktown,23693,157.0,4.5,5005B Victory Blvd,japanese sushi seafood,37.114864,-76.464293
+14,COYzpcNF4Bs9w3KsQvcUig,Pho 83,VA,Newport News,23606,190.0,4.5,615 Pilot House Dr,vietnamese soup sandwiches,37.0810171,-76.4775132
+6,tpIrfrCoT9_6kUvQpfWweA,Calvert's Ice Shack,MD,Lusby,20657,1.0,5.0,11861 H G Trueman Rd,shavedice,38.37211548640843,-76.44410666692676
+18,JCGaLrM23B7HzHVzoPo4Uw,Rita's Italian Ice,MD,Solomons,20688,10.0,4.0,13450 Hg Trueman Rd,icecream desserts shavedice,38.3461363,-76.4608874
+15,UstwFmeWi5qqYJkPoDhUwQ,Julie’s Coffeehouse,VA,Colonial Beach,22443,8.0,4.5,200 N Irving Ave,coffee desserts bubbletea,38.251762,-76.963001
+16,CiPRCK5kMffOKLwZPCoT6Q,Teariffic Cafe,MD,California,20619,151.0,4.0,22576 MacArthur Blvd,asianfusion chinese juicebars,38.28817483817032,-76.48308206521192
+25,qsLz9dRow1XUzuzLY18xNQ,Zzaam! Fresh Korean Grill & Kokee Tea,VA,Colonial Heights,23834,138.0,3.5,40 Southgate Sq,korean,37.2456,-77.391057
+26,VUpWNua1YnVwoEnwfSe60g,Sake Japanese Seafood & Steak House,MD,Lexington Park,20653,51.0,3.0,21719-1 Great Mills Rd,sushi japanese,38.2644568210745,-76.4562429067459
+30,wSPbwofeh05wnaMhgST8Og,Nisa Thai Cuisine 2,VA,Petersburg,23803,28.0,4.5,133 N Sycamore St,thai,37.229941308923,-77.4038700386882
+4,mWzVDAzhJUnVbnK62LgHHg,Kung Fu Tea,VA,Newport News,23606,63.0,4.5,21 Hidenwood Shopping Ctr,coffee juicebars bubbletea,37.0697829750363,-76.4947043027669
+6,bQn5Lr0TXdBmKZLGqMvETQ,Poke Surf,VA,Hampton,23666,19.0,4.5,92 Coliseum Crossing,poke bubbletea,37.049948,-76.392285
+32,kHTxpWOCb8iUb5Y8SHhyTg,Pho79,VA,Hampton,23666,140.0,4.0,2040 Coliseum Dr,vietnamese,37.04626,-76.3897333826212
+8,zwvQsPnaqSW6TfJrILvNfA,The Mermaid Shanty,MD,Crisfield,21817,2.0,5.0,514 West Main St,seafood shavedice,37.9816,-75.85635
+13,qm1Y1xEpD1CdvaobOLfGzw,Aloha Snacks,VA,Virginia Beach,23451,371.0,4.0,501 Laskin Rd,hawaiian poke burgers,36.85831,-75.98228
+21,_oAQBrigvai91XWcgmOg6Q,Orion's Roof,VA,Virginia Beach,23451,294.0,4.0,4201 Atlantic Ave,asianfusion sushi bars,36.870097,-75.981364
+1,mLoj6IygTT4GzAcCjLXhAA,Tealux Cafe,VA,Norfolk,23505,89.0,4.5,7870 Tidewater Dr,bubbletea bars,36.915495,-76.253573
+6,HcW-gmuuiCxQF40k9vfTQw,Kokee Tea,VA,Virginia Beach,23451,21.0,4.5,1602 Atlantic Ave,bubbletea coffee desserts,36.84454,-75.97437
+10,lDH05ARaDvMW24xbkCdM_g,Kung Fu Tea,VA,Norfolk,23517,68.0,4.5,520 W 21st St,coffee bubbletea juicebars,36.8698,-76.29326
+12,OVZZiuIW3rxMnFQCRahrTA,Domoishi,VA,Norfolk,23510,68.0,3.5,420 Monticello Ave,ramen poke asianfusion,36.85138,-76.28827
+16,Ab7sFEgFi7S7uoOVYDwPLg,Swirly's Fruit,VA,Virginia Beach,23455,51.0,4.5,4801 Shore Dr,icecream bubbletea sandwiches,36.90378,-76.13716
+20,BfDhuf_QLpyFn7R8QEwqyg,Domoishi,VA,Virginia Beach,23451,105.0,4.0,729 First Colonial,asianfusion poke ramen,36.851632,-76.02311
+23,gUrywVwOnR3jxgSOccXb3w,Urban Ice,VA,Norfolk,23510,260.0,4.0,245 Granby St,creperies coffee icecream,36.84938,-76.29111
+24,lfAliMpoAw3XQlEkRi4b0g,Pokey,VA,Norfolk,23510,103.0,4.5,215 Granby St,poke ramen,36.84849,-76.2914
+25,lZGWsqTUnpULrPmnk8dNRQ,Kim's Banh Mi & More,VA,Virginia Beach,23455,16.0,4.5,4801 Shore Dr,vietnamese sandwiches icecream,36.9035222,-76.13638147055178
+27,kGKEcudhzOOqi_4r2Tnn7Q,Tapioca Go,VA,Norfolk,23510,32.0,2.5,300 Monticello Ave,poke hawaiian bubbletea,36.8494699,-76.2891999
+29,e390PC2YcWizm5ykWMa-Vw,Kung Pao Wok,VA,Norfolk,23502,11.0,2.5,1600 Premium Outlets Blvd,chinese bubbletea,36.881518,-76.199181
+30,14ypZg-q0DiuWv9T6ofnzw,Kotobuki,VA,Norfolk,23517,249.0,4.0,721 W 21st St,japanese sushi vegan,36.869961,-76.2946258
+31,WJgQVvpg2UhPBRvi7vpghA,Golden Chopsticks,VA,Norfolk,23505,50.0,3.0,8406 Hampton Blvd,chinese japanese vietnamese,36.9293026559653,-76.3171398639679
+32,lUEY4MY43WJpH5jfSLQSZw,Yukai Buffet,VA,Virginia Beach,23454,577.0,3.5,1952 Laskin Rd,seafood buffets sushi,36.848560139100265,-76.0359415233211
+33,hlJv_o9HvKrOT4CAKfbx7Q,Pho 79,VA,Norfolk,23517,293.0,3.5,723 W 21st St,vietnamese,36.87001,-76.29473
+34,hcdsQptO1oWkG8ZuyJuezQ,Saigon 1,VA,Virginia Beach,23462,228.0,4.0,448 Newtown Rd,vietnamese,36.853295,-76.177464
+35,yc4_JsLNM4PR1lQfqSkonw,Pho 79,VA,Virginia Beach,23454,187.0,3.5,507 Hilltop Plz Laskin Rd,vietnamese bubbletea soup,36.8486697855343,-76.0250323274014
+37,mlbhK3nuoQMPuaOfNm5dAA,Pho 79 Bistro,VA,Norfolk,23502,48.0,3.0,1551 Premium Outlets Blvd,vietnamese noodles bubbletea,36.879011,-76.194376
+13,D_eCREYWxnkWvCB7Wa7bTw,Jelly Ball SK8 House,VA,Virginia Beach,23452,1.0,5.0,600 S Lynnhaven Rd,juicebars bubbletea,36.8206,-76.0751
+39,QyvO83V4q07AVEJq5uJwSQ,Pho 78 Vietnamese Restaurant,VA,Virginia Beach,23452,265.0,4.0,4239 Holland Rd,vietnamese,36.818823,-76.122076
+5,TcABvgGwZexB1g6wf8h2YA,Sno Biz,MD,Princess Anne,21853,3.0,4.5,12100 Carol Ln,shavedice,38.213952,-75.701909
+21,vATGeg9AFX7eb8oVtx8PIg,Rita's Italian Ice,MD,Charlotte Hall,20622,6.0,4.5,30135 Three Notch Rd,shavedice icecream desserts,38.4957389831543,-76.7757415771484
+22,JEFnX1h819QMljMNwEP6Ug,Rita's Italian Ice,MD,Prince Frederick,20678,6.0,2.5,738 North Prince Frederick Blvd,desserts shavedice icecream,38.5526,-76.59709
+2,GXwn4JEyWsmy6STcBI5DWQ,Sunset Breakers,MD,Worcester,21811,1.0,5.0,,shavedice,38.28895,-75.15185
+4,bwDxAxDSj0orpmFqXoWQiw,Cool Runnings,MD,Berlin,21811,2.0,5.0,9533 Stephen Decatur Hwy,icecream shavedice markets,38.3253346440804,-75.1197909391864
+5,2PgxRAGZK64ZZoFrCL7jZw,Polish Water Ice,MD,Ocean City,21842,36.0,4.5,306 S Atlantic Ave,shavedice desserts icecream,38.3292313,-75.0863571
+8,aR35Bwz_1DJwI83vbeprnw,Love's Lemonade,MD,Ocean City,21842,24.0,4.0,17 N Atlantic Ave,desserts,38.332104,-75.084699
+0,OUirlGmeAApBAFJe8FgwYw,Amarin Coffee USA,VA,Chincoteague,23336,140.0,5.0,6141 Maddox Blvd,coffee coffeeroasteries breakfast_brunch,37.9369099530182,-75.3700924292207
+3,5FvtKCo97dMKp6F61bm13Q,Oc Poke sushi teriyaki house,MD,Ocean City,21842,58.0,4.5,215 S Baltimore Ave,japanese poke sushi,38.33005,-75.08677
+0,qOlM3CVibp2TFvi7aJnTHA,Hawaiian Bryan's Aloha Shop,MD,Salisbury,21804,1.0,5.0,720 E College Ave,desserts shavedice,38.3476393516686,-75.5836847505254
+2,nZqnMl0zgQ331RBjY22TuQ,Noah's Sno-Ball Shack,MD,Ocean City,21842,2.0,5.0,3708 Coastal Hwy,shavedice,38.36541,-75.0716
+3,S8ehIhf_l6Lo8XsZTmQaIQ,Fenwick Ice Co,DE,Selbyville,19975,12.0,4.5,36773 Lighthouse Rd,shavedice icecream foodtrucks,38.47345,-75.1001
+5,HslDQvkc4KBbyIvx6gv7og,Fenwick Ice & Trading,DE,Fenwick Island,19944,1.0,5.0,601 Coastal Hwy,shavedice,38.4561691,-75.0518576
+6,Vmc5FKUsWmMKQr28CBW_Pg,The Snowball Stand,MD,Berlin,21811,11.0,4.5,11065 Cathedral Rd,shavedice,38.379014167026455,-75.16907795274282
+11,mnHOOIgv5rA5dLxnj3wbyg,Sweet Spot,MD,Ocean City,21842,5.0,2.0,1401 Atlantic Ave,icecream shavedice donuts,38.344105,-75.078534
+13,8_3KJzMYjwsWQhNqFs3C0g,Pablo's Bowls North OC,MD,Ocean City,21842,57.0,4.5,12109 Coastal Hwy,acaibowls juicebars,38.42721,-75.05588
+14,tvzCR5hgP74v2fhheC7LNg,Rita's Italian Ice,MD,Salisbury,21801,6.0,3.5,831 South Salisbury Blvd,icecream desserts shavedice,38.3537141,-75.6007643
+15,Jgj1efjKM2LouT0fIAHwZA,Tea Boss - Ocean City,MD,Ocean City,21842,42.0,4.5,11805 Coastal Hwy,bubbletea desserts sushi,38.4247701,-75.0577815
+16,fsyrRD8_0HBR8d3o1l7SWw,Rita's Italian Ice,MD,Ocean City,21842,15.0,3.5,4101 Coastal Hwy,icecream desserts shavedice,38.36866,-75.07164
+2,GlsuEtpOlWEad2Yr3VyZEQ,Manna Asian Cuisine,MD,Salisbury,21801,54.0,4.5,1147 S Salisbury Blvd,bubbletea poke japanese,38.34513,-75.60279
+3,zzJD0xEAIVB2DgHlnEvZUw,Pablos Bowls,MD,Ocean City,21842,104.0,4.5,1607 Philadelphia Ave,juicebars vegan acaibowls,38.3463559795451,-75.0797894784132
+5,ZRGeU5L6eYSZp1Jo6SWEDA,Viet Taste,MD,Salisbury,21801,149.0,3.5,215 North Blvd,vietnamese vegetarian vegan,38.3560920496738,-75.6018434941745
+6,wr9VIGknUfDCZIf68opwgA,Chuar Restaurant & Bar,MD,Salisbury,21801,36.0,4.0,1306 S Salisbury Blvd,chinese,38.3430128033847,-75.6050966921793
+11,b6jY0UO8kGh_P12gkCn40Q,Steve's Sugar Shack,DE,Bethany Beach,19930,4.0,3.0,100 Garfield Pkwy,shavedice juicebars,38.538074,-75.055481
+12,aDPh10-kdz2d2_tuAL-fNQ,Bonkey's,DE,Millville,19967,92.0,4.5,35849 Atlantic Ave,comfortfood icecream shavedice,38.54601,-75.100778
+16,-jhy-mkeo3IW0IWEluKeAg,Bonkey's Ice Cream & Snoballs,DE,Ocean View,19970,19.0,4.5,44 Atlantic Ave,icecream shavedice desserts,38.543114,-75.087772
+17,2e7h1V24OWGVG2zPUUcBng,Rita's Italian Ice,DE,Bethany,19930,9.0,5.0,765 Garfield Pkwy,icecream desserts shavedice,38.5403307527304,-75.0707334280014
+2,9xOIDNZhFuaBUfe0t5VQHw,Lil' Yeti Snoballs,VA,Suffolk,23434,9.0,4.0,2332 Pruden Blvd,shavedice,36.7606113645855,-76.5876895934343
+11,_TM6aKuNcsxH5AOCt-fSqg,Pelican's Snoballs of South Norfolk,VA,Chesapeake,23324,15.0,4.5,1120 Bainbridge Blvd,shavedice,36.81621,-76.27919
+18,QKZgUxeLJRPow5obPpZwBQ,Pelican’s SnoBalls - Chesapeake,VA,Chesapeake,23323,1.0,4.0,1124 N. George Washington Hwy,shavedice shavedsnow,36.78193,-76.33568
+19,3rF-gjMePPQdVojjnx4JuQ,Look Up Dessert Cafe,VA,Chesapeake,23320,202.0,4.5,1032 Volvo Pkwy,icecream bakeries juicebars,36.769766,-76.224364
+22,iasFtatLEivr-ps2GlMBzg,Tapioca Go,VA,Chesapeake,23320,188.0,4.5,1434 Sams Dr,bubbletea coffee juicebars,36.767708,-76.249523
+23,l5BrudI6H2GbucL-XKHvbA,Rita's Italian Ice,VA,Chesapeake,23320,40.0,4.0,501 Kempsville Rd,icecream desserts shavedice,36.743832895818386,-76.22361572883553
+13,o15hqSACTnLvwzIHJ09iCQ,Ninja Tea,VA,Virginia Beach,23464,101.0,4.5,987 Kempsville Rd,bubbletea,36.8119052,-76.1664395
+19,GJtsKgypSXM-dVTerwutYg,Chi Chop,VA,Virginia Beach,23464,103.0,4.5,5262 Fairfield Shopping Ctr,taiwanese chickenshop seafood,36.81494333,-76.16934833
+24,CgDvH4Tlcjg7CHbMtJhpLw,Molly Ramen Poke Tea,VA,Chesapeake,23320,53.0,3.0,801 Volvo Pkwy,ramen bubbletea poke,36.767576,-76.228781
+29,vTclLktWDrPQO9LCzD-rtQ,Pho Dalat Vietnamese Restaurant,VA,Chesapeake,23320,327.0,4.0,836 Eden Way N,vietnamese,36.775112840256504,-76.23134119989595
+33,lUf9fuAjOYUyYEJhOyP9uw,Ouka Sora,VA,Chesapeake,23320,6.0,3.5,801 Volvo Pkwy,poke bubbletea ramen,36.767080979955445,-76.2276513254023
+35,iLVEL3JG7l04EBZK_ELYJw,Tasty Korean BBQ,VA,Virginia Beach,23464,214.0,4.0,1255 Fordham Dr,bbq korean,36.801136,-76.175365
+36,mCQrUxNi3YmCdWZLZYySBw,Kappo Nara Ramen,VA,Virginia Beach,23464,317.0,4.5,989 Kempsville Rd,ramen,36.81203305848052,-76.16713327138893
+37,3nI8up124XFJbvJxpW-6Pw,Molly Ramen•Poke•Tea,VA,Virginia Beach,23464,78.0,3.5,6525 College Park Sq,ramen bubbletea poke,36.8106865,-76.21618983
+39,kGlRoU-4Dm7j-8GYGpsvig,Pho 79,VA,Chesapeake,23320,237.0,3.5,1445 Sams Dr,vietnamese,36.7687217164502,-76.2485869330658
+41,YfiPig7sMOFjHwsRcgqXBQ,DOMOISHI Ramen-Poke-Wings-Tea,VA,Virginia Beach,23464,48.0,4.0,5394 Kemps River Dr,asianfusion poke ramen,36.800322327668376,-76.17930727281015
+1,HHqpcZ0JN7bU_4GxEwOT8w,The SnoBall Shop,VA,Virginia Beach,23453,77.0,4.5,1401B Lynnhaven Pkwy,shavedice,36.795282,-76.094079
+18,osjxUKe2kx7KHI6a_KmxjQ,Mango Mango,VA,Virginia Beach,23462,110.0,4.0,4540 Princess Anne Rd,desserts,36.806846,-76.133126
+20,xgtWLlxDsGtKeTfYq6q20Q,Yo Mama,VA,Virginia Beach,23462,154.0,4.0,4540 Princess Anne Rd,icecream bubbletea shavedice,36.80713,-76.13268
+24,8wsG6K_lS3CrZPE1_MbUxg,Jollibee,VA,Virginia Beach,23462,403.0,3.0,4541 S Plaza Trail Dr,hotdogs chickenshop,36.80661816023002,-76.13060073052465
+28,WY6wGuad_nkDqwcNAfTFHQ,Grammy Karaoke Korean BBQ,VA,Virginia Beach,23452,125.0,4.0,904 S Lynnhaven Rd,karaoke bbq korean,36.8112696234419,-76.0730649923778
+4,hIcXBrzddep9WGw5Pe8XPA,Boba Chef,VA,Virginia Beach,23452,136.0,4.5,3497 Holland Rd,desserts coffee bubbletea,36.80879,-76.0932
+10,7c0DO2GH-n1QMcOrywY8Yg,Jelly Ball,VA,Virginia Beach,23452,92.0,3.5,701 Lynnhaven Pkwy,bubbletea juicebars,36.816386,-76.070743
+12,2RpWJ15_f3RtMu0tYu6YKw,Gong Cha,VA,Virginia Beach,23456,161.0,4.0,2029 Lynnhaven Pkwy,bubbletea,36.792075,-76.122329
+13,wR0Z-0Gr7Lp-L5TWo5jMxg,Kung Fu Tea,VA,Virginia Beach,23456,262.0,4.0,1949 Lynnhaven Pkwy,bubbletea juicebars coffee,36.795485,-76.119069
+24,OGqKcSHY0DVJwaIgbAMWsg,Kokee Tea,VA,Virginia Beach,23452,14.0,2.5,701 Lynnhaven Pkwy,bubbletea,36.816477,-76.070906
+35,HpAB_cZuW5Q6OzD-J_NxgA,Glenda's Bulalohan,VA,Virginia Beach,23456,26.0,3.5,3809 Princess Anne Rd,filipino,36.784677,-76.108523
+37,MDRfn8_uDiMc_LqbSo4mLg,Molly Ramen Poke Tea,VA,Virginia Beach,23452,107.0,4.0,869 Lynnhaven Pkwy,ramen bubbletea poke,36.8122605,-76.07141417
+41,GFiSPvDPTpYfBJueIG2srQ,No 1 Taco,VA,Virginia Beach,23453,39.0,4.5,1949 Lynnhaven Pkwy,tacos,36.795506478987456,-76.11896157707007
+45,Ai5BSHnIFgAtX2O4aAaBdA,Domoishi,VA,Virginia Beach,23453,66.0,3.5,3545 Buckner Blvd,asianfusion poke ramen,36.79012,-76.10899
+49,Gj5cx04oEYQPf6NgwBT2eg,Saigon 1,VA,Virginia Beach,23464,94.0,4.5,4221 Pleasant Valley Rd,vietnamese asianfusion,36.7870998142856,-76.1505227158778
+3,JjbHmm40PWGOA1xifbfxKg,Surfs Up Shave Ice,VA,Chesapeake,23322,2.0,5.0,656 Washington Dr,foodtrucks shavedice desserts,36.6215976,-76.2247366
+7,dyLpLsp08PzN0Z5WE-gFgA,Kona Ice of Chesapeake,VA,Chesapeake,23322,3.0,5.0,,shavedice foodtrucks,36.70525,-76.24328
+20,eFNiurWcgrMm8UAkGTf6Lw,Kona Ice of Virginia Beach,VA,Virginia Beach,23456,3.0,2.5,4013 Vinland Cir,shavedice,36.767815,-76.126869
+21,5Qv6hYHbiOYI8XibEOYj9A,Fetch Coffee at Dogs Little  Acre,VA,Virginia Beach,23456,12.0,4.5,661 Sandbridge Rd,coffee shavedice juicebars,36.7449358,-75.96281003186161
+25,vx-SmP_94nNZ0rIziDLUHQ,Only At Renee's,VA,Virginia Beach,23454,201.0,4.0,2181 Upton Dr,filipino,36.757723,-76.007961
+7,q0IIsOcrsmttaoqeoFIfFw,Domoishi,VA,Virginia Beach,23456,14.0,4.0,2217 Upton Dr,poke asianfusion ramen,36.756254,-76.010423
+10,VDyJgnMZALPs7_XHpxHVLA,Pho 79 Noodles & Grill,VA,Virginia Beach,23454,142.0,4.0,2129 General Booth Blvd,vietnamese noodles,36.768588,-76.015704
+1,XJ5zVUibvquL6xoJfUskwQ,The SweetEasy,NC,Elizabeth City,27909,11.0,4.0,112 N Poindexter St,coffee bakeries,36.300169,-76.219451
+18,E-sO9nY3gXOSAEZfpnuEcA,The Kraken Coffeehouse,NC,Elizabeth City,27909,1.0,5.0,615 E Main St,coffee bubbletea,36.29949,-76.21902
+5,dorDuYtXSpJiM9gTT7GiIg,Icellos,MD,Cambridge,21613,1.0,5.0,501 Maryland Ave,shavedice,38.5685428717801,-76.0660026044973
+27,g1kjZSxupIQaR1g3emIJzA,309 Bistro and Spirits,NC,Edenton,27932,72.0,4.0,309 S Broad St,tradamerican,36.0586,-76.60862
+0,l1p0543Ik5nleXystQhyXg,Pelican's Snoballs,NC,Henderson,27536,1.0,5.0,420 N Garnett St,shavedice,36.3291190853431,-78.3994454774628
+1,0t29N_VTNkZs8pXITBJrNw,Backyard Birds & Coffee,VA,Bracey,23919,13.0,5.0,3410 Highway 903,icecream coffee bubbletea,36.59717,-78.14699
+8,-MvNG5FCMr0G9P5hwUeJ_A,Pelicans Snoballs,NC,Rocky Mount,27804,6.0,3.0,1211 N. Weslyan Blvd,desserts shavedice,35.97348,-77.801
+2,sYNS6cnPnp39CeM31rUsiA,Pelican's Snoballs,NC,Wake Forest,27587,11.0,4.5,703 N Main St,desserts shavedice,35.9893760995668,-78.5055853798985
+1,MJvjHVFwUPR4lVSH-00HWQ,Nutrition on Main,NC,Youngsville,27596,2.0,5.0,117 West Main St,bubbletea juicebars,36.024483,-78.4777164
+2,yqYZWPXgFCx3YCvbw5Cekg,Kung Fu Tea - Raleigh,NC,Raleigh,27617,2.0,5.0,10251 Little Brier Creek Ln,coffee juicebars bubbletea,35.91131,-78.78521
+4,PrledvOPzA9hgHcHUNFygQ,Pho Xpress,NC,Raleigh,27617,296.0,4.0,7841 Alexander Pl,vietnamese,35.913403184894094,-78.77955517289338
+5,xobChneAYPz-bgCuGmdfZw,Caribou Coffee,NC,Raleigh,27617,80.0,4.0,8201 Brier Creek Parkway,coffee,35.908886,-78.784497
+0,c1OMutwzxXSBGoRmJf78Tg,Pelican's SnoBalls,NC,Durham,27701,33.0,4.5,606 Fayetteville St,shavedice icecream,35.9869822069417,-78.8983076361547
+4,LUxc5IpJ1U9mk0Y2kJa9OQ,Pelican's SnoBalls,NC,Durham,27704,39.0,4.5,3217 N Roxboro St,icecream shavedice,36.03248,-78.89136
+5,1T2K54fXS1vV2i0RnL9I1g,Chicken Bee Korean Style Chicken,NC,Durham,27705,165.0,4.0,810 9th St,chicken_wings korean ramen,36.01153444310532,-78.92168283462524
+6,WlTcD7Zm_iyZh3Yio1_Cvw,The Dog House,NC,Durham,27705,14.0,3.5,2009 Guess Rd,hotdog bbq shavedice,36.0225099,-78.91802
+2,HFRuFJlf4rjkBb4SMLCqyQ,Moge Tee - Durham,NC,Durham,27705,61.0,4.0,760 Ninth Street Durham Nc 27705,bubbletea,36.009746,-78.921842
+3,wdLfFzoA8P3GKTKveiINJg,Yaya Tea Durham,NC,Durham,27701,16.0,4.0,807 E Main St,bubbletea,35.99020133089962,-78.89101948589087
+4,8IrsoHltvoedLo7gcGpwNQ,Quickly Tea House,NC,Durham,27705,78.0,4.0,2604A Hillsborough Rd,bubbletea taiwanese ramen,36.0108768392369,-78.9289825688798
+5,44PJMOkUOSCvpSiyXk3ZuQ,Liturgy Beverage Company,NC,Durham,27701,14.0,5.0,530 Foster St,coffee bubbletea coffeeroasteries,36.001049,-78.901207
+6,wGUG5Bsj2MXluXVHQfCudA,Li Ming's Global Mart,NC,Durham,27707,174.0,4.0,3400 Westgate Dr,chinese intlgrocery bakeries,35.96645,-78.96119
+7,SgP64Kh8LB0keXF4uqDQ-A,Dragon Gate,NC,Durham,27707,19.0,2.5,2000 Chapel Hill Rd,chinese,35.9896904,-78.9261213
+8,NAJIqcMrOoG54K2QLHiIJg,Pho and Poke House,NC,Durham,27705,144.0,3.5,2816 Erwin Rd,vietnamese,36.0069735,-78.9470873
+9,tybXeiLBDAp9BVI7ZNFwRQ,Li Ming Bubble Tea,NC,Durham,27707,5.0,3.0,3400 Westgate Dr,bubbletea juicebars,35.96645,-78.96119
+10,upRmmK_VljZWwqfC1OIrEw,Pad Thai,NC,Durham,27705,195.0,4.0,2425 Guess Rd,thai,36.0264558345079,-78.9227966219187
+11,rfohbPFdfAqdsXFyYW7fcg,Park's Food St,NC,Durham,27707,40.0,4.0,3219 Old Chapel Hill Rd,food_court,35.965352,-78.946052
+12,EACYBg7Mfzjo19i9X3gyIg,Stir Fry Japanese,NC,Durham,27705,12.0,4.5,2608 Erwin Rd,japanese bubbletea juicebars,36.009068,-78.945253
+13,E6GY8Iww0vLlsUkOeVN5hg,Queen of Pho,NC,Chapel Hill,27514,162.0,4.0,1129 Weaver Dairy Rd,vietnamese,35.9622817745108,-79.0531176698364
+14,fuNYhjU4k3OqlaXOw5c94w,Koumi Japanese Restaurant,NC,Durham,27704,192.0,3.5,3550 N Roxboro St,japanese sushi thai,36.03679,-78.89522
+10,ZXsCZO0xcGInh24s1NsyIw,Bowl of Pho Vietnamese & Thai Restaurant,NC,Durham,27703,173.0,4.0,2806 S Miami Blvd,vietnamese thai,35.9291992,-78.844841
+5,aS2QN0p1jzLn42gZDJbw9g,Polar Panda's Snowballs,NC,Mebane,27302,3.0,5.0,408 W Center St,shavedice,36.097979,-79.273531
+4,NuXorHFR0iE3ezJl7NtCiA,Frozy,NC,Durham,27707,82.0,4.0,5324 New Hope Commons Dr,juicebars bubbletea icecream,35.9552069937596,-78.9938725563446
+7,2PEZ9v1JvgwpO2TztTib4g,Tutti Frutti Frozen Yogurt,NC,Durham,27707,82.0,4.0,3710 Shannon Rd,icecream bubbletea juicebars,35.955997,-78.9562
+13,7t2NlgJDsfQvDaaGHgS7Pw,Tasu Express Asian Grill and Poke,NC,Durham,27707,40.0,3.5,3307 Watkins Rd,japanese sushi,35.953468,-78.990882
+0,CaC6EklcQL0gW7_TEJwYIw,Miami Ice Snowcones,VA,Roanoke,24018,3.0,5.0,3540 Brambleton Ave,shavedice,37.2368499,-80.00143
+1,rr_ywB9_J6-5NixHEYeR6Q,Chillin' Shaved Ice,VA,Roanoke,24014,1.0,5.0,,shavedice,37.2395477294922,-79.9464263916016
+2,2hk-R0lbCJu0S1mhFAzX4g,TJ's Java & Sno,VA,Daleville,24083,6.0,5.0,24 Azalea Rd,shavedice coffee juicebars,37.407057092876045,-79.91442427116397
+0,lEK_IvC9pddvQnnRGoO7ng,Champloo Desserts,VA,Roanoke,24018,32.0,3.5,4344 Electric Rd,icecream desserts bubbletea,37.2294915,-79.9765345
+1,H90M7HONIoAps_ZIZnmo6w,Cafe Asia 2,VA,Roanoke,24018,129.0,4.0,3549 Electric Rd,sushi asianfusion chinese,37.2258319,-79.9984489
+2,xaAdQTHMjnHaCq6qF9QP5g,Pho Saigon,VA,Roanoke,24012,95.0,4.0,3420 Orange Ave,vietnamese,37.3031654,-79.8926109
+3,rp5t7GekqJAle8VeI2hwIQ,Thai Continental,VA,Roanoke,24011,83.0,3.5,108 Market St,thai,37.2720642089844,-79.9385681152344
+4,Zt_VNfNdgSuFvf11fouUpA,Pho Vietnam,VA,Roanoke,24016,77.0,4.0,535 Orange Ave NE,vietnamese,37.28194,-79.93175
+0,yVJY64q-tWealdKzKbPUcg,Kelly Cafe,VA,Salem,24153,9.0,4.5,1 W Main St,desserts bubbletea coffee,37.292727,-80.0589904905583
+3,QFoGBeDbwW_l6NE60yWM5A,Champloo Desserts,VA,Salem,24153,81.0,4.0,9 S College Ave,desserts icecream bubbletea,37.292927456294095,-80.05481798065455
+4,ZT5qLwQIGzXjBI7pe1-gMw,Kung Fu Tea,VA,Blacksburg,24060,20.0,3.5,1200 S Main St,bubbletea coffee juicebars,37.21896,-80.40317
+5,NV2OSfZYQUtkZPprGvkDYg,Ninja Cafe,VA,Blacksburg,24060,33.0,4.5,1200 S Main St,asianfusion bubbletea sushi,37.21896,-80.40317
+7,qZVNTc39d7mLqWeSFTOHIg,Next Door Bake Shop,VA,Blacksburg,24060,107.0,4.0,460 Turner St NW,coffee bakeries breakfast_brunch,37.233601962374,-80.422598491182
+8,hSDRGgXGuX2BtgaIi7qm2w,Sushi Factory,VA,Blacksburg,24060,40.0,4.0,801 University City Blvd,sushi bubbletea tea,37.23371519126412,-80.4344384
+9,KeT8chXygi4TzR-3crcr0A,Tokyo Grill,VA,Blacksburg,24060,19.0,4.0,460 Turner St NW,japanese,37.23346,-80.422626
+10,M5OPTpzS08HSHIxG_Q50VQ,Spicity,VA,Blacksburg,24060,112.0,4.0,210 Prices Fork Rd,chinese,37.2348026682461,-80.4218720595245
+11,rXGioez8wVRBwJXJoBj9LQ,Kobe Japanese Express,VA,Blacksburg,24060,62.0,3.5,860 University City Blvd,japanese steak bubbletea,37.2355117797852,-80.4328918457031
+12,F_ofTZiczPkYZ93JAE3RRQ,Cafe De Bangkok,VA,Blacksburg,24060,129.0,2.5,104 Jackson St NE,thai,37.2301219403744,-80.4144562035799
+0,7ETY4RN8cPTkGteA7BzLpQ,Cindy's SnowCreamery,NC,Clemmons,27012,13.0,5.0,4060 Clemmons Rd,shavedice,36.0195646078919,-80.40474
+3,-OMQbuHTE701-ylP2klAaw,Pelican’s Snowballs,NC,Winston-Salem,27105,5.0,4.5,5425 University Pkwy,shavedice icecream,36.16918,-80.27644
+4,2Ng3k_ViqWljNwOU5MN13w,Super Premium Italian Ice,NC,Greensboro,27401,1.0,5.0,201 N Elm St,shavedice,36.073658077405,-79.7902626770358
+5,L7j57IOSZxqnHaTyr-NrxQ,Mama Mia Italian Ice,NC,Clemmons,27012,19.0,5.0,2731 Lewisville Clemmons Rd,shavedice pretzels desserts,36.023035,-80.381341
+6,BUBFxKfXp8yOSEDyPkEIUg,The Ice Bar,NC,King,27021,3.0,4.0,115 Ingram Dr,shavedice,36.2636206587114,-80.363952989123
+7,R8vAux1BjKPnBsK4R-BMWA,To the Moon and Back Frozen Treats,NC,Oak Ridge,27310,2.0,4.5,1692 Hwy 68 N,icecream foodtrucks shavedice,36.172877,-79.9873246
+8,eRkrnvqMX2DqtYVmEQsMIA,Cailee Belle’s Sweet Shoppe,NC,Greensboro,27405,1.0,5.0,,shavedice,36.0863724,-79.7685189
+9,2DnsLSP4ZtvAxkkborXGOQ,Pelicans SnoBalls,NC,North Wilkesboro,28659,1.0,5.0,929 Main St,shavedice,36.158803296143596,-81.1476970337962
+10,2NH1z6qTRwcgqZPQ8CDU_A,Tea Time Boba Tea Lounge,NC,High Point,27262,117.0,4.0,1800 N Main St,coffee bubbletea icecream,35.97902,-80.01987
+0,QoG-L-VsOZZF6Kyyo9dkDw,Momo Ashi Cafe,NC,Winston-Salem,27106,40.0,4.5,1961 N Peace Haven Rd,bubbletea waffles cafes,36.118438164757215,-80.3110063
+1,_TR9JgocrO-7I6zZ20bfwg,Yolo Rollo,NC,Winston-Salem,27103,7.0,4.5,3320 Silas Creek Pkwy,icecream bubbletea juicebars,36.069672,-80.300494
+3,lYmKbcY7nUNoM38Z7AichA,Tiger Tea,NC,Winston-Salem,27103,16.0,4.5,3252 Silas Creek Pkwy,bubbletea,36.070184388225336,-80.29507697280582
+8,k-WvNjosRQGsAlWX9ENIFg,Bubbleful Tea,NC,High Point,27265,25.0,3.5,2401 Penny Rd,bubbletea juicebars,36.0345934798117,-79.9651654435283
+9,fzmMSV7AX_ttOocXx_sWkA,Thai This Express,VA,Radford,24141,46.0,4.5,1401 Tyler Ave,thai,37.12851,-80.54119
+10,H8xSGEYyrHHlugOwQvZPCQ,Intown Donutz,NC,Winston-Salem,27104,44.0,4.5,167 Jonestown Rd,donuts coffee,36.0771786851405,-80.3346333280206
+11,xpTFOzJPCq8N75hTzrQwVA,Moshi Moshi Boba Cafe,NC,Greensboro,27403,52.0,4.5,2418 Spring Garden St,bubbletea,36.0641847404473,-79.8337667
+12,hcpclFraNkHiZKPjVgzspg,May Way Dumplings,NC,Winston-Salem,27106,179.0,4.0,113 Reynolda Village,chinese bubbletea,36.1268868,-80.2854721
+14,qwikzjvJ7WR1XL1TxamdeQ,Master Tea Cafe & Bites,NC,Greensboro,27409,86.0,4.0,5103 W Market St,juicebars bubbletea vietnamese,36.06827,-79.87814
+15,jRKfCntEgqeRQ_D9YB3T1Q,Rena Marie's,NC,Winston-Salem,27101,18.0,3.5,545 Trade St NW,coffee bubbletea,36.101275,-80.246085
+17,GNom9_VDXlSg0PHObG5J4g,Pika Tea,NC,Greensboro,27407,35.0,4.5,1622 Stanley Rd,bubbletea,36.05366558062225,-79.8915763021674
+18,2necOgoujFvQfsqFVNX6ig,Tik Tok Snow & Tea,NC,Greensboro,27407,27.0,4.0,3808 W Gate City Blvd,bubbletea,36.038761310889406,-79.85593261278589
+19,NtbbCMyzCcWcyteRLS13oA,Kung Fu Tea,NC,High Point,27265,58.0,4.0,5815 Samet Dr,coffee bubbletea juicebars,36.032956,-79.960765
+22,Bxt66dJpa51YbZ89OR2hFg,Boba House,NC,Greensboro,27403,225.0,4.0,332 Tate St,bubbletea vietnamese thai,36.068545643980514,-79.80580268446228
+23,R-j6ECfgZ4vmRDl1Co73eg,Binki Cafe,NC,Winston-Salem,27103,8.0,4.0,3894 Oxford Station Way,bubbletea ramen,36.06795,-80.32739
+26,1vHwdOZHYZpZk9fh90ARqg,Pho and Sushi Vietnamese and Japanese Cuisine,NC,Winston-Salem,27103,114.0,4.0,121 Stark St,japanese vietnamese,36.08258,-80.29729
+27,7GJU8T2G13wzx64lDWPBhA,Hibachi Grill & Bubble Tea,NC,Jamestown,27282,8.0,4.0,4824 W Wendover Ave,japanese bubbletea,36.04590358127836,-79.92810470105735
+28,WSjT2bhBvp15iD-w5t2k7w,Cha Da Thai,NC,Winston Salem,27104,99.0,4.0,420 Jonestown Rd,thai,36.07421,-80.33869
+29,m420CKtemYFs9nMP8FPlwg,Banh Mi Saigon Sandwiches & Bakery,NC,Greensboro,27407,261.0,4.5,3808 W Gate City Blvd,vietnamese bakeries sandwiches,36.03827468011721,-79.85637471592646
+30,SU6fAyAl_l8gEDqeS7H4pQ,Gong Cha,NC,Greensboro,27407,15.0,3.5,4927 W Market St,bubbletea,36.06702989002001,-79.87463984638453
+31,3rX1VU55452Vh0TIsAHMMg,K Chicken,NC,Greensboro,27407,8.0,4.5,4927 W Market St,korean asianfusion,36.066577,-79.874976
+32,oqAcRkTkEpwXjLJx5DXqPA,Alounemay Asian Market The Lao Kitchen,NC,Greensboro,27403,22.0,4.5,2601 W Gate City Blvd,laotian,36.0539543066447,-79.8318063095212
+33,fRuzsW2DohrsmduuCufRaw,Rice Paper,NC,High Point,27260,86.0,4.0,906 Greensboro Rd,vietnamese,35.9871,-79.96542
+34,bsAQSjavlEsnncFNF8EAQA,Happy Bowl,NC,Greensboro,27403,76.0,4.0,1201 W Gate City Blvd,asianfusion tacos,36.06258879329512,-79.81159775631956
+35,rOghWiGSG6aPnaabPi73iQ,KOTO Japanese Sushi&Steak House,NC,Clemmons,27012,55.0,4.0,3619 Clemmons Rd,sushi,36.0211482716531,-80.3805774394029
+36,HSulLWpNtrS9JjqhzDgX7Q,ISE Of Japan,NC,Winston-Salem,27103,55.0,3.0,2213 Cloverdale Ave,japanese sushi,36.0914779608439,-80.2745916043219
+37,nSWE4TgS1SBhsGBjjFFJWw,Hibachi Cafe,NC,Greensboro,27401,100.0,2.5,362 S Elm St,cafes chinese japanese,36.0680198955484,-79.7907561063766
+38,e_Me5IRJeeHnM2vI8viy6A,I Love Pho,NC,Greensboro,27407,112.0,4.0,4715 High Point Rd,vietnamese asianfusion,36.028776,-79.868699
+39,CM326I6jBXqioAGE_MeRSw,Binh Minh Vietnamese Restaurant,NC,Greensboro,27409,129.0,4.0,5211 W Market St,vietnamese,36.06967,-79.88144
+40,XAG-xCPNTOAVcU7AEk8xng,Momo Ashi,NC,Winston-Salem,27101,0.0,0.0,1961 N Peace Haven Rd,,36.11645,-80.31136
+41,_2JRFrJtdSmQwUh3cYXjOQ,May Way Dumplings,NC,Greensboro,27403,40.0,4.0,948 Walker Ave,chinese coffee,36.0683706352968,-79.8052510046705
+42,shWTRW-yqy9VVV8x16jJcw,Van Loi II Vietnamese Restaurant & Chinese BBQ,NC,Greensboro,27407,89.0,3.5,3829 W Gate City Blvd D,chinese bbq vietnamese,36.036852,-79.857468
+43,qyfuh76ovpX1LfgFb36D3g,Passion Fusion Grille GSO,NC,Greensboro,27408,23.0,4.0,2618 Lawndale Dr,asianfusion,36.1042,-79.81821
+44,JeFf5e4Bfw3V8bjJGmv1Pg,Singha II,NC,High Point,27265,131.0,4.0,2401 Penny Rd,thai,36.034701,-79.96522
+45,expDKXurU_5Z8sX3lvfTQw,Cafe at Revolution,NC,Greensboro,27405,3.0,5.0,1250 Revolution Mill Dr,cafes juicebars wraps,36.09998,-79.77629
+4,23XA2tx3aLCr6s-T6xdPdw,Pelican's Snoballs -  Burlington St Marks,NC,Burlington,27215,10.0,5.0,1147 St Marks Church Rd,shavedice,36.0780909,-79.5141541
+16,xmtOe6cHZf-ufixp_L5Q4w,Passion,NC,Graham,27253,24.0,4.0,20 SW Ct Sq,sushi asianfusion juicebars,36.069027,-79.400577
+28,cUSN-mXe5sqTJ0Bz3li7gg,Harusaki,NC,Burlington,27215,76.0,3.0,1449 University Dr,japanese,36.067862,-79.521092
+15,v-ZkzJufpomxl9RBHoXuMg,MinGa,NC,Chapel Hill,27514,207.0,3.5,1404 E Franklin St,korean japanese bbq,35.9281792,-79.0342897
+2,L9jqGBgJcwWSg7cLp0WmZw,Silver Dragon,WV,Lewisburg,24901,19.0,4.5,250 Piercy Dr,chinese bubbletea,37.8108995851005,-80.4309263263134
+0,IOp3ajk-ItHL46Jm3w6RsQ,Tastes Buds,TN,Bristol,37620,3.0,3.5,1731 Edgemont Ave,shavedice bubbletea icecream,36.574596,-82.186172
+1,jUEWgywFLdu3G0uTJu5aAA,Taste Buds,TN,Bristol,37620,1.0,5.0,3496 Highway 421,shavedice icecream foodtrucks,36.488361,-81.855944
+2,MBfwxDMq3DGKtavcSVmW7Q,Beach Hut Shaved Ice,TN,Kingsport,37660,2.0,5.0,1689 E Stone Dr,shavedice,36.5472272,-82.51720499999999
+3,X6bZ3UJjipeaX_KhsRd6Ag,Sam's Snoball Paradise,TN,Johnson City,37601,17.0,4.5,809 South Roan St,icecream shavedice,36.3146,-82.34803
+4,hljUDzU_GA_s_xjEkJQcbA,Allen's Sweet Paradise,TN,Limestone,37681,1.0,5.0,,foodtrucks juicebars shavedice,36.23114,-82.62955
+1,G7zFiFdrndr54ie4XQ3sNw,The Roots Vietnamese Restaurant & Coffee,TN,Johnson City,37604,89.0,4.5,600 N State Of Franklin Rd,coffee vietnamese chicken_wings,36.31574547230372,-82.38897672760939
+2,LXB4A0gMor--XBwZoJhzoA,KALM Bistro,TN,Johnson City,37615,141.0,4.5,5205 Bobby Hicks Hwy,vietnamese,36.413283070931,-82.4721796333535
+3,_ZINfTwww5Msdm3T_ISueA,Daylight Donuts,TN,Johnson City,37604,41.0,4.5,1735 W State Of Franklin Rd,donuts bakeries breakfast_brunch,36.30088,-82.37738
+4,6VXsRBK2KwWnp7uMbNC-CQ,China Luck,TN,Johnson City,37615,16.0,3.5,5205 Bobby Hicks Hwy,chinese buffets,36.413306,-82.472434
+1,iVkCjSxEkVbZ-aKsymcA-w,My Pho Of Boone,NC,Boone,28607,53.0,4.0,784 W King St,asianfusion vietnamese bubbletea,36.21998,-81.68583
+6,BCyBU5uXJS3qW9SBo861qA,Edo's Sushi Bar and Grill,TN,Kingsport,37660,26.0,3.5,818 Johnathan Way,sushi japanese,36.55946,-82.58466
+0,W4z-WL6HlEKPOgfhcbjvKw,Hindman Sno Hut,KY,Hindman,41822,1.0,5.0,820 KY-160,shavedice,37.33145833,-82.96931917
+0,lyJjEnDFoutnmyhOTjDuJA,123 Cafe,KY,Pikeville,41501,10.0,2.5,244 Cassidy Blvd,chinese bubbletea icecream,37.5061594665847,-82.5368615779099
+0,xDQFNQzS4tCvp_ao7lVA2Q,Sweet P's Snowball Shack,TN,Clinton,37716,6.0,5.0,930 N Charles G Seivers Blvd,shavedice icecream,36.1122799627237,-84.1231963138333
+1,ZcPAGU-MNOb6CfPh7l7rpg,The Wooden Spoon Co.,TN,Knoxville,37921,2.0,5.0,,shavedice desserts foodtrucks,35.96975,-83.93645
+0,fThxr0VwcS3-JThDIbWgIQ,Tra Sua,KY,Corbin,40701,2.0,3.5,916 Master St,bubbletea,36.95354,-84.0851949861
+1,vNSdhhSJkpmIJocCMBu7ig,Asian River,TN,Knoxville,37912,19.0,4.0,6714 Central Ave Pike,sushi thai asianfusion,36.026863606694306,-83.99221655738398
+5,RgkukJpCMej3MliKAPpexg,Pelican's Snoballs,NC,Lenoir,28645,3.0,3.5,140 Blowing Rock Blvd,desserts shavedice,35.9157795690361,-81.5242866257112
+0,34lPXjgEt_yWNjezogsa2A,"Mmmm, Dealer of Tropical Sno Products",WV,Danville,25053,1.0,5.0,7301 Price Branch Rd,coffee desserts shavedice,38.07714,-81.83085
+0,QXo29tHoRuiqbLLxz6l_-A,Pho Vinh Long,WV,Charleston,25303,109.0,4.0,601 D St,vietnamese bubbletea,38.36775,-81.69628
+1,ayFLKGe-Q_pi0hNEYnF9gg,Yen's Sandwiches,WV,South Charleston,25303,98.0,4.5,606 D St,vietnamese,38.3679485321045,-81.6959606856108
+2,4P8pv-nSh9p3PIqZHtJnUw,Carnival Eats,WV,Charleston,25303,9.0,2.5,16 Riverwalk Plaza S,desserts juicebars bubbletea,38.3657583,-81.7096871
+3,-uOqKFBwuZybjIOOLHQCxQ,Bombshells Burgers & BBQ,WV,Huntington,25701,59.0,4.0,2134 5th Street Rd,pizza burgers tacos,38.3902,-82.45349
+1,rKl7olLcY7NWqVZeF3tJwA,Bulldog Ice hole,KY,Louisa,41230,1.0,5.0,,shavedice donuts foodstands,38.11267,-82.60729
+1,g5A44d481HXpKpX4GmK-pg,Boba Hut,OH,Gallipolis,45631,3.0,3.5,161 Upper River Rd,coffee bubbletea pretzels,38.82823,-82.16452
+4,GhY4bchjjjjY8z2VzTgReQ,Hallowbeans Coffee House,WV,Ripley,25271,2.0,4.5,516 1/2 W Main St,coffee bubbletea juicebars,38.81875,-81.717973
+0,txg2f-wW4cskyioQ_FXuoA,Sno Biz,WV,Parkersburg,26101,2.0,4.0,230 Park Center Dr,shavedice,39.2853128664448,-81.5507459878939
+4,q8l2Qr-hvVPpjEQj9MWv5w,Yummy House,OH,Athens,45701,1.0,4.0,1002 E State St,asianfusion seafood bubbletea,39.3371869,-82.05671749999999
+6,kbJTVG-JLf8UZm0T4qlgLA,Jeremiah’s Coffee House,OH,Marietta,45750,40.0,4.0,175 Front St,coffee breakfast_brunch gluten_free,39.41204,-81.45371
+5,AijmW7pbXBNIbNSNYGjzow,Bubble World,WV,Bridgeport,26330,2.0,2.0,2399 Meadowbrook Rd,bubbletea waffles icecream,39.312888,-80.271931
+1,LtlHwfNIPTdMzbEXVwB5xA,Rita's Italian Ice & Frozen Custard,WV,White Hall,26554,1.0,5.0,2600 White Hall Blvd,icecream desserts shavedice,39.428449584525836,-80.1862260028432

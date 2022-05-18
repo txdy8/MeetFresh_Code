@@ -1,0 +1,517 @@
+,id,name,state,city,zip code,review count,rating,address,categories,latitude,longitude
+0,1sUZ-0VhbMWwaAyCsYKNCw,Gibson's Shaved Ice - Columbia Park,IN,Lafayette,47904,1.0,5.0,2325 Wallace Ave,shavedice,40.411657,-86.870241
+1,_zAGBUwZ3cQmMSd3_efjog,Xin Asian Bistro,IN,West Lafayette,47906,29.0,2.5,3457 Bethel Dr,chinese korean hotpot,40.466686,-86.954892
+2,sHSAk5EHzAr_Ik12hEkXYQ,Gibson's Shaved Ice,IN,West Lafayette,47906,1.0,5.0,1904 US-52,shavedice,35.386116,-80.193045
+3,9ig_ijZJFb0rIaqH3HHcCw,Hawaiian Shave Ice With Food,IN,Frankfort,46041,2.0,3.5,1902 E Wabash St,shavedice burgers icecream,40.27923,-86.490493
+4,2MQLtMxGWh99Ru3tkGv8dw,Los 3 Mangos De Michoacán,IN,Indianapolis,46268,3.0,5.0,7850 N Michigan Rd,icecream shavedice,39.8962535,-86.2154946
+5,_x67Y6UKB9vpzhkHhc17Jw,Fresitas Artisan Ice Cream,IN,Frankfort,46041,1.0,5.0,61 W Washington St,mexican icecream shavedice,40.2814831800739,-86.51305868368465
+0,giFqitlgi0-SzdO5XymFJw,Tsaocaa,IN,West Lafayette,47906,16.0,5.0,318 W State St,bubbletea,40.42414,-86.90876
+1,Hic-M5Y3YZ-7I_Q5KawaNQ,Latea Bubble Tea Lounge,IN,West Lafayette,47906,213.0,4.5,358 E State St,bubbletea desserts,40.4210848,-86.9016988
+2,Zmku7tPWggqmKAH5CwOA5g,Miss Sugar Dessert,IN,West Lafayette,47906,32.0,4.5,107 N Chauncey Ave,customcakes bubbletea icecream,40.42419,-86.90736
+3,XlQi9dyCCaNJ4s-usHnDhw,1ny Bakery & Cafe,IN,West Lafayette,47906,6.0,4.0,1578 Win Hentschel Blvd,bakeries bubbletea,40.464795,-86.93527883
+4,ZN8hjTb-J0QeND_i648kZQ,Kung Fu Tea,IN,West Lafayette,47906,32.0,3.0,135 S Chauncey Ave,bubbletea coffee juicebars,40.4231945028166,-86.9081861566326
+5,Pmow7gVnjDbpKIwafYI-XA,Basil Thai & Bubble Tea,IN,West Lafayette,47906,118.0,3.5,135 S Chauncey Ave,thai,40.4228774687789,-86.9077794212443
+6,qYFIIdC7Wx8oN7xRqU82cw,Thai Essence,IN,West Lafayette,47906,171.0,4.0,1534 Win Hentschel Blvd,thai,40.4644749,-86.9346383
+7,AsuRGwQeAgOhW1-f4DydqA,Katana Sushi & Ramen,IN,West Lafayette,47906,89.0,4.0,1048 C Sagamore Pkwy W,sushi ramen,40.4539259908758,-86.9176030113139
+8,9XAfPdueyGGY7Dt6RGE-Ww,Echo Karaoke,IN,West Lafayette,47906,15.0,4.0,306 E State St,karaoke taiwanese cantonese,40.4211013131537,-86.9017612953694
+9,YuJmfmz5Bryp-zP6NXCXlg,Green Leaf Vietnamese Cuisine,IN,West Lafayette,47906,139.0,3.0,111 S River Rd,vietnamese,40.421745,-86.905075
+10,-_EmcKU7HFLaYk_5TVWYrw,O-Ishi,IN,West Lafayette,47906,57.0,3.5,213 E State St,chinese japanese fondue,40.4215,-86.9038099
+11,fvMQZIR3XerYOwO5PrU_nw,Kimchi Korean Restaurant,IN,West Lafayette,47906,97.0,4.5,1904 Sagamore Pkwy W,korean,40.4664861,-86.9393349
+12,u7V75TXBF8-1TqoTWUsqtQ,Echo Dumplings and Taiwanese Grill,IN,West Lafayette,47906,1.0,1.0,306 E State St,taiwanese bubbletea,40.421576,-86.900858
+3,lm3lOXR15f7jQzwzNofJMA,Sno Zone,IN,Indianapolis,46220,26.0,4.5,924 Westfield Blvd,shavedice,39.8708421515208,-86.141907271225
+5,-duPMGeNQSCGEUl0s552Cw,Rita's Italian Ice & Frozen Custard,IN,Carmel,46032,13.0,5.0,110 W Main St,shavedice icecream,39.97861381341887,-86.12856268435839
+6,jthav4poO-NJSrEM20lQhA,Ali'i Poke - Carmel,IN,Carmel,46032,29.0,5.0,12545 Old Meridian St,poke icecream hawaiian,39.9724765308358,-86.15064774561553
+9,oJXJivCrpCD90_WQkw4RpA,The Human Bean,IN,Indianapolis,46220,4.0,5.0,5405 N. Keystone Ave,coffee,39.85162,-86.12165
+10,yU5zCpNITpphnnGOnu6igA,Raspados Alpha Tamales,IN,Indianapolis,46222,22.0,3.5,2802 Lafayette Rd,desserts juicebars,39.8074671792739,-86.2191149219871
+11,Q6gX_JvVZHW3N9Wkh6RXNQ,"The Human Bean Indianapolis, N. Keystone Ave",IN,Indianapolis,46220,33.0,4.5,5405 N Keystone Ave,coffee,39.85163879864922,-86.12169579946126
+6,T_KMdWM0dIBCyMxqrDAJQw,Banh Mi Eatery,IN,Lafayette,47905,60.0,4.5,1201 S 4th St,vietnamese sandwiches,40.40501,-86.89271
+0,MsjTFWX3WhVZ07kta8fOUQ,MJ's Cajun Ice,IN,Terre Haute,47803,1.0,5.0,2800 Poplar St,shavedice shavedsnow,39.46413216181279,-87.3759604027174
+2,6hFuywVmiFOLK5AgBtwFmQ,Brain Chillzz,IN,Martinsville,46151,15.0,5.0,789 E Morgan St,tradamerican shavedice chicken_wings,39.4276672,-86.4191413
+3,R0f1Xs3yBTDx9__E3edfrA,The Sno Cone Shack,IL,Marshall,62441,1.0,5.0,1308 N Michigan Ave,shavedice foodstands,39.399201037657,-87.6939212970266
+4,GWw15il2AaJivyaL5lqynA,Frigid Frog,IN,Plainfield,46168,16.0,5.0,2481 E Main St,foodtrucks shavedice icecream,39.7138599,-86.36368
+9,h9C0Gub8prrtAwLDSbsAfQ,The Frigid Frog,IN,Plainfield,46168,12.0,5.0,1702 E Main St,shavedice popcorn icecream,39.7111716288072,-86.3780019432306
+10,Vyowr5EQXO5Ely_2VC-LeQ,The Frigid Frog,IN,Plainfield,46168,2.0,5.0,303 E Main St,shavedice desserts,39.70379000494604,-86.39917861784765
+3,sBT0a2VCq04gApS8clRk_Q,Kung Fu Tea,IN,Plainfield,46168,31.0,4.5,2683 E Main St,coffee bubbletea juicebars,39.716563,-86.354212
+6,ihCRMdspiUSCW9T4DSkwXQ,Urban Farmchic,IN,Rockville,47872,11.0,4.0,102 S Market St,womenscloth coffee bubbletea,39.762363,-87.22928760330343
+7,ylFx5djznkvq3aBOviey9A,Eastern House,IN,Terre Haute,47802,65.0,4.0,1295 S 3rd St,thai chinese hotpot,39.4540091926232,-87.4142269691883
+8,amQ-tpVUf9xz8oaSn1ph7g,Royal Mandarin Express,IN,Terre Haute,47803,46.0,4.0,11 Meadows Shopping Ctr,dimsum szechuan,39.464717,-87.375997
+10,MpkCQTOV6D3XGRPbtQPj5Q,Pho 36,IN,Avon,46123,240.0,4.5,9655 E US Hwy 36,vietnamese noodles soup,39.7631044346348,-86.3519488545074
+19,0z1VO3Js0NdTOKLYDa15zw,Huong Sizzling Wok,IN,Indianapolis,46254,105.0,4.0,4351 Lafayette Rd,chinese vietnamese bubbletea,39.83381,-86.24402
+20,1T9F7iLDFAYWJvif1RKneg,Pho Saigon Restaurant,IN,Indianapolis,46254,425.0,4.0,4760 W 38th St,vietnamese,39.82447,-86.23985
+1,4DB1j8bEH3MtHyIOLe0D-g,CBPB Popcorn Shop,IL,Champaign,61821,3.0,4.0,1506 S Neil St,popcorn foodtrucks shavedice,40.0988312740486,-88.2441599294543
+2,BkvoH816B3LhZQaghQ1Uzw,Meet Fresh,IL,Champaign,61820,9.0,2.5,209 E University Ave,desserts bubbletea shavedice,40.115971957023326,-88.23584374040365
+3,ZxQlHVm0pj0ERqpwhEHc6w,San Maru,IL,Champaign,61822,83.0,4.5,2504 Village Green Pl,korean fooddeliveryservices shavedsnow,40.0819967,-88.2962051
+4,6ockUmdOBYBApEsUCJkBzA,El Oasis,IL,Urbana,61802,101.0,4.5,510 N Cunningham Ave,icecream mexican,40.117278,-88.203156
+6,dNch89PUCbxvhieKmWi8LQ,Cocomero,IL,Champaign,61820,136.0,4.0,709 S Wright St,icecream bubbletea desserts,40.10999,-88.22911
+7,Y-rCSbMqXWk54bKRAIoyUQ,Caffe Paradiso,IL,Urbana,61801,122.0,3.5,801 S Lincoln Ave,coffee sandwiches shavedice,40.1062567,-88.2193749
+9,t0f8qXrKGNWv6j8MGmosRg,Caffé Bene,IL,Urbana,61801,67.0,3.0,700 S Gregory St,cafes desserts juicebars,40.106139,-88.221243
+2,oR5KPj-zh_kAtk62RDSgzw,Tiger Sugar,IL,Champaign,61820,2.0,4.0,509 E Green St,bubbletea coffee desserts,40.11016184670376,-88.23086610000001
+4,Epr8Ft7LwYAzotFwxQX6uw,Latea Bubble Tea Lounge,IL,Champaign,61820,94.0,4.0,601 S 6th St,desserts bubbletea,40.111167,-88.230671
+7,ghKfhpVZkDbvaAq68039wg,Bearology,IL,Champaign,61820,46.0,4.0,608 E University Ave,bubbletea,40.11665,-88.22948
+8,lG9YdIb-87LK21XnMKvzFg,TEAMOJI,IL,Champaign,61820,33.0,4.0,617 E Green St,bakeries bubbletea,40.11004,-88.22968
+9,GqlpfkQtSuIwzgQEvrkIkA,Kung Fu Tea,IL,Champaign,61820,36.0,4.0,707 S 6th St,bubbletea coffee juicebars,40.10971,-88.230729
+10,XoOz_qfCXe72HpTmWasb6g,Tenko Tea,IL,Urbana,61801,11.0,4.0,700 S Gregory St,bubbletea,40.106523083344925,-88.221248
+11,OS78OVr7cCIZ5eAFGHZzwg,Mitsu&Tsaōcaa,IL,Champaign,61820,16.0,4.0,608 S 6th St,hotpot bubbletea,40.1107435,-88.2303151
+14,iprknXfI079PRm80pdeuKA,Tsaocaa,IL,Champaign,61820,13.0,3.5,608 S 6th St,bubbletea coffee juicebars,40.110819234189,-88.2302925183136
+16,BcrFZDyviqw_wF9oQQ5qVA,Caffe Bene,IL,Champaign,61820,38.0,4.0,524 E Green St,coffee,40.1106262207031,-88.2310028076172
+18,FsnwQwatA43aeGhJlxQ_Kg,Paris Super Crepes,IL,Champaign,61820,58.0,4.0,601 S 6th St,desserts icecream creperies,40.111185,-88.2305749
+20,miMx3VNOW8qPJC5wEGaIOw,Xinh Xinh Cafe,IL,Urbana,61802,218.0,4.0,114 N Vine St,vietnamese,40.1132039811962,-88.2031739192663
+28,5_cn7M-9swHrFbnqZtYGBQ,Bangkok Thai and Pho 911,IL,Champaign,61820,197.0,4.0,410 E Green St,thai,40.11055,-88.23237
+29,5CSGxhesXkz2XNQB8AP6Kw,Spoon House Korean Kitchen,IL,Champaign,61820,99.0,3.5,616 E Green St,korean,40.11064,-88.22961
+30,OyBStpjF5e_iRCMXflFasQ,Evo Cafe,IL,Champaign,61820,67.0,2.5,711 S 6th St,chinese,40.10945,-88.2306
+1,ChfVH4MESG6YUGoFmRIvxA,Vito's Italian Ice,IN,Cedar Lake,46303,2.0,5.0,9720 West 133rd Ave,shavedice,41.37759033,-87.45299183
+3,ZTXDQ27YNQE0IGFVeuI2fw,POKE-MAN,IN,Merrillville,46410,99.0,4.5,327 E 81st Ave,poke bubbletea hawaiian,41.470013,-87.33386883
+6,yb-3h3sI1p3xVyyCB6ECgQ,Motea,IN,Schererville,46375,76.0,4.0,1642 US Highway 41,bubbletea icecream ramen,41.493136,-87.471918
+7,qfok8zh-S9tdsNtPiEtRsQ,Uptown Cafe - Valparaiso,IN,Valparaiso,46383,91.0,4.5,1400 E Lincolnway,breakfast_brunch cafes,41.4676751,-87.0438236
+8,DaDmnTm6f-dfbcKcK2er8A,Cafe Fresco,IN,Crown Point,46307,25.0,4.0,1 North Court St,cafes coffee bubbletea,41.41741,-87.36572
+9,ghoVCeMPk_NoKctiATSQZg,Bangkok Thai and Sushi,IN,Valparaiso,46383,103.0,4.0,2103 Calumet Ave,sushi thai japanese,41.4876971523455,-87.0501638576388
+11,hE8LZSKnQ3ZTkBekQbpM0w,Sip Coffee House,IN,Crown Point,46307,96.0,4.0,11 N Court St,coffee salad sandwiches,41.41768304771045,-87.36573435504745
+13,oFi-gpdKGa4tajUVjelaPA,Spice Thai Cuisine,IN,Merrillville,46410,176.0,4.0,1491 E 82nd Ave,thai,41.4695,-87.31807
+14,ltmfsOwheWOlhV9cTRZAag,Uplifted Bistro,IL,Bradley,60915,5.0,2.5,270 S Schuyler Ave,cafes bubbletea bakeries,41.141429996627814,-87.8596944361925
+22,DT-0UAcAKXckxyxzU05a7w,Tropical Islands Cuisine,IN,Merrillville,46410,11.0,4.0,40 West 80th Place,filipino bars seafood,41.473734,-87.337153
+6,Mw4OCi1uvhodBigg6Vs-ig,Sweet Swirlz Frozen Yogurt & More,IN,Plymouth,46563,5.0,5.0,2868 Miller Dr,icecream bubbletea,41.3598121,-86.3481697
+7,stt-2AhQuzUxEaVCjFTW4Q,MO Joe Coffee,IN,Kokomo,46901,11.0,4.5,106 N Main St,coffee cupcakes juicebars,40.486791,-86.130876
+9,jNHVvU0pTd0XilCg7NUAhg,Pho Nguyen,IN,Kokomo,46902,29.0,4.5,1245 S 17th St,vietnamese,40.47234,-86.11122
+14,d37So0rgyxUEkolibyVU4A,Rocket Science Ice Cream,IN,Nappanee,46550,34.0,5.0,401 E Market St,icecream bubbletea hotdog,41.442616,-85.9973473
+1,_o5pfvzu5oCzO07qW_KZaQ,Caribbean Shaved Ice,IN,Warsaw,46580,2.0,3.0,853 N Lake St,shavedice,41.2443967204709,-85.8647177728335
+8,P8_D14tFbEkJCMjlK_cbxQ,Wire and Steam Coffee Company,IN,Warsaw,46580,3.0,4.5,2858 Frontage Rd,coffee bakeries,41.2354419,-85.8167236
+7,-9krsSZGjwFF53yUt1nExQ,Aw'sum Snowballs,IN,Whiteland,46184,3.0,4.5,,foodtrucks shavedice,39.7237367861234,-86.1050489825724
+10,4mJ83I2UlCUfeu94OsHytw,Kona Ice South Indy,IN,Indianapolis,46237,7.0,4.0,,shavedice foodtrucks icecream,39.6986846923828,-86.0992889404297
+13,EBNnt8PzxWxjbTk4qXCeMg,LiftOff Creamery,IN,Indianapolis,46202,72.0,4.5,111 E 16th St,icecream desserts shavedice,39.7883,-86.15533
+18,nSHq493WltUlr9cFfS-YJQ,Beholder,IN,Indianapolis,46201,166.0,4.5,1844 E 10th St,newamerican wine_bars,39.7816033,-86.126861
+3,DBtvUjFaT1v-p6vCxY2nTw,Moar Tea & Poke,IN,Indianapolis,46204,187.0,4.5,448 Massachusetts Ave,poke bubbletea juicebars,39.77348,-86.15151
+4,9LZWyTM6KCr6JvfWEgGeQw,Yoya Self Service Frozen Yogurt and Bubble Tea,IN,Indianapolis,46268,107.0,4.0,3520 W 86th St,icecream bubbletea coffee,39.9122505,-86.221199
+5,pJD9h8b6VesW5zpWB7sowQ,Youmi Crepes and Bubble Tea,IN,Indianapolis,46220,108.0,3.5,823 Broad Ripple Ave,bubbletea creperies,39.869754241800024,-86.1442706290281
+6,14Mth2EHCYDRDfJ0ngsWfg,Latea Bubble Tea Lounge,IN,Indianapolis,46204,162.0,4.5,530 Massachusetts Ave,bubbletea tea bakeries,39.774866,-86.149923
+10,v_QRZ8oeX-10wLo0jVddQg,Harmony Poke & Bubble Tea,IN,Carmel,46032,18.0,4.5,14490 Clay Terrce Blvd,poke bubbletea juicebars,39.9984092,-86.13051672330862
+14,hSQmsUepdqx1nuVbcUZyjA,Yabarr Tea,IN,Indianapolis,46227,6.0,5.0,8031 Madison Ave,bubbletea,39.6497912,-86.11893352030997
+15,Qf12H2X1FO-TYKAdWxf-Nw,Kung fu tea Greenwood,IN,Indianapolis city (balance),46227,3.0,5.0,8721 US 31 S,bubbletea,39.63999,-86.1286
+17,deWhFgwgU3F11jYMJk8n3Q,Main Street Poké,IN,Carmel,46032,249.0,4.5,110 W Main St,seafood poke bubbletea,39.9785986,-86.1289815
+18,itkqVWdw3oOpo6KoWv4buQ,Wei Ramen,IN,Indianapolis,46204,124.0,4.0,36 E Washington St,ramen,39.76727,-86.156841
+19,zUA1hGE1NWGO66OTbKuZuQ,Boba & Everything,IN,Indianapolis,46202,15.0,4.5,1220 Waterway Blvd,bubbletea bagels,39.78475,-86.18403
+22,jHP7LKR1LheZy8rcdrOE3Q,Yujo,IN,Indianapolis,46260,200.0,4.5,9431 N Meridian St,ramen bubbletea,39.92487,-86.15604
+23,vTPyT8fRAp837rdEX8GQjw,Koko Tea,IN,Indianapolis,46204,20.0,4.0,18 N Meridian St,bubbletea,39.76769,-86.1583
+25,zIeGu-ZfWF-THM8Y3lQwFg,Strange Brew,IN,Greenwood,46142,125.0,4.5,4800 W Smith Valley Rd,coffee,39.60565,-86.19306
+29,vYv9PhpNZGhrU8t_pvdlCw,Mori Sushi,IN,Indianapolis,46202,199.0,4.5,231 S College Ave,sushi ramen izakaya,39.76321,-86.145502
+30,rTu09DTWFpfKcsyKdTVScw,PANA Donuts Coffee & Boba Tea,IN,Indianapolis,46268,81.0,4.5,3269 W 86th St,donuts bubbletea coffee,39.91115,-86.21636
+31,yXbhFZH3Rg_rRg7EaxrEdg,Bento Asian Bistro,IN,Indianapolis,46202,178.0,4.0,901 Indiana Ave,sushi asianfusion thai,39.7795906,-86.1729813
+32,clLlY20esU2Rkkt_Xmr25w,Wyliepalooza Ice Cream SoBro,IN,Indianapolis,46220,31.0,4.5,1049 East 54th St,icecream desserts,39.85053,-86.14027
+34,Z7V-76Uu09FP_ZMlit5KwQ,Kung Fu Tea,IN,Indianapolis,46227,4.0,5.0,8721A US 31 S,bubbletea coffee juicebars,39.63999,-86.1286
+35,aJzuFdUnxwhESwAnsegR4g,Sushi Boss,IN,Indianapolis,46202,359.0,4.5,803 W 10th St,sushi,39.7808405,-86.172014
+36,Pq-40zA90KNO_GK54EnuuA,Pho Lai Restaurant,IN,Greenwood,46142,76.0,4.0,1000 N Madison Ave,vietnamese sushi burmese,39.62867104645291,-86.11546369689411
+37,XJEFTd2db-PGXPgFyl3Qkw,Thai Recipes Restaurant,IN,Indianapolis,46227,289.0,4.5,404 E Thompson Rd,thai,39.6935748211177,-86.1499902446535
+38,2tucChH-AHwYodE100lNfQ,Pho Real,IN,Indianapolis,46280,207.0,4.0,9611 N College Ave,vietnamese laotian thai,39.928359902957,-86.145210005343
+39,SJRSK7NlDPdJ0ycd-XtwWw,Sichuan Chinese Restaurant,IN,Carmel,46032,125.0,3.5,1329 Rangeline Rd,chinese chickenshop soup,39.96,-86.12627
+42,l_mx_q740TLKBPCMa_mtJw,Thai Spice,IN,Indianapolis,46227,480.0,4.0,2220 E County Line Rd,thai diners,39.63584,-86.1227
+44,Vsy_s0raWQGFUuKI1m2jsQ,La Chinita Poblana,IN,Indianapolis,46202,45.0,3.5,906 Carrollton Ave,tacos asianfusion korean,39.78,-86.143666
+46,nCprivwMhexIl0yPQwsJjw,Go Stir Fry,IN,Indianapolis,46204,22.0,5.0,38 E Washington St,poke sushi steak,39.767377,-86.156757
+47,2iUVOG71MTTTkBf04-jVAA,Jasmine Thai,IN,Indianapolis,46240,242.0,4.0,4825 E 96th St,thai,39.92608,-86.08718
+0,9Xqz0ONYnNcV0NgxX7kNTw,King of Kings Asian Restaurant,IN,Greenwood,46143,2.0,3.0,11 Declaration Dr,chinese vietnamese thai,39.582908158415314,-86.10170893371105
+1,t_e8XaAm-zTpusp90UHeDA,Tobu Oriental Eatery,IN,Indianapolis,46240,11.0,1.5,8702 Keystone Crossing,sushi asianfusion chinese,39.9140689922061,-86.1097609251738
+2,XdokOzCcW-SWVdBIDPVhXA,Roku Sushi & Pho,IN,Bargersville,46143,74.0,4.0,2800 S State Rd 135,vietnamese sushi soup,39.5772464,-86.1605491
+3,wiDpuSCBqbq7jzw_vMuQWQ,The Egyptian Cafe and Hookah Bar,IN,Indianapolis,46220,153.0,3.5,6220 Carrollton Ave,hookah_bars egyptian cafes,39.868535,-86.1449325
+2,ofUcvi1Rgmi1aUrzbRHilg,Paradise Shaved Ice & Ice Cream Shop,IN,Fishers,46038,6.0,4.5,7246 Fishers Crossing Dr,icecream shavedice,39.95814,-86.04292
+6,ley-ShgEhpL9qz8Y5D_blg,Lickity Slick Snowball Shop,TN,Franklin,46131,1.0,5.0,1540 N Morton St,shavedice,39.49225,-86.06623
+12,1GYBDo3lG76ZiwxCmsKIMw,Moo & Lou Frozen Treats and More,IN,Lawrence Township,46236,3.0,5.0,,shavedice,39.8800010681152,-86.0102767944336
+13,WFDDTJDZsgX_OkbUSEXMUg,Tsaocaa,IN,Indianapolis,46250,202.0,4.5,6386 E 82nd St,icecream bubbletea shavedice,39.9071295601108,-86.0585072208168
+18,7XSVBJVuozQZL53D3DlypQ,Wyliepalooza Irvington,IN,Indianapolis,46219,219.0,4.5,5535 E Washington St,bubbletea icecream,39.7703697303685,-86.0723885324951
+2,3-LZiPRYAPCukbhRn0MLQA,Tropical Sno,IL,Palos Heights,60463,2.0,4.5,12230 S Harlem Ave,icecream shavedice,41.66879,-87.79724
+3,nXAbsQNuy82QwEF-FasdZg,Sweets Addict,IL,Country Club Hills,60478,10.0,4.5,4048 183rd St,bakeries icecream coffee,41.55838486522627,-87.71459726495983
+5,GexGLSYujrB3FcoXxbl2LA,Simply Slices,IL,Mokena,60448,18.0,4.0,19226 S LaGrange Rd,pizza,41.5403230775712,-87.8512805433394
+6,Ll6ewuZ9qrL0x10UI_eUUg,Zarlengo's Italian Ice & Gelato,IL,Chicago Heights,60411,120.0,4.5,257 W Joe Orr Rd,icecream gelato shavedice,41.520896,-87.65411
+7,U7Tpurr_1JOD5PWBchvJ5w,Da Portable Rican,IN,Portage,46368,60.0,4.5,2556 Portage Mall,foodtrucks puertorican,41.577927,-87.177433
+8,lJA2xZCfFhvkJbi88CAqvg,Simply Slices,IL,Crestwood,60445,96.0,4.0,14208 Cicero Ave,pizza,41.633959,-87.738366
+9,UfszETBJPsauEhQnlOfXHQ,Paleteria La delicia Michoacana,IN,East Chicago,46312,6.0,4.0,817 W Chicago Ave,mexican icecream,41.6291619837284,-87.4817980080843
+10,Xann-dGfptPVbnUDH6bL4A,Dixie Kitchen and Bait Shop,IL,Lansing,60438,247.0,3.0,17940 Torrence Ave,southern cajun,41.56886417,-87.55924383
+0,lvRbdzaVHcUYlv9pl821IQ,Cielito Lindo Cafe,IN,Hammond,46327,1.0,5.0,3805 Hohman Ave,cafes bubbletea creperies,41.64457,-87.51695
+1,63pzNMAXf9xaEexBVRcSnQ,Tea Amore,IN,Portage,46368,3.0,4.5,2531 Willowcreek Rd,bubbletea waffles,41.5778165,-87.182704
+3,HhIuuCE5WfiC2-FLWgmYeQ,Tao Chen's,IN,Chesterton,46304,65.0,4.0,532 Indian Boundary Rd,chinese,41.61597568261191,-87.04408127498915
+9,bolP1RSCdYFuYaifcNgO2A,MA Tea House,IL,Orland Park,60462,1.0,4.0,104 Orland Square Dr,bubbletea,41.618849189703205,-87.84732911735773
+10,NYcuYvZOkBi0UF2nyc4ciA,Asian Kitchen,IN,Hammond,46324,123.0,4.5,6412A Calumet Ave,vietnamese chinese,41.596585,-87.5090849
+12,Sno4wGpRFToNnCHzWQrGPw,Hotspot Cafe and Geeks Museum,IN,La Porte,46350,3.0,3.5,602 Lincolnway Ave,cafes bubbletea tradamerican,41.61183,-86.71935
+14,MD0OJXVlXUagolh5VHHjAw,Saigon Restaurant,IL,Tinley Park,60487,230.0,4.5,9530 W 179th St,vietnamese,41.565757,-87.850387
+15,c7GWTc4UEN78AO9D8s2F6w,The Librarium Cafe,IN,Hobart,46342,44.0,4.5,310 Main St,coffee cafes bakeries,41.5316502,-87.2548273
+16,v6cMnon-MKij15-4d5SDuw,Frosted Donuts,IL,Tinley Park,60487,107.0,4.5,17119 88th Ave,donuts coffee,41.57923,-87.8318712115288
+18,c1FCdMMvDK1veZjIGIMogQ,K Ribs BBQ,IL,Joliet,60432,48.0,4.5,221 N Chicago St,korean bbq newamerican,41.52823,-88.0821
+19,rMZdZEMBFPhelebXarBXpA,Pad Thai,IL,Tinley Park,60477,120.0,3.5,7301 W 183rd St,thai,41.55812,-87.7951
+21,sIT51wydI2KixBK3DQ0Y2Q,China Wok,IN,East Chicago,46312,13.0,3.0,807 W Chicago Ave,chinese,41.6290751,-87.4812733
+10,H8-Gl63zF-zDzqLj2G29Iw,Kung Fu Tea,IN,Fishers,46038,16.0,4.5,8395 E 116th St,bubbletea icecream,39.95636,-86.02037
+22,368cyArdo0P0aDUOhhE4PA,PANA Donuts Coffee & Boba Tea,IN,Indianapolis,46237,176.0,4.5,5370 E Thompson Rd,donuts juicebars sandwiches,39.69646004161893,-86.07590032327879
+24,z7x4qOYeLNORrVV3s-UxgQ,The Local Grind,IN,Franklin,46131,4.0,4.0,25 N Main St,juicebars coffee bubbletea,39.48083,-86.055
+27,CBrD7r4PTCAKc7sP_WsXmw,Harmony Poke & Bubble Tea,IN,Indianapolis,46250,185.0,4.5,6368 E 82nd St,ramen poke bubbletea,39.90661729934095,-86.0585582045286
+32,fcDwIR8FCnssC_jFw1brHg,PANA Donuts Coffee & Boba Tea,IN,Fishers,46037,43.0,4.5,7810 E 96th St,donuts sandwiches juicebars,39.92821,-86.02574
+39,5gIfmupQTP3Lk4wIgNfoEQ,Chao Vietnamese Street Food,IN,Fishers,46037,321.0,4.0,7854 E 96th St,vietnamese,39.9282154151836,-86.0245093592163
+40,dXOxkjvkEuVfVCDR1j5PRg,Sweet Ice Indy,IN,Indianapolis,46250,5.0,3.5,6020 E 82nd St,bubbletea juicebars,39.908854,-86.064916
+41,-gikv6T4uE5GvpZ7iQx-Pw,Pho 21,IN,Indianapolis,46219,117.0,4.5,8134 E 21st St,vietnamese noodles bubbletea,39.796606,-86.024079
+42,mvSDKOdN23jGgxGpMGumeA,Benjamin's Scoops & Treasures,IN,Franklin,46131,41.0,4.0,49 E Court St,coffee icecream sandwiches,39.480171414609245,-86.05450971194149
+48,2-BObvYhRA5y96FACESHVA,Thai O'Cha,IN,Fishers,46038,104.0,4.5,14096 Trade Center Dr,thai soup noodles,39.9930239,-86.006021
+3,oEwmCZknUHgHfEBdKA2SZA,Egg Roll Number 1,IN,Indianapolis,46203,489.0,4.5,4540 S Emerson Ave,vietnamese chinese soup,39.7010291600498,-86.0833077017434
+7,XVAVHoihD4Xq6GdwqEaNRQ,Chuancai Fang,IN,Indianapolis,46250,37.0,4.0,6304 E 82nd St,chinese hotpot,39.90634,-86.05989
+8,-p1n0tJURpNW5vwM0dGBcw,Thai Taste,IN,Indianapolis,46250,390.0,4.5,5353 E 82nd St,thai,39.9041901,-86.0771484
+11,0mztD2NKpgV2sxWfaaOciQ,Koi Sushi & Hibachi,IN,Fishers,46037,19.0,4.5,8350 E 96th St,japanese sushi,39.927646307728835,-86.0201491
+14,nnZ1l_f443CHSP1udiRUew,Formosa Seafood Buffet,IN,Indianapolis,46250,174.0,2.5,6304 E 82nd St,buffets seafood asianfusion,39.9064864903077,-86.0597939404755
+15,dQfKzzK4wYzO6vR49YzF_A,Thai Sushi House,IN,Fishers,46038,187.0,4.0,8603 E 116th St,sushi thai teppanyaki,39.9565399,-86.01727
+18,gyyFZAV39I_FaOUwslHWYw,Pho Tasty,IN,Indianapolis,46250,217.0,4.0,6044 E 82nd St,vietnamese soup,39.9057397459236,-86.0632321691727
+23,xK2HHzdWro8HIsJlFJzwlA,Nara Hibachi Express,IN,Carmel,46033,39.0,4.0,14570 River Rd,japanese,39.9986506609424,-86.035571359098
+12,RIIV1bMNnY9PqJ2TKB2F0w,YY Tea House,IL,Chicago,60643,2.0,4.5,10939 S Western Ave,bubbletea,41.69461,-87.68069
+15,0vJS1fvO9118RoqZDREt4w,Zing Japanese Fusion,IN,Mishawaka,46544,145.0,4.0,206 N Main St,japanese chinese asianfusion,41.66235,-86.18028
+16,lWGnLDskFfUMOtwCuzSQmA,Cre-Asian,IN,South Bend,46637,162.0,4.0,1639 N Ironwood Dr,vietnamese chinese,41.697462,-86.216544
+7,RGaN7bMMyrpr4ZjPLdFdeg,Minooka Creamery,IL,Minooka,60447,46.0,4.0,111 E McEvilly Rd,icecream juicebars shavedice,41.448449,-88.260482
+14,Yv91B-pSB8c3fIUbhf7u9g,OMG PHO,IL,Shorewood,60404,71.0,4.0,201 Vertin Blvd,vietnamese,41.5401,-88.20089
+20,NClGZ2V0_TbvNf__yndxaw,The Healthy Spot Nutrition,IN,Indianapolis city (balance),46229,1.0,5.0,9377 East Washington St,juicebars bubbletea pancakes,39.773,-86.00268
+35,gOMV9f4tglZpIC_twCPWAw,Bento Cafe,IN,Fishers,46037,323.0,4.0,9778 E 116th St,sushi asianfusion,39.9591729882484,-85.9953169318022
+0,i5rye84eCHQ4awAfbNuPhA,Detroit Water Ice Factory,MI,Detroit,48226,168.0,4.5,1014 Woodward Ave,icecream shavedice popcorn,42.3327557541486,-83.0472662185945
+1,zb8l8-TWQLI523BxMXmiPw,Kona Ice,MI,Rochester Hills,48307,3.0,5.0,1790 S Livernois Rd,shavedice foodtrucks,42.655698,-83.153417
+2,hKcXLbL0KnjdpuMGA_yFLQ,Myomee Coffee & Dessert Cafe,MI,Southfield,48034,87.0,4.5,27566 Northwestern Hwy,coffee desserts,42.49183,-83.28243
+3,mK1VjL-cCXd1F6ozHoWU_A,Rita's,MI,Farmington Hills,48336,14.0,4.5,25836 Middlebelt Rd,desserts icecream shavedice,42.484059,-83.336928
+4,fEzYQ6M9VrEBovx7eGHt0g,Meet Fresh,MI,Madison Heights,48071,41.0,4.0,32701 John R Rd,desserts shavedice bubbletea,42.5319256,-83.10730889999999
+5,gGWKzTh7Yp72UWmej0XCsA,Sugar Marmalade,ON,Windsor,N9B 1J7,8.0,4.0,2020 Wyandotte St W,desserts,42.30645,-83.05945
+6,aEGFeBO_BdRZ3UAABlwwnA,Bubble Cream,MI,Shelby Township,48315,60.0,4.0,53201 Hayes Rd,burgers icecream bubbletea,42.68767,-82.97583
+7,-HXfaV_6SNgyS924yp4RZA,Detroit Water Ice Factory,MI,Bloomfield Hills,48301,7.0,4.0,7450 Franklin Rd,shavedice icecream popcorn,42.5301,-83.3058
+8,gi-Uz7gJxu9LjQ_7UGrQtw,Oakland Tea House,MI,Auburn Hills,48326,94.0,4.5,3081 E Walton Blvd,bubbletea juicebars taiwanese,42.6801717069717,-83.2281366567558
+9,UMppUmEOEwKriYnGBzcCDQ,Tou & Mai,MI,Detroit,48201,103.0,4.0,4240 Cass Ave,bubbletea icecream,42.3518200207707,-83.0638393259748
+10,zK-Tb5kuOPbtBFB_nS2k8A,BAMBU,MI,Madison Heights,48071,176.0,4.0,30804 John R Rd,vietnamese bubbletea juicebars,42.518821,-83.105963
+11,1PA7Fw38HKbk5UzmMDer3g,Harrison Township Nutrition,MI,Harrison Township,48045,4.0,4.0,35438 Jefferson Ave,juicebars shavedice icecream,42.55476,-82.85353
+12,Wp_EGDpkEzNgrnJkgWTBzQ,Mabel Gray,MI,Hazel Park,48030,498.0,4.5,23825 John R Rd,newamerican,42.46765,-83.10456
+13,LsxGezpNUL9r1BxrGKgjKQ,Edo Ramen House,MI,Royal Oak,48073,332.0,3.5,4313 13 Mile Rd,ramen poke asianfusion,42.5173744,-83.2020656
+14,jAQpGDYMxiu36NlT6jTR-Q,Daebak Korean Barbeque,MI,Southfield,48034,141.0,4.0,27566 Northwestern Hwy,korean bbq,42.49183,-83.28243
+15,SPBZVHrZkEHtpCOnuA0Ndw,Fuji Japanese Buffet,MI,Madison Heights,48071,419.0,3.0,32153 John R Rd,buffets chinese japanese,42.5303230831136,-83.1098801982304
+16,WA328N8-xTFd9Vw77oYIkQ,Prime29 Steakhouse,MI,West Bloomfield,48322,283.0,4.0,6545 Orchard Lake Rd,newamerican steak seafood,42.5428867134376,-83.3591792220459
+17,KLR_0REWsevv8WW7EpUWsA,Not Just Noodle,MI,Madison Heights,48071,117.0,4.5,32705 John R Rd,chinese noodles asianfusion,42.53211,-83.1070549
+18,72xbLJ08oqKf4lT4_GI6DQ,Tacos Morelotes,MI,Detroit,48209,1.0,4.0,1823-1865 Lansing St,shavedice streetvendors,42.3194389,-83.0986481
+0,gIZCoTU1YmAiyP_M04FKFQ,Lighthouse Cafe,MI,Algonac,48001,3.0,4.5,2410 Pointe Tremble Rd,bubbletea coffee,42.615838,-82.547003
+1,URZIdWZXrGvE1NKZVmU6WA,Kabachi Bubble Tea,MI,Shelby Township,48315,1.0,5.0,47053 Hayes Rd,bubbletea juicebars icecream,42.64219863552974,-82.9745975509286
+2,jJh95T9JfOSycwE2v3lQzA,Bubble Tea Parlour,MI,Grosse Pointe Woods,48236,13.0,4.5,21012 Mack Ave,bubbletea,42.448015,-82.905298
+3,dQQy2jsnB6vKL0FHB1MveQ,Boba Bear Craft Tea,MI,Macomb,48044,18.0,4.0,18349 Hall Rd,bubbletea,42.62926326681504,-82.93873908889688
+5,UpF5QWWr79JhsO2Tw3h-zg,New Age Noodles,MI,Mount Clemens,48043,143.0,4.5,143 N Main St,ramen noodles beer_and_wine,42.601151,-82.876101
+6,VmzuI0F3DaKCMKxUTTEmZQ,Bubbleology,MI,Clinton Township,48038,49.0,3.0,17420 Hall Rd,bubbletea waffles,42.625543,-82.945464
+7,wYGiyxNobrLFT-2PCl6ycQ,Pho LineUp,MI,Clinton Township,48035,178.0,4.5,36831 Garfield Rd,vietnamese,42.566318,-82.952048
+8,h6i7IMfaHw2KKRjzsdb7AA,Rice 'n Roll,MI,Saint Clair Shores,48081,54.0,4.0,27751 Harper Ave,filipino newamerican asianfusion,42.49692,-82.89797
+9,oX-hhVRwraOyThNUw7SYbw,Elaine's Bagels Hershey's Ice Cream,MI,Shelby Charter Township,48315,23.0,4.5,47053 Hayes Rd,icecream coffee bagels,42.642256,-82.974526
+10,K1-fo-xN-sXo9porqzmYVA,New Asian Star,MI,Clinton Township,48035,164.0,4.0,33415 Harper Ave,chinese vietnamese asianfusion,42.5407884680281,-82.8824299192169
+11,mC2w8lrdf6mB6E12SO_G9w,Sy Thai Shores,MI,Saint Clair Shores,48080,198.0,3.5,23519 Nine Mack Dr,thai,42.4661343,-82.8964576
+12,NcMmKE7113bTmP7oUw49nQ,Khom Fai: Thai Dining Experience,MI,Macomb Township,48044,413.0,4.5,48856 Romeo Plank Rd,thai cocktailbars,42.65669,-82.93707
+13,lTE_4BW_jVikuxmQZODkEQ,New China King,MI,New Baltimore,48047,38.0,3.5,34822 23 Mile Rd,chinese,42.6759628,-82.7587645
+14,i_L5YFyXFv2CnSdVC80ZpA,Masala Grill,MI,Sterling Heights,48313,17.0,3.0,14600 Lakeside Cir,indpak tradamerican mediterranean,42.6220487139987,-82.9876565991035
+8,fQWRA1Avwm3SQGLDouzmyQ,Mayberry - Davison,MI,Davison,48423,4.0,3.0,11184 Davison Rd,juicebars icecream shavedice,43.03434,-83.49139
+1,NgMSuSiCeS4O88VE1cGEjg,Teamension,MI,Auburn Hills,48326,33.0,4.5,4346 Baldwin Rd,bubbletea,42.703172,-83.29674
+2,y_cOd-DGtaEUBehTL3UaJw,Presotea,MI,Auburn Hills,48326,19.0,5.0,3039 E Walton Blvd,bubbletea,42.679336,-83.228819
+4,GvoT4hhtk49-_IIV0UFP5A,Cafe Nola,MI,Kimball,48074,6.0,4.5,5287 Lapeer Rd,coffee cafes breakfast_brunch,42.986019,-82.536384
+6,1ftF3L2VPpE0QX4AisuzAg,Zo's Bubble Tea,MI,Rochester,48307,8.0,4.0,1431 N Rochester Rd,bubbletea,42.69406167,-83.13517333
+7,ZsxorITveWtYhpIwuLm_dQ,Kung Fu Tea,MI,Rochester Hills,48309,39.0,4.0,1256 Walton Blvd,bubbletea coffee juicebars,42.68312,-83.1511
+8,QUvyHTNI3oSB1mYZdNunfg,Mains Treat Coffeehouse,MI,Romeo,48065,32.0,4.5,215 N Main St,coffee donuts bagels,42.799266064805,-83.0134560148592
+9,k7iunex3F5qS1J7hDEskLQ,SmooVee Fusion,MI,Utica,48317,4.0,5.0,49664 Van Dyke Ave,sandwiches juicebars bubbletea,42.65980419114692,-83.03320587069868
+10,sOoSW3QY-UmLDQGI9RcLvQ,"Harvester Coffee, Sweets & Eats",MI,Oxford,48371,3.0,5.0,150 S Washington St,coffee cafes juicebars,42.81872,-83.25887
+12,Eg_RmF_MZdmwV0yzKn4iCg,Sweet Island Yogurt,MI,Rochester,48307,53.0,2.5,402 S Main St,icecream juicebars bubbletea,42.6808655,-83.1337683
+13,s48http5iiu9AR8BiObEVw,Coolyo Frozen Yogurt,MI,Auburn Hills,48326,63.0,4.0,2602 N Squirrel Rd,icecream bubbletea creperies,42.6804127515423,-83.220217825084
+14,yoMnGEszrptChOCx0xvEqA,TKK Fried Chicken,MI,Rochester Hills,48309,21.0,4.0,1256 Walton Blvd,bubbletea chickenshop asianfusion,42.68312,-83.1511
+16,UxmVJ84eL8swGI2C8fZovQ,Pudthai & Sushi,MI,Rochester Hills,48307,137.0,4.0,2964 S Rochester Rd,thai japanese sushi,42.6366211,-83.1325866
+17,t1P9Y_pLZ_RAbLktwwdYtQ,iChillyn Café,MI,Rochester,48307,29.0,4.0,107 E 2nd St,desserts icecream coffee,42.6783559,-83.1334545
+0,hZzfwHY2mKtzku2iGu54Pg,Southern Shaved Ice,MI,Brighton,48114,12.0,5.0,6103 Grand River Rd,shavedice desserts catering,42.573923,-83.83138
+6,TrJ5t3z4IeGQI5x20UQouQ,Blossom Cafe & Bakery,MI,Rochester Hills,48307,207.0,4.5,248 E Auburn Rd,coffee bubbletea macarons,42.6355017371754,-83.1257982424505
+8,wUWe1KN6JNQO-EkvdjOvMg,Quickly Boba Cafe,MI,Auburn Hills,48326,37.0,4.5,3395 Auburn Rd,bubbletea juicebars waffles,42.6339139,-83.2209447
+10,6L--S3xnbwX64LEuQ42qkA,Yogurt Blast,MI,Waterford,48327,27.0,4.0,1533 N Williams Lake Rd,icecream bubbletea,42.659167,-83.443306
+13,QfghPT8b1qPFvIJmE6k6tg,The Pho Pot,MI,Waterford Township,48329,69.0,5.0,5673 Dixie Hwy,vietnamese,42.70047833,-83.40184167
+16,LngMUeF4-55LkRa0D6zGwA,Honcho,MI,Clarkston,48346,413.0,4.0,3 E Church St,latin coffee,42.735054954308,-83.4188073342184
+7,6bI31ExV1CGYoy4TGHonnQ,One Bowl Asian Cuisine,MI,Ann Arbor,48104,173.0,3.5,1220 S University Ave,vietnamese korean chinese,42.274783,-83.7333166
+8,v19u4Om7Nhk5CrIHA_RqTw,Sweeting,MI,Ann Arbor,48104,126.0,3.5,1205 S University Ave,desserts bubbletea,42.275191,-83.7338832
+9,iMplEd06RGmjBTR1LWqW0A,Kona Ice of Western Wayne County/Ann Arbor,MI,Canton,48188,1.0,4.0,,shavedice,42.2926445007324,-83.4745712280273
+14,wDQIgskhIMUZt61h1xhj4w,The Takeout Box,MI,Canton,48187,86.0,4.5,39958 Ford Rd,asianfusion,42.3239016550786,-83.4347385540605
+6,bCvzBQ7gZQGGCUBrvReWMQ,Kuma Boba,MI,Sterling Heights,48310,163.0,4.5,3594 15 Mile Rd,bubbletea coffee juicebars,42.5505638,-83.0711804
+7,oEFZatphqmwAmqg5PlPIYA,OneZo,MI,Troy,48084,46.0,5.0,1707 Crooks Rd,bubbletea coffee juicebars,42.5489716,-83.1670302386669
+10,cHSwUlrOWHp1dR3nNwZjfg,Kung Fu Tea,MI,Sterling Heights,48310,179.0,4.5,2105 15 Mile Rd,bubbletea coffee juicebars,42.550705,-83.0870038644347
+14,rGaY_KoJm_HmJCBE6wbHmg,Vivi Bubble Tea,MI,Troy,48083,40.0,4.5,2999 E Big Beaver Rd,bubbletea coffee juicebars,42.5647373,-83.0893552
+16,y3aRCcYQWFPNquY_P-Ve9g,Quickly Boba Cafe,MI,Troy,48083,107.0,4.0,3668 Rochester Rd,bubbletea coffee juicebars,42.57198467,-83.12746833
+20,2hPD9d4Jvo6RigDh2T5pMw,Bober Tea,MI,Troy,48083,3.0,5.0,856 E Big Beaver Rd,bubbletea coffee donuts,42.56249,-83.13117
+21,Vjs1C9UJxXs4HaNMwjm57w,Thai Tanic & -18 degrees F Tea House,MI,Utica,48317,57.0,4.5,11201 Hall Rd,vietnamese bubbletea thai,42.6263957,-83.0195318
+25,94fFoE5qb_vfZ63ZYCYHFQ,Cafe Immortelle - Espresso & Tea Bar,MI,Troy,48098,74.0,5.0,4979 Livernois Rd,coffee bubbletea sandwiches,42.59070133,-83.14953217
+26,VJ33AIw9kNTi8D3JOl5Gaw,Choco Mania Cafe,MI,Sterling Heights,48314,76.0,3.5,44621 Mound Rd,cafes juicebars desserts,42.6215515,-83.0558093
+27,_6PN0DeMY1dXaRaIRiod9w,Bober Tea,MI,Troy,48083,23.0,3.0,856 E Big Beaver Rd,bubbletea donuts,42.56277599492486,-83.131135071164
+31,A7Nkq4rYjsh5B4u55vcDvQ,Eat Well Cafe,MI,Sterling Heights,48313,63.0,4.5,44635 Schoenherr Rd,coffee cafes sandwiches,42.622813,-82.996082
+34,-DLjyMQgb8jMDPmnRMi5_w,Bangkok Station,MI,Sterling Heights,48312,33.0,4.0,37702 Van Dyke Ave,thai desserts bubbletea,42.5706282,-83.0279137
+39,-TeWnonuE4FHEmNXcOsCMA,Sy Thai,MI,Troy,48083,270.0,3.5,459 E Big Beaver Rd,thai,42.56322,-83.138733
+40,2FPNDGMzmVFKUM5H9B423w,Chung Ki Wa,MI,Sterling Heights,48310,255.0,4.0,2101 15 Mile Rd,korean bbq,42.55046,-83.0863
+4,YcP7PwILq3_H0LWbK2EKlw,TIGER SUGAR,MI,Madison Heights,48071,42.0,4.5,32211 John R Rd,bubbletea,42.52929,-83.10971
+12,Pei9rsEZyT4vym-qYn7F8g,Kung Fu Tea,MI,Bingham Farms,48025,20.0,4.5,30574 Telegraph Rd,coffee juicebars bubbletea,42.51311326460777,-83.28489450367731
+20,NpHD3U6dvWlRk6wXmWX4bA,Presotea,MI,Commerce Township,48390,18.0,4.5,4096 Haggerty Hwy,bubbletea desserts,42.576411,-83.4409937
+21,YCE5UhutxngOsFsgaDcj-g,Kung Fu Tea,MI,Novi,48377,63.0,4.0,44325 W 12 Mile Rd,bubbletea coffee juicebars,42.49139,-83.48492
+24,NAO9N9hKhaGVEURlr8a7gw,Goldfish Tea,MI,Royal Oak,48067,222.0,4.0,117 W 4th St,coffee bubbletea juicebars,42.487032,-83.1449233
+25,f4POeXzAkW5Z2pO-QYQyLQ,Ding Tea Detroit,MI,Madison Heights,48071,36.0,4.0,30569 Dequindre Rd,bubbletea,42.51749333,-83.087035
+26,MeoyqNcwljkF8Br02446CA,Eli Tea,MI,Birmingham,48009,133.0,4.0,108 S Old Woodward Ave,coffee bubbletea,42.54658651381,-83.2143252816398
+27,wlUK8Ae2b2kAdKIT1fDLhg,Moose Pastry & Tea,MI,Novi,48375,94.0,4.5,42130 Grand River Ave,bakeries cakeshop bubbletea,42.47816,-83.46298
+35,rQR7E-imJxO7y7UqkaoDrw,Pagos Ice Cream Rolls and Drinks,MI,Royal Oak,48067,89.0,4.5,623 S Washington Ave,desserts bubbletea icecream,42.4847558196,-83.146312202
+37,z3vDKVYaMulxqlg9Ss_wGQ,QQ Cafe & Bakery,MI,Madison Heights,48071,165.0,4.5,30941 Dequindre Rd,bakeries bubbletea cafes,42.5196707,-83.0863888
+41,XbdFMvEkr-3LlibYaB__3Q,Totally Tea,MI,Novi,48377,14.0,2.5,27500 Novi Rd,bubbletea coffee,42.492042,-83.469984
+43,JuBL8neNpYvIdTCYFVdIBg,Viet Boba,MI,West Bloomfield Township,48322,2.0,3.0,6331 Haggerty Rd,bubbletea coffee vietnamese,42.544348869690985,-83.4374308
+45,4TPMePxPkAbx8SHZQt2_EQ,Sizzle It Asian Bistro,MI,Novi,48377,123.0,4.0,31194 Novi Rd,panasian chinese,42.5247758,-83.4669351
+0,2oBM0yxI8VCX1vxzV18Klw,TKK Fried Chicken,MI,Bingham Farms,48025,5.0,2.0,30574 Telegraph Rd,asianfusion bubbletea chickenshop,42.5130884,-83.28489586876113
+2,aRLy9I3oGriub2GQggWLgw,Pho Vinh,MI,Farmington Hills,48334,165.0,4.0,27861 Orchard Lake Rd,vietnamese,42.4997362,-83.3588912
+5,q3QXDlBnYCOmkNQ_v5Lfww,Haang's Bistro,MI,Walled Lake,48390,133.0,4.5,225 E Walled Lake Dr,chinese thai,42.5319209,-83.4835049
+8,emflKdqErIAbqsEOMnDpDA,Detroit Pho & Crab,MI,Warren,48091,251.0,3.5,26680 Dequindre Rd,vietnamese bars seafood,42.48839,-83.08444
+11,MJuQqX3KC1rvnpptMiaVxA,Poke Poke - Sushi Unrolled,MI,Southfield,48076,132.0,4.5,26579 Evergreen Rd,sushi poke,42.4842603655197,-83.2417132048871
+12,Vle_qfBb8Kj-TDkuNgcK-A,Novi Siam Spicy,MI,Novi,48377,129.0,3.5,43436 W Oaks Dr,thai,42.494675,-83.477347
+13,sDFEFc_M3rIyPTVzQXe0gg,Spicy Bangkok,MI,Commerce Township,48390,122.0,3.5,40270 14 Mile Rd,thai,42.527914,-83.44368
+22,v8PJAsi7Vil2g_A-6kFABw,Noodle Topia - Madison Heights,MI,Madison Heights,48071,282.0,4.0,30120-30140 John R Rd,noodles szechuan,42.5134532,-83.1057058
+23,lHZhbZSLfyACTGzXueMoag,Lao Pot,MI,Madison Heights,48071,113.0,4.0,32707 John R Rd,hotpot juicebars seafood,42.5321129,-83.10737
+24,Icsr0pRHfGtECsdZDz1-pw,Satay House,MI,Madison Heights,48071,236.0,4.0,31101 Dequindre Rd,thai malaysian singaporean,42.5210934807895,-83.0867022159385
+25,xY-kykMyS_o7tynebDryGg,Thang Long Thai & Vietnamese Restaurant,MI,Madison Heights,48071,240.0,4.0,27641 John R Rd,vietnamese thai,42.4950688,-83.1056387
+26,0YMiirK-kYB9_05wYPaVeQ,Que Huong Restaurant,MI,Madison Heights,48071,442.0,4.5,30820 John R Rd,vietnamese noodles soup,42.51906937700751,-83.10604962883643
+28,0PZsWjcqjn3jgYtZkyvigA,Quan Ngon Vietnamese Bistro,MI,Madison Heights,48071,127.0,4.0,30701 Dequindre Rd,vietnamese,42.5176561,-83.0863094
+29,SeATZs9ivVVuGMa0CspBxg,Edamame Sushi,MI,Madison Heights,48071,222.0,4.0,31632 John R Rd,sushi asianfusion filipino,42.526587,-83.105622
+30,-NibSoehXmO2Tdn32LBb4Q,Samurai Steakhouse,MI,West Bloomfield,48322,99.0,2.5,7390 Haggerty Rd,japanese sushi steak,42.5284495124693,-83.4371170031839
+31,V-LDytKbNYTNqfWEdS7PEg,Pho Tai Restaurant,MI,Madison Heights,48071,201.0,4.0,30577 Dequindre Rd,thai vietnamese,42.5171786117779,-83.086610622704
+0,ooPycci8he_TJcbG-wkU4w,Bubble Bee Tea,MI,Grand Blanc,48439,19.0,4.5,130 Perry Rd,bubbletea,42.92395,-83.6243
+8,SfI-R2AlTLLhHx7fykiTDw,Tea-rific Cafe,MI,Davison,48423,3.0,4.5,715 N State Rd,bakeries bubbletea juicebars,43.03683,-83.51844
+9,cBTDnTgIQ4y3TVcyaFOSaw,Detroit Bubble Tea,MI,Ferndale,48220,205.0,4.0,22821 Woodward Ave,coffee bubbletea juicebars,42.4607064574957,-83.1350053846836
+18,RXTPfof9FwrFkNZaAOHbCw,Pasty Haus,MI,Frankenmuth,48734,39.0,3.5,925 S Main St,icecream bubbletea bakeries,43.3238258,-83.7399325
+25,pek7Vv_5tCicmCCsj5qClA,Ding Tea - Novi,MI,Novi,48375,49.0,4.0,39799 Grand River Ave,coffee bubbletea,42.47154417,-83.43769783
+26,epRxOrQ3Iajq6PULPEwxvg,Tea Gather,MI,Northville,48167,26.0,5.0,135 E Cady St,bubbletea coffee juicebars,42.43052,-83.48159
+28,A9nOkfsPMlOTJQR1wQGRgQ,Quickly Boba Cafe - Ferndale,MI,Ferndale,48220,9.0,4.0,327 W Nine Mile Rd,bubbletea cafes,42.46026141009519,-83.13863069854914
+29,NmHgEautylmXDadmHo7BNg,Cafe Rhema,MI,Flint,48502,110.0,4.5,432 S Saginaw St,coffee venues cafes,43.0163112114321,-83.6912523649387
+4,sLhucP4PWysHyK8mfFY8fw,Wang's Bistro,MI,Frankenmuth,48734,65.0,3.5,207 N Main St,sushi chinese japanese,43.3369648427378,-83.7381081765884
+16,zz_bfyarV2X9WRBehTkVvw,Thai Kitchen,MI,Farmington,48336,62.0,4.0,32734 Grand River Ave,thai,42.463051,-83.370539
+17,REvt-2xFfsLk1URIvghPYg,Thai Fresh,MI,Northville,48167,205.0,3.5,20460 Haggerty Rd,thai,42.4371489,-83.4354018
+19,b9Ob9f8haKNnSwEW_bckHg,The Krazy Crab,MI,Farmington,48336,13.0,3.0,32821 Grand River Ave,seafood juicebars cocktailbars,42.46266318507823,-83.3717184
+20,IHJJRx8QWCS-Q7uz25ySvQ,Got Pho,MI,Ferndale,48220,58.0,4.5,172 W Nine Mile,thai vietnamese asianfusion,42.460826,-83.1358961
+38,FpacF5slIRFGsu3RVNazvg,Samurai Steakhouse,MI,Farmington Hills,48336,17.0,3.0,32821 Grand River Ave,japanese,42.46256,-83.37153
+40,aaqjqVk3ech_8wUOhbzcvQ,Java Hutt,MI,Ferndale,48220,92.0,3.5,165 W 9 Mile Rd,coffee breakfast_brunch sandwiches,42.4604492,-83.1358109
+46,rjtK6VzGQZFWrRXfbgdckg,Yori sushi,MI,Novi,48377,43.0,4.0,30650 Beck Rd,japanese sushi korean,42.5196913,-83.5171651
+47,2m50PuHXljOZRcz0btsggg,Steady Eddy's Cafe,MI,Flint,48502,27.0,4.5,300 E First St,coffee breakfast_brunch,43.0170587,-83.687781
+22,JvolfqwcN7PC4CVQGssGCg,Poke Poke - Sushi Unrolled,MI,Detroit,48201,65.0,4.0,4501 Woodward Ave,poke sushi,42.353415,-83.062455
+28,sie4rg_pzd1Mc-CP0Ni-fg,Z's Bubble Tea,MI,Dearborn Heights,48127,43.0,4.0,22000 Ford Rd,bubbletea macarons icecream,42.32752,-83.25326
+31,hDgMlrRqFI4_u54x3NQR0g,Bubbleology,MI,Dearborn,48124,18.0,3.5,22259 Michigan Ave,bubbletea,42.304859,-83.2491563
+34,cZhlNU5yA2gV39xI5hulwA,Bubble Tea Express,ON,Windsor,N9A 4J1,8.0,3.5,359 Ouellette Avenue,coffee,42.31657,-83.03878
+37,JfJfktbgk4IsHL4divBxrA,Yogurtown Cafe,MI,Wyandotte,48192,1.0,5.0,2958 Biddle Ave,icecream coffee bubbletea,42.203543,-83.149525
+39,y_XgEFFNxEf6gduPj4LrgA,Poke Doo,MI,Garden City,48135,6.0,5.0,2051 Middlebelt Rd,poke bubbletea,42.32403,-83.33148
+40,3K3OZKjoNTptf88aTLcMgA,BAMBU,MI,Dearborn Heights,48127,14.0,4.5,24676 Ford Rd,bubbletea juicebars vietnamese,42.327113,-83.279448
+42,ueCpRL9ZphsqWwE5GQZYpA,Presotea,ON,Windsor,N9B 1K1,14.0,4.0,2195 Wyandotte St W,bubbletea,42.30555,-83.06071
+44,7yVO0oQTRYg82D8cw4MnOg,Boba Bar,MI,Detroit,48201,2.0,2.0,4501 Woodward Ave,bubbletea,42.353593,-83.062648
+45,Gkrb-pJnCUPD5xTwmiN7PA,Yophoria Froyo & More,ON,Windsor,N9H 1S7,1.0,5.0,5975 Malden Road,icecream bubbletea juicebars,42.2443847263,-83.0621333639
+49,TB2yXJlEJyx22UTUqLMaYg,Chatime,ON,Windsor,N8X 5E7,2.0,4.0,650 Division Road,bubbletea,42.2696082,-82.9975268
+0,cVqtIOgBM7NPuK0IQGloaQ,Flowers of Vietnam,MI,Detroit,48209,228.0,4.0,4440 W Vernor Hwy,vietnamese,42.32025,-83.096543
+2,9s_hOPk__FHZ7byWKPhizg,CITY TEA BOBA,MI,Garden City,48135,7.0,4.0,861 Inkster Rd,bubbletea juicebars,42.3166819,-83.3112293
+3,tRu8ebT5VCFK_P4BaCB4MA,Fresh Bean Coffee,MI,Southgate,48195,20.0,4.5,18855 Eureka Rd,coffee,42.19836,-83.224658
+4,OixEmhb_q-VWvkHp4DIz2Q,Boba Bar,MI,Dearborn,48124,1.0,5.0,21931 Michigan Ave,bubbletea,42.306064,-83.243541
+11,8Z9E7Ag3F36FO_dT_095JA,BB's Smoothies & Wraps,MI,Taylor,48180,2.0,3.0,23000 Eureka Rd,juicebars bubbletea icecream,42.200443,-83.254386
+15,X53kpYCAvFRLIVDgSGpv1w,La Gelati,MI,Dearborn Heights,48127,57.0,4.5,25442 Ford Rd,desserts gelato waffles,42.32697,-83.28786
+16,YzaGq6tIR4pGdc7BGPh78w,Bangkok 96 Street Food,MI,Detroit,48201,112.0,4.5,474 Peterboro St,asianfusion thai foodstands,42.34422,-83.06156
+17,CEEMOAb23oemjDpNEiGStw,Midtown Shangri-La,MI,Detroit,48201,263.0,3.5,4710 Cass Ave,dimsum sushi,42.3539857,-83.0653095
+18,hgO_IOLjvPKp01VsKP1THg,Cafe Teaory,ON,Windsor,N9B 1J8,4.0,5.0,2065 Wyandotte Street W,bubbletea icecream coffee,42.30592,-83.05952
+20,NhkUMPzpL8S6a0kiL5hTnw,Tea Station,ON,Windsor,N9B 1J8,2.0,5.0,2017 Wyandotte Street W,bubbletea hotdogs taiwanese,42.3061415,-83.0592214
+21,X6l6TnP_mqSVNRFfQ6OYxw,Bamboo Garden Restaurant,MI,Westland,48186,67.0,4.0,124 S Merriman Rd,chinese sushi seafood,42.310146662715745,-83.35200524317182
+22,sYI0hCpHX4TQkbgSKG9LzQ,PhoHouse TAYLOR,MI,Taylor,48180,64.0,3.5,23370 Eureka Rd,vietnamese noodles ramen,42.1984754,-83.2592101
+23,4nevXgYvLRn_dNCwfUEDQA,Jee's Top 5 Thai Food,MI,Wyandotte,48192,119.0,4.5,3391 Fort St,thai,42.1982312464154,-83.1798202791076
+25,VLFbfVx0MJ9TfGZ1xPNxBA,What The Pho,MI,Livonia,48150,256.0,4.0,27524 Plymouth Rd,vietnamese,42.3699203088543,-83.314937017858
+26,i39_anIKX8XnmW24leGSSA,Poke Poke - Sushi Unrolled dearborn,MI,Dearborn,48124,30.0,4.5,21931 Michigan Ave,poke sushi,42.306191,-83.2434494
+29,CRldz-NJAQuxajiB1iUwWQ,Yum Yum Express,MI,Lincoln Park,48146,78.0,3.0,1512 Southfield Rd,thai chinese,42.25204,-83.18181
+31,hiycv628sqdJGgJbIoiy9g,Go! Sy Thai,MI,Detroit,48201,344.0,3.5,4240 Cass Ave,thai,42.3515228901568,-83.0637845178604
+33,XSB84kfbthzlNLbofFYXkg,Hop Sheing Noodle House,MI,Lincoln Park,48146,106.0,3.5,4232 Fort St,noodles bubbletea soup,42.221502,-83.181704
+35,G1DSdyFv5GPt_-GylnM9xA,Spicy Bangkok Cafe,MI,Allen Park,48101,28.0,4.5,23117  Outer Dr,thai,42.2795646823738,-83.2122235000133
+40,Gt-84wERAxgvDB8A4FJprQ,Q-Tea Asian Food & Bubble Tea,ON,Windsor,N9C 1A9,6.0,3.0,3211 Sandwich Street,bubbletea asianfusion,42.3015094,-83.0757284
+43,CSy3DjYLVoSzMVdz7KMosA,Shawarma Lounge,MI,Southgate,48195,5.0,4.5,13501 Allen Rd,mideastern arabian falafel,42.21022,-83.22867
+48,sMO0ppXXZG5vk2Y21v7KLw,The Terry Melt,MI,Dearborn Heights,48127,49.0,3.5,22000 Ford Rd,sandwiches,42.32752,-83.25326
+6,J0ngl_R1bdpHi-44olMtqw,Pho Lucky,MI,Redford Charter Township,48239,252.0,4.5,23838 Joy Rd,vietnamese gluten_free,42.3571587,-83.2733994
+7,bx2nXydRCWI3LaQt_C2l7w,Cameo Restaurant,MI,Lincoln Park,48146,30.0,3.5,4101 Dix Hwy,newamerican,42.2234116,-83.1937332
+21,eY6Od9_L3-8c4FzQAB74FQ,Unicorns Are Real,ON,Grand Bend,N0M 1T0,1.0,5.0,63 Main St W,icecream bubbletea juicebars,43.31446030111212,-81.76150330708593
+24,pA8qeKTtM5NpIb0-4LMzuA,Ginger Deli,MI,Ann Arbor,48104,154.0,4.0,203 E Liberty St,delis sandwiches vietnamese,42.2793085395298,-83.7438063
+0,pR0NEywBHUY2yGSSvCJDTA,Boba Tea House,MI,Ann Arbor,48103,7.0,4.0,3780 Jackson Rd,bubbletea coffee juicebars,42.2856,-83.80498
+1,8E1nTNBmYDShoFmt-ZbK0w,Ding Tea,MI,Ann Arbor,48104,42.0,4.0,607 E William,bubbletea,42.2779964,-83.741632
+2,V4gPB3aTUoqtFMlPcj8Fdg,Chatime,MI,Ann Arbor,48104,90.0,4.0,340 Maynard St,bubbletea,42.27807,-83.74241
+3,ReQWilpGeqwVaGzGmGo-mg,UniTea,MI,Ann Arbor,48104,19.0,4.5,522 E William St,bubbletea icecream coffee,42.27764,-83.74224
+4,CXfKQrY0y7wZBfhiLjCi4g,Dalat,MI,Ann Arbor,48103,86.0,4.0,2216 S Main St,asianfusion vietnamese,42.25269,-83.75121
+5,Elu_0UIDuH-GJcGOp_Z8qQ,Tea Ninja,MI,Ann Arbor,48104,48.0,4.0,535 E Liberty St,bubbletea desserts coffee,42.279492,-83.742054
+6,1m4ftmR0tbD3cY9w0L4cBw,Momo Sushi,MI,Ann Arbor,48103,164.0,4.5,895 W Eisenhower Pkwy,japanese sushi,42.24519215121,-83.7582424655557
+7,YJXWUCaO1wl3cqG6H-5e9w,TK Wu,MI,Ann Arbor,48104,242.0,3.5,510 E Liberty St,chinese,42.279125213623,-83.7425155639648
+8,8ibyZ3pQ9K2fPkm3olRLsw,V Kitchen Vietnamese Cuisine,MI,Ann Arbor,48103,246.0,4.0,883 W Eisenhower Pkwy,vietnamese noodles sandwiches,42.244869132949866,-83.75888770649134
+9,v1COowypRcErB4xlr8NQkw,Sweeting,MI,Ann Arbor,48108,4.0,3.5,854 Briarwood Cir,bubbletea desserts,42.240504,-83.745279
+10,oZFoTjiL78EB306hi6VfaA,Asian Legend,MI,Ann Arbor,48113,185.0,3.0,516 E William,taiwanese szechuan,42.2776831,-83.7423144
+11,KoGQMYU8xiSjwGh4V9PBVQ,Godaiko Japanese Restaurant,MI,Ann Arbor,48103,160.0,3.0,3115 Oak Valley Dr,japanese sushi,42.242396,-83.769698
+12,LsILevbq-MfE4HO8o9KunQ,Tianchu Restaurant,MI,Ann Arbor,48104,159.0,2.0,613 E William St,korean chinese,42.2779731750488,-83.7411651611328
+13,wdFyiQJ2Hegy6F4JK5aifg,Surf City Squeeze,MI,Ann Arbor,48108,4.0,1.5,334 Briarwood Cir,juicebars,42.239646,-83.747298
+14,oVVSiUStuXVFXXIkNtvY5w,Wolverine Sushi Bar,MI,Ann Arbor,48104,36.0,3.0,413 E Huron St,sushi,42.281524,-83.743259
+1,ChKoROerfAG4Xc_L-Jmz6A,Sharetea,MI,Ann Arbor,48104,31.0,4.5,310 S State St,coffee bubbletea,42.278934,-83.741135
+3,rt0WQ7dDwG0OnKAFusv8Wg,CoCo Fresh Tea & Juice - Ann Arbor,MI,Ann Arbor,48105,92.0,4.5,1731 Plymouth Rd,bubbletea juicebars,42.2986468817554,-83.721387825817
+4,yw9uTI4fTT8Vqj0dMoalkw,Quickly - Ann Arbor,MI,Ann Arbor,48326,33.0,4.5,1220 S University Ave,bubbletea juicebars cafes,42.27477,-83.73343
+8,liu31let08JB-lUzPSM7fA,Bambu,MI,Ann Arbor,48104,12.0,5.0,3354 Washtenaw Ave,bubbletea juicebars coffee,42.255501237345726,-83.69342449999999
+9,KdNI-M4RyXVBzy_s2iDdjA,Moge Tee,MI,Ann Arbor,48105,12.0,4.0,2603 Plymouth Rd,tea bubbletea,42.30262,-83.70933
+13,jKBT39NYzac7Yr4LeT8SYA,Yee Siang Dumplings,MI,Ann Arbor,48108,441.0,4.0,4837 Washtenaw Ave,chinese noodles,42.25103,-83.664197
+15,-dqs12b9EeH_-1ihaE3bpw,Lan City Noodles,MI,Ypsilanti,48197,376.0,4.0,2612 Washtenaw Ave,noodles chinese singaporean,42.2495183,-83.6527657
+17,v67PS7vxT5nFxe9tQ8mJyg,Lan City Noodle Bar,MI,Ann Arbor,48104,17.0,4.0,1235 S University Ave,noodles chinese bubbletea,42.27526503799302,-83.7333086990338
+18,LMw3vcUGCcbqdb-AVx7saQ,Vanilla Bean Cafe,MI,Ypsilanti,48197,3.0,2.5,2227 Ellsworth Rd,icecream creperies bubbletea,42.2304451,-83.6445998
+22,Cs4xEd7MKKlYK4vjM8rV-Q,Evergreen Restaurant,MI,Ann Arbor,48105,272.0,3.5,2771 Plymouth Rd,chinese,42.30375,-83.705875
+23,It5COGIQQivWM-Z9xfZFmQ,Pho House,MI,Ypsilanti,48197,246.0,3.5,2224 Washtenaw Rd,vietnamese,42.249049,-83.648394
+24,Y1UGTOC2xpNWKKMbjw2lMg,Nagomi Sushi & Noodle,MI,Ann Arbor,48105,192.0,3.0,1754 Plymouth Rd,sushi noodles,42.298002331671,-83.722936532715
+25,bVzPMxu6QtCMfSA6OY-F7w,China Palace,MI,Ypsilanti,48197,58.0,3.5,2905 Washtenaw Ave,buffets dimsum,42.249354019058,-83.6573679372668
+0,iOF6UQ3npa9cUMiHNJHrnQ,BAMBU,MI,Canton,48187,57.0,4.5,45152 Ford Rd,juicebars bubbletea vietnamese,42.322771,-83.485632
+1,tU3kFRGcYT2QmEeEFQIkwQ,Z's Bubble Tea,MI,Plymouth,48170,13.0,4.5,575 Forest Ave,bubbletea icecream coffee,42.36848353473775,-83.47030182147667
+2,I9bXbEyDz9cT9cwu1rtt9A,Aroma Creperie & Cafe,MI,Westland,48185,11.0,4.5,6629 N Wayne Rd,bubbletea cafes creperies,42.3331952,-83.3860291
+4,T208-yl-OdUFFJgFCy8S3A,Ding Tea Canton,MI,Canton,48187,42.0,4.0,42743 Ford Rd,bubbletea,42.32136747807386,-83.4628004117289
+14,YjIaVSbOpXk5wV2KpRawIQ,Bubbleberry,MI,Livonia,48152,74.0,3.5,37614 W 6 Mile Rd,coffee creperies desserts newamerican,42.411528,-83.415502
+16,uyTVtHxUsNoJRrnTtVOE6A,Crepe Escape,MI,Canton,48187,4.0,5.0,145 N Haggerty Rd,creperies icecream bubbletea,42.3088083,-83.4484249
+24,8xCUekEEc-PKoa4FkUqO9Q,Kung Fu Tea,MI,Canton,48187,22.0,2.0,45470 Ford Rd,bubbletea coffee juicebars,42.322563,-83.488529
+33,zIUKs_LxG1XLFV9gbpRRXQ,Canton BubbleT,MI,Canton,48187,7.0,3.5,43347 Joy Rd,bubbletea,42.34988469627503,-83.46752656535158
+37,fbDbeA1E3YmpSxdGnFSDow,K-BBQ,MI,Canton,48187,80.0,4.5,5758 N Canton Ctr Rd,korean bbq chicken_wings,42.32385,-83.48733
+39,ORcl1LlDAIOpxkPmSPdtYQ,Thai Ocha,MI,Plymouth,48170,361.0,4.0,200 S Main St,thai,42.37242,-83.4681
+44,cjik70L-AZtH7cwcxeRYyg,Bangkok Flavor 2,MI,Canton,48187,126.0,4.0,42480 Cherry Hill Rd,thai,42.3080669044912,-83.4589649364352
+45,cdjLSS4Gi9BVgwFEI0X_oA,Cool Beanz Coffee,MI,Dundee,48131,23.0,4.0,112 Park Pl,coffee bubbletea,41.95711,-83.66097
+48,glcP8iuoRD5IeBFiN_8SHA,Ume Asian Cuisine,MI,Grosse Ile Township,48138,37.0,4.5,9105 Macomb St,sushi asianfusion bubbletea,42.130219,-83.15813
+4,u2Zd0Thd90hmV9OIj7iTZw,AhHa Noodles,MI,Livonia,48152,93.0,4.5,37700 6 Mile Rd,noodles chinese,42.414820448429,-83.4164140398723
+13,EPtbtBg7VQWIdJjy7SqTBg,Thai Basil,MI,Plymouth,48170,36.0,3.5,983 W Ann Arbor Trl,sushi thai vegetarian,42.3699842,-83.4715222
+14,fx1Aw4jIy8kGxbzJssQcog,Joe and Rosie's Coffee & Tea,MI,Dexter,48130,54.0,4.0,8074 Main St,sandwiches coffee,42.3382462,-83.8884287
+15,AeRBHFmoE41rKHtjEllXLQ,Siam Plus,MI,Westland,48185,84.0,4.0,8601 N Wayne Rd,thai,42.3507752,-83.3860063
+22,GEyIXeBKrWjRDm_1goPA0Q,Golden Chopsticks,MI,Westland,48185,96.0,3.5,1989 Wayne Rd,chinese sushi,42.3229286760233,-83.3898603450837
+3,7EV2PzqKt_tyTbLzN7AJPA,Whey Better Cookie,MI,Brighton,48116,1.0,5.0,711 W Grand River,bakeries desserts juicebars,42.53520993514963,-83.78398065585723
+5,pVMpxZFvpmAFPnKXCyWyUQ,Great China,MI,Brighton,48116,30.0,3.0,5757 Whitmore Lake Rd,chinese,42.5195922851562,-83.7583694458008
+12,OB2fbLZFcgYdJyytTT-Rtw,The Purple Penguin,MI,Lambertville,48144,7.0,4.5,7300 Secor Rd,juicebars bubbletea icecream,41.746393,-83.623826
+10,fmah3edBhv4SrCHuamnVZw,Roy's Dixie Delight,MI,Erie,48133,4.0,4.5,10916 S Dixie Hwy,burgers icecream pizza,41.817345,-83.483206
+18,KIdR05wQGpKWcQ89wkhLIg,Dacapo Coffee,MI,Temperance,48182,43.0,4.5,7370 Lewis Ave,coffee bakeries,41.7500727,-83.5671503
+6,vBNWEG1sct6mmFc3mllwPA,Boiling Pots,MI,East Lansing,48823,78.0,4.0,2650 E Grand River Ave,chinese hotpot taiwanese,42.72623,-84.44801
+2,jK-tUjFk6bocdzNKt4odDg,The Sundae Station,OH,Bowling Green,43402,12.0,4.5,1240 W Wooster St,icecream sandwiches shavedice,41.37289,-83.6743
+5,2roPz-9b0Qh8k4HKu0TIJQ,Drown's Dairy,OH,Oak Harbor,43449,2.0,3.5,114 E Water St,streetvendors shavedice icecream,41.5079613,-83.1444473
+12,kaYsAuT0jw6yd7DRBk7e5A,R&B Bubble Tea and Poke Bowl,OH,Toledo,43607,31.0,4.0,3402 Dorr St,karaoke bubbletea poke,41.65332,-83.62434
+14,EZQJffBkV1r7NcT6OmtrLg,Krazy Philly’s & Mustache Mike’s,OH,Toledo,43607,5.0,3.0,1122 N Byrne Rd,shavedice cheesesteaks,41.65159,-83.62553
+2,7iPwS5_CVK4DX605R4ZxKQ,Kung Fu Tea,OH,Toledo,43623,7.0,4.0,4038 Talmadge Rd,bubbletea coffee juicebars,41.69227046398422,-83.64401150402098
+3,Pa8JA_5mT_tg03uPE5_Emg,Bubblz Bubble Tea & more,MI,Blissfield,49228,4.0,4.5,417 E Adrian St,bubbletea icecream juicebars,41.8296043,-83.8535356
+4,Mf0a6OyBKcz82V15sW4XIw,Poke Yogurt,OH,Toledo,43606,10.0,4.5,3550 Executive Pkwy,bubbletea icecream,41.68235,-83.6244
+5,lByOWfVZSET7Z1EZY9B9OQ,Numazu Delights,MI,Adrian,49221,4.0,5.0,410 E Maumee St,japanese sushi,41.89672638425715,-84.0304170822088
+11,RpM0G1xwO3MAhd8xgyg4nA,Balance Pan-Asian Grille,OH,Toledo,43615,123.0,3.5,5860 W Central Ave,panasian tacos,41.6764918340607,-83.6825501281237
+12,QBx33Hbzj_lQ2w81GU2c_g,Kay's Table,OH,Sylvania,43560,20.0,4.5,6600 Sylvania Ave,vietnamese,41.69057,-83.70246
+14,JPNUUvZK1fInp3oM-Kqsxg,Pho Viet Nam,OH,Toledo,43613,155.0,4.0,3636 Upton Ave,vietnamese soup,41.68639,-83.58902
+16,7IKD1UVqR4DkWvMVUw6FNA,Totally Tea,OH,Toledo,43623,2.0,1.5,5001 Monroe St,bubbletea,41.69457765975056,-83.64014047790927
+18,_P5kOMYRQwW7DB_hAdOAJQ,Tropical Grill,OH,Toledo,43623,6.0,3.5,5001 Monroe St,newamerican,41.693412,-83.640408
+9,P4BF73tXBpRLdk9TqJMXQg,Kona Ice of Sandusky,OH,Castalia,44824,1.0,4.0,,shavedice foodtrucks,41.39988,-82.80846
+12,0IS9ptTWVONNXf4QMa5eGw,The Original Margaritaville,OH,Sandusky,44870,106.0,3.0,212 Fremont Ave,desserts cocktailbars bbq,41.4449417135534,-82.7706030904669
+4,_7kbsuJJv2LuBX49Po72lg,Balance Pan-Asian Grille,OH,Perrysburg,43551,38.0,4.0,26520 N Dixie Hwy,panasian,41.5371551513672,-83.6346282958984
+8,2OCyIESpueqk1kd10bxl6w,Lola's,OH,Perrysburg,43551,29.0,4.0,26597 Dixie Hwy,icecream bubbletea,41.537519,-83.637384
+9,3dVS8JL498zlUYVXuYBVvA,Rice Blvd,OH,Toledo,43607,142.0,4.5,1440 Secor Rd,sushi japanese,41.65394,-83.62146
+12,I7qdtosMDG81ST8fuMceRA,Shokudo Kitchen,OH,Perrysburg,43551,22.0,4.0,27072 Carronade Dr,asianfusion bubbletea gluten_free,41.5442752341495,-83.59910534928116
+13,j07T-6J0EJcmSsjKcglDFA,Osaka Sushi,OH,Oregon,43616,41.0,3.5,3150 Navarre Ave,sushi japanese,41.6363110136539,-83.4734327426234
+17,oWExdAJac4r0K0uKuGiLNQ,Balance Pan-Asian Grille,OH,Toledo,43604,19.0,4.5,215 N Summit St,asianfusion panasian,41.64989,-83.53492
+19,7b8-iE7oBK7mLKgVU7IDFA,Yala Kol Express - Rossford,OH,Perrysburg,43551,39.0,4.5,27151 Crossroads Pkwy,mediterranean juicebars tradamerican,41.5460652391652,-83.5853495353486
+0,HNLjmPju-u4dvnRACcKZQg,Koala Tea & Coffee,MI,East Lansing,48823,1.0,5.0,223 Mac Ave,bubbletea coffee,42.73526,-84.48154
+1,dqlEI0RKsmSCIBXWKUIqEg,Koi Tea,MI,Okemos,48864,8.0,5.0,2160 W Grand River Rd,bubbletea juicebars tea,42.72286,-84.42935
+4,-_O-4kylkS-7fc5fCHvhwQ,Moge Tee,MI,East Lansing,48823,21.0,4.5,515 E Grand River Ave,bubbletea,42.73392,-84.47783
+7,0VuUb6uOXzB8-WndHXdsYg,Koala Bakery & Cafe,MI,East Lansing,48823,53.0,4.0,2843 E Grand River Ave,bubbletea bakeries cafes,42.72711,-84.45595
+9,B0AeV1HYLgSmbphUHGg0_w,MoMo Tea,MI,East Lansing,48823,25.0,4.5,4790 S Hagadorn Rd,bubbletea,42.719886,-84.459517
+13,Jrh5Ydsa84QUURvci4Z-0A,Tea Chat,MI,Okemos,48864,9.0,4.0,1982 W Grand River Ave,bubbletea coffee juicebars,42.725779,-84.418471
+17,E1xg1Iu84Cwn6kCElHE7nA,Unicha Tea And Ice Cream,MI,East Lansing,48823,45.0,3.5,111 Division St,bubbletea icecream juicebars,42.7341185,-84.4786914
+20,aQr-rYsV1dkB0wB2OHC9YA,Hong's Cafe,MI,East Lansing,48823,17.0,4.0,3030 E Lake Lansing Rd,bubbletea chinese,42.757143,-84.4640809
+46,cUwB5F8cFmms5SBZV4GgFA,CoCoMo Bubble Tea,MI,Flint,48507,3.0,2.5,3283 S Linden Rd,bubbletea desserts juicebars,42.980885,-83.769534
+12,mr-bhHW0M1DIQaC-fGHyEA,YoWay Frozen Yogurt & Donuts,MI,Durand,48429,1.0,5.0,107 N Saginaw St,icecream bubbletea,42.911159,-83.984796
+2,ob7HP9XVJDZuWZuPpS4W5A,Emma's Coffee House,MI,Bad Axe,48413,13.0,4.5,123 N Port Crescent,coffee,43.80285,-83.00117
+4,eay43JrzqaxtID5zJaKm2Q,Cei's Teas,MI,Bay City,48706,2.0,3.0,3900 State St Rd,desserts coffee bubbletea,43.6278501,-83.89633769999999
+37,2wrrIt5N8WbjMfGH8F0E7Q,Sushi Remix,MI,Bay City,48708,19.0,4.0,152 Uptown Dr,sushi poke bubbletea,43.5903321,-83.893167
+2,QkANuQb7JxwNMvErhTJv7w,Diversion Tea House,MI,East Tawas,48730,6.0,4.5,129 Newman St,bubbletea tea,44.2794611,-83.4902519
+3,5CZ_nZN9vM0UJLsnUVSZEw,The Tea House,MI,East Tawas,48730,14.0,3.0,129 Newman St,bubbletea tea,44.2805655129083,-83.4909261736107
+4,wYPihcRpMkhyPo1EPWTtsA,Cafe 476,MI,Saginaw,48638,1.0,5.0,6235 Gratiot Rd,coffee bubbletea juicebars,43.414591501892424,-84.0394173
+4,8MvuHO3j8Nepi5km-1vEAA,Sunrise Kava Cafe,MI,Oscoda Township,48750,32.0,4.5,120 E River Rd,cafes coffee bakeries,44.4201779206719,-83.3287092332259
+3,w5QjYp96J5YfeLLWS8DlTw,Grove Tea Lounge,MI,Midland,48642,17.0,5.0,2405 Abbott Rd,bubbletea cafes coffee,43.61972,-84.19803
+6,KwlGp880Ti72dWH74iqDWQ,Basil Thai Bistro,MI,Midland,48640,139.0,3.5,416 E Ellsworth St,thai,43.6124919,-84.2412802
+0,6DK_36PWQLbuvLmsmfMhqg,Java Junction,MI,West Branch,48661,13.0,4.5,2990 Cook Rd,coffee vegetarian newamerican,44.2486113,-84.2256149
+2,NzsrWQB1V--9w9eSiFo0WQ,Taichi Bubble Tea,MI,Mount Pleasant,48858,19.0,4.0,1035 S Mission St,bubbletea,43.59401,-84.76685
+3,khFRg3lOhiNJJDTpZc414w,Kiss Me Specialty Coffee Shoppe,MI,Prudenville,48651,33.0,4.5,829 W Houghton Lake Dr,coffee bubbletea juicebars,44.298,-84.65328
+7,MFt0zAxGHq-TZtHm0J4Jxg,Northern Expresso,MI,Gladwin,48624,16.0,4.0,343 W Cedar Ave,coffee bakeries bubbletea,43.98055,-84.48975
+10,5yEYBuQLVkuCdJ2uObrnuw,China Garden Restaurant,MI,Mount Pleasant,48858,69.0,3.0,2328 S Mission St,chinese,43.57961031763,-84.768291890166
+11,OpDIrGwjtZ5NcOtTZAYKTw,Hunan House,MI,Mount Pleasant,48858,44.0,3.0,2157 S Mission St,chinese,43.5791073992055,-84.7666241714916
+0,GevIm8FfsuhUiOHrlBrjwQ,Crusty’s Pizza,MI,Remus,49340,3.0,4.5,298 W Wheatland Ave,pizza shavedice salad,43.59666,-85.14801
+6,QjEaRSD0O-qz_vG_tn_NHg,Ding Tea,MI,East Lansing,48823,66.0,4.5,970 Trowbridge Rd,coffee bubbletea desserts,42.720735992044546,-84.4955564490738
+22,L3-NZQhARIrDYjqGgJSjuA,Bento Kitchen Cravings,MI,Lansing,48912,49.0,4.5,310 N Clippert St,korean ramen bubbletea,42.73615,-84.50813
+23,w5r3JbhDgn-bjL0Fg37wVg,Udon Sushi Restaurant,MI,East Lansing,48823,90.0,4.0,134 N Harrison Rd,sushi japanese asianfusion,42.73458,-84.49319
+26,SPO_uUmijkAnEpUpuScYAw,Feng Cha,MI,Lansing,48911,2.0,1.0,3214 E Michigan ave,bubbletea,42.7333450013589,-84.50414247116399
+27,zmvZNCFzDkWn1E3tHIQdgw,Anqi Sushi Express,MI,Lansing,48933,32.0,4.0,111 E Allegan St,sushi,42.7326942327255,-84.5515319548779
+28,z6utdG2eRy9BZJKwJEKaTg,The Kung Fu,MI,Lansing,48912,46.0,3.5,730 N Clippert,chinese seafood chickenshop,42.7413016,-84.508319
+30,ZcA6pVrCqJS9Rb1FO0kfHA,Apple Jade Restaurant,MI,Lansing,48912,32.0,3.0,300 N Clippert St,taiwanese chinese,42.73604,-84.50813
+2,oN_NzWFlMokE6LSLdrL9pA,Latitude 44,MI,Manton,49663,8.0,5.0,308 Wall St,bubbletea coffee greek,44.40981,-85.399295
+8,SCe9DQPphhvPt-DkmBRGoA,Toppings Frozen Yogurt,MI,Big Rapids,49307,9.0,5.0,321 N Michigan Ave,icecream bubbletea coffee,43.7013302,-85.4821549
+4,oNj1gHqIzCs0hmnsZ8JwVA,Taqueria San Francisco,MI,Battle Creek,49015,42.0,4.5,691 Capital Ave SW,mexican,42.302233,-85.199234
+5,uhvoAgYoyVs_aa_fU6DH7Q,Lucky Rooster Kitchen & Cocktails,MI,Battle Creek,49014,91.0,4.0,1299 Columbia Ave E,italian tradamerican,42.303056,-85.161911
+0,Et_5bFGaC92GoeqNtdj8LQ,Ohana Hawaiian Ice,MI,Grand Rapids,49503,1.0,5.0,,shavedice foodtrucks,42.9616689,-85.6588999
+3,eYUfqEWkrq6aaFetjmg-TA,BAMBU,MI,Grand Rapids,49548,60.0,4.0,5390 Division Ave S,juicebars bubbletea vietnamese,42.8661509,-85.6639189
+4,0ttjXzMAKD_N610fHa7n0w,Curley Cone,MI,Wayland,49348,41.0,3.5,12850 W M 179 Hwy,icecream tradamerican bakeries,42.631882,-85.541178
+0,qllboBZuWROxv-zVbZEPNw,Cafe Boba,MI,Grand Rapids,49548,47.0,4.5,4314 Division Ave S,cafes bubbletea juicebars,42.885505,-85.6643519
+1,ciC7IipELoTkw_l8pFb9aQ,Kung Fu Tea,MI,Grand Rapids,49548,17.0,4.5,5301 Division Ave S,bubbletea coffee juicebars,42.86693,-85.6646
+3,hVPuaLvlyM_hCCPQmZJdhQ,Poke Toki,MI,Grand Rapids,49525,113.0,5.0,5150 Northland Dr NE,poke asianfusion,43.05579,-85.579
+4,zPsFPYr3YmTfSZMtNyRagQ,Haggerty’s,MI,Grand Rapids,49525,5.0,4.5,1600 E Beltline Ave NE,coffee acaibowls bubbletea,42.99198309978489,-85.58850514847946
+5,QgYL9x-8X7ySPg3hGM1Q6A,Street King's Rolled Ice Cream,MI,Grand Rapids,49503,1.0,5.0,15 Jefferson Ave SE,icecream bubbletea juicebars,42.9626715,-85.6644744705571
+6,X2WGOFk6UbU_0atyGn2Mcg,Ginza Sushi & Ramen Bar,MI,Grand Rapids,49503,198.0,4.5,1015 Michigan St NE,sushi poke ramen,42.97026,-85.64378
+7,98SkRCMvoWQHIIVtiSkDag,The Sparrows,MI,Grand Rapids,49506,138.0,4.5,1035 Wealthy St SE,coffee cafes,42.9557495117188,-85.6430053710938
+8,0Z8xZ75NHzgvYPCTQXtwag,Noori Chicken,MI,Grand Rapids,49525,68.0,4.5,2321 E Beltline Ave NE,chicken_wings korean asianfusion,43.004814253318,-85.5911194835526
+9,8s06eSOAoxr2bHpzsX5yug,Simple Fish,MI,Grand Rapids,49548,94.0,5.0,6719 Division Ave S,sushi,42.8417332244469,-85.6642055556233
+10,ZKl5a08ZfWcD_hKuLCEdnw,Copa Miu Tea,MI,Grand Rapids,49512,1.0,5.0,2919 28th St SE,bubbletea coffee vietnamese,42.91302,-85.59483
+11,iroDyEvEz6VmWnxcNmliUQ,Lai Thai Kitchen,MI,Grand Rapids,49505,168.0,4.0,1621 Leonard St NE,vietnamese thai chinese,42.98484,-85.62826
+12,cEpM7ohQpRhRGd4wKaXzzA,Erb Thai,MI,Grand Rapids,49506,138.0,2.5,950 Wealthy St SE,thai,42.95538,-85.64479
+13,DYGEXTGINSdhHUJ6EtZIcg,Pho Soc Trang,MI,Kentwood,49548,118.0,4.0,4242 S Division Ave,vietnamese seafood soup,42.886385,-85.6640794
+14,LuGjIUnipksgWbgycAqBKw,Pho Anh Trang Restaurant,MI,Grand Rapids,49508,150.0,4.0,3633 Eastern Ave SE,vietnamese chinese,42.8976268,-85.6462111
+15,nP95qxfaPMI3ged_9K2RYA,Thai Express,MI,Grand Rapids,49508,167.0,4.5,4313 Kalamazoo Ave SE,thai,42.885102,-85.627613
+12,Yd80BHTeKbrhFJAThDfwZw,Sunny Boba Tea,MI,Grand Rapids,49503,4.0,4.5,38 Commerce Ave SW,bubbletea,42.9618147,-85.6687714
+33,wrhLkzPezTB_wpwwZbVOmw,Angel's Thai Cafe,MI,Grand Rapids,49503,128.0,3.5,136 Monroe Ctr NW,thai gourmet,42.9659423,-85.6712305
+34,7qNQMAVTHrSTMFmaxUqrQA,Rak Thai,MI,Grand Rapids,49503,60.0,3.5,435 Ionia SW,thai,42.9551635902166,-85.6708762713032
+1,1hmsqdGbenA8xzGtSFYmeA,Apple Knockers Ice Cream Parlor,MI,Vicksburg,49097,16.0,4.5,220 W Prairie St,icecream burgers juicebars,42.1203472,-85.5326192
+1,-IRQ-cqEIRaczitEmKmyvQ,Mark's Place,MI,Eaton Rapids,48827,9.0,4.5,238 S Main St,bubbletea coffee wraps,42.51085,-84.65618
+8,yiSRNISxDwC0k06ip650rQ,Shwe Mandalay Burmese Cuisine,MI,Battle Creek,49037,60.0,4.5,451 W Michigan Ave,burmese noodles thai,42.32611,-85.19855
+2,VlRFzsfqU4yUSKVC1ScqjQ,Ding Tea,MI,Grand Rapids,49503,38.0,4.5,45 Ottawa Ave Sw St,coffee bubbletea,42.9618084,-85.6726232
+39,IhZUoPU1qspqdEIOqqNO9w,Chicken N Eggroll,MI,Wyoming,49509,13.0,3.0,805 36th St SW,chinese,42.8990593,-85.6854477
+42,30dZlED4MeHNg4SCtXoI4g,Umi Sushi & Grill,MI,Grand Rapids,49548,44.0,4.5,454 68th St SW,japanese sushi seafood,42.840527,-85.6749991
+1,IadfP7xWELst553KlSrzOw,Serendipity The Brew,MI,Marshall,49068,2.0,5.0,108 W Michigan Ave,coffee giftshops bubbletea,42.27232,-84.95921
+17,K_82KdD5OSkjPeWmDCc0Rg,Panda Express,MI,Grandville,49418,69.0,2.0,3132 44th Street,chinese hotdogs bubbletea,42.884248,-85.741433
+2,yVgowBcayoyz1KjGQGD1kQ,Kung Fu Tea,MI,Kalamazoo,49009,7.0,4.5,5043 W Main St,bubbletea coffee juicebars,42.29613,-85.64917
+8,5G7w1TGaJjQrUbZR-2yeBw,MI Boba,MI,Kalamazoo,49006,13.0,5.0,1750 S Drake Rd,bubbletea waffles macarons,42.2725863,-85.6489864
+10,l0gdd679ttwlbNJCiknfpg,Tea Time Cafe,MI,Allendale,49401,4.0,5.0,10745 48th Ave,cafes bubbletea ramen,42.963875232369496,-85.90446412607464
+15,iQ-oMqV9sUgjdF8QYZ8xHw,Chocolatea,MI,Portage,49002,134.0,4.5,7642 S Westnedge Ave,desserts cafes chocolate,42.205562,-85.590008
+17,zTVZ5p02sUpnD-MKITI0XA,ROLL UP ICE CREAM AND TEA,MI,Kalamazoo,49008,20.0,4.0,3262 Stadium Dr,bubbletea icecream wraps,42.27308,-85.62958333
+19,JY1E9fx-m-JsMcwkk8qasg,Maui Poke,MI,Kalamazoo,49009,73.0,4.0,310 N Drake Rd,poke juicebars,42.294682292257534,-85.6476511
+20,fX0ju6cblC31rb2bwZUFVQ,Roll Up Ice Cream And Tea,MI,Portage,49002,13.0,3.5,8340 Portage Rd,bubbletea icecream wraps,42.195493,-85.561738
+30,Tt_iiP00DYaUF9wap2_iWQ,Cravings Deli,MI,Portage,49002,80.0,4.5,229 W Kilgore Rd,vietnamese ramen panasian,42.24494,-85.5831
+38,MWhE19A3MmERqHtoYudrEA,Bangkok Flavor,MI,Kalamazoo,49048,155.0,4.0,5455 Gull Rd,thai,42.3230400085449,-85.5236511230469
+42,CUVC4WRftn-V8Vt9Kzfpxw,Bagel Beanery,MI,Kalamazoo,49008,62.0,3.5,812 S Westnedge,coffee bagels,42.283716848601,-85.58978391289459
+46,dmjWCj4cp4m94rfDLXEY3A,Roll Up Ice Cream And Tea,MI,Kalamazoo,49048,4.0,5.0,5907 Gull Rd,bubbletea icecream wraps,42.3278502730143,-85.51399908053492
+13,zK-Tb5kuOPbtBFB_nS2k8A,BAMBU,MI,Madison Heights,48071,177.0,4.0,30804 John R Rd,vietnamese bubbletea juicebars,42.518821,-83.105963
+21,fvC3x22wGeynv5RajK9O7Q,La Creme,MI,Zeeland,49464,23.0,4.5,111 E Main Ave,coffee gelato creperies,42.81259,-86.01605
+0,Adijx2nl-E7m3Xwm2vz31w,Kukui's Hawaiian Shaved Ice,IN,Shipshewana,46565,8.0,4.5,125 1/2 Harrsion Ave,shavedice,41.6763554,-85.5793025
+2,Cpo1sUPAY7vR_HFUQjKsCQ,Dune Dogz,MI,Holland,49424,32.0,3.5,2233 Ottawa Beach Rd,hotdogs,42.7766183763742,-86.2004846334457
+3,PXn4mGDT-kXgLGXIwebd3g,Sluggo's,MI,Holland,49424,39.0,4.0,321 Douglas Ave,pizza,42.7983793,-86.1223546
+4,ZujWk6XerPXygGcLetgS6g,Ohana Kalea Shave Ice,IN,Howe,46746,1.0,5.0,508 7th St,shavedice foodtrucks,41.72151679489452,-85.42397666012702
+0,PxwMD4RGunv_feacmv-kCw,Halaula Hawaiian Ice Shack,MI,Grand Haven,49417,1.0,5.0,726 S Harbor Dr,shavedice,43.0597439634684,-86.2419518777291
+1,CHq5TpVavQUV6G-bxNiqhg,BAMBU,MI,Holland,49423,5.0,4.5,184 S River Ave,vietnamese bubbletea juicebars,42.79052,-86.1091049
+3,unSIoik5QjRoS2p7WqZEmQ,Boba House,MI,Holland,49424,39.0,4.5,143 Douglas Ave,juicebars sandwiches,42.8023548,-86.1145421
+6,KVVuGf6oWbmREs299U_h1Q,Lemonjello's Coffee,MI,Holland,49423,177.0,4.5,61 E 9th St,coffee,42.789573,-86.10481
+8,V_kCWMUPvaNOQbwxCordkQ,Taste of Asia,MI,Holland,49424,106.0,4.5,520 Butternut Dr,thai vietnamese laotian,42.81307,-86.12327
+2,hLiKDV6X_HreI4Xvvps6BQ,Soulard's,MI,Coloma,49038,17.0,4.0,126 N Church St,customcakes bakeries cafes,42.1866897373514,-86.3065532594919
+3,JlmIezW50xASKR4Dp2gNRQ,Icy Bar,IN,Mishawaka,46545,12.0,5.0,6501 Grape Rd,icecream bubbletea,41.7186403401849,-86.1888998374343
+7,zgZb79fmTRnSy04GnV_egQ,Berry Star Cafe,IN,Mishawaka,46545,5.0,5.0,6501 Grape Rd,juicebars cafes,41.71754,-86.190801
+11,MG5ccPfS_R2doAw2Kk8oaQ,Lucky’s,IN,Elkhart,46514,67.0,4.5,700 W Bristol St,thai bubbletea cambodian,41.70282,-85.98588
+13,d2tIfhYXar73ZPUv78o-Jw,Bowl Of Pho,IN,Mishawaka,46545,329.0,4.0,5626 Grape Rd,vietnamese bubbletea,41.7112833604887,-86.1845050946466
+16,U2kG6Vw0BMFiD9HJiGp_VQ,Lulu's Licks,IN,Michigan City,46360,8.0,5.0,,foodtrucks mexican,41.71936,-86.90317
+21,ngv9BcPfCh7rgegv5EFMdw,Amanda Lee Coffee,IN,Fremont,46737,4.0,5.0,6245 N Old 27,coffee,41.734701708572125,-85.0027574
+5,hjVG3t5oZw1ScHBGvgquvA,Kao's,IN,Elkhart,46516,53.0,4.5,201 W Marion St,cambodian bubbletea thai,41.6824622153741,-85.9729531779885
+14,xn5b0eTnUbHPPf5wgFhvNw,Honey's,IN,Goshen,46526,19.0,4.0,620 West Lincoln Ave,desserts icecream coffee,41.5846749389892,-85.8446563656712
+16,dRyKPLhdfqYLFpom6OBk-A,Asia Market,IN,Elkhart,46517,15.0,4.0,2021 Shaffer Ave,grocery bubbletea,41.6490099,-85.93881
+17,dUy-ht-0Yo33_--5ZwDySQ,Goshen Noodles,IN,Goshen,46526,24.0,4.0,1303 College Ave,vietnamese,41.56646,-85.81632
+19,DAlH-z-ee_ua7HTQOhmo4A,Miso Japan,IN,Goshen,46526,47.0,4.5,203 W Pike St,japanese asianfusion sushi,41.58956,-85.83677
+1,Ji5_-TOA97r9j1dnfZfjJA,Hang 10 Tropical Ice,IN,Auburn,46706,6.0,5.0,112 N Main St,desserts,41.36721,-85.05575
+4,ZqUIAz6MfptoUe3sUTuJSQ,Kommon Kravings,OH,Montpelier,43543,2.0,5.0,217 West Main St,coffee icecream bubbletea,41.5866066547458,-84.609517701835
+19,3-tLQyc0-pZfku7hP3ZfIw,Artisan Floral & Gift Boutique,OH,Bryan,43506,8.0,4.0,106 N Union St,florists coffee giftshops,41.4750242,-84.5359623
+20,B11sPElV5xrmmNvDIZ4gog,Cup O' Joy Coffee Barn,OH,Edgerton,43517,1.0,5.0,108 W Vine St,bubbletea coffee donuts,41.4479995,-84.74904149999999
+21,VymucGkgNtz9byk9yt6Syg,Amanda Lee Coffee,OH,Sherwood,43556,1.0,5.0,9915 US-127,bubbletea coffee,41.29730562294388,-84.55298931657391
+23,GHP8RiBewOHjwqSqopEYgA,The Grind Coffee House Of Garrett,IN,Garrett,29841,3.0,1.5,1308 S Randolph St,coffee bubbletea juicebars,41.33769933480318,-85.13519230280804
+23,VGKl623TJt3f06R294BDvQ,Lola's Frozen Yogurt,OH,Bowling Green,43402,12.0,3.5,183 S Main St,icecream bubbletea,41.388737,-83.653048
+1,3A9GcB8C_-G7NXY1pnaByw,Sno Balls Hawaiian Shaved Ice,IN,Fort Wayne,46835,4.0,4.0,4530 Maplecrest Rd,shavedice hawaiian,41.1224273924952,-85.0612922153431
+2,fas4vdR0Mx31Fl5cyhEAAQ,BAMBU,IN,Fort Wayne,46825,27.0,4.5,8812 Coldwater Rd,juicebars bubbletea vietnamese,41.160858,-85.134338
+4,X884Uy8LhuQ9fwVLTIgXyA,Cabin Fever Coffee,OH,Defiance,43512,1.0,5.0,1882 S Jefferson Ave,coffee bubbletea cakeshop,41.261535,-84.362391
+5,dzquB2ipoMgofyUNXE-oyw,Sweet Monster,IN,Fort Wayne,46818,51.0,3.5,6421 Lima Rd,icecream desserts bubbletea,41.138607858755236,-85.16255183204464
+6,XuZ1wItEB9L-0uxdvT4uGg,Banh Mi Barista,IN,Fort Wayne,46825,224.0,4.5,5320 Coldwater Rd,hotdogs vietnamese sandwiches,41.128003,-85.1352
+9,eA-DdKQ-64GJzH7F66fDLg,Kim Vu Vietnamese Cuisine,IN,Fort Wayne,46825,198.0,5.0,433 E Dupont Rd,vietnamese,41.1795952494246,-85.1376404301636
+20,djbOXlBEMswEzZyd64WGtQ,AA Poke,IN,Fort Wayne,46805,83.0,4.5,700 E Coliseum Blvd,japanese poke sushi,41.11795,-85.13082
+33,7FdXz5vromd3sI4NsdXGPw,Pho Indy,IN,Fort Wayne,46825,65.0,4.5,4634 Coldwater Rd,vietnamese,41.12051,-85.13356
+0,CmZQfyDsCA1ZYcW4Ha5DOg,Lucky Tea & Sushi Cafe,MI,Grand Haven,49417,73.0,5.0,1705 S Beacon Blvd,sushi bubbletea cafes,43.044925475936,-86.2209458649158
+1,GNyJ3YPoCdTi3cTtLpd_FQ,Little Easy,MI,Muskegon,49444,7.0,4.5,5600 Harvey St,restaurants,43.1504593,-86.2053375
+1,lw1HfclRYoScOdh73cMuXQ,KRAVE frozen yogurt & candy shoppe,MI,Ludington,49431,17.0,3.5,103 E Ludington Ave,icecream juicebars candy,43.9556162059307,-86.4476206898689
+0,rVH38S9t9HlHdqUOEKVqrg,Lake Effect Shave Ice,MI,Frankfort,49635,8.0,5.0,207 Main St,shavedice desserts icecream,44.6328,-86.24295
+1,BTMQqQ3pNnoa1lkcS4JXJA,Bud's,MI,Interlochen,49643,100.0,4.0,3061 M 137,coffee icecream tradamerican,44.643211,-85.766513
+2,FnLDE_13TJ28OotbC9iZ-g,The Good Bowl,MI,Traverse City,49684,135.0,4.0,328 E Front St,vietnamese cocktailbars asianfusion,44.7639609,-85.6168417
+0,kPy8Ipt_otxYg1O9Z3c6gw,Glen Arbor Shave Ice,MI,Glen Arbor,49636,1.0,5.0,5873 Lake St,shavedice,44.89852,-85.9881
+0,UfH2WbBPIWWn65Ri59gvxw,Lychee Thai,ON,Sault Ste Marie,P6A,24.0,3.0,280 Queen Street,thai,46.5140305,-84.3358765
+0,Q2awygbK02JTJgOekgDyGQ,Aloha Grill,MI,Lower Level Marquette,49855,8.0,4.5,130 W Washington St,comfortfood hawaiian foodstands,46.5437813376215,-87.39398575959949
+0,JPu_XmYC7fYP7hLuyAW67A,Blossom Bird Bubble Tea,MI,Marquette,49855,2.0,4.5,128 N 3rd St,bubbletea bakeries,46.544223,-87.3949586
+1,KPI9stG4_PQVx7fd8V79EA,Thai House,MI,Marquette,49855,84.0,4.0,1031 N 3rd St,thai,46.553405,-87.395066
+2,_Oz7AcjWy1D7Mln8kIjSgA,Teriyaki Bowl,MI,Marquette,49855,35.0,4.0,3109 US Hwy 41 W,soup noodles bubbletea,46.548897,-87.456341

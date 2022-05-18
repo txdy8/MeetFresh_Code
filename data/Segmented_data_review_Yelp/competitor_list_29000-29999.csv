@@ -1,0 +1,776 @@
+,id,name,state,city,zip code,review count,rating,address,categories,latitude,longitude
+0,fFed4hjuoqFywMZiq_pCcg,Coal Train Coffee Depot,WY,Rock Springs,82901,38.0,5.0,501 S Main St,coffee shavedice sandwiches,41.5870114367634,-109.219384448625
+0,S7Kp66vKTNzrCPJFwk6-kw,Buckin' Coffee,WY,Rock Springs,82901,56.0,4.0,1535 Elk St,coffee desserts comfortfood,41.6047480813282,-109.229849763215
+0,4eVKRZK5J9M1Pc-LblpErA,Koi Sushi & Poke,WY,Jackson,83001,20.0,4.5,36 E Broadway Ave,sushi poke,43.4793,-110.76179
+1,fGiJuIlAjH3UhfAyQnseKg,Bapp,WY,Jackson,83001,106.0,4.5,340 W Broadway,korean bubbletea noodles,43.4792279253781,-110.767055902719
+0,1WePF1uE7ZLncjFhhDQz8w,The Shack,UT,Kamas,84036,5.0,4.5,5 East Center St,desserts gourmet beverage_stores,40.6432849,-111.2805266
+0,254_55CTVTH7Nk2JeR2e2g,Beachin' Soda Shack,UT,Vernal,84078,7.0,4.5,640 W Main St,shavedice juicebars,40.456158,-109.540291
+1,enIGFfI-3XgSKPUp1Tl3NA,Shivers And Jitters,UT,Vernal,84078,7.0,4.5,88 S 500th W,coffee shavedice juicebars,40.454552,-109.53913
+2,JlU8T4BIY-NIEyGD1mHAZw,Snow Biz,UT,Vernal,84078,1.0,5.0,332 W Main St,juicebars shavedice icecream,40.45584469528689,-109.5355986
+0,bBjh_trM9mCL-rBiWtIrEg,Crissy's Chicken To Go,ID,St. Anthony,83445,12.0,4.0,201 N Bridge St,tradamerican seafood steak,43.968499,-111.682898
+0,dGCcwYF6T4Zjo4GJSQmTCw,Hawaii Hua,ID,Pocatello,83201,4.0,3.0,200 S Main St,shavedice,42.86135,-112.44923
+1,TU33fZwdSIuPlqkWlomIUw,Tiki Hut Hawaiian Shave Ice,ID,Idaho Falls,83404,1.0,5.0,2770 S 25th E,shavedice,43.472681459863864,-111.98525472943417
+0,20xSswzpy1qCJHWVh3ev3g,Java Espress,ID,Pocatello,83201,5.0,2.5,657 Yellowstone Ave,coffeeroasteries juicebars bubbletea,42.887245,-112.453078
+1,4RmlPDiwzo3BxRiyFDAUEA,Hokkaido Ramen & Sushi bar,ID,Pocatello,83201,18.0,4.0,231 W Quinn Rd,ramen sushi bubbletea,42.904264,-112.45263
+2,P2KRmMxLHSkIAkeyweJfTw,The Caboose,ID,Idaho Falls,83402,5.0,4.5,471 River Pkwy,shavedice,43.4961166,-112.0448685
+2,tu98QYk4PxwlnMHCkaYS3Q,Betty’s Boba,ID,Idaho Falls,83401,3.0,3.5,680 1st St,gourmet waffles bubbletea,43.49635363330149,-112.01992556669794
+3,zXi-Jl1JaDpSA96bAK1o2g,Hot Spring Pho,ID,Idaho Falls,83402,61.0,4.5,376 Shoup Ave,vietnamese,43.4917345913358,-112.039734526581
+0,kl30Ki5_7ouRBXH3F9rcpg,Lost River Valley Coffee,ID,Arco,83213,5.0,5.0,242 S Front St,coffee,43.6348884789049,-113.298452414932
+3,mxYx1VKPelnq7pDrbcHDyQ,Karie Anne's Frozen Desserts,ID,Rexburg,83440,32.0,5.0,32 S 2nd E,desserts,43.8253516,-111.7780595
+4,Cq82IyLatI_c0MzGH7TUQQ,Snoasis,ID,Rexburg,83440,3.0,3.5,24 W Main St,shavedice,43.8260733,-111.7845914
+1,QpLIMfYliXD0ertrFCvs0w,Crush,ID,Rexburg,83440,3.0,5.0,155 West Main St,juicebars bubbletea cupcakes,43.82539,-111.78844
+4,d6jwlGvtobpAN_vu8DoA1Q,Boba Luv,ID,Rexburg,83440,11.0,3.0,220 E 2nd N,juicebars bubbletea,43.8300088,-111.7774121
+0,xMX7U6hK4WZQeG4kXeTlZg,Hokulia Shave Ice,UT,Logan,84321,2.0,5.0,175 E 442nd N,shavedice,41.7402817,-111.8297245
+1,A6sxQCtD-LYre7QGLjLnfQ,Daysies Ice,UT,Logan,84321,5.0,4.0,750 N Main St,shavedice foodstands,41.7449213993864,-111.834343005599
+2,v5Sae060naMb9cxOvvUBLA,Sno Shack,UT,Logan,84321,1.0,5.0,77 E 400th N,shavedice,41.7388687131489,-111.833084821701
+3,HNl3Q4Axwb7PRgHBOhUhTg,Pinks's Shaved Ice,UT,Smithfield,84335,1.0,3.0,850 S Main St,shavedice,41.8187840072553,-111.832666397095
+4,Pw76JItX42uVZoEmBUHFQA,Chugz,UT,Logan,84341,27.0,2.5,1114 N Main St,bubbletea desserts beverage_stores,41.7521026260161,-111.834013358377
+5,T74yUnXyjWuVm2bt84Il8A,Mo' Bettahs Hawaiian Style Food,UT,Logan,84341,80.0,4.0,2095 N Main St,hawaiian,41.7707754,-111.8353395
+0,laHzgogxYpsrmQkBQngKKg,CC Boba,UT,North Logan,84341,2.0,5.0,1300 N Main St,juicebars coffee bubbletea,41.75585,-111.831135
+3,ULHgUK4Quu-lG180J-b7IA,Chillzz Sno Shack,UT,Tremonton,84337,1.0,5.0,100 N 100th E,desserts shavedice icecream,41.7130038965582,-112.1646001499
+2,pyNA-65QlA4VJukkqzYW4Q,Swig,UT,Logan,84321,23.0,3.0,880 S Main St,desserts juicebars bubbletea,41.715779,-111.833923
+0,pvBbwnkBWxavybDhmjzVCw,Bumble Bee Tea & Ice Cream,ID,Bellevue,83313,1.0,5.0,721 N Main St,bubbletea icecream foodtrucks,43.47133,-114.26491
+5,vRpJ3Tdn_O3GHVknhpKW_Q,Snowie Shaved Ice,UT,Brigham City,84302,1.0,4.0,240 N Main St,shavedice,41.5158426,-112.0156241
+8,Ny_AbSTze3eV6NVS0NOx2g,Shreds,UT,Brigham City,84302,5.0,3.5,408 S Main St,hotdog shavedice icecream,41.5029228,-112.0163848
+0,n3ooxAXSY6-XxZZEDK4NqQ,Kona Ice,ID,Twin Falls,83301,1.0,5.0,2205 Nisqually St,shavedice eventservices,42.6009259687719,-114.49314314872
+1,hiyFujufcOl2v3goiaaVfQ,La Botana,ID,Jerome,83338,1.0,5.0,125 S Lincoln Ave,creperies icecream shavedice,42.7235328,-114.5186517128754
+2,aoofSLd7RfB33Bs6uyuSYw,Putters Mini Golf,ID,Twin Falls,83301,3.0,4.5,1821 Canyon Crest Dr,mini_golf shavedice,42.5938098807973,-114.473777268787
+0,iJSxfr9nJngtr454t6hCLA,Boba Blast Tea House,ID,Twin Falls,83301,10.0,4.5,404 Addison Ave W,bubbletea,42.56418667,-114.48748833
+1,RImPBX_V09-iZgP5M-nsfA,Ath Donuts,ID,Twin Falls,83301,14.0,4.5,705 Blue Lakes Blvd N,donuts bubbletea juicebars,42.57463927584887,-114.4623512177913
+2,cG2ONCIC9O2k5mIMWPV7cA,Kiwi Loco - Twin Falls,ID,Twin Falls,83301,14.0,4.0,828 Blue Lakes Blvd N,icecream bubbletea donuts,42.576436,-114.458953
+3,jQYO3tnNHjYhi74Qw3gq8A,Swig,ID,Twin Falls,83301,2.0,4.0,2004 Neilsen Point Pl,desserts juicebars bubbletea,42.5973967,-114.4560987
+4,F1qL82_8PKqPqMTkcTjBSQ,Happy Teriyaki,ID,Twin Falls,83301,6.0,4.0,687 Blue Lakes Blvd N,japanese bubbletea asianfusion,42.573823,-114.4609464
+2,B-MzCU81PIwooIRvGJdsvw,Tropical Sno,ID,Mountain Home,83647,1.0,5.0,1500 American Legion Blvd,icecream shavedice shavedsnow,43.13403259883911,-115.6811313157317
+0,_VqnXmoQS8deFlaGsU0Kow,Shiok! Ridiculously Delicious,ID,Mountain Home,83647,98.0,4.0,13654 SW Venable St,asianfusion chinese singaporean,43.0854389109932,-115.858383178711
+0,Vjv_ZXd7fQrEp_qygGasDg,Imua Hawaiian Style Restaurant,ID,Lewiston,83501,50.0,5.0,800 Main St,hawaiian bbq sandwiches,46.42021,-117.02396
+0,KyibIBX50OLk6zSJi_EOkA,Popo,WA,Pullman,99163,55.0,3.5,405 SE Bishop Blvd,bubbletea coffee chinese,46.7148194,-117.1789065
+1,UW_PtOxZWQqQ4uEbdHdveQ,RealiTea,WA,Pullman,99163,22.0,4.0,255 E Main St,coffee,46.7294588312836,-117.1803059
+2,M7QdYb2p8Q0lVbYUY6nCew,Azia,WA,Pullman,99163,104.0,3.5,1515 NE Merman Dr,vietnamese,46.7438582216541,-117.154568694052
+0,et4PuXNeQATij2_QMb9SNg,Little Bear Espresso,MT,Hamilton,59840,2.0,5.0,2137 N 1st St,coffee juicebars breakfast_brunch,46.27490004605976,-114.15928609999997
+0,ReSB_yJJefxHsYRfdSCHaA,Kanaloa Shave Ice,ID,Nampa,83687,3.0,5.0,16740 N Marketplace Blvd,shavedice,43.615474,-116.5920542
+1,h8PTHZll32NVcFL3bEKBMw,The Shack,ID,Meridian,83642,2.0,4.5,2400 Stoddard Rd,shavedice,43.58424891900096,-116.4030323116593
+2,8Ihhmzdxc57PuRRDsT5mmg,Snow City Shave Ice,ID,Meridian,83642,3.0,4.5,2805 E Franklin Rd,shavedice,43.6047124051,-116.358874332
+3,5Bhhgqi0t-MFqeyT3IDFTw,The Creamery,ID,Eagle,83616,3.0,4.5,,desserts icecream,43.691050149999995,-116.35060125
+4,jvPEyrUPJJR0MQ-6vZuOfA,Tropical Sno,ID,Nampa,83686,1.0,5.0,513 12th Ave Rd,shavedice,43.56513294463858,-116.57412869536476
+5,jOgSYnGtdd4Dv_bQkuS9Ew,Aloha Fresh,ID,Eagle,83616,5.0,3.5,250 S Eagle Rd,shavedsnow desserts foodtrucks,43.692376,-116.352103
+6,h7zqujKw1HT-BVaTcLbe9w,Sno Biz,ID,Boise,83706,4.0,5.0,2550 S Apple St,shavedice,43.5791702270508,-116.172813415527
+7,APbq0poQ8rKvo6yM4cfn9Q,Ethan's Sno Biz,ID,Nampa,83651,3.0,5.0,1813 Caldwell Blvd,shavedice,43.606145,-116.606316
+8,1-7Dfnwm_tdP4pgGXX4n5g,Chill Zone Shaved Ice,ID,Boise,83709,2.0,5.0,10565 W Lake Hazel Rd,shavedice foodstands,43.5460684361813,-116.312480829656
+9,oUPjNo7-TBHdAOr-CJ1ZGQ,Yeti Shack Shaved Ice,ID,Eagle,83616,1.0,5.0,185 E State St,shavedice shavedsnow,43.6950651,-116.3516119
+10,gayQ5JeBfFF1bTYdGu6tgg,Tiki's Shave Ice,ID,Boise,83701,5.0,2.5,,desserts shavedice foodtrucks,43.61694,-116.20147
+11,8VpnDqA0A0JOWkWRCwbA3A,KRAVZ,ID,Middleton,83644,7.0,4.0,318 W Main St,icecream shavedice,43.70672,-116.62778
+12,S4-hxuRtVDaYtMw7C6zREQ,La Creme Shaved Ice,ID,Meridian,83646,1.0,4.0,3690 E Monarch Sky Ln,shavedice,43.621056,-116.348372
+13,pMLMPSnz24FdMR-g9qKZoA,Soda Burst,ID,Caldwell,83605,1.0,5.0,718 Arthur St,shavedice desserts,43.665657,-116.68866
+14,lRBlalT2dlQ3nmKI2D3Lpg,Sno Biz,ID,Boise,83709,3.0,3.5,2959 S Cole Rd,shavedice,43.5758068938238,-116.27480996472
+15,7sAZFdnH3v9594U3ntCqWQ,Island Kine Grinds,ID,Nampa,83651,173.0,4.0,140 Caldwell Blvd,hawaiian,43.5861699,-116.5743595
+16,3R7UozBU1IpaW02C6NyAzQ,Snowie Treasure Valley,ID,Eagle,83616,1.0,1.0,2200 Hill Rd,shavedice,43.69537818131764,-116.3255
+17,DL1JRfRo3Wtc76PY8-hWeg,Urban Fox - Coffee & Boba,ID,Meridian,83646,120.0,4.5,2970 N Eagle Rd,coffee desserts bubbletea,43.6320543573983,-116.353782017162
+18,wwneev53BfrW7iVuS4pzrA,"The Human Bean Meridian, N. Meridian Rd",ID,Meridian,83642,29.0,4.0,1635 N Meridian Rd,coffee,43.61885301,-116.39391046
+19,9MMlD73kdQzKzCdkyd6WXA,"The Human Bean Nampa, Caldwell Blvd",ID,Nampa,83651,13.0,4.0,2110 Caldwell Blvd,coffee,43.608471,-116.60649712944941
+20,9pbEWyLUfPWqmeOklf2v4A,"The Human Bean Boise, W. Chinden Blvd",ID,Boise,83713,16.0,4.0,12473 W Chinden Blvd,coffee,43.6626538,-116.3378568
+21,CPk6ozrDMy0ohC4-z0kGbA,La Creme Frozen Yogurt,ID,Meridian,83646,28.0,4.0,3690 E Monarch Sky Ln,icecream coffee juicebars,43.621112062519686,-116.34844994315566
+22,UHLHUB-kTkVStFwV8vsK5Q,"The Human Bean Star, W. State St",ID,Star,83669,6.0,4.5,11633 W State St,coffee,43.69179240684446,-116.49898339127327
+23,GSDxAWLxm5OtVptFVVVpOg,"The Human Bean Boise, Emerald St",ID,Boise,83704,41.0,4.0,9162 Emerald St,coffee,43.611255645752,-116.295608520508
+24,zr5MRKXs_fnhgNane6KwwA,"The Human Bean Caldwell, S. 21st Ave",ID,Caldwell,83605,13.0,4.0,305 S 21st Ave,coffee,43.6553435,-116.6753679
+25,sLj0JhR6vnR23D2o84ULlA,"The Human Bean Boise, W. Lake Hazel Rd",ID,Boise,83709,5.0,3.5,10771 W Lake Hazel Rd,coffee,43.54612,-116.3154470386697
+26,Pl4VWjRSuZFdhN7kczFfjA,"The Human Bean Boise, Broadway Ave",ID,Boise,83706,31.0,4.0,2100 Broadway Ave,coffee,43.585975,-116.19334
+27,v4s3xYzkXZB6sAY5yszyRg,"The Human Bean Garden City, W. State St",ID,Garden City,83714,13.0,3.0,10015 W State St,coffee,43.68016326,-116.3079779
+28,lzwyq1FaMcR24-5qDiEDHg,"The Human Bean Meridian, E. Overland Rd",ID,Meridian,83642,12.0,4.0,2485 E Overland Rd,coffee,43.58988877056431,-116.36384
+29,dBLJTwDHD_SHGnE4gwPWMQ,"The Human Bean Boise, W. State St",ID,Boise,83703,9.0,4.0,4213 W State St,coffee,43.6443127,-116.24221122067934
+0,Yp6sJSnO7VadURPMILezqQ,The Whale Tea,ID,Boise,83706,21.0,4.5,1226 Broadway Ave,tea juicebars bubbletea,43.59750277997188,-116.1931075165739
+1,wLmLFjrvq_qqQCpFmu3UNQ,Kiwi Loco,OR,Ontario,97914,5.0,4.5,180 E Ln,icecream bubbletea donuts,44.027785,-116.941699
+2,l_j_c459iCHesKPhNE0qWQ,Tbaar Boise,ID,Boise,83713,43.0,4.5,13613 W McMillan Rd Boise Id 83713,bubbletea coffee juicebars,43.647807,-116.352169
+4,0_GkFTdRWeKyeI5O8ROmnA,Happy Life CBD,ID,Boise,83704,8.0,4.5,1537 N Milwaukee St,vitaminssupplements bubbletea coffee,43.618779,-116.2851722
+5,yYKvW82U41XLFxtl1Acjrg,Percolate,ID,Meridian,83642,2.0,4.0,2900 W Excursion Ln,bubbletea,43.596629,-116.428778
+6,yU_Va4v79Lk8-zhO7-ANmg,Blue Cow Frozen Yogurt,ID,Boise,83706,59.0,4.0,2333 S Apple St,icecream bubbletea,43.5812528,-116.1733747
+7,pG_VmYfvQ7ELc3ySasCN_Q,Boise Boba,ID,Eagle,83616,57.0,3.5,3210  E Chinden Blvd,coffee bubbletea juicebars,43.664011,-116.35221
+8,z8pwLBm3m6E8GJko5PhxgA,Boise Boba,ID,Boise,83702,49.0,4.0,212 N 9th St,bubbletea coffee juicebars,43.6173593785125,-116.203372940179
+9,kAYmzczPH9P_K4zwrq-Sng,Happy Teriyaki,ID,Meridian,83642,96.0,4.0,2310 E Overland Rd,asianfusion japanese bubbletea,43.5908928,-116.3647831
+10,SjwauD0eE9sDz0gOL-skqQ,Happy Teriyaki - Nampa,ID,Nampa,83651,65.0,4.0,1240 Caldwell Blvd,asianfusion japanese,43.6013145,-116.5967102
+11,g60rSTq2Aynx5wMRvUcxVg,Nara Ramen & Izakaya - Boise,ID,Boise,83714,27.0,4.0,7610 W State St.,ramen bubbletea izakaya,43.671330434567224,-116.2829174
+12,SzEV-Sz9_kRNQSxwXTPYrg,Happy Teriyaki,ID,Boise,83716,26.0,4.0,6580 S Federal Way,asianfusion japanese bubbletea,43.5419581861687,-116.153384654844
+13,nnZIsmpIQnuQY5S-MoGyvg,Baguette Deli,ID,Boise,83705,208.0,4.0,5204 W Franklin Rd,vietnamese delis sandwiches,43.603511,-116.245104
+14,t0gOTkEruDBQVzdcv1FNTg,Yokozuna Teriyaki,ID,Meridian,83642,42.0,3.5,2031 E Fairview Ave,asianfusion japanese chinese,43.6194529,-116.3689145
+15,yUAzEP9snXjpymK52HDw1g,Happy Teriyaki - Meridian,ID,Meridian,83642,26.0,4.0,150 S Ten Mile Rd,asianfusion,43.60357939792888,-116.43318599139357
+16,HQYVne0Dw5GhE0haAXwRNA,Yokozuna Teriyaki,ID,Boise,83705,97.0,3.5,824 S Vista Ave,japanese chinese asianfusion,43.59638969349912,-116.2130781521978
+17,PxRt1rrcTxN3IbieAdRdTQ,Happy Teriyaki - Eagle,ID,Eagle,83616,76.0,4.0,664 S Rivershore Ln,japanese,43.6882858276367,-116.35481262207
+18,TvAgXHsAt1s2PgxA1pQa-w,Rembrandts,ID,Eagle,83616,347.0,3.5,93 S Eagle Rd,breakfast_brunch bars comfortfood,43.69452,-116.35442
+19,C-Q8kLJvvuaDhrzi1lfmIw,Chung Hing,ID,Nampa,83651,53.0,3.0,2101 Cassia,chinese,43.60294179578161,-116.60794295807908
+20,0kFwFQjR6pNKrN8MG3LrZg,Happy Teriyaki - Emmett,ID,Emmett,83617,7.0,4.0,620 ID-16,asianfusion japanese,43.86227347263686,-116.49204626994587
+21,NV7dndzZumU6BbKMuNnKvg,Happy Teriyaki,ID,Nampa,83687,8.0,5.0,16003 N Idaho Center Blvd,asianfusion bubbletea japanese,43.60592,-116.51404167
+22,3ewLWRN2RqpLb5MRkmluww,Happy Teriyaki,ID,Caldwell,83605,2.0,3.0,921 Arthur St,japanese,43.6648898,-116.6867194
+23,uX6A9XJV85TehzhG2bnncw,Happy Teriyaki - Broadway BSU,ID,Boise,83706,15.0,3.5,1011 Broadway Ave,asianfusion bubbletea seafood,43.6003301548329,-116.193936243653
+17,Yba9ur79IMl2jmEPC6T5Ow,Happy Teriyaki - Kuna,ID,Kuna,83634,2.0,5.0,726 730 E Avalon St,asianfusion bubbletea japanese,43.489658,-116.404853
+12,D6TLPuqAaPe2qc1rx0OhCw,Latte' Da,ID,Kuna,83634,22.0,5.0,762 E Wythe Creek Ct,coffee shavedice,43.4880608,-116.4041325
+0,LhKliGqK3k6eeodJSiKaFA,Tortuga Hawaiian Shave Ice,OR,Ontario,97914,1.0,4.0,2671 SW 4th Ave,foodtrucks shavedice,44.0252867428933,-117.001977860928
+0,Aaidrg1M50ShRkBuiQy0gQ,Kona Ice of Central Spokane,ID,Post Falls,83854,1.0,4.0,,shavedice foodtrucks,47.7174,-116.94343
+1,vp2gB1BdDj9Wf5DCaSiZ8Q,Poppy Unique Frozen Treats,WA,Spokane,99205,1.0,5.0,1921 W Northwest Blvd,icecream shavedice desserts,47.68142,-117.44135
+2,-er7PbqyP0pvSQjJlESrCQ,Dockside,ID,Coeur D Alene,83814,348.0,3.5,115 S 2nd St,salad newamerican desserts,47.67248,-116.78432
+3,bP0ay5MQWPBNM7LWPI0qDA,Choo Choo Tortas,WA,Spokane Valley,99206,126.0,4.5,10621 E Sprague Ave,mexican,47.6572237,-117.2618407
+4,RFDl3CxDw7ALvs_YIsjZPQ,The Human Bean,ID,Coeur D Alene,83815,27.0,4.0,380 E Neider Ave,coffee,47.70773,-116.78161
+5,OLtZ6kVFZuU2FcPHDhJEdA,"The Human Bean Hayden, N. Government Way",ID,Hayden,83835,6.0,4.0,8712 N Government Way,coffee,47.75081,-116.78617544
+0,7Jn9Z1fY4asDfQZK8TFsDw,Black Straw Tea Bar & Kitchen,WA,Spokane Valley,99206,102.0,4.5,11808 E Sprague Ave,bubbletea coffee noodles,47.6568113,-117.2461345
+1,0Q25v3E2To_J3xqJXsz6_A,BocoPOP,WA,Liberty Lake,99019,51.0,5.0,21980 E Country Vista Dr,coffee bubbletea,47.666832985497116,-117.10971741356934
+2,R0FFuhTBQQbcvMK0GME_6Q,Hokkaido Ramen CDA,ID,Coeur d'Alene,83815,22.0,4.0,2824 N Ramsey Rd,ramen bubbletea,47.70366,-116.80754
+3,TAFnYdd3FMb-U1E0q6b3gw,Awaken Coffee,ID,Coeur d'Alene,83815,7.0,4.0,5767 N Atlas Rd,coffee,47.7243707609539,-116.830302381004
+4,16wovuxO_-S2QnEooIdb4Q,Boba Bubble,WA,Spokane,99207,41.0,3.5,4750 N Division St,coffee bubbletea,47.70197,-117.41037
+5,zPsD7_upNQ-OYKjLHvzH2w,The Tea Boba Bar,WA,Spokane,99201,18.0,3.5,1227 W Summit Pkwy,bubbletea,47.6616207205649,-117.43083547325912
+6,HDh1Vg4j0RwDEnZ_iSB79Q,Poke Express & Boba Tea Time,WA,Spokane,99208,72.0,4.5,113 W Indiana Ave,poke bubbletea seafood,47.674721,-117.413595
+7,tozLAcHKmo9mZTaqNupQdQ,Kokoro Ramen And Boba Tea,WA,Veradale,99037,67.0,3.5,509 N Sullivan Rd,coffee bubbletea ramen,47.66238,-117.197277
+8,wI_8Hc7zR15nM7xq66OS0g,Poke Express,WA,Spokane,99218,22.0,4.0,12208 N Divison St,seafood bubbletea hawaiian,47.76826,-117.40432
+9,lsGVFUCijCFL3CCqdA7wKw,Tea's Company,WA,Spokane,99201,2.0,2.5,808 W Main Ave,bubbletea tea,47.65961,-117.42387
+10,1092Zo00L4LTKsVkWFaxKA,Chinatown Restaurant,ID,Coeur d'Alene,83814,101.0,4.0,512 W Appleway Ave,chinese,47.70044,-116.79387
+11,cmsh0vNpA3hsaOlSe_AeKA,Pho Liberty,WA,Liberty Lake,99019,68.0,3.5,23505 E Appleway Ave,vietnamese,47.677822,-117.089051
+12,DlpXJIMvS7TTgF7HReADEA,Vina Asian Restaurant,WA,Spokane,99205,175.0,4.0,2303 N Ash St,vietnamese soup asianfusion,47.67882,-117.43729
+13,nT7KmKGY0HNowTQ1sz2H9Q,Poke Express,WA,Spokane,99223,9.0,3.0,2829 E 29th Ave,bubbletea poke juicebars,47.629030002975135,-117.36825738836252
+14,moUqkEGAu7a9J5p9VWG4vQ,Star Restaurant & Lounge,WA,Spokane,99202,22.0,2.5,1329 N Hamilton St,lounges bubbletea karaoke,47.670295715332,-117.396812438965
+15,Q0l4bMratNE3OM0vt4weYA,China Inn,ID,Coeur d'Alene,83814,55.0,4.0,310 N 4th St,chinese,47.6754264831543,-116.780883789062
+16,wdjDKV-UwD7J4slWuncf4Q,Lalozy,WA,Spokane Valley,99216,33.0,4.5,13917 E Trent Ave,chinese coffee thai,47.6948089599609,-117.217750549316
+17,zPjHz1JWrqTD56K49Mm7PA,Fueled Coffee,WA,Spokane Valley,99206,1.0,4.0,12303 E Grace Ave,coffee bubbletea,47.6840995744691,-117.239435207968
+18,rtQHc1nmkRzLbp_7bWYKrQ,Le Teriyaki & Pho,WA,Spokane,99207,64.0,4.0,2018 N Hamilton St,vietnamese,47.6764433304477,-117.396241131644
+19,RuGWs59PH-GXMjwn2bD08A,Vien Dong,WA,Spokane,99202,83.0,4.0,3435 E Trent Ave,vietnamese chinese,47.66902,-117.35934
+20,fIa8Nv5zBxHnJxC3BygegQ,Kobe Hibachi Sushi and Bar,WA,Spokane,99207,126.0,3.5,2819 N Division St,japanese sushi,47.6840776487905,-117.411908946296
+21,m788dtjvOHr-ExFQKm6_CA,Pho Thinh,WA,Spokane,99208,140.0,4.0,6022 N Division St,vietnamese,47.7131036928348,-117.411067904356
+0,l1_c-52z38J6jT0Tvdty_w,The Spot,UT,Heber City,84032,3.0,4.5,890 S Main,shavedice,40.4962272644043,-111.414680480957
+1,oKlZkOlrUgspi_qqdXbkPw,North Shore Hawaiian Shave Ice,UT,Pleasant Grove,84062,6.0,4.0,348 S Main St,shavedice icecream,40.3597412,-111.7408371
+2,7eZNfKaBzDcHhT5khJ8uIg,Hokulia Shave Ice,UT,Orem,84057,17.0,4.5,1660 N State St,desserts shavedice foodstands,40.3276939,-111.7075278
+3,yhk1fMdQt0KWIc2qZW--Vg,Hokulia Shave Ice,UT,Sandy,84094,7.0,4.5,10305 S1300 E,shavedice,40.56394,-111.85185
+4,zJNJ_gIAv7mPGIBocgBdJw,Breeze Shave Ice,UT,Eagle Mountain,84005,1.0,5.0,3601 E Campus Dr,shavedice foodstands,40.3798358069244,-111.973363496999
+5,3y-90d9gLa0yUibg0flDvQ,Hokulia Shave Ice,UT,Provo,84604,44.0,4.5,1501 N Canyon Rd,shavedice,40.25391,-111.65635
+6,kuOvn9S7sweY7nOGCUhQKQ,Hokulia Shave Ice,UT,Cottonwood Heights,84121,19.0,5.0,1900 Ft. Union Blvd,shavedice,40.624399,-111.8376011
+7,wX3Iw4aa9c2Dj8vA5EAzyg,Hokulia Shaved Ice,UT,South Jordan,84095,5.0,4.5,10400 S Redwood Rd,shavedice,40.5498809814453,-111.938690185547
+8,30yA01Fh3fMz_4-qcfrhzQ,Hokulia Shave Ice,UT,Draper,84020,9.0,4.5,1212 E Draper Pkwy,shavedice foodtrucks,40.5280992011144,-111.855123794075
+9,h9_mu9DIpFNIQEpghwb6EQ,Aloha Surf Shack,UT,Salt Lake City,84109,1.0,5.0,1980 E 2700 S,shavedice icecream,40.71258,-111.83443
+10,yl_fP8oV3SM3BYE4qaUsbA,Ocean Ice,UT,Sandy,84093,2.0,5.0,2039 E 9400th S,icecream desserts shavedice,40.580834,-111.832968
+11,Zv8PP0HXnqfHFfdY7NJtRw,Hokulia Shave Ice - Cedar Hills,UT,Cedar Hills,84062,1.0,5.0,4301 Harvey Blvd,icecream shavedice juicebars,40.4063712,-111.7616687
+12,FsrcXCF6hFJrzTS_IEzRsQ,Vampire Penguin,UT,American Fork,84003,101.0,4.5,356 N 750th W,desserts shavedsnow,40.384628,-111.81844
+13,CWBT_-l_fD1l26Un7hgxjQ,The Yeti Hut Shaved Ice,UT,Pleasant Grove,84062,2.0,3.0,220 N 600 W,desserts shavedice,40.3667852,-111.7491227
+14,59kuPdrbUkzuXvmQSq-dGg,Shiver Shave Ice,UT,American Fork,84003,2.0,2.5,700 N 900th W,shavedice,40.3907897447242,-111.82077943305
+15,NbBtL6tKXMD65E4BqKpp0A,Hokulia Shave Ice - Highland,UT,Highland,84003,9.0,4.0,5521 N Timpanogos Hwy,shavedice,40.431260531433665,-111.7893956843145
+16,lfcXSnJn2t3x0-sR0-GfwQ,Bahama Buck's,UT,Provo,84604,52.0,4.0,2265 N University Pkwy,shavedice juicebars catering,40.26381,-111.66944
+17,iGWAK75D4kq3jxmtOHlAQQ,Hokulia Shave Ice,UT,Saratoga Springs,84045,3.0,5.0,2220 S Talonscove Dr,shavedice juicebars icecream,40.32146257507003,-111.9011380853333
+18,Qp1GQpGgd3p_jhtT7xXDCw,WE ice Gourmet Shave Ice,UT,Eagle Mountain,84005,2.0,4.5,4045 Pony Express Pkwy,shavedice foodtrucks,40.36389860030184,-111.96618800816884
+19,8WKqG7nIjaizTLHFkknu4Q,Lucky's Hawaiian Style Shave Ice,UT,Lehi,84043,15.0,4.0,188 W Main St,shavedice,40.387918,-111.851946
+20,SvRsjgl0tiv93tVoU5018A,Orem Summer Sno,UT,Orem,84097,6.0,4.0,1323 E 800th N,shavedice,40.312604,-111.664227
+21,KWk-DQBYhkWfORKSiLTzlA,Bahama Buck's,UT,Draper,84020,112.0,3.5,582 E 12300th S,shavedice juicebars,40.5263225722815,-111.875140014192
+22,y6QxEDibBc4RpHkjv3WdbQ,Hokulia Shave Ice,UT,Riverton,84065,9.0,3.5,1977 W 12600 S,shavedice,40.52173,-111.944
+23,iDBloc0kE1TKkoGWPV9Bog,The Shack Shave Ice,UT,Draper,84020,1.0,4.0,1212 Draper Pkwy,shavedice icecream,40.5115201,-111.8568942
+24,o5zQj7iKeog65TXXIeUheg,Snoasis,UT,Alpine,84004,17.0,4.0,424 Alpine Hwy,shavedice,40.44730934134285,-111.78035444030722
+25,90tStv8Rvn68ga0Hj_RUcA,Finest Sno On Earth,UT,Sandy,84070,17.0,5.0,725 East 10600 S,shavedice,40.560012,-111.871505
+26,wQMs2884as6gpkj_oP-xRg,Kailea Hawaiian Shaved Ice,UT,Holladay,84121,2.0,5.0,6271 S Highland Dr,shavedice shavedsnow,40.637697,-111.834032
+27,GwnPZfL8lWKgpiG9r6aPsg,Hokulia Shave Ice,UT,Orem,84058,2.0,5.0,396 S State St,desserts,40.29011,-111.69327
+28,gCcoxzZeWKc8xkAtjg9doQ,Lucky's Hawaiian Style Shave Ice,UT,Pleasant Grove,84062,1.0,1.0,892 E State,shavedice,40.352891,-111.733303
+29,dUDqmGqVXWlxrA96x0rtLg,Snoasis,UT,Eagle Mountain,84005,10.0,3.0,3604 Pony Express Pkwy,shavedice foodstands icecream,40.361712,-111.974816
+30,ajo6zg6BSXXDbrxvkQyzAg,Hokulia Shave Ice,UT,Herriman,84096,5.0,4.0,5560 W 13400th S,shavedice foodtrucks,40.508443892832,-112.023654231965
+31,YIPvFz9dSz7cM4A-P8fofw,Icy Mountain Shaved Ice,UT,Salt Lake City,84109,4.0,5.0,2272 E 3300th S,shavedice,40.69916441770898,-111.8255715426046
+32,7BqGowOX__dvyowKz2K_DQ,Hokulia,UT,Salt Lake City,84124,17.0,4.5,3981 S Wasatch Blvd,shavedice icecream,40.685047,-111.795662
+33,yKJLdqJxdlLoSy6aoaDKSg,Just-A-Craving,UT,Taylorsville ,84129,7.0,5.0,2594 W 4700th S,shavedice,40.66890329775857,-111.95566914938306
+34,nJbCu4FLDjJquSPUUf9bNA,Maui Authentic Shave Ice,UT,Provo,84601,1.0,3.0,560 W Center St,shavedice desserts foodtrucks,40.234105,-111.668556
+35,XDpseJ0WZdil8SZoLo_gNA,The Shack Shave Ice,UT,West Jordan,84084,1.0,5.0,7071 S Redwood Rd,shavedice,40.622833,-111.937552
+36,CwIVJAsLx81vvrAlApltjw,Shiro Kuma Snow Cream,UT,West Valley City,84120,165.0,4.5,2843 S 5600th W,desserts waffles shavedsnow,40.70831903550711,-112.02437736410188
+37,OvBltFSeQwpUUPX99WemBA,Frost Bites Shaved Ice,UT,Orem,84058,3.0,4.0,851 W 1250 S,shavedice,40.2750307126236,-111.716394944393
+38,NNWuCyzJPrgcWViajyvslA,Meet Fresh,UT,Salt Lake City,84115,166.0,4.0,3390 S State St,desserts bubbletea shavedice,40.697917,-111.889417
+39,t2sEdL7BddMT-imriXvUgQ,Kenna's Snow Shack,UT,Salt Lake City,84088,7.0,4.5,2735 W 7800th S,shavedice,40.725293,-111.825975
+40,lvi_RmCT1WRRFU8gzEwiQg,Bob's Brainfreeze,UT,Salt Lake City,84109,7.0,4.0,3131 E 3300th S,shavedice,40.70013306136972,-111.8044076
+41,MF84O0JHKdhzsZKhLmjP3A,Nice Ice Baby,UT,Sandy,84070,3.0,3.5,7830 S 700 E,shavedice,40.6088663,-111.8722097
+42,ARln8deYJxwc8b4K69Mt6A,Nice Ice Baby,UT,West Jordan,84088,1.0,5.0,4080 W 9000th S,shavedice,40.58808125461092,-111.98662965976885
+43,b9hbGJx7k86lJ_rEqIM_nw,MAKANMAKAN,UT,Sandy,84070,379.0,4.5,33 E 11400th S,indonesian singaporean malaysian,40.5444549,-111.890276
+44,9LH-GdikqK1owxzu60whtQ,Nice Ice Baby Shave Ice,UT,West Jordan,84081,1.0,5.0,5710 W 7800th S,shavedice,40.611548,-112.027262
+45,6Y-nKBTiQgwYICFT2jVDyQ,Honolulu Grill - West Jordan,UT,West Jordan,84088,103.0,4.5,8860 S Redwood Rd,hawaiian burgers bbq,40.5905,-111.93935
+46,qS8gmRKGMEXRpe8yAuuxnQ,Nice Ice Baby,UT,South Jordan,84009,6.0,3.5,3540 W 9800th S,shavedice,40.56799,-111.97533
+47,IE-eFMcVBgCcqN-gjwewJg,Hokulia Shave Ice,UT,Eagle Mountain,84005,1.0,5.0,4038 N Ira Hodges Scenic Pkwy,shavedice,40.30617,-112.01627
+48,gt5bN_465Mjnyh_NRIB1lg,Hokulia Shave Ice & Catering,UT,Salt Lake City,84120,5.0,3.0,4790 W 3500th S,shavedice,40.69674,-112.00526
+49,125KMBsOHiwGzWXMe1F_Gg,Zeppe's,UT,Salt Lake City,84111,13.0,4.5,51 Main St,shavedice icecream,40.768309,-111.890676
+0,Z5chjCWBfpWD-g_6dTf6gQ,Sno Shack,UT,Salt Lake City,84109,2.0,3.0,2269 E 2100 S,shavedice,40.7255993,-111.826095
+1,YDqRLjngm8kobiX-aEGjAA,African Ice,UT,Cottonwood Heights,84121,1.0,3.0,2029-2065 Fort Union Blvd,shavedice,40.624853424953,-111.833978542246
+2,SS3USmLVtP0l3Kh1HWk-kA,Sweet Ice Hut,UT,Salt Lake City,84118,1.0,5.0,,shavedice catering,40.6598739624023,-112.002868652344
+3,kJKbN0ZxqwWtK_cmdcppCw,Boba Beehive,UT,Orem,84057,10.0,4.0,266 N State St,bubbletea,40.30196,-111.69671
+4,0JnqEj8Yc5fYKR6G-EET7A,Zeppe's,UT,West Jordan,84088,20.0,4.0,8989 S Redwood Rd,shavedice icecream,40.5879975720709,-111.938322633505
+5,4s8hfNcPBDlsqiuT4tTcEA,Moki's Hawaiian Grill,UT,Taylorsville,84123,229.0,4.0,4836 S Redwood Rd,hawaiian,40.6644075,-111.9389849
+6,hdf-OdtYzRQTKDlM3kpMMg,Fruity’s,UT,West Valley City,84120,2.0,2.5,3348 S 5600th W,icecream juicebars shavedice,40.698978,-112.026368
+7,seKkrQthF3Uo7xlCYGbVJw,The Dessert Collective,UT,American Fork,84003,6.0,4.0,496 N 990 W,desserts,40.38726,-111.82523
+8,pmqY63BfYGcynnpJdGw2VA,Cloud Ninth Creamery,UT,Salt Lake City,84105,26.0,4.0,928 East 900 S,gelato shavedice,40.74960950276248,-111.8643922
+9,do-DYf-IxmKQuu8OQ6ePIQ,Snowie Shaved Ice,UT,Salt Lake City,84119,2.0,3.0,1006 Beardsley Pl,shavedice,40.71838,-111.91938
+10,hL45WYRLAh0SoWDd1obDfg,Hruska's Kolaches,UT,Provo,84601,580.0,4.5,434 W Center St,bakeries breakfast_brunch,40.234035,-111.666122
+11,dC3laqyBAHaMK8nF61xo5Q,Nice Ice Baby,UT,South Jordan,84095,2.0,4.0,3640 W 9800th S,shavedice,40.5733451,-111.9773246
+12,uFlwGr9G4BZ8i73bcIIF9w,BAMBU,UT,South Salt Lake,84106,83.0,4.0,3310 500th E,juicebars bubbletea vietnamese,40.69963,-111.87713
+13,2ZTdrbKT1CCPdssJddpQ3A,Myung Ga,UT,West Valley City,84119,343.0,3.5,3353 S Decker Lake Dr,korean,40.699234,-111.946985
+14,RflqO8kc-B5BkRQekW4VsA,BFF Turon,UT,West Jordan,84088,106.0,4.5,8860 S Redwood Rd,filipino bbq icecream,40.590371,-111.939271
+15,GcT6bR-dh2pB3_rJDOEIsw,Mom's Kitchen,UT,Salt Lake City,84115,350.0,4.0,2233 S State St,chinese noodles,40.7221186739204,-111.887849568123
+16,rMFecTvqEttPnHAppB7mhg,Swig,UT,Lehi,84043,80.0,3.0,1325 E Main St,juicebars desserts bubbletea,40.3888066,-111.8279014
+17,Vy6C0HXZUY4TSAwgGg1ZVg,Mo' Bettahs Hawaiian Style Food,UT,Salt Lake City,84115,315.0,4.0,335 W 1830th S,hawaiian,40.73019,-111.90074
+18,IzjQcm0m-fZ8gZvPuKYwCA,Stun Cube,UT,Salt Lake City,84115,217.0,5.0,2732 S State St,korean asianfusion,40.711968,-111.888762
+19,QsajkK7EhWX_m8DkXQHTzg,Tea Bar,UT,Salt Lake City,84106,374.0,3.5,1201 E Wilmington Ave,tea bubbletea coffee,40.7235453138784,-111.85681210318
+20,CEvH7l4rI8sFk_R2eXmbFw,Pleiku,UT,Salt Lake City,84101,323.0,4.0,264 S Main St,vietnamese asianfusion,40.7633171,-111.8913727
+21,Q7l6_-G9CPKtBSOEshBzCw,Finca,UT,Salt Lake City,84105,57.0,4.0,1513 S 1500th E,spanish tapasmallplates,40.736757981531504,-111.84771777880303
+22,so-2SJSsfSf5s8kMPuRnPQ,Bakes N' Bubbles,UT,Murray,84107,8.0,4.0,6014 S State St,bubbletea bakeries,40.639835,-111.889389
+23,PU1kIFs4tfNr6V0XbOAFkQ,Shoots,UT,Provo,84604,74.0,4.0,4801 N University Ave,chinese,40.29926952181564,-111.6574731664702
+24,2WInnUcSBUO-2pgW9iTHSw,Swig,UT,Provo,84604,113.0,3.0,1523 N Canyon Rd,desserts bubbletea juicebars,40.2543,-111.6564313116567
+0,qz0Lu_hc5q9bAjGuQiyreg,Chat Chat Boba,UT,Orem,84097,30.0,4.5,575 E Unversity Pkwy,bubbletea juicebars,40.275198,-111.680696
+1,uz_Ig0ohPCjiaGdeKyM5Ow,Da Cloud Boba Shoppe,UT,Pleasant Grove,84062,13.0,4.0,1051 S Valley Grove Way,bubbletea,40.3517055,-111.76416538352358
+2,asQI-htQqdVUi5BQgqXg-w,Cafe Trang Bistro,UT,Lehi,84043,103.0,4.0,1881 W Traverse Pkwy,vietnamese sandwiches bubbletea,40.4332242745228,-111.880712317396
+4,QuoqSUEU6Hj5z_GoeV7TtQ,Presotea Utah,UT,Midvale,84047,44.0,4.5,7710 Union Park Ave,bubbletea coffee,40.6116984,-111.8544905
+5,ZB5fq_OmwO_k3s2YXKiKyg,Cafe Trang Bistro,UT,American Fork,84003,22.0,4.5,529 S 500 E,bubbletea vietnamese sandwiches,40.36620778359501,-111.7849229
+6,Ot7ghWLdkDf-y8iaXQZ4LQ,Boba Luv,UT,Orem,84097,10.0,4.5,541 E University Pkwy,bubbletea,40.27478841319463,-111.68372600000076
+7,BskrccUgPCQD_vjbFYbK_A,Boba Fever,UT,Provo,84601,2.0,4.5,100W Center St,streetvendors bubbletea,40.23329,-111.66228667
+8,Xu7qBIktM9xMhb9c9Z2SKw,Pho No. 1,UT,Pleasant Grove,84062,142.0,4.0,426 E State St,vietnamese,40.3533210754395,-111.733833312988
+9,UUx36Xfo_TXdMsVFwSjxpg,Bubbles,UT,Sandy,84070,49.0,3.0,7832 S 700th E,juicebars desserts bubbletea,40.6089399,-111.87284
+10,RPF4fuwMJ62lHIn4xQGWwQ,Ding Tea,UT,South Jordan,84095,31.0,4.5,10382 S Redwood Rd,bubbletea coffee juicebars,40.56272747140677,-111.93951
+11,G7cCiuU_AGRBFmCOhauatg,Space Tea,UT,Salt Lake City,84111,115.0,4.5,1085 S State St,bubbletea juicebars icecream,40.74524338017903,-111.88800503210383
+12,Igf8QsHPTwLuG0qCIl-q7A,Kung Fu Tea,UT,Salt Lake City,84102,171.0,4.0,464 S 600th E,coffee bubbletea juicebars,40.759069,-111.874465
+13,ZbaEYrfIVwFVoVfAKcwF3w,Kung Fu Tea,UT,Draper,84020,22.0,4.0,191 E 12300 S,bubbletea juicebars coffee,40.52714886155768,-111.8854748671062
+14,wPN3zEtnlS_yxHUWDyM34A,Irie Coffee Teas & Bobas,UT,West Jordan,84088,38.0,4.5,3961 W 9000th S,coffee bubbletea icecream,40.5865615337439,-111.985666849213
+15,IhjamAScVzjLuI5ky5BtYw,Tiger Sugar,UT,Salt Lake City,84115,50.0,4.0,3390 South State St,bubbletea coffee desserts,40.69799961674084,-111.88949204039585
+16,20wMvbm-FR78jtH5MC9zpg,Happy Teriyaki,UT,Pleasant Grove,84062,9.0,4.5,1882 Pleasant Grove Blvd,asianfusion bubbletea,40.35074,-111.76798
+17,YkGXTATjFjjbv00kCvq55Q,Boba Bee,UT,Provo,84601,21.0,4.0,180 N University Ave,bubbletea sandwiches juicebars,40.2360097529268,-111.65840663763667
+18,DDsHiW96ZZJrhO4Wx1tJRg,Sharetea,UT,Orem,84058,21.0,4.5,160 E University Pkwy,bubbletea coffee juicebars,40.27307,-111.69111
+19,psIHBmLAn-Yn3pPhn9ekJg,The Orange Peel,UT,Sandy,84070,111.0,3.5,82 W 11400th S,bubbletea juicebars,40.5444537952002,-111.891686059535
+20,CE1hWWQKyAxDAlSk8Rf98A,Blue Blue,UT,West Valley City,84119,23.0,5.0,3599 S 2700 W,bubbletea juicebars,40.6944498,-111.957899
+21,U6YhdveDKGCjnRWKf9md3A,Sharetea,UT,West Valley City,84119,14.0,4.5,3460 S Redwood Rd,bubbletea coffee juicebars,40.69772,-111.93985
+22,2-NXcuMSP30cTGEcmYanUw,Vivi Bubble Tea,UT,Salt Lake City,84102,12.0,3.5,665 E 400th S,bubbletea,40.76092,-111.87199
+23,NezeKmhMZsnq9IbtbXmPyg,You & I Kitchen,UT,Sandy,84094,4.0,4.5,8528 S 1300th E,vietnamese bubbletea sandwiches,40.59640692917687,-111.85445820582895
+24,PvfygnbvmAWNkfrvyWUp1A,Bubble House Cafe,UT,Provo,84601,9.0,4.0,490 N Freedom Blvd,bubbletea juicebars coffee,40.24029527701749,-111.6619864167436
+25,FCwlRzmz9iKPYVvjqQKowQ,Queen Tea,UT,Taylorsville,84129,48.0,4.5,2971 W 4700 S,bubbletea juicebars,40.667305,-111.963292
+26,XpVgOwWdx93O3nQFjbZjcQ,The Orange Peel,UT,Springville,84663,24.0,3.5,1851 W 500th S,coffee juicebars bubbletea,40.1597099,-111.64426
+28,Oj3YNiuowzNhEpCnsJTfKQ,Pirate O's,UT,Draper,84020,183.0,4.5,11901 S 700th E,gourmet delis,40.5340172,-111.8706635
+29,-nUkkhdG6dOXhdDSabBrIQ,7Buddha Tea House & Desserts,UT,Murray,84107,77.0,4.0,4913 S State St,desserts juicebars bubbletea,40.6648047577031,-111.888018809259
+30,umweXxQBRJ3iTcD2-pjsOw,Swig,UT,Draper,84020,92.0,3.5,437 E 12300th S,bubbletea juicebars desserts,40.5270601,-111.8785393
+31,Sl6Uy4xo5I85qjXEcNmHrA,Ding Tea,UT,Salt Lake City,84120,39.0,4.5,2927 S 5600 W,bubbletea,40.70699,-112.024254
+32,8K5TzB8grFRuJo-9L1UO1A,Swig,UT,Cottonwood Heights,84121,2.0,4.0,2065 Fort Union Blvd,desserts juicebars bubbletea,40.62482,-111.83258
+33,gunPCb4U5aq-DN-KtA85Hg,Swig,UT,South Jordan,84009,52.0,3.5,11528 S 4000th W,juicebars desserts bubbletea,40.5420287,-111.986666
+34,Gh2nOqMsdTIVFIdr4MtE0w,Swig,UT,Orem,84057,69.0,3.0,584 W 1600th N,desserts juicebars bubbletea,40.32682128,-111.71009759
+35,ZQMcQnLxf-ez8p1wzIyFNQ,Gossip Tapioca,UT,West Valley City,84119,328.0,4.0,1629 W 3500th S,vietnamese chinese bubbletea,40.695746,-111.9370553
+36,_1g8jP8isH3qVGHk8O8DIg,Food For Thought,UT,Draper,84020,113.0,4.0,12640 Fort St,coffee breakfast_brunch bubbletea,40.5218021,-111.8648467
+37,jqmOsUA5Mxi5ie90BqT0cg,Quickly,UT,West Valley City,84119,112.0,4.0,3521 West 3500 S,bubbletea juicebars coffee,40.6951624683423,-111.97515
+40,vKyPVA12inOedBf8FoRpfg,Koi Ramen,UT,Provo,84604,76.0,4.0,1283 N University Ave,ramen bubbletea noodles,40.25173,-111.65927
+41,7BacMfUCIq3FwdaFuuf9lA,Bubbles Drinks and More,UT,Taylorsville,84129,9.0,3.5,3970 W 5400 S,bubbletea juicebars desserts,40.6533941621202,-111.985855
+42,hC-HsGO6Bqyk9kpbAepFlw,Casual Tea,UT,Provo,84604,1.0,5.0,1195 N Canyon Rd,bubbletea,40.25002,-111.656985
+43,9906qEGdAyMD57jXTVkRYw,Watchtower Coffee & Comics,UT,Salt Lake City,84115,113.0,4.5,1588 S Main St,coffee comicbooks vinyl_records,40.7350406,-111.89156
+44,eoAirwzktuDNqeQSoZTTfA,Caffe DBolla,UT,Salt Lake City,84111,188.0,4.0,249 E 400th S,coffee coffeeroasteries,40.76088,-111.88368
+45,ltiEImysgycL5sF46ztIxA,Ding Tea,UT,Taylorsville,84123,63.0,4.0,5624 S Redwood Rd,coffee bubbletea juicebars,40.6489003,-111.9389987
+46,7UUaDv7S8nViB1eUecFr3w,Swig,UT,Cedar Hills,84062,5.0,3.5,9971 N 4700 W,desserts juicebars bubbletea,40.41454,-111.77169
+49,yXE4LKQWRXxdv99VumhcHA,Yuchi Crispy Crepes,UT,Salt Lake City,84121,3.0,4.0,,creperies bubbletea foodstands,40.6210656,-111.8171374
+0,0UhyDWSD9Md1QbzLDfJCxg,Foodie and Sweetie DMarket,UT,Salt Lake City,84103,139.0,4.0,89 N D St,chinese bubbletea noodles,40.771556,-111.879332
+1,r48538YHDGwSAoeeOUCxGA,Lollicup,UT,Salt Lake City,84119,68.0,3.0,3197 S Redwood Rd,coffee bubbletea juicebars,40.702156,-111.938247
+2,XgGGSX1MQwnUwiszHTzXkA,Pho Plus,UT,Orem,84097,175.0,4.0,908 S State St,vietnamese,40.2807156577199,-111.687843173682
+3,g8AZXbq4SuAWsVlzO869Pw,Hello K Tea,UT,Murray,84107,9.0,3.5,6191 S State St,foodtrucks bubbletea,40.6361903234987,-111.88634108752
+4,CJhCwnNGwD_w9FVGa4Gg7A,L & P Bakery Cafe,UT,Sandy,84094,16.0,5.0,895 E 9400 S,bakeries bubbletea juicebars,40.581407,-111.86623
+5,hiu0oX6Sm0A3Avy93SdlGg,Koi D Bar,UT,Salt Lake City,84111,89.0,3.0,655 S State St,icecream juicebars bubbletea,40.754802,-111.887748
+7,Ko6bZurpTKMwWyZxB4rfTA,Swig,UT,Salt Lake City,84109,21.0,3.0,2330 E 3300th S,desserts juicebars bubbletea,40.69959,-111.82383
+9,mLx7cC9B8nJGNjW-szOMSw,Sushi Up,UT,Orem,84057,132.0,4.0,1166 West 800 N,sushi japanese korean,40.3126252218693,-111.722002032985
+10,gv1SoEW5q-vsCX3eRo9huA,Swig,UT,Murray,84117,72.0,3.0,5575 S 900th E,desserts juicebars bubbletea,40.6500457,-111.86564
+11,JnpxV2qdkrgnWrJYbv3bdw,AbouTea,UT,South Salt Lake,84115,8.0,4.5,3424 S State St,bubbletea tea,40.6969,-111.88974
+12,4Woq9ptIzXlpAp-rnMfQpw,Swig,UT,West Jordan,84088,2.0,4.5,7859 South 3200 West,desserts juicebars bubbletea,40.60857,-111.96598
+13,0L0rCHXAa18Oa4rtzZpsyA,Cafe Trang,UT,South Jordan,84009,14.0,3.5,5398 W Daybreak Pkwy,vietnamese bubbletea sandwiches,40.53828915288855,-112.01946102860924
+14,gwrQbRTa5LC5BL1UbtVN7Q,Swig,UT,Lehi,84043,39.0,3.0,1881 W Traverse Pkwy,desserts bubbletea juicebars,40.43353,-111.88053
+15,Gd-pSiVRymUyauxbpWSkhw,Pho To,UT,Taylorsville,84123,134.0,3.5,5308 S Redwood Rd,vietnamese,40.6547263,-111.9389749
+16,m8ciGpyBQcqJiqpMWAskdw,Yogurt Stop,UT,Sandy,84093,16.0,3.5,8755 S Highland Dr,icecream bubbletea juicebars,40.5924102934625,-111.832593647997
+17,TEHccKcy7Q_TSAp6adbRqA,Koino Poke,UT,Midvale,84047,59.0,5.0,7186 S Union Park Ave,poke hawaiian bubbletea,40.62110556640329,-111.85827550480201
+18,TJVicNEzy7AN9ELovnH9dQ,Sozo Kitchen,UT,Salt Lake City,84115,33.0,4.0,1445 S State St,taiwanese bubbletea noodles,40.7381813,-111.8879362
+19,OxeCN0s6ai6bf4f0-NEOYQ,Swig,UT,Taylorsville,84129,4.0,3.5,1815 West 4700 South,desserts juicebars bubbletea,40.66621984,-111.94099124
+20,KsWYF38EmTXWlZpRAzy6Zg,Swig,UT,Orem,84058,1.0,4.0,98 E 1300th S,desserts juicebars bubbletea,40.27332,-111.69293
+21,3j64RBIC6sS-8P--ZW2OEw,Hanaya Poke SLC,UT,Salt Lake City,84106,218.0,4.5,675 E 2100th S,poke bubbletea hawaiian,40.726033,-111.872416
+22,nOy3g4STgL2Xry0cQfCmew,SASA Kitchen,UT,Salt Lake City,84108,148.0,4.0,2095 E 1300th S,chinese bubbletea,40.742064,-111.831055
+23,pblKeK4G6a-TxMg7IdXMYA,Bubble Haus,UT,Provo,84601,2.0,3.5,490 N Freedom Blvd,bubbletea waffles,40.2402138,-111.6618917
+24,MLw5EPO1T9xM5pjCtcqf2Q,Thai Archer,UT,Salt Lake City,84105,144.0,4.0,1429 S 1100th E,thai,40.7386801,-111.85934
+25,7yMoGYaBTkQAqKvYI11uug,Swig,UT,Draper,84020,24.0,4.0,196 W 12300th S,desserts juicebars bubbletea,40.527402,-111.89772011
+26,1VcwpLywY5nLWmmJN8D7Qw,Swig,UT,American Fork,84003,4.0,3.0,135 E. Main St,desserts juicebars bubbletea,40.37713,-111.79539
+27,ruFolO77VC3fZhvB8p06kg,Tornado Crepe,UT,West Valley City,84119,6.0,4.0,3601 Constitution Blvd,bubbletea juicebars creperies,40.6976398827906,-111.940499916673
+28,ompSxDmD73lIhh-XRvGr9A,Swig,UT,South Jordan,84095,2.0,3.0,1573 W 11400th S,desserts juicebars bubbletea,40.54385,-111.93567
+29,HwdHuz8F8LVGQ-ldkY7xjw,China Town Eatery,UT,Salt Lake City,84115,123.0,3.5,3370 S State St,dimsum bakeries cantonese,40.698059,-111.889228
+30,YNd-1W85-MJ6AvORNh3Sug,Swig,UT,West Jordan,84088,6.0,3.0,3173 W 7800th S,desserts juicebars bubbletea,40.609,-111.9668823
+31,6ThbZyXjPRlxtsmjCJObEg,Pho Thin,UT,Salt Lake City,84106,249.0,3.5,2121 Mcclelland St,vietnamese noodles sandwiches,40.72455,-111.86115
+32,ZbztAoM1ghXRg1aUsDC0qg,Indochine Vietnamese Bistro,UT,Salt Lake City,84102,226.0,3.5,230 S 1300th E,vietnamese chinese,40.7640467379058,-111.85421942317
+33,WL1trjyhhxpAkXxZ0DD9_g,Swig,UT,Vineyard,84059,11.0,4.0,554 N Mill Rd,desserts juicebars bubbletea,40.30733051,-111.73837176
+34,ISLU4wYEjXjnBlajFJfVzg,Uncle Sharkii Poke Bar,UT,Salt Lake City,84047,6.0,3.0,28 S State St,poke bubbletea hawaiian,40.768504,-111.888909
+35,P5VeHoz2byEVCCypWr5Bcw,Tamashi Ramen & Sushi Bar,UT,American Fork,84003,76.0,4.0,466 N 900th W,sushi ramen thai,40.38701,-111.82027167
+36,4WiWaISD3SA1j14GfB-SNw,Swig,UT,South Jordan,84009,18.0,3.5,5462 W Daybreak Pkwy,desserts juicebars bubbletea,40.53807,-112.02166
+37,mnqmzQ3QSTd-a6kcvjjaSA,Ramen Legend,UT,Salt Lake City,84106,131.0,3.5,2118 Highland Dr,ramen tapasmallplates bubbletea,40.72467,-111.8598
+38,SioQvIXCGQgLO_mGEtCXNw,Pho Little Saigon,UT,Taylorsville,84123,44.0,3.0,1783 W 4200th S,vietnamese,40.680353,-111.940659
+16,tpwYjZEue2xwu7D-Y-bZVw,Möge Tee SLC,UT,Salt Lake City,84103,33.0,4.5,535 N 300th W,bubbletea desserts,40.78099,-111.9
+22,-8j3wLhgjjeBiW0iHtt0Rg,Ninja Ramen Bar,UT,Tooele,84074,38.0,4.0,1193 N Main St,ramen bubbletea,40.55431,-112.29889
+39,7OR8Mh2s_jCbWYQyBTwCbQ,Swig,UT,Tooele,84074,3.0,3.5,220 N Main St.,desserts juicebars bubbletea,40.53475046972335,-112.29786800204833
+32,O1lEdyG8PDCIPIlCAWSveA,Hokulia Shave Ice,UT,Bountiful,84010,22.0,4.0,2280 S Orchard Dr,shavedice icecream,40.8647804260254,-111.892921447754
+39,BaAkWWQQFnK5hlETowMLqw,Bahama Buck's,UT,North Salt Lake,84054,50.0,3.5,1015 N 500th E,shavedice juicebars acaibowls,40.86023,-111.89969
+49,BVhJPhA4wNoKLIyPKMaf8A,Mo' Bettahs Hawaiian Style Food,UT,Bountiful,84010,175.0,4.0,273 W 500th S,hawaiian,40.88394117,-111.88738414
+8,B0cI-n7knFD_aiVjEoNGNQ,Ding Tea Bountiful,UT,West Bountiful,84010,6.0,5.0,175 N 500th W,bubbletea coffee juicebars,40.89116782392819,-111.89272036653334
+27,N8iipHnUanWAa0VsO6Yh3Q,Boba World,UT,Woods Cross,84010,390.0,4.0,750 S 512th W,shanghainese bubbletea,40.88229,-111.892741
+2,FiOTdYl64bxTW05ALzwKuw,Swig,UT,Bountiful,84010,67.0,3.5,165 S 500 W,juicebars desserts bubbletea,40.88735,-111.8917334
+0,rHcIYb5D81AOUwp2tMpcIg,THE DAILY SHAVE,UT,Centerville,84014,2.0,5.0,,shavedice,40.92178,-111.87897
+2,wO_Nlo6-r2lBS1it8GB2AQ,Hokulia,UT,Farmington,84025,4.0,4.0,986 Shepard Ln,shavedice icecream,41.000888686545,-111.909217018423
+3,xceHvp1VPB1NAUhEdnin2g,Pala-Kai,UT,Kaysville,84037,1.0,5.0,230 W 200th N,shavedice,41.03847,-111.94257
+4,WMED1ta22KDoPkMA6pT77Q,Tropical Aloha,UT,Clinton,84015,1.0,5.0,928 W 1800th N,shavedice,41.13991,-112.0439033
+5,-Lw5F1xnZfefmuE8T3krCw,Little Cow,UT,Kaysville,84037,3.0,4.0,100 North Main,shavedice,41.0364799499512,-111.938575744629
+8,-VCvhod-ne_Ec7F_ZAgfFA,Hokulia Shave Ice,UT,Riverdale,84405,10.0,4.5,1083 W Riverdale Rd,shavedice icecream,41.17572,-112.004732
+9,gefNY3GxSA9JDFSkoOHzmQ,Fizz-N-Freeze,UT,Henefer,84033,1.0,5.0,520 North Main St,shavedice icecream,41.02297354739542,-111.50246575889558
+11,HJl07XzDH8CAH-7360UXQA,Hokulia Shave Ice,UT,Layton,84041,8.0,3.5,411 W 1425 N,shavedice,41.07999,-111.97541
+18,FiKgg1jBsj_OLZMVTbWhUw,Zeppe's Italian Ice and Frozen Custard,UT,Syracuse,84075,16.0,4.0,2033 W 700th S,shavedice gelato icecream,41.10339,-112.06494
+25,ZHsa49szSjBZHvg1wNXE_A,Soda Crazy about Italian Ice,UT,Layton,84041,49.0,5.0,1058 N Main St,desserts beverage_stores,41.0751995,-111.9809869
+28,Wo07BsNr62o2PrZ6ZtVGsA,Fiiz,UT,Kaysville,84037,40.0,2.5,315 N Main St,desserts shavedice juicebars,41.040062,-111.941394
+38,0wQHTdctzaLvoKcI836fpQ,Dakine Grindz Restaurant,UT,Sunset,84051,159.0,4.5,2465 N Main St,filipino hawaiian,41.1505,-112.026876
+44,_Obl_t3ZNHLbjgEbrQhZNg,Spanglish,UT,Layton,84041,17.0,5.0,1981 N Main St,foodstands,41.088524,-112.001058
+45,Yb9vbIJ6Iyjyh92t-YEEsA,Heat Pho,UT,Roy,84067,18.0,4.5,5651 S 1900 W,thai,41.160836970952,-112.027889303863
+49,vMmw3hEepz3IWN-ZW9Paqg,The Spanglish -Roy,UT,Roy,84067,2.0,5.0,5517 S 1900th W,mexican,41.163381262449214,-112.02627959355763
+7,nIR5plosA1NzRulqMAlAbg,Dakine Grindz Food Truck,UT,Sunset,84051,6.0,4.0,2465 N Main St,foodtrucks filipino hawaiian,41.15039,-112.02643
+3,nwTTQkQ0QvhHuySdPRRWHg,Tea's Memory,UT,Farmington,84025,92.0,4.5,210 N W Promontory,coffee bubbletea juicebars,40.984136661961685,-111.90734777052587
+6,-240s08IA6laTyiN_Vw6vw,SesanTea,UT,Roy,84067,4.0,5.0,5651 S 1900th W,bubbletea,41.16095888856297,-112.02790707349777
+8,wu-bZCzBNJR7Ho785336Ew,Taiyaki Sweet,UT,Clearfield,84015,11.0,4.0,1625 S 1000 W,icecream bubbletea juicebars,41.09019,-112.04483
+21,OFF7tkdoFB7PItxR3t8ZrQ,Pearl Milk Tea Club,UT,Layton,84041,10.0,4.0,1201 N Hill Field Rd,coffee bubbletea juicebars,41.078142,-111.977144
+28,c9Q4Wqeut-YYxHikFDph8g,Swig,UT,Clearfield,84015,3.0,4.5,916 W 1700th S,desserts juicebars bubbletea,41.0895208,-112.043563
+38,j2PPMCPKLpnTIgKMLYroHw,Swig,UT,Clinton,84015,22.0,4.0,1912 W 1800th N,desserts bubbletea juicebars,41.14033,-112.06268
+43,gDAGAkcMvCx70bVC9jDLwg,Swig,UT,Layton,84041,8.0,5.0,260 S Fort Lane,desserts juicebars bubbletea,41.05636,-111.9579
+14,VGZ8ycvr90o-LfZJzDI4IA,Aloha Snow Creamies,UT,Lake Shore,84660,2.0,5.0,3259 West 5600 S,shavedice,40.12891,-111.73168
+20,tDQSmDW1BTA2VtDi0BRWTQ,Ivan's Ice Cream & Snowies,UT,Ogden,84401,3.0,5.0,2665 Washington Blvd,desserts shavedice foodtrucks,41.2170048347,-111.970919855
+39,oIsS-C97fY5Zy6gPO5l-_A,El Changarro Loco,UT,Ogden,84401,20.0,4.0,3037 Washington Blvd,candy mexican,41.2091522907136,-111.970907491255
+4,LqOX48IRbKZi3ioigUYP0A,Pearl Milk Tea Club,UT,Ogden,84401,125.0,4.0,110 25th St,bubbletea,41.220955,-111.978366
+21,k3ZmQn8NMEw4Qe2CblTmTQ,Swig,UT,Ogden,84403,2.0,3.5,4286 Harrison Blvd,desserts juicebars bubbletea,41.18505169,-111.94868282
+6,3lSt8ZbNV46a3UpPEBvLQw,Northern Ice,UT,North Odgen,84414,1.0,5.0,300 East 2650 N,shavedice foodstands,41.30734,-111.97169
+20,2ylcW4mwZafcq9qOIUJaEA,Snowey Shack,UT,Huntsville,84317,1.0,5.0,143 S 7600th E,shavedice,41.26247345466969,-111.7657732185949
+8,kfGoizdWKl2wCNYIxae4Og,Mo' Bettahs Hawaiian Style Food,UT,Ogden,84404,72.0,4.0,1102 S Washington Blvd,hawaiian,41.24574068,-111.96816861
+11,bFDy2ajOuLaQ0jkt9OPILQ,Lani's Hawaiian Style Shave Ice,UT,Spanish Fork,84660,14.0,4.0,136 S Main St,shavedice,40.10805366098098,-111.65509339389271
+18,LOXLhi-3if94ZDHCewiLmQ,Lani's Shaved Ice,UT,Spanish Fork,84660,6.0,4.0,136 S Main St,shavedice,40.10799,-111.65509
+22,l7g-HWGPSUrUl9y34OLAfg,Tropical Sno,UT,Salem,84653,2.0,4.5,795 N State Rd 198,shavedice,40.0665406551759,-111.666104414767
+41,ZiiF7wcak7q4RkOb5thsew,Nyce-Yce,UT,Salem,84653,1.0,4.0,795 UT-198,shavedice,40.066648,-111.666691
+3,UEUa02NlAOs7BMGNgoKofA,Sip-N Spanish Fork,UT,Spanish Fork,84660,14.0,3.5,109 E 300th S,desserts shavedice juicebars,40.1059203015067,-111.651249413492
+0,Bb1YF3xdV9Ja5ukV7ewVkQ,Hillbilly Sno Shack,UT,Blanding,84511,1.0,5.0,19 E 100th S,desserts shavedice,37.6240555912525,-109.477561611413
+1,NVaRIiBmHZ49vmpRQAOT9Q,Navajo Fry Bread Cart,UT,Teec Nos Pos,86514,7.0,4.0,4 Corners Rd,hotdog shavedice bakeries,36.998315340218,-109.044434353709
+0,yA_5uEY2HahKcnPkgj-8Xg,Tropical Sno,UT,Moab,84532,15.0,4.5,83 S Main St,shavedice,38.57203,-109.55037
+1,P0LA60PuLfXUqqdBa5akqA,Sno Shack,CO,Fruita,81521,2.0,4.5,125 N Park Sq,shavedice,39.15953137703271,-108.73389233754895
+2,fCIOQhP91hYgOi04_mgjRg,Hokulia Shave Ice,CO,Grand Junction,81501,7.0,3.5,2570 American Way,shavedice,39.07606,-108.57864
+3,_P1CLQVxm4nYOWbWpPDHSw,Hokulia shaved Ice,UT,Moab,84532,4.0,2.5,39 W 100th N,shavedice juicebars icecream,38.5747334664889,-109.551565731214
+4,xkBksWRoDRf0EMlGH28U2Q,Moab Food Truck Park,UT,Moab,84532,35.0,4.0,39 W 100th N,food_court,38.5747051,-109.5515999
+5,WKtBwUlh4dpCY4ElIIvd0Q,Sugar & Ice,CO,Grand Junction,81501,7.0,3.5,950 North Ave,coffee sandwiches desserts,39.077734,-108.556237
+0,lOUJcBowse-RL807-Ujj8g,Bangkok House Too,UT,Moab,84532,255.0,3.5,59 S Main St,thai sushi ramen,38.57262,-109.55045
+0,3K_5rj8T1mkP6jUxxZWsTQ,Friki Tiki Ice Hut,UT,Circleville,84723,1.0,5.0,145 E Main St,shavedice icecream,38.1719834375527,-112.270339009292
+0,hcF94yiPLAu78p82qdFsMg,Tiki Shack,UT,Cedar City,84720,11.0,4.5,150 N Main St,foodtrucks shavedice,37.6801145911147,-113.06051007099
+1,_VEwJKLOEGQoKvVqC3kN-w,The Big Chill,UT,La Verkin,84745,18.0,5.0,495 N State St,shavedice,37.2051385,-113.2721584
+2,9BKzRXbCsbYKkm3tCjh2XQ,Slurps Up,UT,Cedar City,84721,8.0,4.0,710 W 200 N,desserts juicebars shavedice,37.68118,-113.07316
+3,fn6DsLrOYQbLNRjLDtLRNA,The Soda Nerd,UT,Cedar City,84720,4.0,3.5,68 South Main St,shavedice desserts juicebars,37.67626863072654,-113.06202529334126
+4,r9JkyDbVH02Qbq3GRcb1qg,Fizzy Bees Cafe,UT,La Verkin,84745,1.0,4.0,160 S State St,shavedice foodstands sandwiches,37.1983,-113.27435
+5,hSCBok1YAKJpcQt-Log00A,Bryce Ice Baby,UT,Panguitch,84759,1.0,5.0,609 N Main St,shavedice,37.83205,-112.43646
+0,L-4XpKOHQJ9bC6ZcDh9AtA,Boba Tea & Asian market,UT,Cedar City,84720,11.0,4.5,1180 S Sage Dr,bubbletea giftshops coffee,37.6561772051242,-113.082969162505
+1,fihLuvPVQhddzz796x--MQ,Thai Sapa,UT,Springdale,84767,698.0,3.5,198 Zion Park Blvd,vietnamese thai,37.19811,-112.991746
+2,e0n3UiLl20SGsxAtWWRujA,DoughnutsVille,UT,Cedar City,84720,60.0,4.0,943 S Main St,donuts coffee bubbletea,37.6611191954193,-113.069834299386
+3,i_UNR60VhGXURYLmBqLAXA,The French Spot,UT,Cedar City,84720,249.0,4.5,18 S Main St,coffee breakfast_brunch french,37.67689,-113.06212
+2,Bfv_44cJ08Oit6Lf_bfE0g,Bahama Buck's,UT,Saint George,84790,21.0,4.5,2091 E Riverside Dr,juicebars acaibowls shavedice,37.10003168524725,-113.5378298
+5,dkHvZlNbDXHP4LHKf3264g,Famous Yeti Shave Ice,UT,St. George,84790,6.0,4.5,2928 South Mall Dr,shavedice,37.095296,-113.524427
+7,o0s3LOhhCroJ9wCaxsK08A,Zeppe's Italian Ice and Frozen Custard,UT,St. George,84790,63.0,4.5,1013 E 700th S,desserts icecream gluten_free,37.0965048,-113.5618992
+9,RY-udmCi7qGKuVsE2wIa4A,Judd's Store,UT,Saint George,84770,86.0,4.5,62 W Tabernacle St,candy cafes icecream,37.10836,-113.58446
+10,DxT_2ihNINxSFI3WHP56Sg,Honolulu Grill,UT,St. George,84770,312.0,4.0,706 E 700th S,hawaiian bbq poke,37.09601,-113.568331
+12,6hVj42KG6tPuK3S74eMrBw,Swig,UT,St. George,84770,115.0,3.5,989 E Tabernacle St,juicebars desserts bubbletea,37.10858283,-113.56249266
+3,oJq-m0GiuYkJub-wbkUAKg,The Orange Peel,UT,St. George,84770,103.0,3.5,42 S River Rd,juicebars bubbletea coffee,37.108073,-113.556434
+6,maGjWDcW0753-h7L6uXUPQ,Swig,UT,St. George,84790,24.0,4.0,553 S Mall Dr,juicebars desserts bubbletea,37.10059,-113.53758
+5,H7UbuY7EHM7bOPGyU4KaJg,U.S. Snow Shave Ice,UT,St. George,84770,3.0,4.0,1930 W Sunset Blvd,shavedice,37.1233222433468,-113.6250600842101
+7,96DXiPP8qUrxB1tiEuEoGw,Hokulia Shave Ice,UT,St. George,84770,3.0,3.0,20 N Bluff St,shavedice,37.109699427607,-113.593356901862
+12,jSc2f5ki6FIfyi3EnFuICA,Swig,UT,St. George,84770,46.0,3.5,287 W St George Blvd,desserts juicebars bubbletea,37.10963,-113.58916
+8,FUiv5dajt3qTh5fXanQvZA,Swig,UT,Santa Clara,84765,3.0,3.5,3510 Pioneer Pkwy,desserts juicebars bubbletea,37.14822,-113.65963
+1,GOtTxisSsK0UUiNkTgRimw,Slackers Quality Grub,AZ,Page,86040,222.0,4.0,635 Elm St,burgers icecream sandwiches,36.9169399,-111.45932
+3,SsMb1b3-1HsWMMexafZy3Q,Sunset 89,AZ,Page,86040,170.0,4.5,724 US-HWY 89,asianfusion noodles,36.91757,-111.47745
+0,VK8a8cFoB4okD8nmwmw-Bg,LP Espresso,AZ,Page,86040,145.0,4.0,612 N Navajo Dr,coffee cafes breakfast_brunch,36.9170068,-111.4608224
+1,yufoEkR3We_pDBN0yGw9rA,U-Swirl,AZ,Page,86040,42.0,3.0,660 Elm St,icecream bubbletea juicebars,36.9160336610137,-111.457429791124
+5,mjlzHWPq4ZTPSgnfJvm9-w,New York Teriyaki,AZ,Page,86040,110.0,4.5,663 S Lake Powell Blvd,japanese sushi korean,36.90745833246147,-111.47973053291459
+0,UaxBOZ5BgC9vWMs8UBOmwA,Mahalo Made,AZ,Phoenix,85014,32.0,4.5,1215 E Missouri Ave,shavedice,33.51621,-112.05543
+1,v1HzZjn7CFKcbcRHpGz4VQ,Valley Ice Cream Shop,AZ,Phoenix,85006,7.0,5.0,2250 N 16th St,icecream shavedice,33.47273,-112.04805
+2,O8io-N0ta5ibYfZtV8Ao_w,Bahama Buck's,AZ,Laveen Village,85339,78.0,3.5,7450 S 35th Ave,desserts shavedice juicebars,33.3785619945087,-112.134269711001
+3,iZfgjg3zW8zlZA2YAJZfIQ,Mahalo Shave Ice Co - Phoenix,AZ,Phoenix,85008,1.0,5.0,,shavedice foodtrucks,33.46941,-112.01073
+4,M8jCdcaFFQvGSWR0DJJ7AA,Mahalo,AZ,Phoenix,85041,11.0,4.5,,shavedice foodtrucks,33.37899,-112.11266
+5,lliQjBAUuy8RHoG7D6mBUg,Scooptopia,AZ,Phoenix,85012,182.0,5.0,4700 N Central Ave,icecream bubbletea shavedice,33.506043,-112.074506
+6,j4HJIKl39xyJXAsRfes1EA,Phoenix Phreeze,AZ,Phoenix,85003,13.0,4.0,,shavedice foodtrucks,33.44932556152344,-112.07536315917969
+7,Hv_F1yErD0slkYCI1V9SPw,Rita's Italian Ice,AZ,Phoenix,85018,79.0,4.0,4730 E Indian School Rd,icecream desserts shavedice,33.4952900054525,-111.979879815991
+8,NEinRS0q-WZeSSVoTI7avQ,The Water Connection,AZ,Phoenix,85018,49.0,4.0,3929 E Camelback Rd,shavedice waterstores,33.509376,-111.996333
+9,hgrbo2EvuhDiKvFObqe1wA,Realeza Michoacana,AZ,Phoenix,85006,40.0,4.0,2520 N 16th St,icecream desserts shavedice,33.4755973815918,-112.048599243164
+10,RvG07zPC9O_g9GXA5Lt9gQ,My Tea,AZ,Phoenix,85012,175.0,4.0,4750 N Central Ave,bubbletea juicebars shavedsnow,33.506863,-112.074149
+11,bSja2oCB8VunhYpHaMj9cw,Water And Ice,AZ,Phoenix,85018,36.0,4.0,3911 E Thomas Rd,icecream juicebars markets,33.478959,-111.997138
+12,y48ZoyTeQW3_tMggyr5Axw,Tambayan at Joann’s,AZ,Phoenix,85013,56.0,5.0,720 W Highland Ave,filipino desserts bbq,33.506070419927376,-112.08373263618036
+13,xoBsAJMu6lrQo-8pfNeWhg,Raspados Danny,AZ,Phoenix,85040,37.0,4.0,5815 S16th,hotdog icecream,33.39306737246155,-112.04527151805763
+14,iw9VqU_XHzo-hJvWZEJXPw,Rosepados,AZ,Phoenix,85006,3.0,5.0,903 N 16th St,shavedice,33.458069522642894,-112.0472877
+15,sG9UIlzNvDuDhqx084Sodw,Floreria Eliza,AZ,Phoenix,85042,4.0,5.0,4715 E Southern Ave,shavedice markets creperies,33.3926351,-111.98026
+16,QVHKpXJ3fRNMvin0Yvb4Yw,Tropical Fruit N'Ice Raspados,AZ,Phoenix,85008,33.0,3.5,1617 N 32nd St,mexican desserts shavedice,33.46678,-112.01262
+17,fT6Uwl6abRQfiNgxre_qbg,Cherryblossom Noodle Cafe,AZ,Phoenix,85014,1308.0,4.0,914 E Camelback Rd,sushi noodles ramen,33.5098020415682,-112.061086646033
+18,vRqpXaeIE9LdP-d4knXL_Q,Raspalicious,AZ,Tempe,85282,8.0,5.0,2714 W Southern Ave,shavedice juicebars icecream,33.3932431508,-111.977028921
+19,EJQAHDgQJAOfygO6HA21aA,El Mitote Raspados,AZ,Phoenix,85040,7.0,4.5,5815 S 16th St,icecream desserts shavedice,33.3938645633217,-112.046956192768
+20,4CdzgVNA-nFZtCgM8wMiDw,Chavelas Water & Ice-Cream Eatery,AZ,Glendale,85301,15.0,4.5,5630 W Camelback Rd,icecream burgers shavedice,33.50998,-112.18007
+21,pI-7WUa4GwbTSaLYn8lnQw,Cactus Corn at Chase Field,AZ,Phoenix,85034,1.0,5.0,401 E Jefferson St,shavedice popcorn,33.4452,-112.06685
+22,0I_g4HOdPiP54pOzpvcI8g,Loco Style Grindz,AZ,Phoenix,85006,72.0,4.5,1650 E Roosevelt St,hawaiian bbq,33.4588149,-112.0446605
+23,jw_2aZsw0gJQQ3WmBaA4rQ,La Casita Ice Cream & Deli,AZ,Phoenix,85006,1.0,4.0,2639 N 16th St,juicebars sandwiches icecream,33.4771385192871,-112.047294616699
+24,U1ZVgF-kfkvv_rcoe0RglQ,Pho Noodles,AZ,Phoenix,85013,391.0,4.5,3417 N 7th Ave,vietnamese noodles,33.4887594999659,-112.082401841627
+25,4WEUzmU9wwI0uoyvy1y54w,The Human Bean,AZ,Phoenix,85016,22.0,4.0,2010 E Indian School Rd,coffee,33.495218,-112.038521
+26,I9fDzGfSNtrBIS4fWLscgQ,Flaming Pig,AZ,Phoenix,85015,81.0,4.0,1534 W Camelback Rd,filipino bbq soup,33.50977882217892,-112.09263749420643
+27,56qTZUWeroIJOZ7L0LJJtQ,Cancun Restaurant,AZ,Phoenix,85041,1.0,1.0,4450 S 19th Ave,hotdog mexican,33.40509,-112.09977
+28,dk4Pp6kCZ-17Rf4A5n6dIQ,PHX Vegan Food Festival,AZ,Phoenix,85004,14.0,2.5,100 E McDowell Rd,festivals vegan,33.4659049,-112.0722396
+29,wGgpovXSEy8ZqEps2UkSZw,El Glaciar de Arizona,AZ,Phoenix,85019,2.0,4.0,3650 W Camelback Rd,desserts shavedice shavedsnow,33.50996,-112.13822
+30,L31Tlge0w0jpfZOFU-Rn1A,The Human Bean,AZ,Phoenix,85042,51.0,4.0,4377 E Baseline Rd,coffee,33.37776,-111.99003
+31,9WtEKbNGOU-wo2Gic1hUpA,La Pasadita Hot Dogs,AZ,Phoenix,85031,14.0,3.0,4611 W Indian School Rd,hotdog mexican,33.494573,-112.158665
+32,oNWEtQqf-YOfEa69H2XmLQ,Zion Latin Delights,AZ,Phoenix,85019,1.0,5.0,3650 W Camelbak Rd #4,desserts shavedice icecream,33.50996,-112.13822
+33,p64mw9sYIPtazkwXK8yhWw,La Pasadita Hot Dogs,AZ,Phoenix,85019,27.0,4.0,3601 W Camelback Rd,hotdog mexican,33.5092716,-112.1363882
+34,a2OshTSurWhVQecDVgE4Ug,La Pasadita Hot Dogs,AZ,Phoenix,85019,13.0,4.5,3801 N 43rd Ave,hotdog,33.491419,-112.1512417
+35,Jj8ubiwwuCR-rrhrrjcryw,Da Vang Restaurant,AZ,Phoenix,85015,776.0,4.0,4538 N 19th Ave,vietnamese,33.5038147,-112.1000349
+0,F8lC8jHCykqPy0h2AJ9lnQ,Pop 'N Tea Bar,AZ,Phoenix,85003,423.0,4.5,550 W McDowell Rd,bubbletea desserts icecream,33.4659877,-112.0819839
+1,uFCEU_OtDoF2_7NZ8jYBEw,Milk Run,AZ,Phoenix,85015,559.0,4.5,1702 W Camelback Rd,coffee bubbletea icecream,33.51013166256469,-112.09600387304674
+2,gW-LWcIT34bqM6yn26xTuQ,Bobaholic Milk Tea Lounge,AZ,Phoenix,85017,83.0,4.0,6135 N 35th Ave,bubbletea,33.52600005397647,-112.1304854831689
+4,Vy-yrt6SCcHzcIbfRmBxRw,Cajeta Churro Cafe,AZ,Phoenix,85016,38.0,5.0,3015 E Thomas Rd,coffee bubbletea juicebars,33.480282,-112.016687
+6,GWyHdNDIUE4hhinVssl9Sw,Fatty Daddy's,AZ,Phoenix,85003,36.0,3.5,888 N 1st Ave,icecream bubbletea coffee,33.4583,-112.07537
+7,NctCjAM_13akCfvulWmA1A,Cafe Mollie,AZ,Phoenix,85016,41.0,4.5,6031 N 16th St,coffee bubbletea desserts,33.5248781,-112.0467288
+8,TtbCOwOpNNzE7fW5CFwyng,Bosa Donuts,AZ,Phoenix,85018,402.0,4.0,3722 E Indian School Rd,donuts breakfast_brunch bubbletea,33.4952637,-112.0010294
+9,U5qwBnjmf54Q4pW8Zajt7A,YobaHut,AZ,Phoenix,85017,77.0,4.0,3446 W Camelback Rd,icecream bubbletea waffles,33.511009,-112.132512
+10,gQMAcDm8kv8ev7x2BshMwg,Pho Thanh,AZ,Phoenix,85015,1013.0,4.0,1702 W Camelback Rd,vietnamese,33.51022987640245,-112.0958230164735
+11,hqJMHaqpyL63NhRUqv9eyQ,Best Donuts,AZ,Phoenix,85042,135.0,5.0,2320 E Baseline Rd,donuts bubbletea coffee,33.3798210059959,-112.030899682215
+12,tU90S8KAgeg_2dZQeYfg0w,Sunrise Donuts,AZ,Phoenix,85339,218.0,5.0,3536 W Baseline Rd,donuts breakfast_brunch bagels,33.3789419421477,-112.134609198381
+13,FbbnlKewkiXWjqnwbuYHCw,NoRa Asian Fresh,AZ,Phoenix,85013,25.0,3.5,400 W Indian School Rd,asianfusion ramen,33.4949849,-112.0795683
+14,nPc_u_khuNZzNESe_Q55QA,Bosa Donuts - Phoenix,AZ,Phoenix,85034,12.0,4.5,125 N 44th St,donuts breakfast_brunch bubbletea,33.44972775923972,-111.98693668451152
+15,YQxYzPXYMrK6Uhk7I5yIKw,Boba & Donuts,AZ,Tempe,85283,38.0,4.0,2700 W Baseline Rd,donuts bubbletea,33.378622,-111.97689
+20,C0EXdaVIuFf0smZj3Qj5Qg,Brimley's Water & Ice,AZ,Phoenix,85051,18.0,4.5,3415 W Glendale Ave,waterstores shavedice icecream,33.537203,-112.132754
+16,yvQ7kLhXUTvvio8N1xWfkA,Diablo Deli & Grill,AZ,Tempe,85282,7.0,3.5,2900 S Diablo Way,salad delis burgers,33.3996391296387,-111.970390319824
+8,9oHihevo9sUG3a3ume8Vww,Mochi Fresh,AZ,Tempe,85281,258.0,4.5,960 W University Dr,desserts bubbletea,33.422747,-111.951495
+21,emSTCpU-JIOw2-KfqverpQ,Neveria Chay'os,AZ,Phoenix,85051,21.0,4.0,3445 W Glendale Ave,juicebars desserts shavedice,33.538058,-112.133464
+26,KUq5PFdHvbvVj6ubJ311rg,Water Plus Ice,AZ,Phoenix,85020,8.0,4.0,7000 N 16th St,juicebars,33.5389289855957,-112.048080444336
+31,c3zYwxR1TcpeO2fugLTxEA,Raspados Paradise Mexican Restaurant,AZ,Tempe,85282,44.0,2.5,5000 S Arizona Mills Cir,mexican,33.3813670799823,-111.965268205032
+8,rX9k0BJ0OM1zGKXKjfXZQA,Bubble Bee,AZ,Tempe,85282,86.0,4.0,5000 S Arizona Mills Cir,bubbletea,33.38302774007553,-111.96489505278332
+12,K0tJr5ndZdoTDi_1-tkErg,i-Tea,AZ,Tempe,85281,196.0,4.0,825 W University Dr,bubbletea juicebars,33.4217671778018,-111.951289832999
+15,p_xIP8gXFhAVCjftc3l9dA,Arizona Donut,AZ,Tempe,85282,219.0,4.0,1030 W Broadway Rd,donuts bubbletea coffee,33.4076657946925,-111.954935208642
+18,ds5AgxCSFLIecoZfPiuvtg,YoYo Yogurt,AZ,Tempe,85282,14.0,2.5,5000 S Arizona Mills Cir,icecream juicebars,33.385211,-111.963766
+10,JIpVBlSdY9WgNZK1I17H2g,FlyBoyz Snowballz,AZ,Phoenix,85301,2.0,5.0,4832 N 59th Ave,shavedice,33.50883,-112.18672833
+19,WzxEswO59pWGodBe6k-0Cg,El Imperio Del Sabor,AZ,Glendale,85301,5.0,3.5,5802 W Camelback Rd,mexican,33.5096949,-112.1842059
+23,D2DCpj35nBAJEXguPLaHyw,Raspados El Zalate,AZ,Phoenix,85033,16.0,3.5,5887 W Indian School Rd,desserts shavedice icecream,33.4949251,-112.1861951
+31,llxJi6zEwMB-WT2nKPPvkQ,Raspados Tropical,AZ,Phoenix,85035,1.0,1.0,5930 W McDowell Rd,shavedice,33.4664233195952,-112.188346365087
+9,GlIE5vye0vk2-EYwiKjWkQ,Joe's Italian Ice,AZ,Tempe,85282,330.0,4.5,2019 S McClintock Dr,icecream shavedice,33.4066086,-111.9086533
+10,ERuWDU3A8uVoZT0CCjZbcw,Mango Rabbit,AZ,Tempe,85281,523.0,4.0,1250 E Apache Blvd,bubbletea juicebars tea,33.41533,-111.91835
+11,TyfBUn6dRTf5tr75DndsZw,Raspa2 Jalisco,AZ,Scottsdale,85251,21.0,4.5,3056 N 68th St,desserts icecream juicebars,33.4831846,-111.93519448
+14,thLX_k20SPJ0KyusGTBIHw,Diego Pops,AZ,Scottsdale,85251,2079.0,4.0,4338 N Scottsdale Rd,mexican cocktailbars,33.499382019043,-111.926490783691
+16,jBxrK5sbvH_gbMwJO63loA,Zero Degrees,AZ,Tempe,85281,316.0,3.0,2000 E Rio Salado Pkwy,bubbletea coffee,33.432712,-111.904441
+21,GvDquAF-DJHAmLJ1HV-K_w,Sizzle Korean Barbeque,AZ,Scottsdale,85251,219.0,4.0,3720 N Scottsdale Rd,korean,33.49105,-111.9264
+23,fJGxqmzaOy_Vyakt6kXXxQ,Sparky's Old Town Creamery,AZ,Tempe,85281,137.0,3.5,510 S Mill Ave,icecream shavedice juicebars,33.4250981779283,-111.940193991208
+24,DymZ5vpm7vkSsR__-4sflw,Roka Akor - Scottsdale,AZ,Scottsdale,85253,1070.0,4.0,7299 N Scottsdale Rd,japanese sushi steak,33.54274247101847,-111.92508912270185
+25,YL09OY1Pqu-Ju9npofGYPA,Nobu Scottsdale,AZ,Scottsdale,85251,259.0,4.0,7014 E Camelback Rd,sushi japanese asianfusion,33.504405359225274,-111.93157753014749
+29,IALVdIEdp8n6aJed1hBGhg,Bosa Donuts,AZ,Scottsdale,85257,257.0,4.0,7444 E McDowell Rd,donuts breakfast_brunch,33.466193,-111.919855
+32,LnXRLBNEPw2BjRTqdij0hw,Water Mart,AZ,Scottsdale,85251,9.0,3.5,4408 N Miller Rd,shavedice waterstores icecream,33.501381848063346,-111.91903859056731
+33,glc0_AbiJmdzAxC-rBIHJQ,Joyful Delights,AZ,Scottsdale,85257,2.0,5.0,,foodtrucks shavedice icecream,33.464485168457,-111.915924072266
+36,oCuuZyXaEiS8lgQETaTUfQ,Water 'n Ice,AZ,Tempe,85283,14.0,4.0,925 W Baseline Rd,shavedice icecream waterstores,33.3776733743474,-111.95310998708
+38,3MutZJ4mfM3Ds450rbpMiw,Hand Cut Burgers & Chophouse,AZ,Scottsdale,85251,665.0,4.0,7135 E Camelback Rd,burgers steak cocktailbars,33.501293,-111.928447
+41,ZxEvVRbOltIF0fua5SQssg,The Human Bean,AZ,Tempe,85281,96.0,4.0,1765 E University Dr,coffee breakfast_brunch juicebars,33.4218217602148,-111.910747792641
+3,KU6XIlr8H7kkMCXLbz2FJw,Ding Tea Tempe,AZ,Tempe,85281,43.0,4.0,740 S Mills Ave,bubbletea,33.422842116081696,-111.94031494897209
+4,PhMfnMldVKXo7HqHw6DSrg,DaYung's Tea,AZ,Tempe,85282,443.0,4.5,3126 S Mill Ave,bubbletea juicebars coffee,33.3948182511783,-111.940576007034
+11,0i9qDFIsx40ZM20287MIPg,Duplex Boba Tea Station,AZ,Tempe,85282,52.0,4.5,1845 E Broadway Rd,hkcafe,33.406727,-111.907566
+12,0HgLKI1T9WT3hJXskDtUrQ,Tea Swirl,AZ,Tempe,85281,291.0,4.5,725 S Rural Rd,coffee bubbletea desserts,33.422723,-111.925826
+14,2HKQSZxgfixCLRZQLHdo-A,Fatty Daddy's,AZ,Scottsdale,85257,583.0,4.0,1608 N Miller Rd,icecream coffee,33.466359,-111.917989
+15,sNC01CAsXcWXtLVIGjJBjQ,Kung Fu Tea,AZ,Tempe,85281,139.0,4.0,425 S Mill Ave,coffee juicebars bubbletea,33.425294,-111.9398658
+16,UtlNRoqB_n-u9WoXIgnIUA,Boba Tea Company,AZ,Scottsdale,85251,148.0,3.0,7014 E Camelback Rd,bubbletea,33.503737857008495,-111.92886981844751
+18,m5YJOn_HGcIUnnSxjFN6HA,Tra Presso,AZ,Scottsdale,85251,11.0,3.5,2922 N Hayden Rd,bubbletea,33.48076,-111.90991
+19,42eixGgo0CM_fXfD17NDGQ,Ramen Time,AZ,Tempe,85281,204.0,4.5,1857 N Scottsdale Rd,ramen bubbletea beerbar,33.4503486,-111.9263251
+20,vukjcARwa7rWfwD3Z4xTOA,Urban Boba Tea House,AZ,Tempe,85281,102.0,4.0,1015 S Rural Rd,juicebars coffee sandwiches,33.4173092824452,-111.926108859479
+21,XkFXRWw5vix__uPA2cr2fw,Fusion Tea Lounge,AZ,Tempe,85282,131.0,4.5,1806 E Southern Ave,bubbletea asianfusion,33.393772,-111.908163
+22,RTegy5CUBpMK65pr8UeDgA,ZuZu,AZ,Scottsdale,85251,670.0,4.0,6850 E Main St,tradamerican breakfast_brunch cocktailbars,33.493688,-111.933894
+23,OyKv_5-0jo2D2tGIiB90HA,Pho Fresh Alley & Boba Tea,AZ,Tempe,85281,144.0,4.0,1000 E Apache Blvd,asianfusion soup vietnamese,33.4153,-111.92406
+26,-M09AseWb2ykCDVwlyBGbw,Mochinut,AZ,Tempe,85282,86.0,4.5,117 E Southern Ave,hotdog desserts donuts,33.39217582253697,-111.9375772800944
+27,ICe2VT-Tie3Jy5PwriWJHg,Noodle District,AZ,Tempe,85281,13.0,4.0,1900 E Fifth St,bubbletea asianfusion vietnamese,33.4261186,-111.9040883
+33,aveZX9jpacMknrg50MuWeQ,Azusa Ramen,AZ,Tempe,85282,157.0,4.0,3128 South Mill Ave,ramen,33.3948781,-111.9407772
+34,OoYwJANV9zD-_OA4Atu-gg,Republic Ramen + Noodles,AZ,Tempe,85281,769.0,3.5,1301 E University Dr,ramen noodles,33.4215513185444,-111.916703354471
+35,C-5FVBL4vmb9usAjTTckFw,Bei Express,AZ,Scottsdale,85251,49.0,4.0,2910 N Hayden Rd,sushi,33.48098,-111.909423
+36,NL8XaDAwQNjzwtf9rFxs-Q,Belle Vie Bubble Tea,AZ,Tempe,85281,1.0,1.0,1050 S Terrace Rd,bubbletea,33.41748404395441,-111.9233852821256
+22,EuxJSAEVnBJ0Q3v0ZtKelA,A Couple Of Nuts,AZ,Phoenix,85033,2.0,3.5,7611 W Thomas,shavedice coffee convenience,33.476735,-112.224702
+33,-pvCPn32_NojC8SpEHLBrg,El Dorado Mexican Restaurant,AZ,Phoenix,85043,1.0,1.0,6445 W Van Buren St,mexican,33.45112,-112.19911
+11,CUZ3kY2mreLr-pics6Dcdg,Boba Tea Company,AZ,Phoenix,85033,3.0,4.0,7611 W Thomas Rd,bubbletea,33.476776,-112.223965
+13,rAitZ52DojtzlKROkG2Nsg,EN Boba & Tea,AZ,Phoenix,85301,17.0,2.5,6036 N 67th Ave,bubbletea,33.525390108963634,-112.20358444397405
+14,1SnTMfHCirdChRh5Kok7eA,The Donut Shoppe,AZ,Phoenix,85033,9.0,4.0,2929 N 75th Ave,donuts coffee bubbletea,33.48124,-112.2194
+8,P3M-rP6CBR0XEHiZee3RnQ,Alebrije Neveria,AZ,Phoenix,85021,33.0,4.5,10171 N 19th Ave,icecream shavedice desserts,33.57819,-112.09884
+9,EsJ_iCNSHu_8N--XsK9Rjg,Raspados Solaris,AZ,Phoenix,85020,152.0,5.0,9204 N 7th St,desserts shavedice icecream,33.5700759,-112.0656616
+12,Q3vsiXluRag8dOwPzDs_8g,Daisy's Cravings,AZ,Glendale,85302,7.0,4.0,4707 W Olive Ave,shavedice icecream juicebars,33.56700167,-112.160612
+14,n4HJ0fTMwMEGx07tzhN7Gw,El Kiosco Mexican Snacks,AZ,Phoenix,85020,13.0,4.5,8929 N Central Ave,shavedice mexican,33.56708,-112.07334
+18,vn5Ebwy-IdtJ6PQE6y7vaA,Halo-Halo Kitchen,AZ,Phoenix,85051,256.0,3.5,3553 W Dunlap Ave,filipino karaoke,33.5674351,-112.1358199
+22,6zk3QLl5wSc5bFtHrqvZyw,Water Mart,AZ,Phoenix,85028,9.0,4.5,10855 N Tatum Blvd,waterdelivery icecream shavedice,33.5849782,-111.9776851
+25,O8sBSjxL8hQbA41lKtcoJg,BoSa Donuts,AZ,Phoenix,85028,102.0,4.0,10876 N 32nd St,donuts breakfast_brunch,33.585651,-112.0132849
+26,cO3m54wXVDJW8ryy_2wpBQ,Antojitos Mi Pueblo Restaurant,AZ,Phoenix,85021,25.0,4.5,505 W Dunlap Ave,shavedice icecream mexican,33.567189641974714,-112.08112468765722
+31,mqAIwd3U9I32qwOq3o_Fmw,Aqua Zona Water and More,AZ,Glendale,85301,8.0,3.0,7980 N 51st Ave,shavedice waterstores icecream,33.55179,-112.16942
+32,cvu61K0_g7ZIpaEPCiaNcA,Seoul BBQ & Sushi,AZ,Phoenix,85029,541.0,4.0,11025 N Black Canyon Hwy,korean sushi bbq,33.587091,-112.115786
+12,IPKc85O4RdV3dC8Smff_SQ,Rainbow Donuts,AZ,Glendale,85302,59.0,4.0,4729 W Olive Ave,donuts coffee bubbletea,33.5673438692391,-112.160723032161
+14,p_V8gH43zZx0Gh_EA__hdg,Bosa Donuts,AZ,Phoenix,85051,90.0,3.5,9025 N 43rd Ave,donuts coffee sandwiches,33.56859,-112.15114
+31,KyUFj09bfowyddCuOTP4mg,Little Saigon,AZ,Glendale,85301,573.0,4.5,7016 N 57th Ave,vietnamese,33.539105039664264,-112.18143537286828
+8,5ha7zzcghc3TpS7hfXCfUg,Ti-Li Boba,AZ,Glendale,85302,26.0,4.5,5814 W Olive Ave,bubbletea juicebars,33.56887,-112.183866
+38,i0sp8DNw3FolMn-uGIkVyw,Dazzo's Dog House,AZ,Glendale,85301,187.0,4.0,6143 W Glendale Ave,hotdog,33.538177,-112.192619
+16,-PABBD9nMgAYZHSShqGsjg,Bomboba,AZ,Peoria,85345,343.0,3.5,7521 W Cactus Rd,bubbletea juicebars icecream,33.594428,-112.220875
+7,Q993AJfp4KNXrlmYTacrUQ,Aloha Tea & Coffee,AZ,Glendale,85303,125.0,4.5,6766 W Glendale Ave,coffee,33.53903617,-112.2049055
+3,9jWUmisHRkO08m7pnuBbfQ,Raspados Guerrero,AZ,Phoenix,85033,30.0,4.5,4149 N 83rd Ave,desserts shavedice,33.4955294721473,-112.235874410847
+1,WpzRURptZ2FIxBmJMl4MXA,KamanaWana Hawaiian Treats,AZ,Phoenix,85023,302.0,4.5,13825 N 19th Ave,juicebars shavedice acaibowls,33.6120371499425,-112.099178971094
+2,aYyddTjTzPYHq17eS4hTzg,Bahama Buck's,AZ,Phoenix,85032,50.0,4.0,3121 E Greenway Rd,shavedice,33.62601,-112.01528
+4,5ViysgPio0TAs7LAa1nT_w,Tropical Sno,AZ,Phoenix,85032,53.0,4.5,16835 N 40th St,icecream desserts shavedice,33.6404014192334,-111.995933088426
+10,HbzO-ZpnoR1hkOaygZPKYA,Rita's Italian Ice,AZ,Phoenix,85032,88.0,4.0,4727 E Bell Rd,shavedice icecream desserts,33.6382395728549,-111.978357133591
+12,5UCUIK-O6m7tSpi02B6F5g,Oasis Raspados,AZ,Phoenix,85032,30.0,4.0,3202 E Greenway Rd,shavedice icecream mexican,33.627641,-112.01161
+15,nZZaLSXkCBYRri9ZfVOgyw,Casa Filipina Bakeshop & Restaurant,AZ,Phoenix,85053,278.0,4.0,3531 W Thunderbird Rd,bakeries filipino desserts,33.6092740857473,-112.135082780426
+20,iZMdwe0xebE3rF0x3LOr4w,Banh Mi Bistro Vietnamese Eatery,AZ,Phoenix,85023,589.0,4.5,2340 W Bell Rd,vietnamese noodles sandwiches,33.6406782416876,-112.110540077578
+23,2lpJJZ9ooU1RvcW7COH6og,Cuties Lemonade & More,AZ,Phoenix,85053,7.0,4.0,4229 W Bell Rd,juicebars foodtrucks shavedice,33.6391451,-112.1499477
+25,3YTcSTDdb-nb-Q2upkVOLA,Johnny  Dog,AZ,Phoenix,85041,2.0,3.0,Reach11 Sports Park,foodstands shavedice hotdog,33.6264251125816,-112.056868603314
+29,06urv9mZcsRbmY_lOzdoNA,Rigos Water n' Ice,AZ,Phoenix,85032,4.0,4.0,3202 E Greenway Rd,waterstores shavedice juicebars,33.627394816076844,-112.01239941822487
+2,3jfVDQDLFwgquYgxYQPfEA,Dingle Berries Coffee Tea & Juice,AZ,Phoenix,85032,108.0,5.0,3624 E Bell Rd,coffee juicebars bubbletea,33.641147,-112.003766
+6,72qsXmMGrUZ7MsnONWWRDw,Boba Day,AZ,Scottsdale,85254,151.0,4.5,4839 E Greenway Rd,juicebars bubbletea coffee,33.6259,-111.97671
+7,7Pjuyrj1xwRskC8RbUMdpg,Tastea Boba,AZ,Phoenix,85022,108.0,3.5,743 E Bell Rd,vietnamese coffee juicebars,33.6392,-112.06355167
+12,1GVphPSuVyS6AKhwIVYAaQ,NoRa Asian Fresh,AZ,Phoenix,85032,6.0,4.5,4015 E Bell Rd,asianfusion bubbletea,33.64041,-111.99532
+17,22sPntmWV-xqWdotZgSp8A,Glendale Water 'n Ice,AZ,Glendale,85304,20.0,4.5,13629 N 59th Ave,shavedice icecream waterstores,33.609221958817,-112.185121600525
+25,CQDJ2y9sLxc0HfwNO5R3Ew,Pho Avina,AZ,Glendale,85306,404.0,4.0,4920 W Thunderbird Rd,vietnamese soup bubbletea,33.611367,-112.16568
+30,8Y5p2IQMLX6QjGPzxanexg,"Ohya Sushi, Korean Kitchen & Bar",AZ,Glendale,85306,628.0,3.5,4920 W Thunderbird Rd,korean sushi bars,33.6116508042702,-112.165567972652
+45,MlDrGjD4356IReuGd5j6ww,Pho Saigon Pearl,AZ,Glendale,85306,103.0,4.0,5843 W Thunderbird Rd,vietnamese bars,33.6106051,-112.1855372
+7,hEB8FaS1EvWds03l7QGXyw,Neptunes Waters,AZ,Glendale,85310,26.0,5.0,23425 N 39th Dr,shavedice icecream waterstores,33.6991851807646,-112.141780257225
+12,xhyzmAnZp2snpBklfcr3Sw,Sizzle Korean Barbeque,AZ,Phoenix,85050,636.0,4.0,21001 N Tatum Blvd,korean bbq asianfusion,33.6760477680625,-111.97204025298
+19,WxOkVhAc5a4gmNA2gXIuNw,Cara's  Kettle Corn,AZ,Phoenix,85024,3.0,5.0,908 E Wescott Dr,streetvendors shavedice popcorn,33.6585206636221,-112.060811948945
+20,7BPZTyrureyPA32rnHFUNQ,Desert H20 To Go,AZ,Phoenix,85027,13.0,3.5,18631 N 19th Ave,shavedice icecream,33.65574370270156,-112.0988897986887
+2,XFSyia6RVCCmcqYNSub9JQ,Sharetea,AZ,Phoenix,85050,145.0,4.0,21001 North Tatum Blvd,bubbletea coffee juicebars,33.675946,-111.972247
+9,loeW2G8tSIp1cLD3zB1NoQ,Urban Boba Tea House,AZ,Phoenix,85085,252.0,4.0,2470 W Happy Valley Rd,bubbletea coffee,33.7146952488641,-112.112520669301
+12,LW5f9ojFfRCqIYlqpyx1cA,Arrowhead Ranch Water & Ice,AZ,Glendale,85308,30.0,4.5,20280 N 59th Ave,shavedice waterstores,33.6703898748887,-112.188346758485
+19,KE3jpynolXq36VmhH6Zn7w,Rita's Italian Ice - Custard- Happiness,AZ,Glendale,85308,67.0,4.0,5940 C W Union Hills Dr,icecream desserts,33.654599,-112.188573
+25,hMVLNbMU_CfSSNNrAYxBHg,Osteria Mia,AZ,Phoenix,85085,226.0,4.0,2530 W Happy Valley Rd,italian wine_bars pizza,33.715515,-112.113764
+4,qxdVMa8OMTGun1rASvykPQ,Teamania,AZ,Glendale,85308,119.0,4.5,20280 N 59th Ave,bubbletea,33.67040017,-112.188006
+12,e9XoOv-j4ceTVN9seUckPA,Miss Dessert,AZ,Mesa,85202,284.0,4.0,1832 W Broadway Rd,desserts bubbletea juicebars,33.4077349,-111.8712214
+13,hINfDEJ2sAp19-Ebp8NoQQ,Tea Snow,AZ,Mesa,85202,287.0,4.0,66 S Dobson Rd,coffee bubbletea juicebars,33.4134100000025,-111.87576565275985
+16,8HMrlWQgXR8mGguIreh2DQ,Snowtime,AZ,Mesa,85201,27.0,4.5,1919 W Main St,desserts shavedice coffee,33.41361765013142,-111.87258596922831
+20,JN1hr0mtzva6eMU9qeAWsQ,The Street Boba Café,AZ,Mesa,85202,356.0,4.5,1116 S Dobson Rd,coffee bubbletea juicebars,33.394724,-111.875314
+21,nhlHLtn2F5zADJVKzUQgpw,Cha Tea,AZ,Mesa,85201,87.0,4.0,1911 W Main St,coffee juicebars bubbletea,33.4138783,-111.8722991
+24,jyTtTFa169XYSD5KRMQsHg,Boba Tree Lin Tea House,AZ,Mesa,85202,229.0,4.0,1139 S Dobson Rd,coffee bubbletea desserts,33.393626,-111.873136879454
+28,lplg8YB0HrOLHYaf77a83g,Jacked Ice,AZ,Phoenix,85283,15.0,5.0,,shavedice bartenders desserts,33.36503,-111.9316
+29,eyU4hQOMAG--PUFK-lihDA,Pepperwood Water & Ice Cream,AZ,Tempe,85283,18.0,4.5,805 W Baseline Rd,icecream waterstores shavedice,33.3774019,-111.9514
+38,OTMiRQ0QzYtXzajCYkQ_Gg,Tous Les Jours,AZ,Mesa,85202,190.0,4.0,1135 S Dobson Rd,bakeries coffee macarons,33.394062,-111.872846
+41,DZccP-FMIxS6wevBq0cIjQ,Whats The Scoop,AZ,Tempe,85283,11.0,5.0,965 E Guadalupe Rd,icecream juicebars shavedice,33.3632587406404,-111.92698177055489
+47,DgZ-pZUo3drzpiCDlDr9IQ,unPhogettable,AZ,Mesa,85202,787.0,4.0,66 S Dobson Rd,vietnamese,33.41284837394557,-111.875827472904
+33,BZlTBHljDDYeTNHQ8_Lpjg,H Mart - Mesa,AZ,Mesa,85201,184.0,4.5,1919 W Main St,korean intlgrocery food_court,33.4135158492699,-111.872516982257
+35,RJsmTMdUpfNwab3o9k8gQw,Crafti Tea & Mocktail,AZ,Mesa,85202,7.0,5.0,28 S Dobson Rd,bubbletea tea coffee,33.41304,-111.87465
+38,6osMmAs86AbhZMfn5n7Ddw,Tea Avenue,AZ,Mesa,85202,40.0,4.0,66 S Dobson Rd,bubbletea juicebars,33.41337383523576,-111.87604908493584
+2,JK0GkhqsHZJM1Ye_lQCcmg,Tropical Sno,AZ,Glendale,85304,47.0,4.5,6630 W Cactus Rd,desserts,33.596616058315,-112.200465952277
+8,47EzONubwoxiV29NGo-Mzw,Bubble Cups,AZ,Glendale,85308,172.0,4.0,6661 W Bell Rd,bubbletea juicebars coffee,33.6371731776542,-112.201407500003
+7,LDOMdbQvEa8PL7TZCFExOQ,Dessert In Desert,AZ,Scottsdale,85255,228.0,5.0,18511 N Scottsdale Rd,desserts icecream shavedsnow,33.652297,-111.924765
+12,JY9MHa3PdjIYp_D7E4GAIw,Wow Wow Hawaiian Lemonade,AZ,Scottsdale,85254,279.0,4.5,6501 E Greenway Pkwy,juicebars breakfast_brunch coffee,33.624605,-111.941474
+2,pDQfWCqc-i4CHnBpquJARQ,Bubble Bee,AZ,Scottsdale,85260,124.0,3.5,15147 N Scottsdale Rd,bubbletea,33.6235809493021,-111.924310103059
+3,buCHvDJAfGRBJwPi2nDbxA,Koko Boba Tea House,AZ,Scottsdale,85254,12.0,4.5,6339 E Greenway Rd,bubbletea juicebars coffee,33.62466,-111.94352
+9,BA2tYMpTHR3i7X-6qtcWaw,Tea Light Cafe,AZ,Phoenix,85054,436.0,4.0,7000 E Mayo Blvd,vietnamese,33.6580898332657,-111.93295545159
+11,hhrtKEVh-yiOpM90J0Dj3g,Piña Express Raspados Y Boba,AZ,Tolleson,85353,4.0,4.0,W Van Buren St,desserts shavedice juicebars,33.4506843480065,-112.255835160613
+7,lnJAEPihmksCPRY5P8ZSOA,Tastea,AZ,Glendale,85305,207.0,4.5,9184 W Northern Ave,bubbletea juicebars tea,33.5525,-112.256889
+9,ajI-NWPHNswiDDTDEtliqg,Blendz Boba Tea Lounge,AZ,Glendale,85305,166.0,3.0,9380 W Westgate Blvd,desserts coffee bubbletea,33.534884,-112.260592
+10,-lJaNPDQzhqtZabOj5-6Cg,Churroholic & Hiccups,AZ,Peoria,85305,272.0,3.5,9340 W Northern Ave,desserts coffee icecream,33.552847,-112.260115
+12,gFwTn0arRsgFh6ldTPlKMA,Bomboba,AZ,Tolleson,85353,200.0,3.5,9897 W Mcdowell Rd,coffee juicebars desserts,33.4642854084828,-112.270622189377
+19,l5v8BdljoXGYi-kGG99Qig,Bomboba,AZ,Tolleson,85353,1.0,3.0,9897 W Mcdowell Rd,bubbletea,33.464314731522094,-112.27064114110455
+5,27OH0hv4jhwKDk-hKgqw_A,Picossitos,AZ,Avondale,85323,90.0,4.5,210 N Avondale Blvd,mexican sandwiches hotdog,33.448303,-112.308184
+6,Nv4CLJ3RLfTQaOfx9umKag,Raspados Naturales Neza,AZ,Avondale,85392,76.0,3.0,10575 W Indian School Rd,shavedice icecream,33.49283,-112.28631
+11,Hh1I-rRuM1MwpyT0IuvXMw,Antojos Your Way,AZ,Phoenix,85037,28.0,4.0,10720 W Indian School Rd,mexican cafes desserts,33.493993,-112.292208
+14,3AGZkny9xv_5E0BouuTZbA,FrostBite,AZ,Avondale,85392,2.0,5.0,,shavedice foodtrucks,33.47778573903075,-112.30936722530282
+1,mckhzX3GPUlBoon4Fojlog,M T The Boba Bar,AZ,Phoenix,85037,197.0,4.5,10720 W Indian School Rd,coffee bubbletea desserts,33.4939786500572,-112.292266
+10,NzWpIwYwGsjujewhYjPPPg,JT Boba House,AZ,Avondale,85392,288.0,3.0,10160 W Mcdowell Rd,coffee bubbletea kombucha,33.4670199344817,-112.279123682578
+39,eiywQMru9IZF-Bq_IplyJg,Tempe Water & Ice Store,AZ,Tempe,85283,11.0,4.5,7520 S Rural Rd,shavedice icecream waterstores,33.349979804534,-111.929948145891
+0,KJTt40ozhBeiUIHjVW-rvg,Ohana Hawaiian Shave Ice,AZ,Avondale,85323,20.0,5.0,1453 N Dysart Rd,shavedice,33.4507433733759,-112.339759804308
+2,wgxliuupiOPgAhtlHZtcoA,Hula Hawaiian Shave Ice,AZ,Avondale,85323,3.0,5.0,,foodtrucks shavedice,33.4352798461914,-112.346969604492
+3,o4MJ4x8bm3_--37lSkwA8A,Teabo,AZ,Goodyear,85338,198.0,4.0,319 N Litchfield Rd,coffee sandwiches juicebars,33.4504060050832,-112.356580607593
+4,zlbjxR_ZsIMjgePap5ol4g,Desert Snow Hawaiian Shaved Ice,AZ,Litchfield Park,85340,1.0,5.0,Main St And Amador,shavedice,33.4938798886109,-112.359924316406
+8,_HGz-BfLYJlShdz_eg3BOw,Windy City Dogs,AZ,El Mirage,85335,66.0,4.5,10100 N El Mirage Rd,hotdog hotdogs shavedice,33.57486543281815,-112.32559208452848
+11,sVSDmXjrKr-uhhVFes9HCw,Panaderia La Central,AZ,Avondale,85323,57.0,3.5,725 N Central Ave,bakeries desserts cafes,33.4427103,-112.3490979
+16,v4qyBRpTBvOO55M4IAqNNg,Tomo Japanese Cuisine,AZ,Goodyear,85395,537.0,3.5,1550 N Dysart Rd,sushi japanese asianfusion,33.463543,-112.341878
+1,j1-t7dIoGgzgcmotB7pkOg,Teacup,AZ,Litchfield Park,85340,222.0,4.5,13000 W Indian School Rd,coffee desserts bubbletea,33.4934349,-112.3394754
+8,vLOlA3y9GwCyZ8CS0FAswA,Sip ‘N Go,AZ,Litchfield Park,85340,8.0,5.0,5115 N Dysart Rd,desserts juicebars bubbletea,33.509664,-112.339201
+13,Ja707k5HN1VL7vo3RIuqNQ,Bosa Donuts,AZ,Avondale,85392,14.0,4.0,1713 N Dysart Rd,bubbletea donuts,33.466613026228146,-112.34073512256145
+14,-fSW_9x8c_wTm1zS4dz3rw,Express Donuts,AZ,Goodyear,85395,221.0,4.5,13824 W Mcdowell Rd,coffee donuts,33.4651361,-112.356396
+4,7dtcBJH9qxtxx1PWnzT10A,Bahama Buck's,AZ,Tempe,85284,187.0,4.5,1006 East Warner Rd,shavedice juicebars acaibowls,33.335749,-111.927864
+18,Ey7WpeX5uCJjgT6HHrBo7A,The Fix Drive Thru Coffee,AZ,Tempe,85284,154.0,4.5,1445 W Auto Dr,coffee,33.3446102,-111.96172
+19,nKcAkb0sKbAyDqu3Qgh_mA,Water and Ice Ahwatukee,AZ,Phoenix,85044,14.0,4.5,4855 E Warner Rd,icecream shavedice waterstores,33.3304296438667,-111.980295181274
+20,0rjU_WK5HxoH1fIuEpTpcg,Zesty Zzeeks Pizza and Wings,AZ,Phoenix,85044,438.0,4.0,4825 E Warner Rd,pizza chicken_wings sandwiches,33.329364220763,-111.979633853434
+17,qeQjp9pa9PkyXDv9P5l4Ow,Yummies Yogurt,AZ,Phoenix,85044,55.0,3.5,4810 E Ray Rd,bubbletea icecream,33.3210907,-111.9796906
+4,Hw-yFY8Fz8HOvY6I5l7Ljg,Yoasis,AZ,Phoenix,85048,63.0,4.0,1304 E Chandler Blvd,icecream bubbletea juicebars,33.3064,-112.05502
+3,owtAH-xAVf_hS2rFNGAXsQ,Bahama Buck's,AZ,Phoenix,85048,61.0,4.5,4910 E Chandler Blvd,shavedice juicebars desserts,33.30664,-111.97755
+4,NbQ94l1obqfd1WRtuKT_lg,Snowtime,AZ,Phoenix,85044,10.0,4.5,4905 E Ray Rd,coffee shavedice,33.317494260986884,-111.97781069085919
+9,Y5AuG97i7DBMr0a8CyoCiQ,Himalayan Shaved Ice,AZ,Chandler,85226,1.0,5.0,4976 Premium Outlets Way,shavedice,33.2875981,-111.9732968
+8,UYvIfWlBx-q6Pe4WzugVgQ,Boba & Donuts,AZ,Chandler,85226,138.0,4.5,6165 W Chandler Blvd,donuts bubbletea coffee,33.3051351,-111.9482009
+2,XKzltM-SYr7EQjgxRqSIig,Sumo Snow,AZ,Chandler,85226,131.0,4.5,5055 W Ray Rd,bubbletea juicebars desserts,33.31937,-111.92932
+13,y-PJoFAB8UCfhVXnWDhpGQ,Water and Ice,AZ,Chandler,85226,18.0,4.0,4939 W Ray Rd,shavedice icecream waterstores,33.31847,-111.92592
+1,wAOASomFwI5xDpitaFwa_Q,Tea Fresho,AZ,Chandler,85226,5.0,4.0,6140 W Chandler Blvd,bubbletea coffee,33.30594858144837,-111.94723762571812
+1,xy6JUuTJ8SEQsIx6wL3OTQ,Snowtime,AZ,Chandler,85224,445.0,4.5,2095 North Dobson Rd,coffee shavedice,33.337186,-111.87589
+8,u7vELsRgenHSJaJ4kSr4qw,The Frozen Monkey,AZ,Goodyear,85338,148.0,4.0,15661 W Roosevelt St,desserts icecream shavedice,33.4568862915039,-112.395652770996
+10,jYXckUufj3LjoBmJE1XMIQ,Jeremiah's Italian Ice,AZ,Chandler,85248,51.0,4.5,4050 S Alma School Rd,icecream desserts shavedice,33.2461168,-111.86607663668
+11,ezK51H9WtEmqxAax3gAZGQ,The Caspian Cup,AZ,Gilbert,85295,16.0,4.5,2268 E Williams Field Rd,cafes shavedice,33.31079990957726,-111.7416778
+12,R0Gh5fN68Y2gHewPko2QFA,Bahama Bucks Maricopa,AZ,Maricopa,85138,14.0,3.0,17470 N Porter Rd,juicebars acaibowls shavedice,33.0375440533572,-112.0130085
+19,8DJBh4VpW3oalVoA_JiY9Q,Meet Fresh,AZ,Chandler,85224,42.0,3.5,1900 W Chandler Blvd,desserts shavedice bubbletea,33.30734169999999,-111.8741807
+21,W1iQWLaLpTV_8KDrg5Ad4g,Sweet Snow,AZ,Goodyear,85338,61.0,4.5,15591 West Roosevelt St,icecream shavedice cakeshop,33.45692,-112.39425
+23,ecf26TgLNn6ViNPGRtr4Uw,H2O and More,AZ,Surprise,85374,11.0,4.5,15508 W Bell Rd,shavedice waterstores,33.64027,-112.394645
+27,5afbudwEGDlQDGF4hPqbUg,Maricopa Water and Ice,AZ,Maricopa,85139,37.0,4.5,20928 N John Wayne Pkwy,icecream candy shavedice,33.070396,-112.046727411045
+28,8ViawdGlfZU1NcdRmesk2g,Jeremiah's Italian Ice,AZ,Gilbert,85296,31.0,5.0,85 E Warner Rd,desserts icecream shavedice,33.335207,-111.7881123
+30,kL-ewcgP_Qbakdf1afIqIA,Sumo Snow,AZ,Surprise,85388,280.0,4.5,16487 W Bell Rd,bubbletea desserts juicebars,33.6386351,-112.4133177
+32,a4k5QEQ6ak4N2JiOZSl3eg,Bahama Buck's,AZ,Gilbert,85297,103.0,4.0,3306 S Higley Rd,shavedice juicebars acaibowls,33.29025,-111.722751
+34,YST448LplxH6SMLNq2vsOw,Ambrosia Water & Ice Company,AZ,Goodyear,85338,17.0,3.5,500 N Estrella Pkwy,shavedice icecream waterstores,33.452165,-112.394266
+38,EvSvgf42BhEVKckXWPx6MQ,Kona Ice of North Gilbert & Chandler,AZ,Gilbert,85234,1.0,5.0,,shavedice,33.350097,-111.755696
+41,Kb1QJkhQ7dc96vkP32-1RQ,Bahama Buck's,AZ,Chandler,85248,74.0,3.5,4040 S Arizona Ave,juicebars shavedice acaibowls,33.2467101,-111.8414349
+46,15PGt1ppfTriRMT47yysZw,Sips-n-Snows,AZ,Goodyear,85338,1.0,5.0,,foodtrucks shavedice,33.42734,-112.39973
+47,vT5mKKEcAxhSPj452HHspw,Frutilandia,AZ,Mesa,85204,165.0,4.0,1011 S Gilbert Rd,desserts icecream mexican,33.39687703114099,-111.78775701779107
+1,Y6Vw0FF8Qz9XD8fY4Z9Vfg,Yes Cafe,AZ,Chandler,85224,131.0,4.5,2050 N Alma School Rd,bubbletea taiwanese juicebars,33.33654014319915,-111.86022023162113
+4,bREXSPzdzBOXmLWX0aevEA,Bahama Buck's,AZ,Mesa,85215,94.0,4.0,303 E Southern Ave,juicebars shavedice desserts,33.39295,-111.824866
+15,OlAQzhrDcOLd8uGuwjUk8g,Water Mart,AZ,Mesa,85204,4.0,5.0,1230 S Gilbert Rd,shavedice,33.39329,-111.790774
+16,NlymcSxDnjtCLyGvmMoyFg,Aloha Kitchen,AZ,Mesa,85210,631.0,4.5,2950 S Alma School Rd,hawaiian,33.3608055114746,-111.859832763672
+24,J4iCg9pHLFihFC9LETupMg,Bahama Buck's,AZ,Gilbert,85233,164.0,4.0,865 South Cooper Rd,juicebars shavedice acaibowls,33.3341255187988,-111.806304931641
+29,chygQNZlBucpYtL6gIC8-w,El Mix Raspados,AZ,El Mirage,85335,13.0,5.0,12550 W Thunderbird Rd,desserts mexican markets,33.60943,-112.32946
+33,RuWcOn20A0bgySjr0HWZkA,V.Nam Pho,AZ,Surprise,85374,219.0,4.5,15332 W Bell Rd,vietnamese,33.6391289,-112.390736
+35,DlS2X40L4KywtwO4YpvW7A,Water and Ice,AZ,Chandler,85248,28.0,4.5,2960 S Alma School Rd,icecream shavedice waterstores,33.2624698,-111.8588149
+42,uhRr9pd4G92YSb0panmmww,Bahama Buck's,AZ,Mesa,85205,95.0,2.5,446 North Higley Rd,shavedice juicebars acaibowls,33.423848070752,-111.719659627394
+46,E4xEqgPa6AWox2NBLtbZLw,Water and Ice Mesa,AZ,Mesa,85205,4.0,5.0,4355 E University Dr,shavedice icecream waterstores,33.4222,-111.73706
+49,qxKL48g2Hy8K0Rx_gUC7_A,Antojitos LindaMar,AZ,Chandler,85225,21.0,4.5,620 W Galveston St,desserts mexican,33.3135908963423,-111.850868873298
+6,nFVqjh-JCOuV2Uci1ZfJ_Q,Leo's Island BBQ,AZ,Peoria,85382,632.0,4.5,7665 W Bell Rd,hawaiian bbq seafood,33.636959,-112.224057
+10,QYBMK_LxcqlGeSXBeLmrLg,Water Plus Juice Factory,AZ,Chandler,85224,37.0,4.5,1969 W Ray Rd,waterstores juicebars icecream,33.31895694206888,-111.87590498185278
+16,qLWzcf5m-ynm-JNpM4E7KQ,Helados Zacatecas,AZ,Mesa,85210,18.0,4.5,1145 S Mesa Dr,icecream juicebars shavedice,33.39408,-111.82255
+20,oLj7pOT0MXry1B_sf6QiHg,Water and Ice,AZ,Chandler,85249,31.0,4.0,2945 E Riggs Rd,icecream shavedice waterstores,33.217903,-111.790226
+22,7gSlK6DyQU-wyKRzGMjYQw,Crystal Water & Ice,AZ,Chandler,85225,11.0,4.0,1020 E Pecos Rd,shavedice waterstores,33.293157,-111.823645
+24,KDv4d-yz2mwWtyHnnKaoew,Flor De Michoacan,AZ,Chandler,85225,40.0,3.5,582 N Arizona Ave,desserts icecream,33.3129599,-111.84191
+26,1U90wLR_I8yfuI8ZLlD3mQ,Mexico Magico & Cantina,AZ,Chandler,85225,7.0,4.5,474 W Ray Rd,mexican seafood,33.321146,-111.847744
+31,ZcJG3Sny3jiOLfvPQynNbA,la Fruta Loca,AZ,El Mirage,85335,7.0,3.5,12010 W Thunderbird Rd,shavedice,33.60907,-112.31874
+34,Ceb3h3UuuE46Iee7cp3NIg,Frutilandia,AZ,Mesa,85201,52.0,3.5,351 N Country Club Dr,shavedice icecream juicebars,33.422094,-111.8394849
+36,hz02gw3Vm0xKXStFq0PjmA,Fresh Fast Smoothie,AZ,Gilbert,85296,48.0,4.0,110 S Val Vista Dr,bubbletea juicebars coffee,33.34776,-111.75693
+41,bRHAqqLnzObJ-RGSqI0kgQ,Paletas Betty,AZ,Chandler,85225,235.0,4.5,96 W Boston St,desserts icecream,33.3024149,-111.8426137
+43,LyjQ6scQ5Q3o3dtPobnOnA,Lindsay Water & Ice,AZ,Mesa,85213,16.0,4.0,454 N Lindsay Rd,icecream shavedice waterstores,33.4242,-111.7714
+46,eRAyYwS6-8rkK3SVpwVFww,Sandee's Water & Ice,AZ,Mesa,85203,21.0,3.5,1927 North Gilbert Rd,shavedice icecream waterstores,33.450482,-111.787079
+49,nHtHkHNPZPPgzDQydqlOFg,Water N More,AZ,Mesa,85206,3.0,3.5,1239 S Higley Rd,shavedice icecream,33.392183,-111.71857
+4,qpcZSHPLb8gTCI2T0XSYsA,Saigon Pho & Seafood,AZ,Chandler,85224,482.0,4.0,1381 N Alma School Rd,vietnamese seafood soup,33.3272817337926,-111.858255000013
+10,z9KxcVoe6tQGyB_Zy0Umcg,MV Snacks & Sushi,AZ,Mesa,85203,45.0,4.0,1468 E Main St,sushi desserts mexican,33.4157507905592,-111.799099557102
+11,Ij6Q806LeOvFt3XWVpJ9sg,Jin Shabu,AZ,Chandler,85224,400.0,4.5,2055 N Dobson Rd,japanese hotpot seafood,33.337082617487674,-111.87499772433833
+13,MiLqmnV6nTNECzeH47fkkw,Water N Ice,AZ,Chandler,85225,14.0,4.5,1070 E Ray Rd,icecream waterstores juicebars,33.3216671,-111.821817916008
+18,7o4LqN7Rneo4q7YgKypAMg,Water Xpress,AZ,Mesa,85203,3.0,2.0,730 E Brown Rd,shavedice,33.43621,-111.81521
+0,EaaLAlMotDPq8WXM_FUZLQ,Boba Cutea,AZ,Gilbert,85233,126.0,4.5,694 S Cooper Rd,bubbletea,33.337206247851576,-111.80843532085419
+3,FLNudRfjH0JtY2SnLXF52g,Tea Fresho,AZ,Gilbert,85295,76.0,4.5,2473 S Higley Rd,bubbletea coffee,33.305639512422594,-111.72043036669494
+4,0RELQcu2_pIQH-nkPICOSw,Rapha Tea,AZ,Chandler,85224,286.0,4.5,1900 W Chandler Blvd,bubbletea coffee sandwiches,33.3073762251525,-111.874370723963
+7,INmxK9_S6LuMeo_6eNp9Fg,Rapha Tea,AZ,Chandler,85249,8.0,4.0,5025 S Gilbert Rd,bubbletea coffee tea,33.2333407,-111.7886214
+8,eRwwTH0S9rlCQdqDvI3_aQ,DaYung's Tea - Chandler,AZ,Chandler,85248,101.0,4.5,4055 S Arizona Ave,bubbletea coffee,33.2464399569266,-111.839218405476
+13,1HD5iUUfVJDbfEBIn9yVhw,Boba Tea House,AZ,Chandler,85224,397.0,4.0,2055 N Dobson Rd,coffee bubbletea juicebars,33.3367167,-111.8763051
+17,piN7IHBo7S5rY6o4ztaCUg,Boba Bliss,AZ,Gilbert,85295,141.0,4.5,2531 S Gilbert Rd,juicebars coffee bubbletea,33.30394,-111.78885
+18,YGNerANZZTqDMV8nRitirg,Rare Tea,AZ,Chandler,85286,32.0,4.5,2990 E Germann Rd,bubbletea juicebars coffee,33.278730228833005,-111.79076669228752
+19,U709xWqp75P8TC9JGyhPFg,Sharetea,AZ,Chandler,85225,89.0,4.0,140 N Arizona Ave,bubbletea coffee juicebars,33.30529,-111.84167
+35,26tPTT3jtCktaqowDEYSUA,Bubble Bee,AZ,Gilbert,85295,300.0,3.5,2200 E Williams Field Rd,coffee bubbletea juicebars,33.3108072,-111.7427097
+37,aLss5tIa5rl4NJrhn7zPlg,Boba Tea Company,AZ,Chandler,85226,110.0,3.0,3111 W Chandler Blvd,coffee juicebars,33.3052343,-111.9026145
+39,-OqTAK0p-lExpBAgPS1yTA,Miss Dessert,AZ,Gilbert,85249,38.0,4.5,2484 S. SanTan Village Parkway,bubbletea desserts icecream,33.30541,-111.747453
+43,Vm9yvFpok8hZpSK8PDMLqw,Rewind - Ice Cream + Boba Tea,AZ,Scottsdale,85258,292.0,4.5,9210 E Via De Ventura,desserts bubbletea icecream,33.5540472,-111.8817616
+44,Igc8x8fFwISqw_uXcqnQCQ,KoKo Boba Tea House,AZ,Scottsdale,85258,85.0,4.0,9393 N 90th St,bubbletea juicebars coffee,33.5700427458527,-111.88703135574559
+47,ge7fgqWP6WXfqrjJYTxfqQ,Bobazona,AZ,Goodyear,85338,79.0,4.0,15591 W Roosevelt St,coffee gelato bubbletea,33.45692,-112.39425
+48,Z9C6I8TrHRPey5KSAX1TmA,Koala Tea,AZ,Surprise,85388,68.0,4.0,16630 W Greenway Rd,bubbletea icecream juicebars,33.625687,-112.416553
+5,BLvcA14BVJYSPjaVnNUKFg,Scoop and Joy,AZ,Scottsdale,85258,494.0,4.5,10135 E. Via Linda,coffee icecream bubbletea,33.57441,-111.86301
+11,JYU9hdnH7jYxVmT-AQuaVw,Hi 5 Tea,AZ,Chandler,85225,45.0,4.0,225 W Warner Rd,bubbletea asianfusion,33.3343563,-111.8451675
+18,oUJXPurI_LFTZhRCZcRNcg,Zero Degrees,AZ,Glendale,85308,505.0,3.5,7480 W Bell Rd,hotdogs bubbletea coffee,33.6384549,-112.2197482
+27,HVU7Sa7AxHmFfPMlDEWyKw,Swig,AZ,Gilbert,85234,161.0,4.5,4311 E Baseline Rd,desserts juicebars bubbletea,33.378251,-111.742375
+31,GJHaNrLBurhjjUclhzz5VQ,Zero Degrees,AZ,Mesa,85204,196.0,3.5,1649 S Stapley Dr,bubbletea coffee chicken_wings,33.383607,-111.802842
+36,GLNXA7xov23J7Nd9wRunEQ,Boba Tea Company,AZ,Glendale,85308,34.0,2.5,7700 W Arrowhead Towne Ctr,bubbletea,33.64006,-112.22501
+37,TShoU62Hm-4wH2EzwkJbrg,Saigon Nites Vietnamese Cuisine,AZ,Scottsdale,85260,328.0,3.5,15689 N Hayden Rd,vietnamese,33.62814071359242,-111.89147625276799
+42,DhCXQCLVB-D-IPR7UtiQ0Q,Hot Bamboo,AZ,Chandler,85226,89.0,4.0,980 E Pecos Rd,asianfusion,33.2931379,-111.824964
+44,abBVA9AnbzzYYbggyGjGRg,Boba Cutea,AZ,Chandler,85226,7.0,2.5,3400 W Chandler Blvd,bubbletea,33.306609461691316,-111.8986870443296
+48,6ZIHxvFTHC1pvAzAS0uLDA,Lee's Sandwiches,AZ,Chandler,85224,602.0,4.0,1901 W Warner Rd,sandwiches coffee vietnamese,33.33461,-111.874645
+0,alGDfx7bXFgb1TdWKbpiQA,Swig,AZ,Mesa,85213,94.0,4.0,2010 E Brown Rd,desserts juicebars bubbletea,33.43756,-111.78741
+4,7ykOcQldsr7_WulD6yrghA,Icicles,AZ,Chandler,85226,25.0,5.0,3400 W Chandler Blvd,icecream desserts bubbletea,33.306644,-111.898728
+5,qxiLIefrgfm9fHzmRIdExw,Swig,AZ,Gilbert,85297,52.0,3.0,2919 S Market,desserts juicebars bubbletea,33.2969923,-111.7465842
+12,S37sKRRfkhFZRpxaYzWo_A,China Magic Noodle House,AZ,Chandler,85224,667.0,4.0,2015 N Dobson Rd,chinese noodles,33.3355999912019,-111.873925673542
+14,uOlI0AgDsEdeWNYAZTJxIQ,Urbanh Cafe,AZ,Chandler,85224,157.0,4.0,2015 North Dobson Rd,bubbletea juicebars sandwiches,33.3358619,-111.8762951
+16,ET1BNVgP_3LtKKscrj1KWg,Mesa Donuts,AZ,Mesa,85215,85.0,4.0,6008 E Mckellips Rd,donuts coffee,33.4524784,-111.7011528
+19,O7kLvb_8LUtUwdPivfK5sA,Sushi Ave Express,AZ,Gilbert,85233,12.0,4.0,1939 E Baseline Rd,sushi,33.37737,-111.78954
+22,3Ou9p4zIJg4utQh7MDgKFg,Panda Express,AZ,Mesa,85204,76.0,1.5,1210 E. Southern Ave.,hotdogs chinese bubbletea,33.3938606,-111.804864
+6,EpPOZAG0u7qHP-jv5HjFUg,Koi Poke,AZ,Scottsdale,85255,399.0,5.0,18221 N Pima Rd,poke hawaiian sushi,33.65186937706283,-111.88611490078465
+1,wkmyYAEOLAXz3J66Fqu3Kw,Desert Snow,AZ,Peoria,85383,5.0,5.0,29799 N Lake Pleasant Pkwy,shavedice popcorn,33.7527333,-112.25333
+14,4STAZfTYkqQBU4LCVFqlMA,JT Boba House,AZ,Buckeye,85326,75.0,2.5,944 S Watson Rd,bubbletea coffee,33.4382151550136,-112.558673834397
+10,aJh31cYPJTMffdASkiMrdw,Happy Honu Shave Ice,AZ,Peoria,85373,23.0,4.5,,shavedice foodtrucks desserts,33.64418,-112.28016
+14,AJM_sHyBITHlPL_6V3gBug,Tropical Sno Mesa,AZ,Mesa,85205,9.0,4.5,6754 E Main St,shavedice,33.416296,-111.6847572
+11,6nmlclYyyLyH5EGLUpsmjw,Dutch Donut Factory,AZ,Mesa,85205,153.0,4.5,1152 N Power Rd,donuts juicebars bubbletea,33.43659,-111.68492
+0,l9XAkJfq8m_a_elP-B-MSg,Jeremiah's Italian Ice,AZ,Queen Creek,85142,18.0,5.0,20784 E Victoria Ln,desserts icecream shavedice,33.2519342,-111.63502463327714
+3,Z4C2uP-p4Mq5CSCBBEqB1A,Bahama Buck's,AZ,Queen Creek,85142,48.0,4.0,21137 S Rittenhouse Rd,shavedice juicebars acaibowls,33.2508,-111.62764
+4,IIi2BfD31J6E-O6x_VA1Hw,Bahama Buck's,AZ,Mesa,85207,52.0,4.5,1959 S Signal Butte Rd,desserts juicebars shavedice,33.379402,-111.600331
+7,xN2DC340zYiM3qChVLC4xg,Kona Ice of South Gilbert & Queen Creek,AZ,Queen Creek,85142,6.0,3.0,,shavedice icecream foodtrucks,33.2425804138184,-111.628631591797
+8,QBLOdeMk7pd9IiH2zu79Ig,Bahama Buck's,AZ,Mesa,85209,108.0,4.5,2235 S Power Rd,desserts shavedice juicebars,33.37505,-111.68717
+9,10V7mSVmifNZHugq0FUx_g,Kona Ice of Apache Junction,AZ,Apache Junction,85120,1.0,2.0,1049 W 21st Ave,shavedice foodtrucks,33.395308,-111.5574036
+10,R0TDbmiSLc-Z4QNzjlixuA,Winters Quarters Water-N-Ice,AZ,Queen Creek,85142,21.0,4.5,19011 E San Tan Blvd,waterstores icecream bbq,33.2117367132354,-111.671517992606
+11,GxfTFH316tnPoIqhDis8ew,Frutilandia,AZ,Queen Creek,85142,38.0,3.5,21803 S Ellsworth Rd,icecream mexican shavedice,33.25023,-111.63408
+12,NIzqX5aJ9XGWjA3AhUrmKA,Water & Ice Disc Superstores,AZ,Mesa,85209,4.0,4.5,7102 E Baseline Rd,icecream shavedice candy,33.3796286,-111.6798257
+15,mdWBCoTYAPeuKuu8Jq2zzg,Cuties Lemonade and More,AZ,Mesa,85206,13.0,3.0,6555 E Southern Ave,juicebars foodtrucks shavedice,33.390275,-111.690295
+19,37n2MtSu1Xe8j1ci8jd-0g,Habanero Mexican Food,AZ,Mesa,85206,17.0,4.0,6555 E Southern Ave,food_court mexican hotdogs,33.3906732666281,-111.689858751765
+5,a8J4FB56HSyxj8GYEyL_7g,Boba Tea,AZ,Mesa,85206,11.0,2.5,6555 E Southern Ave,bubbletea coffee,33.39024956721,-111.690213605762
+15,j4tIt392TnGwqddGD-68uQ,eegee's,AZ,Casa Grande,85122,82.0,3.5,1442 E Florence Blvd,sandwiches hotdogs desserts,32.88015053,-111.7253013
+6,pbTajHAP8m4XphGPiRripQ,Las Fresitas,AZ,Casa Grande,85122,5.0,3.5,707 N Walnut Ave,icecream juicebars markets,32.8797454,-111.7523249
+15,IQ4frAJn_pmbtIbA6UX4EQ,Machi Tea House,AZ,Casa Grande,85122,5.0,4.0,1645 N Trekell Rd,bubbletea juicebars,32.89656054263942,-111.7408563289697
+17,fUf_QP92tLQj0oL2rxytNw,Heyy Tea,AZ,Tucson,85719,8.0,3.5,1031 N Park Ave,bubbletea desserts juicebars,32.23513,-110.95712
+18,EmGW9hNaLeOPCSxaIzxMNw,Ni Hao Tea,AZ,Tucson,85719,28.0,5.0,2800 N Campbell Ave,bubbletea juicebars coffee,32.25756,-110.94366
+26,caGpaptBP4BKJkpH5W6cvA,Bing's Boba Tea,AZ,Tucson,85719,223.0,4.0,2510 N Campbell Ave,bubbletea coffee juicebars,32.252543,-110.943666
+28,RGtMrLcbsss7lbZsdVYrqQ,Ding Tea Tucson,AZ,Tucson,85716,45.0,4.5,2739 E Speedway Blvd,bubbletea desserts coffee,32.23639,-110.9313
+30,CoWXE9RoL2vuZBjuKque8Q,Lucky's Boba Tea,AZ,Tucson,85743,59.0,4.5,7455 W Twin Peaks Rd,bubbletea,32.3744049072266,-111.124366760254
+37,KYFJ7qh7bYYAsjnGrhH3NA,Bing's Boba Tea,AZ,Tucson,85704,185.0,4.0,2040 W Orange Grove Rd,coffee bubbletea juicebars,32.3246177,-111.0107186
+39,fgTOJRkc703E4XRdcr5zRA,Chatime - Bubble Tea Cafe,AZ,Tucson,85719,184.0,3.5,1800 E Fort Lowell Rd,bubbletea coffee taiwanese,32.2646942138672,-110.944831848145
+5,EhFJgjgn9Kzo_gu03DVkRg,Nomico Healthy Dessert,AZ,Tucson,85705,100.0,4.0,595 East Wetmore Rd,desserts juicebars creperies,32.288056480794395,-110.9624842
+7,p6zCE-CRFFLtjlrtn6kyCg,Tea Hub,AZ,Tucson,85719,13.0,4.0,4246 N 1st Ave,coffee bubbletea,32.28420750000001,-110.95950118720467
+8,8gjgyMVAm6CUzNNvgFg5Rw,7 Degrees Ice Cream Rolls & Boba Tea,AZ,Tucson,85705,103.0,3.5,4386 N Oracle Rd,icecream bubbletea tea,32.28613,-110.97766
+17,-3-6BB10tIWNKGEF0Es2BA,The 81 Hong Kong Cafe,AZ,Tucson,85705,156.0,4.0,625 E Wetmore Rd,chinese asianfusion bubbletea,32.28805,-110.96309
+20,Usj0t1Ts3zoTBnjhi-WA3A,Miss Saigon,AZ,Tucson,85701,203.0,4.0,47 N 6th Ave,vietnamese bubbletea cocktailbars,32.2228063545393,-110.968643054366
+25,y97gxo7_RJgJ6NwdmRW_kQ,Boba Tea Company,AZ,Tucson,85705,29.0,2.5,4500 N Oracle Rd,bubbletea,32.288651,-110.973335
+41,qmiz3iYOn4pZylOe27OTUQ,Com Tam Thuan Kieu,AZ,Tucson,85704,274.0,4.0,1990 W Orange Grove Rd,vietnamese,32.3242403224748,-111.010090720229
+48,c8kCy8ZwXaOhOgPbFLa4ow,Saigon Pho,AZ,Tucson,85719,153.0,3.5,943 E University,vietnamese,32.2322974606422,-110.957632103903
+2,IKMAgK2m6WRIViVFB2vAFQ,Miss Saigon,AZ,Tucson,85719,712.0,4.0,1072 N Campbell Ave,vietnamese noodles vegetarian,32.23540861141934,-110.94362726863311
+6,wK0st2QWGin3shaIYHG0Xg,Oriental Express,AZ,Tucson,85719,54.0,4.0,982 E University Blvd,chinese bubbletea soup,32.2314186096191,-110.957000732422
+8,ZNUj4n_vCiFVSj71-1ox9w,Fullyloves Bar and Grill,AZ,Tucson,85719,10.0,4.5,994 E University Blvd,desserts bubbletea tradamerican,32.23147,-110.95689
+22,Y4Ur3avr_tGMyQaDHMUdhw,Dao's Tai Pan's Restaurant,AZ,Tucson,85719,171.0,3.5,4206 N 1st Ave,vietnamese chinese thai,32.283248,-110.960536
+34,kH0lPM3DO51Pk4JaTRXlgQ,Sky Dragon,AZ,Tucson,85719,134.0,3.5,3607 N Campbell Ave,cantonese szechuan,32.2730101677616,-110.946079976857
+1,jRnDWmPFRp1YiuVoxbeV9Q,TNE Real Hawaiian Ice,AZ,Tucson,85707,1.0,5.0,5405 E Granite St,shavedice hotdog foodstands,32.1822216,-110.8770814
+5,tiduqnPycG8e6ot9KvxruA,Tropical Shavings,AZ,Tucson,85757,2.0,5.0,,shavedice,32.11699,-111.13189
+17,tW2d8Wjd5IykoBWFJ3rPPA,Sonoran Snoballs,AZ,Tucson,85719,15.0,5.0,NE Corner Broadway & Campbell,streetvendors desserts,32.2214394,-110.9440689
+27,Ro9yZrMiWVEX2fkA5C_QYw,eegee's,AZ,Tucson,85741,61.0,3.5,7110 N Thornydale Rd,sandwiches hotdogs desserts,32.33626554,-111.0463149
+35,MRozCf6WUxoTpD-4f10r2Q,rAAAspados Y MAS,AZ,Tucson,85742,1.0,1.0,6401 Marana Center Blvd,juicebars mexican shavedice,32.37375,-111.07145
+41,7hDnKC3ioJ85LAxFz3h9tw,Hielitos,AZ,Tucson,85712,2.0,4.5,5460 E Speedway,shavedice icecream desserts,32.23565089098914,-110.87640514386057
+43,J8AEHl_b_2Z-v30Yb3j9XQ,DJ Munchiez Featuring Little Jimmy's Italian Icy,AZ,Tucson,85712,1.0,5.0,1208 N Alvernon Way,shavedice streetvendors,32.23837,-110.90939
+44,menJOWV02gjwT-cWy4hdaQ,Slice & Ice,AZ,Tucson,85745,81.0,4.0,1905 W Grant Rd,pizza shavedice sandwiches,32.2501435,-111.00766933
+3,uvtDcAEXnTLE2SaTxqrKww,Gema Raspados & Delights,AZ,Tucson,85741,32.0,3.0,2860 W Ina Rd,shavedice desserts icecream,32.33884,-111.02881
+4,W7bCZ-AVqO5Uyd9uhObVCg,eHotPot,AZ,Tucson,85705,76.0,4.5,243 E Speedway Blvd,hotpot chinese taiwanese,32.2363019,-110.9674991
+5,ACYqszWy-AlxeskqHuiRBg,HeeMee Coffee + Bakery,AZ,Tucson,85701,90.0,4.5,20 E Congress St,coffee bakeries,32.221772,-110.970792
+8,3W7D6r0MJU2EFgTbGklYFA,Hypothermias,AZ,Tucson,85713,2.0,5.0,3720 E 43rd Pl,shavedice,32.185674,-110.912928
+12,4sd3mJ2V1rf2F3pM-Us1tg,Raspados el paraíso,AZ,Tucson,85711,63.0,4.0,5917 E 22nd St,shavedice,32.207378,-110.866477
+24,2I32R-rGkRic0B46W_R53Q,Marymar,AZ,Tucson,85714,13.0,4.5,4764 S 6th Ave,shavedice,32.16531,-110.96848
+26,sfOsBQzmxnqal8N_PfwpJQ,Juice N Fruit Raspados,AZ,Tucson,85713,49.0,4.5,3502 S 6th Ave,juicebars mexican,32.18318,-110.9687
+28,gtuoRlBPqoTIEPrcfbIP-g,Korea House,AZ,Tucson,85712,138.0,4.0,4030 E Speedway Blvd,korean,32.2359,-110.90633
+29,ueNdkyU0IO91jEvtZOcr1Q,Sno Cones Sonora,AZ,Tucson,85713,10.0,3.5,2936 E 22nd St,mexican shavedice,32.20639,-110.9291
+30,jlgAYIItCHNZGfcxCUIjfA,Sonoran Sno-Cones,AZ,Tucson,85745,26.0,4.0,120 S Avenida Del Convento,icecream juicebars,32.2197524,-110.9857479
+33,K_8YsBq1YpWswAuPO7BLVg,Sonoran Delights,AZ,Tucson,85745,89.0,4.0,921 West Congress Rd,mexican,32.2204551696777,-110.987724304199
+34,9-VA_4nL0QfvhO8LMcBIfA,Michoacán Taqueria Raspados,AZ,Tucson,85705,24.0,3.5,3235 N Flowing Wells Rd,mexican shavedice,32.26582,-110.99554
+39,YQT53_5tc_sp3_Xp4c5Ehw,Takamatsu,AZ,Tucson,85712,380.0,3.0,5532 E Speedway Blvd,japanese korean sushi,32.2357406616211,-110.874168395996
+41,oHsGMlshs3xNJ8-2vkqFVA,eegee's,AZ,Tucson,85705,30.0,3.0,243 E Speedway Blvd,sandwiches hotdogs desserts,32.23664098,-110.96760215871167
+43,UJiesQxYIR8AY3FsrwQbbA,Sito’s Fresh Market,AZ,Tucson,85716,10.0,4.5,2545 E Speedway Blvd,mexican shavedice meats,32.236479057634504,-110.9343177
+45,4cW2x-R0QgsGHliDXbDj1g,Deliciocho,AZ,Tucson,85706,7.0,3.5,6308 S Nogales Hwy,shavedice mexican,32.13739,-110.96278
+0,-OX0MJDPRHV0RCRvwYnvBQ,NI HAO TEA,AZ,Tucson,85711,191.0,4.5,4726 E Broadway Blvd,coffee bubbletea juicebars,32.220787,-110.891139
+44,pnZQOGEV-Ru6vHIYaUuQBw,Miss Saigon,AZ,Tucson,85711,247.0,4.0,250 S Craycroft Rd,vietnamese bars tradamerican,32.2187703908097,-110.875794366002
+7,ltW5d1VL6kBfGQplODFrXQ,Bahama Buck's,AZ,Tucson,85710,76.0,4.0,8585 E Broadway Blvd,shavedice juicebars desserts,32.22145,-110.80905
+1,aiLnhi2gUcR1IyBy_GGbaA,Raspado El Paraiso,AZ,Tucson,85730,5.0,4.5,7701 E Golf Links Rd,icecream shavedice,32.19248290984433,-110.8278972
+17,eM-unjTl2rG-96N46qlveQ,The Korean Rose,AZ,Tucson,85712,81.0,4.5,6118 E Speedway Blvd,coffee bubbletea,32.235577,-110.861643
+28,eZijZMffN9YXb2OX5GsuGw,Frozen Delight,AZ,Tucson,85712,66.0,4.5,1101 N Wilmot Rd,icecream bubbletea,32.23702,-110.85873
+31,wZl-X5zhckYu2vn9lLE87w,Sushi To Go & More,AZ,Tucson,85730,66.0,4.5,7755 E Golf Links,sushi bubbletea juicebars,32.19245,-110.82702
+32,2voOtLpb3akopxVVYFI9AA,BoMo,AZ,Tucson,85747,5.0,4.5,9040 E Valencia Rd,bubbletea coffee,32.11835,-110.79939
+34,c4xAYwO_s8HEmOfCLVAhCA,Ha Long Bay,AZ,Tucson,85715,247.0,4.0,7245 E Tanque Verde Rd,vietnamese,32.2512957782559,-110.837599931432
+35,1dLWCD6CjSHD7PTfi5ZVNQ,Dao's Tai Pan's,AZ,Tucson,85711,246.0,3.5,446 N Wilmot Rd,vietnamese chinese thai,32.22649,-110.85734
+3,8ey5RDBfzUvxtBh2goiOqw,Zona Ice,AZ,Globe,85501,3.0,5.0,182 N Broad St,shavedice,33.39643,-110.78752
+13,uuE35hDubqGx1UpdOhqr2Q,Polar Ice,AZ,Buckeye,85326,5.0,3.5,115 E Hwy 85,foodtrucks shavedice mexican,33.370652,-112.575806
+0,86B5TkUi1Qg_9TjBdh45HQ,Frosty's Pop Shop,AZ,Prescott Valley,86314,8.0,5.0,8164 E State Rte 69,shavedice,34.586702,-112.323079
+6,0T1-iPbml449ESH3BmdLpg,La Botana Loka,AZ,Prescott Valley,86314,14.0,4.5,8449 E Spouse Dr,mexican shavedice bubbletea,34.60945,-112.31656
+30,0VuvZc7Y2bBh2AM1sI3kOA,Colt 804 Grill,AZ,Cottonwood,86326,610.0,4.5,804 N Main St,tradamerican bars bbq,34.74601,-112.02757
+1,-S5wV2t43XnLQ958YAA5PA,Sauced Potstickers,AZ,Prescott Valley,86314,149.0,4.5,8617 E Florentine Rd,chinese bubbletea,34.586297647392186,-112.3147215423289
+2,0fhoqLglAgQM_diDyEsIUg,The Boba Bliss,AZ,Prescott Valley,86314,3.0,3.5,7025 Florentine Rd,juicebars bubbletea,34.588534874278395,-112.34158938804275
+5,SiOZJIne9fsGKHCg0q34mw,Thai Express,AZ,Prescott,86303,3.0,2.5,3250 Gateway Blvd,thai bubbletea,34.546965,-112.409145
+0,Gh0X6OfV85ADPKpWR0NAtg,Paradise Ice,AZ,Lake Havasu City,86403,2.0,5.0,1799 Kiowa Ave,shavedice,34.505204,-114.351527
+1,x1o4zkpXHG_lhY9xefu9Iw,Megan and Erik's Water and Ice,AZ,Lake Havasu City,86406,24.0,4.5,3269 Maricopa Ave,shavedice icecream juicebars,34.45897,-114.27879
+2,5-NJLCt7Q97eKuoX46TuGg,Heather's Water And Ice,AZ,Lake Havasu City,86403,64.0,4.5,34 Lake Havasu Ave N,juicebars candy shavedice,34.47554,-114.34418
+3,nLvuV51IGh1hDXzLFS6fvQ,Burgers By The Bridge,AZ,Lake Havasu City,86403,238.0,4.0,401 Englishvillage,tradamerican burgers,34.472465,-114.346729
+4,Buw1qKvWFb-0TzCDScLyHw,Jumpstart'R,AZ,Parker,85344,21.0,4.5,520 Riverside Dr,coffee juicebars desserts,34.1523389326431,-114.285076747329
+0,9nvTgzurKNtbqC6bC2OOzg,Yuma Snow on the Go,AZ,Yuma,85364,4.0,5.0,1595 S Avenue C,foodtrucks shavedice icecream,32.6986369,-114.6673251
+1,0O2GgW8Q_b2rp6M-TqhkjQ,Bitten Shave Ice,AZ,Yuma,85364,1.0,5.0,,shavedice foodstands,32.6859016418457,-114.624473571777
+2,zsOCLJRG2czf65GPfpRkqA,Raspados Cuchy's,AZ,Yuma,85364,7.0,4.5,2241 S Ave A,shavedice icecream juicebars,32.68644,-114.63269
+3,l7tFY2shN8vH0Ts1Cpenlg,KOOL Kravnz,AZ,Yuma,85364,3.0,3.5,,shavedice foodtrucks,32.6859016418457,-114.624473571777
+4,siGaW4lv0RvUYAFa-4a-jQ,Lighthouse Snack Shop,AZ,Yuma,85364,2.0,4.5,711 3rd St,shavedice juicebars,32.7215194091236,-114.628386832774
+5,L8XxzcyYI9q9ogcGTj82Ag,Ludi's Pacific Barbecue,AZ,Yuma,85365,46.0,4.5,3939 S Avenue 3 E,poke filipino hawaiian,32.6561,-114.58006
+6,QuYUlsjvfBAa1rlHlIGVLQ,Lappert's Ice Cream & Coffee Lounge,CA,San Diego,92064,728.0,4.0,12265 Scripps Poway Pkwy,desserts icecream coffeeroasteries,32.93386,-117.06075
+0,o0lJAnsRqn-PdyAegbCtLw,Boba Lounge,AZ,Yuma,85364,23.0,4.5,670 W Catalina Dr,coffee juicebars bubbletea,32.674359,-114.627541
+1,PEGzuMaGDLqAa6jjnZsT3Q,Honey Leaf Boba,AZ,Yuma,85365,46.0,4.0,1325 S Yuma Palm Pwky,tea juicebars,32.704213,-114.60252
+2,YMOoryQff-HXy1vNgSUhjg,Where's  My Boba,AZ,Somerton,85350,3.0,4.5,111 Joshua St,bubbletea coffee tradamerican,32.5908630874769,-114.709328860044
+3,MwVEaCtg1GnV-RlyYnn26Q,Lucha Kombucha,AZ,Yuma,85364,4.0,5.0,2607 S 4th Ave,kombucha bubbletea,32.68377695136682,-114.62294785858879
+4,OGZ17p-ISuFCpbkYYhIoYA,Yummy Yummy,AZ,Yuma,85364,27.0,3.0,2241 S Ave A,chinese bubbletea asianfusion,32.68644,-114.63269
+0,5bjJ2qywjQf0d6wnbBgQxA,Raspados Oasis,SON,Ejido del Centro,83550,2.0,5.0,Simon Morúa 162,desserts shavedice icecream,31.319737655434,-113.535460538232
+2,6ZxmD5QseLLTdMX2ODiB_A,The Pinetop Coffee House & Roasting Company,AZ,Pinetop-Lakeside,85935,49.0,4.5,1453 E White Mountain Blvd,coffee coffeeroasteries,34.12565361682011,-109.93843222488356
+1,cgumqPeKMzs4XqAyY27WMg,Momo's Kitchen,AZ,Sedona,86336,199.0,5.0,301 N State Rte 89A,korean foodtrucks,34.87109090347417,-111.76045227275995
+6,YeyaYfsxhwtuC4NH-pEnlA,Canyon Breeze Restaurant,AZ,Sedona,86336,239.0,2.5,300 N Hwy 89A,icecream pizza mexican,34.870649,-111.759696
+21,iZMdwe0xebE3rF0x3LOr4w,Banh Mi Bistro Vietnamese Eatery,AZ,Phoenix,85023,590.0,4.5,2340 W Bell Rd,vietnamese noodles sandwiches,33.6406782416876,-112.110540077578
+0,0bi7N_sZLm0f1kuBuehl0w,Sono Kitchen & Boba,AZ,Sedona,86336,116.0,4.0,285 Jordan Rd,bubbletea asianfusion juicebars,34.87,-111.76125
+1,wTsVANc5EB5RnZCW5rKshQ,Cindy's Italian Icees,AZ,Rio Rico,85648,7.0,4.0,1135 Circulo Mercado,shavedice icecream,31.4722615720139,-110.999759260665
+8,BjW8iR3jPCUv2jz0hfs6xA,Flavor Fuzion,AZ,Vail,85641,2.0,3.5,13105 E Colossal Cave Rd,icecream shavedsnow shavedice,32.04759314030601,-110.71296701742023
+0,nQI9f5D7FD0Ni_35Fu4dSw,Big Woody's,AZ,Sierra Vista,85650,6.0,4.5,240 Arizona 90,foodtrucks shavedice hotdog,31.5569352,-110.2574498
+9,7QHOoiux0pH3mopEAK_eCQ,Tacos Y Raspados Mi Yaqui,AZ,Sierra Vista,85635,52.0,4.0,1481 E Fry Blvd,mexican,31.5547749,-110.2824078
+0,HjFWIOPz_NOrxjOhWPaoJw,JV's BOBA,AZ,Sierra Vista,85635,47.0,4.5,180 E Fry Blvd,bubbletea coffee shavedsnow,31.5544423217334,-110.297692157328
+0,E8MmErCrrlvRfFx4_7WFKQ,Aloha Hawaiian BBQ,AZ,Flagstaff,86001,292.0,3.5,16 E Rt 66,hawaiian,35.197591,-111.64834
+2,kOg8NdeMdyUrCz2qFkBW1Q,Miguelito Dulceria & Raspados,AZ,Flagstaff,86001,3.0,1.5,1051 S Milton Rd,shavedice intlgrocery,35.190394,-111.661709
+1,kjopejyakY8FSmQq498E6w,Sweet Day Tea and Coffee,AZ,Flagstaff,86001,31.0,3.0,1441 S Milton Rd,coffee bubbletea desserts,35.1863328768329,-111.662046723068
+2,MS9i9Dv3FRQMZH13oXEERA,Kokiyo,AZ,Flagstaff,86001,196.0,4.5,116 S San Francisco St,korean japanese asianfusion,35.194774,-111.649037
+3,aYbCZ0EIn_6HmpZ99opmUA,Chopstix Vietnamese Kitchen,AZ,Flagstaff,86001,169.0,4.0,601 E Piccadilly Dr,vietnamese bubbletea soup,35.191289,-111.643179
+4,k-a0e_umzascJHLcb7lLAg,Delgadillo's Snow Cap Drive-In,AZ,Seligman,86337,177.0,4.5,301 W Chino Ave,burgers icecream hotdog,35.3258331,-112.8729968

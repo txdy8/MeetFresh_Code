@@ -1,0 +1,759 @@
+,id,name,state,city,zip code,review count,rating,address,categories,latitude,longitude
+0,MwzaVRXRu5CBnYnJxMViNg,Wu's Shaved Ice,PA,South Park Township,15129,3.0,5.0,,shavedice foodstands,40.2909736633301,-79.993537902832
+1,wpSWzp9My63yl_12qVfCiw,Kona Ice of Westmoreland,PA,Greensburg,15601,1.0,5.0,,shavedice foodtrucks icecream,40.3028182983398,-79.5440673828125
+2,CEVkoAYuBhoPGS4WQZTeBA,The Snowman,PA,Portersville,16051,20.0,4.5,238 E Portersville Rd,shavedice icecream,40.92222,-80.12632
+3,kIhSf0z0VEfvw9CGL-slug,Kona Ice,PA,Pittsburgh,15106,3.0,3.5,,foodtrucks shavedice,40.40542,-80.08658
+4,VZeYxSb1WKPsrB_8eG05-Q,Rita's Italian Ice & Frozen Custard,PA,Bedford,15522,1.0,5.0,106 E Pitt St,shavedice desserts icecream,40.01878,-78.50345
+5,pv__91LMXAbNX50NgeO55g,Sumi's Cakery,PA,Pittsburgh,15217,95.0,4.5,2119 Murray Ave,bakeries korean desserts,40.4331,-79.92289
+6,YTzi3m5AkcmGQlJUMXGQBg,Rita's Italian Ice,PA,Belle Vernon,15012,4.0,4.0,Tri-County Plz,desserts shavedice icecream,40.1380081,-79.8393326
+7,T_p58FAZTTRztGtASp6QgA,Rita's Italian Ice,PA,Cranberry Twp.,16066,10.0,4.5,1302 Freedom Rd,icecream desserts shavedice,40.68425,-80.10976
+8,6Az5aA5sdrqwfJjnS8TROQ,Bao,PA,Pittsburgh,15213,121.0,4.5,114 Atwood St,taiwanese noodles dimsum,40.44123665182891,-79.95801470314531
+9,wUr4HeEhhPeiFb7UmiYRzg,Chick'n Bubbly,PA,Pittsburgh,15213,179.0,4.0,117 Oakland Ave,korean bubbletea chicken_wings,40.44193,-79.95718
+10,08t3_HjbpLyPeuft6eoa5A,Page Dairy Mart,PA,Pittsburgh,15210,268.0,4.5,4112 E Carson St,icecream desserts,40.4112284,-79.9557968
+11,7IQ_ZBBMh8kP2UoPe4Y_ww,Meet BAO,PA,Pittsburgh,15213,3.0,2.5,114 Atwood St,panasian,40.4412353,-79.9580146684343
+12,d2ZQRjuizstCTnicysmpMQ,Eleven,PA,Pittsburgh,15222,789.0,4.0,1150 Smallman St,newamerican,40.44602,-79.99325
+13,SYOWhiZMkniGpFXuzwFZ5Q,Portias Donut's,PA,White Township,15701,1.0,5.0,Rte 422 W,bakeries donuts coffee,40.6230900001557,-79.1840400000569
+14,TmGxQgFdiG585PCs_2hCew,Rita's Italian Ice,PA,Pittsburgh,15217,47.0,4.5,5880 Forbes Ave,icecream desserts shavedice,40.43782,-79.91978
+15,f3y-4wAlDodHv-3Qnrg-vQ,Rita's Italian Ice,PA,Wexford,15090,12.0,3.5,10376 Perry Hwy,desserts shavedice icecream,40.6044991314411,-80.0506326556206
+16,QEBS_iXJeUvZEP-tvoGAkg,Rita's Italian Ice,PA,Pittsburgh,15209,7.0,4.0,1320 Babcock Blvd,icecream desserts shavedice,40.4959599,-79.97645
+17,xKZ4YIid7eJbypOAGT2-NA,Rita's Italian Ice,PA,McKees Rocks,15136,2.0,1.5,1803 McKees Rocks Rd,icecream desserts shavedice,40.469276,-80.096253
+18,SaBQcVm_qyRbiQBcVgAa1Q,Rita's Italian Ice,PA,Bethel Park,15102,9.0,4.0,5029 Library Rd,icecream desserts shavedice,40.340165648456,-80.0252952662776
+19,19m3NtbbP2VX-tDFJB1lKQ,Rita's Italian Ice,PA,Pittsburgh,15236,6.0,3.5,229 Curry Hollow Rd,icecream desserts shavedice,40.337262,-79.979377
+20,BfIcrMq0Me0D7BBSYij7Fg,Difiore's Ice Cream Delite,PA,Pittsburgh,15211,108.0,2.5,120 Shiloh St,icecream sandwiches tradamerican,40.4310949665867,-80.0073662852848
+21,6qjYqf6memou9O3jiVcv3A,Rita's Italian Ice & Frozen Custard,PA,Pittsburgh,15226,1.0,5.0,427 McNeilly Rd,desserts shavedice icecream,40.383124,-80.014798
+22,cngjoKeAEdre-mBk5KSWuQ,Pittsburgh Rib Fesitval,PA,Pittsburgh,15212,3.0,3.0,Heinz Field,bbq,40.45505,-79.99264
+23,qAVoausNrMEByp2cFt8EaA,Rita's Italian Ice,PA,Oakland,15213,13.0,4.0,3712 Fifth Ave,shavedice desserts icecream,40.4419607456418,-79.9579681519875
+24,G_f-lzXmrLtLLDRt9ATq3g,Rita's Italian Ice,PA,White Oak,15131,4.0,3.0,1985 Lincoln Way,icecream desserts shavedice,40.338341,-79.806593
+25,jemRU9DvmS0WGZuZ-k3jCQ,Rita's Italian Ice,PA,Pittsburgh,15220,12.0,3.5,2070 Greentree Rd,icecream desserts shavedice,40.392497,-80.068778
+0,JE7nM__FRx_GHhlEBbH5DA,Rachelle’s 15650,PA,Latrobe,15650,3.0,4.5,335 Main St,coffee sandwiches cafes,40.31697,-79.38338
+1,PsYxkIJn9K-GiA_g854qAQ,Bubble Tea,PA,Greensburg,15601,5.0,4.0,5256 US-30,bubbletea juicebars desserts,40.30071483160112,-79.50734078941039
+2,QbL5wlGgWu8bhsde-JRVVg,Teerak Thai Restaurant,PA,Indiana,15701,73.0,4.5,895 Wayne Ave,thai noodles soup,40.6159012522804,-79.1548312
+3,OwGGcCbSn-Z_1TkVGkgM5g,Thai at Indiana,PA,Indiana,15701,45.0,4.5,14 S 7th St,thai,40.6226107,-79.153523
+4,KJC4Go4IzSv0QIEXVggNSw,Asian Cafe,PA,Latrobe,15650,11.0,3.0,2401 Sharky's Dr,chinese,40.2860767019893,-79.3878723954319
+5,CcpcJgZkqjJwZTN5c3oamw,Bann Thai Restaurant,PA,Indiana,15701,3.0,3.5,1830 Oakland Ave,thai,40.6112388675,-79.1764212999
+6,DXE4MooKSMh6Ay4AHKl8Vw,Cattfeinated Cat Cafe,PA,Greensburg,15601,12.0,4.5,159 E Otterman St,cafes,40.304166280065,-79.5416298508644
+7,72IdwUbxl8sG6ZrJCPcQng,Shanghai Tokyo Restaurant & Sushi Bar,PA,Sarver,16055,41.0,4.0,612 S Pike Rd,chinese japanese sushi,40.70262,-79.72269
+0,4WMcxPE27ainmGMUwwp9aA,Brainfreezerz,PA,Altoona,16602,4.0,5.0,100 Logan Valley Mall,icecream foodstands shavedice,40.4703928881866,-78.4069629868209
+2,unR11SzNbR6BNHxOhzAeeQ,Rita's Italian Ice & Frozen Custard,PA,Altoona,16602,1.0,2.0,3415 Pleasant Valley Blvd,shavedice desserts icecream,40.484298460217886,-78.3988706881914
+0,-QJNFRYydXX17eeFd4ACYQ,Dimmick's Roadway Cafe,PA,DuBois,15801,1.0,1.0,5522 Shaffer Rd,bubbletea icecream coffee,41.1205283778915,-78.7256227433681
+5,pGw0X7t_DPiKuLDMOQnsuQ,Jaidee Thai Restaurant,PA,Altoona,16601,97.0,4.5,519 E 25th Ave,thai,40.536331,-78.39917
+6,ta6LAmj9L_HXVsjHQ00rjQ,Everyday Gourmet & Fine Food Merchant,PA,Ebensburg,15931,96.0,4.5,204 W High St,tradamerican,40.48496,-78.72633
+8,D1MLklPqknGa-ACtAIHMyg,Little Tokyo,PA,Altoona,16601,14.0,3.5,2720 Plank Rd,ramen sushi bubbletea,40.45650167,-78.40776167
+9,SyrWdNUajHsTgQwzX_Iu8Q,56 Buffet,PA,Johnstown,15904,16.0,4.0,1425 Scalp Ave,chinese buffets,40.2716137447665,-78.8579406738281
+5,F6F0JHqFtvYaEPlU2zj84w,Mico’s Kitchen,PA,Butler,16001,5.0,4.0,236 S Main St,bubbletea chinese asianfusion,40.85889,-79.89562
+7,qsK8eQtcZaVl-4UPKQlrvw,Spilling the Beans,PA,Oil City,16301,12.0,4.0,2 W Front St,coffee breakfast_brunch sandwiches,41.4292509,-79.7111372
+8,MNmQ1s-zdjEgm3bdRs7iEw,The Green Mango,PA,Pittsburgh,15235,196.0,3.5,3461 William Penn Hwy,thai,40.430732,-79.810192
+9,ix8EZnEGi7pLJCf-KhKecQ,Burgh Thai,PA,Verona,15147,54.0,4.5,321 South Ave,thai,40.50501,-79.84348
+12,xCmFGgpTkf77fNCrvkDBsA,Thai Terrace,PA,Pittsburgh,15218,38.0,4.5,247 Edgewood Ave,thai,40.43035,-79.88411
+13,qfBp53c7Z2DpqUrGhV80zg,Thai Cottage,PA,Pittsburgh,15218,155.0,4.0,1109 S Braddock Ave,thai,40.4325718,-79.893728
+3,FA96RzH0uFDrDHosI4Z-QQ,Tsaocaa,PA,Pittsburgh,15217,91.0,4.5,5871 Forbes Ave,bubbletea,40.43827,-79.92027
+6,5u27mhDjcJ4Y7QbDhRyaXg,Fuku Tea,PA,Pittsburgh,15213,205.0,4.0,3800 Forbes Ave,coffee bubbletea,40.4415422065159,-79.956820957154
+7,DOMr84L1ENSVjP6XmI7HCg,Love Tea,PA,Pittsburgh,15213,23.0,4.5,229 Atwood St,coffee bubbletea,40.440572,-79.956502
+8,emb1r_tKM14KRkwtPotl0Q,Kung Fu Tea,PA,Pittsburgh,15217,19.0,4.5,2109 Murray Ave,bubbletea,40.43350417,-79.9231075
+9,MG5Mwc-dA34-L2LUCv43jg,Chatime,PA,Pittsburgh,15237,33.0,3.5,1000 Ross Park Mall Dr,bubbletea juicebars,40.5442586910429,-80.0073454224762
+12,vnT_AQXCkchNRnKJNd0i7Q,Bae Bae’s Cafe,PA,Pittsburgh,15222,34.0,4.5,945 Liberty Ave,cafes sandwiches bubbletea,40.44376183,-79.99649867
+13,hg3pidNXBVcErL1l6EyQHw,Kungfu Tea,PA,Pittsburgh,15106,3.0,5.0,,bubbletea foodtrucks,40.4404976897654,-79.9602848048527
+15,mooEWKEZERUDX1oMhfvc_A,Churn,PA,Glenshaw,15116,25.0,4.5,3390 Saxonburg Blvd,coffee icecream,40.54899,-79.91429
+18,Fow67bYli1t2mny__9YinQ,Boba Tea Bar,PA,Pittsburgh,15237,27.0,3.5,4316 Butler St,cafes,40.4710517,-79.9597953
+21,VgWvHMs5TJ2lr0ec2DaMtQ,Bae Bae's Kitchen,PA,Pittsburgh,15222,530.0,4.5,951 Liberty Ave,korean comfortfood,40.443682,-79.996195
+23,4mYS-4UOjTKgsf0tX1_IkQ,Banh Mi & Ti,PA,Pittsburgh,15201,323.0,4.5,4502 Butler St,vietnamese cafes bubbletea,40.472145273083,-79.9589364429569
+26,Ac-DbrST8bF9Cpge5D9_Cg,Pho Kim 88,PA,Pittsburgh,15234,197.0,4.0,4100 Library Rd,vietnamese,40.3603668212891,-80.0290145874023
+28,ujInFnyExqAXtsti-qdrzg,Mola,PA,Pittsburgh,15206,178.0,4.5,6018 Penn Ave,sushi cocktailbars,40.4610694442199,-79.924216077817
+30,-8F04F54iDT6VgWPCgybug,Ineffable Ca Phe,PA,Pittsburgh,15224,159.0,4.5,3920 Penn Ave,vietnamese coffee sandwiches,40.46466,-79.95929
+31,QXKN5MYb5O1sg6-G2pwTzg,Shaka,PA,Pittsburgh,15212,44.0,4.0,200 Children's Way,asianfusion hawaiian cocktailbars,40.451519,-80.006036
+32,EZ9Uf-lSRtj1fvdMQlrwAw,Thai Me Up,PA,Pittsburgh,15203,242.0,4.0,118 S 23rd St,thai,40.427086,-79.973273
+34,LDVTTqruIDhbJcmrPr9D5g,KaFair Cafe,PA,Pittsburgh,15206,25.0,5.0,1806 Chislett St,coffee breakfast_brunch bakeries,40.48551,-79.92543
+36,Fozo0B-y42EhRMomR0K5vQ,Waffallonia,PA,Pittsburgh,15217,331.0,4.5,1709 Murray Ave,desserts icecream waffles,40.43769,-79.92283
+37,S-WbBty-kGOO3Fmwx3Jmlw,Pink Box Bakery Cafe,PA,Pittsburgh,15217,130.0,4.0,2104 Murray Ave,bakeries coffee desserts,40.4333842481899,-79.9231549468701
+38,qAzOcHnWerREl678su-p0A,Asian Garden,PA,Pittsburgh,15234,23.0,2.5,4136 Library Rd,chinese,40.358953,-80.029218
+39,tetKWtLT0639lqnD9QJRKw,Panda Express,PA,West Mifflin,15122,84.0,3.0,2070 Lebanon Church Rd,chinese hotdogs,40.3479348692857,-79.9462279517355
+40,MKd_EUD0PG__cOfIbeqYAg,Té Café,PA,Pittsburgh,15217,133.0,4.5,2000 Murray Ave,coffee sushi,40.43457,-79.92301
+41,vTOe_2zCHlElAjyaXnHh5g,Yue Bai Wei,PA,Pittsburgh,15217,33.0,3.5,5874 Forbes Ave,chinese,40.43785220737042,-79.92011302534436
+42,cGQKUOAZm_VHcQOJWbatog,P.F. Chang's,PA,West Homestead,15120,217.0,3.0,148 W Bridge St,chinese asianfusion,40.407150649512886,-79.9160729348659
+43,Yewf5KT9c-z8oc2-GeF06g,JJPOKÉ,PA,Pittsburgh,15213,81.0,4.5,110 Atwood St,bubbletea poke taiwanese,40.44141,-79.95823
+44,uRybQLCYWkC6N19MhaHf_w,Taiwanese Bistro Cafe 33,PA,Pittsburgh,15217,379.0,4.5,1711 Shady Ave,taiwanese noodles seafood,40.4376110828313,-79.9191114696594
+45,vmR1bRA2liNwwxsUKS1k3w,T-Swirl Crepe,PA,Pittsburgh,15217,95.0,4.5,1714 Murray Ave,creperies japanese,40.437483,-79.9231457
+46,cG82vmu-bQd-WWmsveJlGw,Fuku Tea,PA,Pittsburgh,15213,9.0,4.0,300 S Craig St,bubbletea coffee,40.445527,-79.949217
+47,BrORoLCE5zVY6ekUb6omNA,Mad Noodles,PA,Pittsburgh,15203,133.0,3.5,2017 E Carson St,bubbletea ramen noodles,40.4288,-79.97688
+48,xRsm1kRIGbL_nGCtxd551g,Took Took 98,PA,Pittsburgh,15217,106.0,4.5,2018 Murray Ave,thai bubbletea asianfusion,40.4342,-79.92305
+49,xULATz2siGXOPia614mg2A,Lulu's Noodles,PA,Pittsburgh,15213,444.0,3.0,400 S Craig St,chinese noodles,40.44514,-79.94904
+0,Msq2CBPFaY7Fe7h7R20fOA,Dragon Palace,PA,Pittsburgh,15215,34.0,4.0,1714 Main St,chinese,40.494867,-79.922603
+1,eNsM5ezjhPQWI6XlUGrUhw,Lin's Asian Fusion,PA,Pittsburgh,15203,135.0,3.5,2018 E Carson St,asianfusion,40.4283,-79.97682
+2,P4w7kxvrr4odvXdyQzXIvw,Maiku Sushi,PA,Pittsburgh,15222,220.0,4.0,1611 Penn Ave,sushi soup vietnamese,40.4490736801823,-79.9872996658087
+3,hcFSc0OHgZJybnjQBrL_8Q,Everyday Noodles,PA,Pittsburgh,15217,832.0,4.0,5875 Forbes Ave,chinese noodles,40.438262,-79.920082
+4,Y4pqydzydqrVp_o56VmIig,Dagu Rice Noodle,PA,Pittsburgh,15217,17.0,4.0,5829 Forbes Ave,bubbletea chinese chicken_wings,40.43828,-79.921871
+5,1_Dg-GguWatioW4mvFQKQA,Little Tokyo Bistro,PA,Pittsburgh,15203,161.0,4.0,2122 E Carson St,sushi japanese korean,40.4281845092773,-79.9753036499023
+6,AYr2URtjoQ8Toh8_Jr4G6A,Rose Tea Cafe,PA,Pittsburgh,15213,93.0,3.0,414 S Craig St,chinese bubbletea taiwanese,40.44476,-79.94887
+7,DXP3MbE8srQITLlAuS45aQ,Hunan Bar,PA,Pittsburgh,15213,102.0,3.5,239 Atwood St,szechuan,40.4403038024902,-79.9562759399414
+9,K6AKMjAdCSe8xllsbyeL9Q,Asia Tea House,PA,Pittsburgh,15213,64.0,3.0,4230 Forbes Ave,chinese bubbletea,40.4427240453859,-79.9528134936706
+10,j3YEV0H16fRaSiKh-ne00g,Kiin Lao & Thai Eatery,PA,Pittsburgh,15217,132.0,4.5,5846 Forbes Ave,laotian thai,40.437770689507126,-79.9211285
+11,f1K6hzQecl-sJFYRUHvDDQ,Szechuan Spice,PA,Pittsburgh,15206,121.0,4.0,5700 Centre Ave,sushi szechuan hotpot,40.45701,-79.93346
+13,DwmAsemahJywywhuqv5J1Q,Sichuan Gourmet,PA,Pittsburgh,15213,176.0,4.0,328 Atwood St,szechuan,40.4389524203373,-79.9551590458901
+14,ZKBUoCqTpwMtmImz64DGyQ,Hong Kong Express II,PA,Pittsburgh,15219,15.0,3.5,529 Ct Pl,chinese,40.437018,-79.997166
+15,9PTRou9XCkO6ZiCBrbeh0A,Phat's Bar,PA,Pittsburgh,15213,2.0,1.5,418 Semple St,bars karaoke bubbletea,40.43651,-79.95461
+16,X2X3n0PutSNonQQj2cjsCw,Tan Lac Vien,PA,Pittsburgh,15217,250.0,4.0,2114 Murray Ave,vietnamese,40.4332,-79.92325
+17,GjX2WgchvvS-JAWBmzkLyQ,Pho Van,PA,Pittsburgh,15222,267.0,3.5,2120 Penn Ave,vietnamese,40.4519857,-79.9824067
+18,S6dARuOrrOXd4xSiTHti8g,Chengdu Gourmet,PA,Pittsburgh,15217,208.0,4.0,5840 Forward Ave,chinese,40.4295421034818,-79.9223725553359
+19,e7M2GgkCfDYTxdPN1LL1sQ,Wai Wai Chinese Cuisine,PA,Pittsburgh,15224,160.0,3.5,4717 Liberty Ave,chinese,40.4620628356934,-79.9491577148438
+20,kkD0tv_e5E6a8kRpLYEcaA,Oishii Bento,PA,Pittsburgh,15213,319.0,4.0,119 Oakland Ave,japanese korean sushi,40.4418999,-79.95714
+21,X4CRPHvv-33kjxVJISZpUg,Little Asia,PA,Pittsburgh,15213,139.0,3.0,311 S Craig St,sushi chinese,40.4454,-79.94853
+22,jDZJsIyc3jXjcTtJk_p8ZA,Orient Express,PA,Pittsburgh,15213,103.0,3.0,4609 Forbes Ave,chinese,40.44465,-79.94818
+23,7aZf5c1UNotq4MabBXMZLA,Sichuan Gourmet,PA,Pittsburgh,15217,311.0,3.5,1900 Murray Ave,szechuan,40.43588,-79.92307
+9,ypSDELi0xMgoChahZkB3NA,Rita's Italian Ice,PA,Mckees Rocks,15136,13.0,4.0,6154 Steubenville Pike,icecream desserts shavedice,40.444459,-80.148496
+12,YhsWJmWjG4TMrxE8DuJH-w,Bobba,PA,Grove City,16137,4.0,4.5,1911 Leesburg Grove City Rd,bubbletea icecream wraps,41.142233,-80.157525
+10,FJAz6T7yDf_ph4Gnm-ka9Q,Amy’s Bakery,PA,Mount Lebanon,15228,28.0,4.5,654 Washington Rd,bakeries bubbletea customcakes,40.381148,-80.044573
+13,IXU_uBPr1IFQ09pK1N112g,Elephant #8 Thai Taste,PA,Slippery Rock,16057,35.0,4.5,126 S Main St,thai,41.06354,-80.05644
+19,ogGlctEavEWSVxFQ0ju3Gg,Sincerely Yogurt,PA,Bridgeville,15017,14.0,4.0,1025 Washington Pike,icecream juicebars,40.3694725036621,-80.1050796508789
+23,QLTe5e-wKcNJOAfmydHt1A,Avor Thai,PA,Cranberry Township,16066,192.0,4.0,900 Commonwealth Dr,thai,40.6833267211914,-80.1116409301758
+24,kiB4iXKPj69_wms2dd0U-w,Pho Saigon Cafe,PA,Bethel Park,15102,61.0,4.5,2822 South Park Rd,vietnamese,40.3280605,-80.03646117
+25,O6MwxUBEAYmb_RWDlEtKCw,Saigon 88 Express,PA,McKees Rocks,15136,128.0,4.5,5500 Steubenville Pike,vietnamese noodles sandwiches,40.4505208153035,-80.12685097754
+26,sGLdSwi3zKNM3c3f5Ep8jw,Gloria Jeans Coffees,PA,Pittsburgh,15241,19.0,4.5,301 S Hills Vlg,coffee,40.3424447894728,-80.0559294722137
+27,m2ESeAsMeKojQm3KXmHLGA,Yama Sushi,PA,Mars,16046,109.0,4.5,515 Adams Shoppes,sushi modern_european japanese,40.6877267360687,-80.0549148023129
+28,swfdlAMXwV8OjYD5nkA6nQ,China Palace of Wexford,PA,Wexford,15090,56.0,3.5,10441 Perry Hwy,chinese sushi bubbletea,40.60674,-80.05271
+29,0sKUrbcWsnbx5gI5LCEVrw,Sincerely Yogurt,PA,Cranberry Township,16066,29.0,3.5,1183 Freedom Rd,icecream desserts juicebars,40.6822094,-80.1243399
+32,50KEvLtQl9Vv4YE1vs681Q,Thai Foon,PA,Pittsburgh,15205,233.0,3.5,1950 Settlers Ridge Center Dr,asianfusion thai vegan,40.438617960479,-80.146132531925
+34,i-fdgshW3xovHeMZosDerw,My Thai,PA,Pittsburgh,15216,130.0,4.0,3024 W Liberty Ave,thai salad noodles,40.3930420493059,-80.0370368071787
+36,qh1GCWP_2TKxevp3ZeMxag,Chan's Tea House,PA,West View,15229,37.0,3.0,1009 W View Park Dr,chinese noodles soup,40.5159677540245,-80.0378046557307
+43,i4CF-bIEfNeYoQ87klS78Q,Benichopsticks Restaurant,PA,Canonsburg,15317,64.0,3.5,1025 Waterdam Plz,japanese chinese,40.262821,-80.133828
+3,ZtX4kYuKRqn6DdCa3QLVQQ,The Meadows,PA,Huntingdon,16652,2.0,4.5,9081 William Penn Hwy,icecream gelato shavedice,40.487974,-78.031353
+2,QhKKjuGL7qu8uiC_l19taw,Rita's Italian Ice,PA,State College,16801,14.0,3.5,119 E Beaver Ave,desserts icecream shavedice,40.7939099,-77.8598899
+1,p6dCXYyPCPLG9Y-J6SldLw,Mr Wish,PA,State College,16801,2.0,4.5,320 E College Ave,juicebars bubbletea coffee,40.79697,-77.85802
+2,rXLyXQBO8sDwM0AKJiCZHw,Momotaro,PA,State College,16801,72.0,4.0,220 W College Ave,desserts bubbletea coffee,40.79287006609,-77.8630598634481
+3,vKNS8R-FOCJPoIYYxkjoTg,Café Wow,PA,State College,16801,32.0,4.0,234 E College Ave,cafes desserts bubbletea,40.7958947,-77.8591343
+4,uJv7C5apEWS0p8iOmpmlnA,Kung Fu Tea,PA,State College,16801,39.0,2.5,320 W Beaver Ave,bubbletea sandwiches desserts,40.791211,-77.8630696
+7,KkYe5rh1VjFJlK9jXGGFJQ,Kondu,PA,State College,16801,37.0,3.5,132 S Allen St,sushi japanese,40.79352,-77.86107
+12,vTq6gFAfjMeGvFkoyzGQNA,Uncle Chen's,PA,State College,16801,107.0,2.5,430 E Calder Way,chinese hotdogs bubbletea,40.79757,-77.85511
+15,l5Cl_W5qVOR45nRmZvw9iw,Big Bowl Noodle House,PA,State College,16801,227.0,4.0,418 E College Ave,chinese taiwanese noodles,40.79798,-77.85652
+16,kjSYVYOQchVnn9C_zaqj7A,Yummy Cafe,PA,State College,16801,44.0,3.0,320 E Calder Way,szechuan,40.79661,-77.85749
+18,RWBkiQPlKVtn23VfOBDUKQ,Hibachi Express,PA,State College,16801,4.0,4.0,320 E College Ave,japanese asianfusion sushi,40.79697,-77.85802
+5,oV5lBaKn0VBUI9FKzFjYkw,StacyKay's Cafe,PA,Wellsboro,16901,1.0,4.0,17 Charleston St,bubbletea coffee waffles,41.75133207554598,-77.29629095451735
+4,qCIwtvSGrf7kUaRUl3Gfzg,Rita's Italian Ice,MD,La Vale,21502,3.0,3.5,1055 National Hwy,desserts shavedice icecream,39.641113,-78.826599
+4,9LxqI_Tatz6B1x7CbOLL7A,Kelly's Riverside Saloon,PA,Beaver,15009,60.0,2.5,1458 Riverside Dr,tradamerican irish_pubs,40.71068,-80.29904
+8,q-vggL5FMBz_CnxWB2_XYA,Crave Mexican Grill,PA,Beaver,15009,45.0,3.0,431 3rd St,mexican,40.69606,-80.30212
+6,mmabEFN36hKEQC7-7alevw,Kona Ice,PA,Moon Twp,15108,1.0,1.0,,shavedice foodtrucks,40.5161247253418,-80.1665649414063
+23,OmAov2UYqewGomdSvZQTxQ,Mobogo Asian Cuisine,PA,Hermitage,16148,50.0,4.5,1656 E State St,vietnamese soup,41.23285,-80.47931
+8,fuU0qyqey5kMY0PW4Y1ptA,Rita's Italian Ice,PA,Washington,15301,6.0,4.5,74 Trinity Point Dr,icecream desserts shavedice,40.18341,-80.21884
+2,GeP9t1b9F0scfg_wSIox5A,Kona Ice Of Youngstown,OH,Canfield,44406,2.0,4.5,,shavedice icecream foodtrucks,41.0263214111328,-80.7182235717773
+2,u8NdJbRHSu26k1Ri1ZKyNQ,Bobba Tea Southern Park Mall,OH,Boardman,44512,1.0,5.0,7401 Market St,juicebars icecream bubbletea,41.021165642755975,-80.6587007734681
+3,9PDb3GDLPNXplWKdfrpGqw,Beautiful Whirl’d,OH,Warren,44481,5.0,5.0,141 W Market St Exd,juicebars salad sandwiches,41.23583,-80.8188
+8,Y9Pbq0Tzl-VE2hYYXv8g-Q,Izumi Japanese Restaurant,OH,Youngstown,44512,61.0,4.5,840 Boardman Poland Rd,sushi japanese,41.024871,-80.637786
+14,FsfAdBwkdMtUk9e1n4vNoA,Pho Saigon,OH,Youngstown,44512,83.0,4.0,6532 South Ave,chinese vietnamese,41.03186,-80.6353
+17,Y2Vmt8HfdB-aLTh6ME9x5g,Mizu Japanese Restaurant,OH,Youngstown,44512,103.0,4.0,60 Boardman Poland Rd,japanese bars,41.0246053814223,-80.6597159243021
+2,u_RXij6HfvNGB2FgTIUCdg,Tropical Snow,OH,Alliance,44601,2.0,3.0,2100 Pwy Blvd,shavedice,40.9010735786475,-81.1175805330276
+2,j3WPr3GO5iL3AK_WsWFawA,Rita's Italian Ice,PA,Erie,16509,15.0,3.5,1406 W Gore Rd,icecream desserts shavedice,42.082088470459,-80.0889663696289
+1,CaTDHr2sQzlcf4Di-fA9Uw,F&F Poke Bowl,PA,Erie,16505,41.0,4.5,2501 West 12th St,poke bubbletea,42.102359566742294,-80.1352912
+4,PAJ6enRLMRgbsBtISqimhg,Thai Eatery,PA,Erie,16509,151.0,4.5,5641 Peach St,thai,42.0713566607163,-80.0930163894891
+5,lvG_jHXWB2AnatvdM_qrgA,Hong Kong Chinese Restaurant,PA,Erie,16506,16.0,4.0,2887 W 26th St,chinese,42.086193,-80.137579
+6,X-bAS7tFhh49YfwvSpalHQ,Happy Wok,PA,Erie,16508,17.0,4.0,1537 W 38th St,chinese,42.089865,-80.0985
+7,4dN7w6zuoPcPAAmTMUKCeA,f&f Poke Bowl,PA,Erie,16509,11.0,3.5,6831 Peach St,bubbletea poke,42.056505,-80.088475
+11,4dyhVIonhuvaX1YeUA5sHA,Froyo Shop,OH,Madison,44057,6.0,3.5,2709 Hubbard Rd,icecream bubbletea,41.80107,-81.04812
+13,vtf5gwlJWDxLvrfuykKzPA,Bann Thai,OH,Alliance,44601,28.0,5.0,20430 Harrisburg Westville Rd,thai,40.901658,-81.038758
+14,IOL4F0B0r0oa5oyJ7HEvtg,Seesan Thai Cuisine,OH,Painesville,44077,12.0,4.5,2736 North Ridge Rd,thai desserts bubbletea,41.764357,-81.182415
+16,68c7mPI8KGl505wxFRfYWw,Ferroni's Allegro Cafe & Bistro,OH,Middlefield,44062,14.0,5.0,14991 S State St,coffee bakeries cafes,41.4606667,-81.072891
+1,IvYQAv3R3UH9beGV3PNVBg,Fat Lenny's,PA,Erie,16502,38.0,4.5,443 W 8th,icecream toys bubbletea,42.1235773372645,-80.0938014686108
+2,4LLCQgyJMHZqyhCR_0Y06w,Andora's Bubble Tea Shop,PA,Erie,16501,32.0,4.5,516 State St,bubbletea coffee importedfood,42.1300712433952,-80.0857664366224
+10,1cyDJImrTxQOVcCAQZqQkw,Restoration 44 Coffee Company,OH,Mantua,44255,31.0,4.5,10675 Main St,coffee,41.28224,-81.22436
+12,pHEW9CuiF9uEgZ4vaOUL1A,Icy Blast,OH,Ravenna,44266,9.0,4.0,133 E Main St,bubbletea icecream juicebars,41.1579171909722,-81.2417419999838
+1,Ym8aOpL_Z5CnhIGxcq_ocA,Jojo Asian Cafe,NY,Cassadaga,14718,35.0,4.5,11 S Main St,asianfusion bubbletea,42.343931256045195,-79.30972556862127
+6,zdJwPYT4VcN1GzULxwfCTg,Arctic Bites,NY,Fredonia,14063,16.0,4.5,44 W Main St,sushi icecream juicebars,42.43898,-79.33247
+8,okBDrHcIkVN-NfBIxBdLJw,49 Coffee House & Eatery,NY,Springville,14141,20.0,4.5,49 E Main St,coffee breakfast_brunch,42.5085009505351,-78.6657146046486
+5,IC_LspyYeE1SNQfGaX14Sw,Rita's Italian Ice,PA,Shippensburg,17257,4.0,4.0,10016 Molly Pitcher Hwy,icecream desserts shavedice,40.043455,-77.533057
+6,A-utx4lygyE-w7rfbxdtEA,Byers Market,MD,Hagerstown,21740,4.0,3.5,152 N Burhans Blvd,grocery convenience delis,39.6473122,-77.7250671
+8,LXuhJmP9Ox0eMQFa8W4hZg,Rita's Italian Ice,MD,Hagerstown,21742,5.0,3.5,1313 Pennsylvania Ave,icecream desserts shavedice,39.6643829345703,-77.7193756103516
+8,207npuDSH_riTpL6YiXdzg,Sapporo,PA,Waynesboro,17268,117.0,5.0,5 E Main St,japanese korean sushi,39.755724,-77.577213
+10,ohDF-yIcZoJ9OylH5xAaaQ,Sakura,PA,Shippensburg,17257,29.0,4.0,17 Shippensburg Shopping Ctr,japanese asianfusion,40.05782,-77.500024
+13,hy_9FUAlBjulGjffg1JG_g,Fuji Asian Food & Sushi Bar,MD,Hagerstown,21742,72.0,3.5,11205 John F Kennedy Dr,sushi asianfusion,39.62263,-77.67613
+3,P9GvHfVcILGvNiMWwZqPhw,A Lil Somethin - Gettysburg,PA,Gettysburg,17325,2.0,5.0,5 Steinweir Ave,shavedice gourmet candlestores,39.82416,-77.23136
+7,gQswJUVyUQKTMkCPFYerMA,Rita's Italian Ice,PA,Gettysburg,17325,11.0,4.0,523 Baltimore St,icecream desserts shavedice,39.82311,-77.23141
+5,yE4eC1upnT0mGcw8KaLxgw,J n J’s Asian Restaurant,PA,Gettysburg,17325,9.0,4.5,34 Baltimore St,bubbletea sushi asianfusion,39.8301592734039,-77.2309800152397
+6,BdecDTra47zXpRuG-zdAew,Rita's Italian Ice,PA,Carlisle,17013,3.0,2.5,500 S Hanover St,icecream desserts shavedice,40.19462,-77.19047
+1,jPZgXKH48lTsoVbJOOB3mQ,Makua's Shave Ice,WV,Martinsburg,25404,1.0,5.0,,shavedice,39.4625,-77.95522
+9,HMru5q9iEaSCoPjZVE52ag,Dairy Queen,MD,Frederick,21701,19.0,2.5,1293 Riverbend Way,icecream hotdogs,39.4471294,-77.3885871
+0,QojjBN3aFPdFrRXvIi6_tg,Sweet Hut Cafe,WV,Martinsburg,25401,13.0,4.5,220 N Queen St,poke icecream bubbletea,39.459285,-77.963262
+1,mNmwlLRYJp9iAjTc9oDhag,8Tea8,MD,Frederick,21701,6.0,4.0,211 Shorebird St,bubbletea,39.447474,-77.395212
+2,MDFTMBigAYyDxQeUrXKvcg,Golden China Restaurant,WV,Martinsburg,25404,44.0,4.0,1117 N Queen St,chinese bubbletea seafood,39.4706345,-77.954653
+10,kzENjRtdOtvL9ovJi2EQbA,Wok In Wok Out,MD,Frederick,21701,105.0,4.0,211 Shorebird St,asianfusion,39.4473354,-77.3952407
+4,ZmRylpa3M3HL1hkz0VRCPw,Firehouse Dogs,PA,Middleburg,17842,2.0,3.0,250 E Main St,hotdog burgers shavedice,40.787908,-77.041726
+0,3Fai82B_EpCMDcjUNVn1IQ,Rainbow Snow & Ice Cream,PA,Palmyra,17078,17.0,5.0,103 N Railroad St,icecream juicebars shavedice,40.3086101,-76.5968081
+2,MUG5faLLY2YAn1Kr4QjXOQ,Rita's Italian Ice,PA,Selinsgrove,17870,4.0,5.0,1568 N Susquehanna Trl,icecream desserts shavedice,40.83048,-76.83976
+4,0Ebgu_SS9CtZw2N5j5rekw,Rita's Italian Ice,PA,Williamsport,17701,5.0,3.5,1849 East Third St,icecream desserts shavedice,41.2495269775391,-76.965461730957
+5,QwYewYk4LhXzstUnwh0fXQ,Rita's Italian Ice,PA,Danville,17821,3.0,4.5,105 Northumberland St,icecream desserts shavedice,40.965524,-76.617965
+7,fWB6FLFzCxzb7Q4RBAEqfQ,Rita's Italian Ice,PA,Harrisburg,17112,5.0,3.0,4151 A Linglestown Rd,icecream desserts shavedice,40.33502,-76.83148
+8,8lC66ZHSIOqQBh75qhYRYQ,Rita's Italian Ice,PA,Palmyra,17078,3.0,5.0,629 East Main St,icecream desserts shavedice,40.311672,-76.587989
+4,_6Vkh8Wa1jHhw5siKr9XWg,Hachiko Asian Cuisine,PA,Williamsport,17701,34.0,4.5,210 William St,chinese bubbletea asianfusion,41.2382395019564,-77.0031795278191
+5,FZd-oa75Ivo2fjx_JZoqmg,Bubble Tea & Smoothie World,PA,Harrisburg,17112,8.0,3.0,5100 Jonestown Rd,coffee,40.3112904,-76.8017686
+8,m6ShPuVxYW6R9F6wQv0UjQ,Joy Thai Cuisine,PA,Williamsport,17701,90.0,4.5,15 W 4th St,thai seafood soup,41.2420260161161,-77.0024663954973
+11,tYXxoCTk8oQT2dCixHOEXg,Siam Restaurant & Bar,PA,Lewisburg,17837,92.0,4.0,518 Market St,thai cocktailbars,40.96308,-76.88786
+12,3IVIHJh8s0aseB4IKmwVtw,Pho #1,PA,Harrisburg,17112,101.0,5.0,7011 Allentown Blvd,vietnamese desserts bubbletea,40.3295343,-76.7543214
+13,lcPE8E12pURZLtN5_MEttQ,Kimlee Vietnamese Restaurant,PA,Harrisburg,17112,112.0,4.5,4141 Linglestown Rd,vietnamese venues soup,40.335059,-76.832508
+14,pmOsAjqBojqMn9LsH3D8mg,Pho La Vie,PA,Harrisburg,17112,117.0,4.5,6003 Allentown Blvd,vietnamese noodles sandwiches,40.320334347611045,-76.78758262962886
+1,tyH0rD8eZFIf5NhTsxO3Ow,Bonbon Cafe,PA,Mechanicsburg,17050,188.0,4.0,6499 Carlisle Pike,asianfusion chinese shavedice,40.24557,-77.02189
+7,dbI5qsNiiLaqtqrkHZoaQQ,Sakura Japanese Cuisine,PA,Mechanicsburg,17050,106.0,3.5,6499 Carlisle Pike,japanese sushi,40.245384,-77.022729
+6,ek8ZNTV5ZeCfyAWhjYt82w,Rita's Italian Ice,PA,Lemoyne,17043,12.0,3.0,842 Market St,icecream desserts shavedice,40.2433728,-76.9028957
+1,iedGF7Yo8p8d9Gu3q--RlA,Hanna's Ice Cream Shoppe,PA,New Cumberland,17070,18.0,4.5,321 Bridge St,icecream shavedice,40.22723,-76.86492
+7,EA__mgC_6HjW55fA22MoVA,Rita's,PA,Hummelstown,17036,5.0,5.0,139 S Hanover St,icecream desserts shavedice,40.2625045776367,-76.7071838378906
+8,XsdrBv5uQ5NCM6ILtUXOdw,Rita's Italian Ice,PA,Hershey,17033,1.0,5.0,100 W Hersheypark Dr,desserts shavedice icecream,40.29116514676928,-76.65460134760627
+4,S6XWCU4Lj0oYeI5jFlm4dQ,Den Bubble Tea,PA,harrisburg,17109,44.0,4.0,304 S Progress Av,bubbletea vietnamese,40.28046,-76.83756
+8,PIvRPNSdMCsLtQNdyA0sUw,Freshido,PA,Hershey,17033,66.0,4.5,151 W Chocolate,poke bubbletea japanese,40.284516,-76.654062
+10,h1MWZF1quKpLlTUkXXwtcg,Bonbon Tea,PA,Harrisburg,17111,20.0,4.0,3110 Parkview Ln,sandwiches vietnamese bubbletea,40.25593,-76.836214930838
+11,DwUsibh2I3G86RxD8f8-Ow,Freshido,PA,Mechanicsburg,17050,63.0,4.5,6455 Carlisle Pike,bubbletea poke sushi,40.24567,-77.01451
+12,jbt0c7f43WDHvh0q8AmsvQ,Hawaii poke,PA,Camp Hill,17011,62.0,4.5,89 Erford Rd,poke hawaiian,40.2586985151673,-76.9178942411352
+16,A5i-_8dPCfQj5OWWnlNGgg,Bamboo Pho & Tea,PA,Camp Hill,17011,66.0,4.5,4401 Carlisle Pike,vietnamese,40.23731,-76.95823
+18,1v3BSB99Jyn4Pl9vH9-Nnw,Freshido,PA,Harrisburg,17101,101.0,4.5,300 Market St,japanese poke bubbletea,40.26109,-76.88081
+20,3uS22meXNYglGz1LjC7ULw,Le Cafe,PA,Harrisburg,17104,1.0,1.0,1030 S 13th St,cafes bubbletea coffee,40.2520534558586,-76.863723769784
+21,miLoHOHQdzvSHf_pwYJw5g,Kondu,PA,Harrisburg,17111,81.0,4.0,3501 Paxton St,japanese sushi bubbletea,40.2529684558417,-76.830001998058
+23,6XCBL08BhtW7noqEYbuodg,Pho 3 Mien,PA,Lemoyne,17043,113.0,4.0,314 S 10th St,vietnamese soup noodles,40.2366180419922,-76.896842956543
+25,e2G2BkkRBfeW1e2kQccXdw,Pad Thai Restaurant,PA,Mechanicsburg,17050,122.0,4.0,6416 Carlisle Pike,thai,40.2482396705652,-77.0105994348282
+28,_PThTbjV26-8-xw9W6ek4g,Kanlaya Thai Restaurant,PA,Harrisburg,17104,151.0,4.0,1030 S 13th St,thai juicebars bubbletea,40.2515821418528,-76.8643279997413
+11,U2uIn4kQMF9OO2WgUc02sA,WhatNot Shoppe Cafe,PA,Shamokin,17872,9.0,4.0,700 N Shamokin St,cafes,40.7920486,-76.5545255
+0,zfeqGvCHz6yYZNl0sBaw_A,Rita's Italian Ice,NY,Horseheads,14845,8.0,5.0,2614 Corning Rd,icecream desserts shavedice,42.15824,-76.83708
+1,Oq_2zRhV9IntGbqlcMdatw,Poppleton Bakery & Cafe,NY,Corning,14830,112.0,4.0,23 W Market St,bakeries breakfast_brunch sandwiches,42.14374,-77.05551
+2,-6J91GUGHk3KsQo0-XCckQ,Confection Connection,NY,Owego,13827,7.0,4.5,59 North Ave,bubbletea desserts gluten_free,42.1039538594373,-76.2630096
+3,WwTU4cfR9ZoEaJqb1c2LDw,Community Cup Coffee & Tea House,PA,Towanda,18848,10.0,5.0,421 Main St,coffee breakfast_brunch sandwiches,41.765742,-76.442961
+6,sBvddN6qz7kKbcrkpT20gg,Moon Star,NY,Endicott,13760,108.0,4.5,3218 E Main St,chinese,42.1063423156738,-76.0214233398438
+7,M1qcjbImnu5beUdo5pSKgA,Kam Fung,NY,Owego,13827,12.0,3.0,42 W Main St,chinese,42.098561,-76.269586
+8,g11w4kXNWR7FdLXisjjnUw,Vestal Coal House Cafe,NY,Vestal,13850,2.0,3.0,204 Stage Rd,cafes,42.0883695781231,-76.0509970039129
+1,gRcRNfuY0n9F_3OcYkzNww,The Sugar Shack,NY,Ithaca,14850,1.0,2.0,408 E State St,streetvendors shavedice foodtrucks,42.439406,-76.492551
+2,KWAgc7_3Vuli1ysjuv_Zpg,Ithaca Mango Mango Dessert,NY,Ithaca,14850,21.0,3.5,159 Dryden Rd,desserts,42.44152333,-76.48570333
+0,a0PEA5j3bZBQeOHzkSqnfw,Taichi Bubble Tea,NY,Ithaca,14850,8.0,4.0,740 S Meadow St,poke asianfusion bubbletea,42.43006,-76.50821
+2,BoA2QCC6GXUUYL9XPXjTDA,Panda Tea Lounge,NY,Ithaca,14850,47.0,4.0,407 Eddy St,bubbletea coffee,42.44188,-76.48723
+3,1cUeZjD-KYx6vfcXEWsfRw,U Tea,NY,Ithaca,14580,48.0,4.0,205 Dryden Rd,bubbletea juicebars coffee,42.44142,-76.48484
+4,SO-brcBqmr8yjzaSGTNWZQ,K&K's The Old Teahouse,NY,Vestal,13850,70.0,3.5,1101 Bunn Hill Rd,coffee,42.0946095,-75.9755049
+5,1FkZoiHDAIQtknbK2G3ZXw,Kung Fu Tea,NY,Ithaca,14850,35.0,3.5,143 Dryden Rd,bubbletea coffee juicebars,42.4414711,-76.4860687
+7,abUxFI99BPRGsaEfrmtbKw,2nd Heaven,NY,Binghamton,13905,1.0,5.0,4400 Vestal Pkwy E,bubbletea,42.09195,-75.94698
+10,zlMExN9aUxc89USRAgXl5A,Kung Fu Tea,NY,Vestal,13850,48.0,2.0,3701 Vestal Pkwy E,bubbletea juicebars coffee,42.097687,-75.983267
+12,FJsh0TOIQJWj3aQP4Yg0_A,Saigon Kitchen,NY,Ithaca,14850,639.0,4.0,526 W State St,vietnamese,42.439463,-76.507472
+13,YeV7DS-1YYqC4cWi2w-GQQ,Kimchi,NY,Ithaca,14850,28.0,4.0,124 E State St,korean,42.439802,-76.498079
+14,wJvd9PLqiuNtP-DIkxieJw,Spicy Asian,NY,Ithaca,14850,121.0,4.0,335 Elmira Rd,chinese thai,42.42544,-76.51254
+15,ZzA6l46CKDrHp7tQwV30GA,Sushi Osaka,NY,Ithaca,14850,42.0,3.5,113 E State St,japanese sushi,42.43946,-76.49846
+16,ejHduGcJr28ehsdSXaiZXw,Jade Garden Restaurant,NY,Ithaca,14850,37.0,3.0,108 S Meadow St,chinese buffets,42.43891,-76.50858
+18,yn37NmSCTT0ijKMxhvp7Ug,Wok's,NY,Vestal,13850,20.0,4.0,100 Rano Blvd,chinese,42.09386,-76.00475
+19,O_0XVEK4QjhqcRwTiwJhLA,Man Nam Korean Restaurant,NY,Vestal,13850,96.0,3.0,4010 Vestal Pkwy E,korean japanese vegan,42.0952932524002,-75.9765280691072
+1,6m27c7Xn06Px16LXFwsLyg,LAS Delicias El Paraiso,PA,Wilkes-Barre,18701,13.0,4.5,401 S Main St,shavedice juicebars,41.2392108032083,-75.8945666238714
+2,ln3RV7or6kd20sea3czzTg,Rita's Italian Ice,PA,Kingston,18704,4.0,4.0,355 Market St,icecream desserts shavedice,41.2563689749604,-75.891557
+2,pGY9VNMpJzdw4GrmTPSP-Q,Nihao Cafe and Tea House,NY,Johnson City,13790,42.0,4.5,130 Main St,bubbletea,42.113017,-75.950521
+7,NukRvsDkccnCnrt4-4SU6g,We Tea,NY,Vestal,13850,44.0,4.0,4700 Vestal Pkwy E,bubbletea sushi,42.091535,-75.951315
+10,vpfFD5kHYpneuVOOUlZKjA,Thai House Restaurant,PA,Edwardsville,18704,9.0,3.5,8a Gateway Shopping Center,thai seafood,41.2573736,-75.9025517
+11,NoxSL10vHwq-ORvU4WwQQQ,Red Chili,NY,Vestal,13850,29.0,4.0,4700 Vestal Pkwy E,chinese,42.091883,-75.952547
+13,fuGRjjWWN-2fZXjlbhiuLw,Strange Brew Cafe,NY,Binghamton,13901,137.0,4.5,137 Washington St,cafes,42.09838,-75.91369
+15,ytvrAtjeRT7hUwTtCPtdVw,Strange Brew Grab & Go,NY,Binghamton,13901,10.0,4.5,101 Court St,cafes coffee,42.0992,-75.91028
+19,gmGvajD9qxUMGABUemcKDg,A Plus Sushi,NY,Binghamton,13905,40.0,4.5,141 1/2 Clinton St,chinese sushi asianfusion,42.1055580205117,-75.9248755743504
+21,XWgSggyG1VSBzlBTL58vGA,Red House Restaurant,NY,Binghamton,13905,24.0,3.0,200 Main St,chinese chickenshop soup,42.10484,-75.93261
+3,JLdTzWYcinnChRTRHjIcYQ,Rita's Italian Ice,PA,Bloomsburg,17815,1.0,2.0,1901 Columbia Blvd,icecream desserts shavedice,41.0094795227051,-76.4218292236328
+1,q8_W6pfM8UbNFTSsWKauXQ,Black Pearl Bubble Tea,PA,Bloomsburg,17815,5.0,5.0,544 East St,bubbletea juicebars,41.001383168152,-76.4483413441171
+2,oYJA63vCDEvpMwZ5J_SWcg,Ding Tea Bloomsburg,PA,Bloomsburg,17815,1.0,4.0,6 W Main St,bubbletea coffee juicebars,41.00292,-76.45651
+6,aA88HUNh77OaGVuQAuAxqw,Fuji Sushi,PA,Bloomsburg,17815,41.0,4.5,147E Main St,sushi,41.0355415,-76.4237289
+11,MI16gjrOQ6es6w-dAV0hdQ,Issei Noodle,PA,Carlisle,17013,324.0,4.5,54 W High St,japanese vegetarian noodles,40.2014716,-77.1907255
+1,-kqLMLUJLAeFrl8aeZHA5Q,Papa Sneaux,PA,Manheim,17545,1.0,5.0,705 Graystone Rd,foodtrucks shavedice,40.11843,-76.37844
+3,g15P_oFrLgg1AoMpnMP0JQ,PaPa Sneaux LLC,PA,Manheim,17545,2.0,5.0,1572 Lititz Rd,cajun,40.1191625,-76.3770181
+4,gQNxe45RQcb2zn1Zgl7Hyw,Sai Gòn Café,PA,Lancaster,17601,185.0,4.5,1575 Manheim Pike,vietnamese vegetarian,40.0800736,-76.3389917
+6,72xHEGNDhqhza7avYJY-jQ,Rita's Italian Ice,PA,Schuylkill Haven,17972,4.0,3.5,277 Route 61 S,icecream desserts shavedice,40.6408703,-76.1580212
+10,_03VWJq0Grnb5t0Qv_G0_w,Rita's Italian Ice,PA,Lititz,17543,3.0,5.0,46 Peters Rd,shavedice desserts icecream,40.12911,-76.30698
+12,BoDrfBqrOy1p-rduCdjp4Q,Rita's Italian Ice,PA,Elizabethtown,17022,7.0,4.5,30 N Market St,icecream desserts shavedice,40.15222,-76.60697
+13,gyUjpkC1i9DY_qPIPIcrBA,Rita's Italian Ice,PA,Mt. Joy,17552,2.0,4.5,809 E Main St,shavedice icecream,40.1095049,-76.4843441
+14,nPspaUTi-JtRujiNcSxK2g,Rita's Italian Ice,PA,Highspire,17034,4.0,3.0,246 S Second St,icecream desserts shavedice,40.20892,-76.78974
+15,iEcnarv8rytWpP7uMmN-EA,Rita's Italian Ice,PA,Lancaster,17601,4.0,3.5,1585 Manheim Pike,icecream desserts shavedice,40.0802618,-76.3390796
+16,9UXBFjMu_IDql99w-9OzPw,Rita's Italian Ice,PA,Cleona,17042,5.0,3.5,640 East Penn Ave,icecream desserts shavedice,40.338692,-76.463856
+2,ar2CiiMHeVuwD89eyTEOWQ,Hippo Bubble Tea,PA,Lancaster,17601,34.0,4.5,2050 Fruitville Pike,bubbletea,40.075688,-76.324558
+3,Pnp9IqQ1G_mNOJ0cENpc3Q,Bleu Bubble Tea,PA,Lancaster,17601,11.0,4.5,2060 Bennet Ave,bubbletea,40.05926878464692,-76.35667475543492
+5,AJUb_FL21mgi487Cwr17Ng,Kung Fu Tea Lancaster,PA,Lancaster,17601,6.0,5.0,1846 Fruitville Pike,bubbletea coffee juicebars,40.0725,-76.32163
+7,2jlOImiV86l2dn2BgFCKmQ,Jasmine Smoothie Bubble Tea,PA,Lancaster,17601,1.0,5.0,142 Park City Ctr,bubbletea,40.0655769556761,-76.3403631001711
+8,6b1FBMv3S9wgH6dEulFKFQ,Boba Cha - Lancaster,PA,Lancaster,17601,3.0,4.0,801 Park City Ctr,juicebars bubbletea,40.06723303450286,-76.3390565
+9,zbWgpqbyb8puoaWTgSiz0g,Buboo Smoothie and Tea House,PA,Lancaster,17601,6.0,3.5,142 Park City Ctr,bubbletea juicebars,40.0672832166236,-76.3391644880176
+11,VR8X0GTXMoY2ZnS8aB1duQ,PokéBowl Station,PA,Lancaster,17601,9.0,5.0,2095 Fruitville Pike,fooddeliveryservices poke soup,40.07721,-76.325866
+16,Wx7GhjBvi4xobFegJv53nQ,HE 和,PA,Middletown,17057,110.0,4.5,460 N Union St,chinese,40.20083,-76.73162
+18,zIqiQf87V3FJ7oiTs1Oh3g,Kanji Japanese Restaurant,PA,Mount Joy,17552,46.0,4.5,771 E Main St,sushi thai chinese,40.1092839525105,-76.4860141605781
+22,FKDrzrfmx5YuVkBZ-JHX4w,Noodle Shack,PA,Lititz,17543,50.0,4.0,1032 Lititz Pike,asianfusion ramen,40.130175,-76.307694
+23,aA_UXDvAKEiSJ2UrlaLVmg,Lancaster City Nutrition,PA,Lancaster,17603,1.0,4.0,307 N Queen St,bubbletea juicebars donuts,40.04303,-76.30637
+25,MCZaNDMxQsGBcrER8Mnftw,Sa La Thai,PA,Lancaster,17603,158.0,4.0,339 N Queen St,thai,40.0436766,-76.3066083
+1,2Jl7AWl8sXtFyviE09sITQ,Tropical Island Snoballs,MD,Manchester,21102,2.0,5.0,4700 Hanover Pike,shavedice,39.7024951857768,-76.9102165102959
+3,4oU3cT4smJJbBbpS1OR92A,Snow Palace,PA,York,17404,12.0,4.0,360 S Richland Ave,foodstands,39.949455,-76.746963
+15,t0Z5lW7GADP0nAyLSHTlPQ,Rita's Italian Ice,PA,York,17404,5.0,4.0,351 Loucks Rd,icecream desserts shavedice,39.98419645212664,-76.73927849882872
+15,E_M0MQd52sp9MAgZjwbxsw,Basil Leaf Thai Cuisine,PA,Mechanicsburg,17050,42.0,5.0,5202 Simpson Ferry Rd,thai,40.217693,-76.979071
+29,9GlfSZ8rvmkGb67utEp0gg,Nippon Hibachi,PA,Mechanicsburg,17055,7.0,4.5,659 Williams Grove Rd,japanese foodtrucks,40.198616,-77.017016
+6,4cOhBf8yHTHN6CLnyhg5dA,Rita's Italian Ice,PA,York,17402,1.0,4.0,901 S Queen St,icecream desserts shavedice,39.951984,-76.71595
+4,XopXuBtDtN7IRDvfK6x3Ug,Aloha Snow,PA,York,17402,8.0,4.5,3410 E Market St,icecream shavedice coffee,39.97938,-76.65771
+9,P7zCqGgtbKnvl3p3YcoseQ,Rita's Italian Ice,PA,Lancaster,17602,5.0,3.5,1951 Lincoln Hwy E,icecream desserts shavedice,40.03392,-76.244826
+14,toirkcLWH__GAIOv7cidFw,Rita's Italian Ice,PA,Lancaster,17603,3.0,4.0,2000 Columbia Ave,icecream desserts shavedice,40.03843,-76.359
+20,NJ4ZWLVJrznUQMTGnh5iUw,Rita's Italian Ice,PA,York,17402,6.0,4.0,3000 E Market St,icecream desserts shavedice,39.976254,-76.666773
+9,mrkW9TvWXuH-SfZpSTsNTA,I Love Ice-cream,PA,York,17402,16.0,4.0,3927 E Market St,icecream bubbletea juicebars,39.990718,-76.63977817
+14,QIuOfv6Sipw_gyjJZ690iQ,Issei Noodle Lancaster,PA,Lancaster,17603,274.0,4.0,44 N Queen St,ramen noodles soup,40.039017,-76.306519
+16,wIYrjqJ2GJtlvaDcRld6IQ,Pho Ngoc,PA,York,17402,35.0,4.5,2813 Concord Rd,vietnamese,39.9833075386688,-76.6696042567492
+29,yYrVcp_awxUbmsrbjaI-Mw,Wasabi Japanese Restaurant,PA,Willow Street,17584,112.0,4.0,2600 Willow St Pike,japanese sushi asianfusion,39.983,-76.281661
+5,AlITLgsTeg2hy4izD2yi4w,Rita's Italian Ice,PA,Sinking Spring,19608,2.0,4.0,1 Shillington Rd,icecream desserts shavedice,40.32517,-76.015341
+9,ppCnw1Zj4RhcFBAb3DJ3iQ,Rita's Italian Ice,PA,Gap,17527,7.0,4.5,5351 Lincoln Hwy,icecream desserts shavedice,39.992161,-76.01957
+12,l1n5ERIIVl8E4ynngU1Xsg,Zhuang's Garden,PA,West Lawn,19609,87.0,3.5,2834 Penn Ave,sushi thai chinese,40.325632,-76.002515
+12,dXb0yZL6Mq9cuZtw3DZtAA,Great American Saloon,PA,Red Lion,17356,119.0,4.0,20 Dairyland Sq,tradamerican burgers steak,39.89451,-76.62349
+3,U5pmhzSBDd-AbW_LQTIlmA,Kung Fu Tea,PA,York,17403,5.0,5.0,2035 Springwood Rd,coffee bubbletea juicebars,39.940805924966256,-76.6913627
+12,Y9hI1DcdgPR18-ajUpDuUQ,River House,PA,Wrightsville,17368,25.0,4.0,2621 Craley Rd,chinese shavedice thai,39.9481964,-76.5093079
+0,BE8uCY4c0ND5HvrfMxfzXQ,Tsunami Shaved Ice,PA,Morgantown,19543,2.0,5.0,6022 Morgantown Rd,shavedice,40.1625745984135,-75.8913505092578
+8,JbtR2NicAJiOs9zJ6l-aGw,Rita's Italian Ice,PA,Reading,19605,3.0,2.5,3403 N 5th St Hwy,icecream desserts shavedice,40.3854615575136,-75.9272501137672
+11,L5hRJ-248_McU4mpwtLNUQ,Rita's Italian Ice,PA,Blandon,19510,3.0,4.5,850 Golden Dr,icecream desserts shavedice,40.444241,-75.861299
+16,i6to6I9ck1K6qNNMQZsscw,Rita's Italian Ice,PA,St. Lawrence,19606,2.0,3.0,3104 Perkiomen Ave,icecream desserts shavedice,40.3255196,-75.8779221
+3,0gVD4UxnQcM7X0j_vJUS5Q,Vietnamese Delights,PA,Reading,19605,43.0,4.5,2934 N 5th St Hwy,vietnamese coffee streetvendors,40.3837385583134,-75.9314287641658
+6,876CBEH0F7JmAcGfdulICQ,Hawaii Kitchen,PA,West Reading,19611,69.0,4.0,510 Penn Ave,sushi hawaiian,40.33538,-75.94817
+12,Dx1Ay1Vtk8eCZCGRHHQoyw,Mikura,PA,Reading,19610,105.0,3.5,840 N Park Rd,asianfusion sushi thai,40.3464,-75.95944
+13,_8u4udCNb9U_kCuC4Bcg1Q,Van's Cafe,PA,West Reading,19611,53.0,4.0,506 Penn Ave,vietnamese,40.33552,-75.948021
+19,rXWol0qtMhr8jQy8wwMT9A,Chengdu Taste,PA,Reading,19604,1.0,3.0,1140 Rockland St,chinese sushi,40.36461,-75.91347
+20,Uirml6_FY3MWurNPYAQtYw,Takkii Ramen,PA,West Reading,19611,1.0,5.0,36 N 6th Ave,ramen bubbletea noodles,40.33679189067792,-75.94981266032141
+9,0QPNHynDtNVPoHm-n0ATQA,Summers Ice Cream and Snoballs,PA,Stewartstown,17363,14.0,4.5,23 W Pennsylvania Ave,desserts icecream,39.75312,-76.5945799
+10,cHDJbcBGH8hJqP7yL-18ig,Bonkey's Ice Cream & Snoballs,PA,New Freedom,17349,30.0,4.5,28 E Franklin St,icecream shavedice,39.7386032,-76.6990457
+26,CJ4n96F7WgoIERqTwhw0Ug,Rita's Italian Ice,PA,Shrewsbury,17361,3.0,3.5,466 Shrewsbury Commons Ave,desserts shavedice icecream,39.7701611,-76.6714534
+6,mSrbYrMCScE1CVddi6kqQg,Rita's Italian Ice,PA,Hazleton,18202,2.0,4.5,741 Airport Rd,icecream desserts shavedice,40.988222,-76.011083
+4,s4S3CDFCff-oibqPYxD9TA,Blizzard’s Shaved Ice,MD,Westminster,21157,1.0,5.0,200 Clifton Blvd,shavedice,39.584641,-76.986561
+5,VYXLLEaDU0MAyhWMOrsrIA,The Snowbar,MD,Hampstead,21074,3.0,3.5,1229 N Main St,shavedice,39.6082306,-76.8512497
+7,20IvMOrMSaGpt2zyu96N8Q,Cherry's Shaved Ice,MD,Westminster,21157,3.0,4.0,113-159 Englar Rd,desserts,39.5823265,-76.9912571
+10,CchyzPHSTv1NPFeTPQ1Yrg,Old School Ice Cream,MD,Westminster,21157,11.0,4.0,4211 Ridge Rd,icecream shavedice,39.458905990503,-77.0856480672956
+13,45p6RDNrBE7AmFIek-F54g,Kismet Cafe,MD,Eldersburg,21784,101.0,4.5,1311 Londontown Blvd,coffee bagels breakfast_brunch,39.407903,-76.949584
+14,uMiddVkJWY2kebEmjdfO-Q,Rita's Italian Ice,MD,Frederick,21701,29.0,3.5,538 W South St,icecream desserts shavedice,39.4129064,-77.4250841
+15,3iRy665wtPG2XnrFRolK8g,Chirp Ice,NJ,Woodbine,08270,1.0,5.0,8046 Old Washington Rd,shavedice,39.355015,-77.016132
+18,PidGMSt8qlWoXbAP7Vc5tg,Rita's Italian Ice,MD,Hampstead,21074,5.0,3.0,907 South Main St,desserts shavedice icecream,39.6004986,-76.8482022
+19,R8G9LuBW0gkVvsprULHBkg,Rita's Italian Ice,MD,Westminster,21157,5.0,4.5,625 Baltimore Blvd,desserts shavedice icecream,39.589131179972554,-77.01080822549027
+2,agFLzZ5g56QmC5OvGa2hUQ,Yo Bubble,MD,Frederick,21704,49.0,4.0,3327 Worthington Blvd,juicebars icecream,39.326331,-77.342488
+7,pI6zNGKw0UfQ-2-9P8-Tbg,Juno Bakery & Cafe,MD,Frederick,21702,2.0,4.5,1063 W Patrick St,coffee customcakes bubbletea,39.418783,-77.446488
+8,dTr7iPNa1g3Es7_4LxiO6g,Market Street Boba & Beans,MD,Frederick,21701,22.0,3.5,35 N Market St,coffee bubbletea,39.41504,-77.411
+13,038tjuNt-8EQbTziydG0Ew,Green Pineapple,WV,Shepherdstown,25443,73.0,3.5,140 East German St,bubbletea korean asianfusion,39.4301575667509,-77.8041723930218
+20,YRrwnICEc3UwSHGAu4yu9g,Poke Bowl,MD,Frederick,21704,55.0,4.5,5253 Buckeystown Pike,hawaiian asianfusion,39.37481667,-77.412905
+21,tF_-7pBgUsFErM7e5OplHg,H Mart - Frederick,MD,Frederick,21702,73.0,4.0,1063 W. Patrick St.,grocery korean food_court,39.4187400165834,-77.4465925991535
+22,EnnIAyyCuHcFbnGMRxMWRQ,Cafe L'ami,MD,Frederick,21702,4.0,5.0,1063 W Patrick St,cafes,39.4188688002443,-77.446323688078
+23,uzU8PCFVAAwcfeM9bpwcBA,Ibiza Cafe,MD,Frederick,21701,28.0,5.0,8 West 4th St,cafes coffee,39.418971,-77.4109474
+28,XdIh5016ZBDLnuRilbM2Ag,The Pham,MD,Frederick,21701,18.0,4.5,440 Prospect Blvd,foodtrucks vietnamese,39.4046001,-77.4283359
+29,mmJrPKPxEtR3YzQ8hevFvw,Tsunami,MD,Frederick,21701,88.0,4.5,20 N Market St,ramen tapasmallplates,39.414567,-77.410574
+33,_NzmRp5JGxa-cN6MtUWlrQ,Pho Basil,MD,Frederick,21701,76.0,3.5,701 Motter Ave,vietnamese,39.42326,-77.411859
+34,f9ENLq2K2o-hH1zENfbaTQ,Old Dominion Grill and Sushi,MD,Frederick,21704,108.0,4.0,5732 Buckeystown Pike,sushi bbq thai,39.39294193996934,-77.41030410079927
+35,frTthI8ZECgNLd4HvO1vkA,Hunan Gourmet Restaurant,MD,Frederick,21701,71.0,3.5,915 W 7th St,chinese,39.4262545,-77.417065
+10,tHOb7MPNOA_Cf7NA8YRz8w,The Original Woodstock Snowball Stand,MD,Woodstock,21163,39.0,4.5,1970 Woodstock Rd,icecream desserts shavedice,39.31754,-76.8837999
+14,MfmSTjy_vOewRRZIPbYJwQ,Rita's Italian Ice,MD,Marriottsville,21104,3.0,2.5,2470 Long Stone Ln,desserts icecream shavedice,39.3089691,-76.8980822
+1,bcqz_panklCw6AN9kFaT-g,The Empress Pearl Tea,VA,Purcellville,20132,11.0,4.5,737 E Main St,coffee bubbletea tea,39.13763,-77.70359
+4,QIMRnlr0A4XrFCu4qr0mNw,Chop Stick Cafe,VA,Winchester,22601,128.0,4.0,207 N Kent St,thai asianfusion,39.18615,-78.16182
+3,NFjbxYN8y8r3zPdYAOX6-A,Melt Cafe & Gelato Bar,MD,Boyds,20841,20.0,4.0,22705 Clarksburg Rd,desserts creperies gelato,39.228038,-77.285245
+6,zP-hHEhcbQI2KxBAzp9u2A,Jumbo Jumbo Cafe - Germantown,MD,Germantown,20874,132.0,3.5,19732 Germantown Rd,taiwanese coffee bubbletea,39.180501,-77.265835
+9,OqNmlr0g2Eym3PkjGH2R-w,Rita's Italian Ice,MD,Germantown,20874,44.0,3.5,12801 Wisteria Dr,icecream desserts shavedice,39.1762828,-77.2687877
+4,4JH7er2Q9QAcdSHYTr3lUg,BobaPop Tea Bar - Germantown,MD,Germantown,20874,13.0,5.0,19847 Century Blvd,bubbletea coffee,39.181558880848776,-77.26587982839627
+5,cLa8QFj1ye4da07ighfrqQ,Sharetea Germantown,MD,Germantown,20874,12.0,4.0,13012 Middlebrook Rd,bubbletea coffee juicebars,39.1805620388865,-77.27165122033838
+23,ldz1ynRG38tEncupNwH-aA,Kung Fu Tea,MD,Clarksburg,20871,33.0,3.5,22705 Clarksburg Rd,bubbletea coffee juicebars,39.228732,-77.285848
+26,T2jQ_wP_tGZrObmc4kOqnA,Zane Japanese Eatery,MD,Germantown,20874,284.0,4.0,19833 Century Blvd,sushi ramen thai,39.1815105,-77.2659483
+28,82sBvofGPLgUE4WZhi1cJA,Pho House,MD,Germantown,20874,330.0,4.0,13073 Wisteria Dr,vietnamese,39.1781655902526,-77.2714145359061
+29,PVbHgYN_QBvMH3T6b7SMcQ,Cafe Hong Kong,MD,Germantown,20874,112.0,3.0,13038 Middlebrook Rd,chinese seafood soup,39.1822464,-77.2705733
+6,gNy6r6xysB_FpsRWGSLRDw,Tropical Waters' Snowball Stand,MD,Clarksville,21029,1.0,5.0,12260 Clarksville Pike,shavedice foodstands,39.211272,-76.940245
+17,K-Qe3WpivRgL0ZMOnYKXiw,Rita's Italian Ice,MD,Gaithersburg,20877,14.0,4.5,701 Russell Ave,icecream desserts shavedice,39.153864,-77.20422
+22,pjE55j9SqwobeiP96y4_eA,Vivi Bubble Tea,MD,Montgomery Village,20877,39.0,3.5,18320 Contour Rd,bubbletea,39.154654,-77.2001256
+10,q1Aig7z0L_Di01dYOwsbgw,Ben Gong's Tea,MD,Gaithersburg,20879,77.0,4.0,108 Paramount Park Dr,bubbletea coffee juicebars,39.15946,-77.22129
+14,iM4nCP4tjsEEmCyQvN_oWw,Royaltea,MD,Clarksville,21029,49.0,4.0,12250 Clarksville Pike,bubbletea,39.21107,-76.93899
+20,c4JI9FgNM2XStyQbg2MIhQ,Kung Fu Tea,MD,Germantown,20876,112.0,4.0,19717 Frederick Rd,coffee bubbletea juicebars,39.1785664861058,-77.2372257239005
+24,BwRjMIs5Z0PoZFFXABtJFw,The Common Kitchen,MD,Clarksville,21029,35.0,4.5,12250 Clarksville Pike,food_court bubbletea coffee,39.2113207122673,-76.9391424581409
+32,3eErkYVnoEnO1TJCgPtNug,Ikura Asian Sushi,MD,Gaithersburg,20879,3.0,5.0,18212 Flower Hill Way,japanese sushi,39.15522,-77.16462
+39,QDTmgqqWLLfnYG_hls3jGg,Pho & Grill,MD,Olney,20832,170.0,3.5,18153 Village Mart Dr,vietnamese,39.15376358115,-77.063378927986
+43,Vp1c0UxCzrlv4KSGLUnmzg,Mr K's Chinese Cafe,MD,Germantown,20874,146.0,3.5,12611 Wisteria Dr,chinese thai cafes,39.170790188084645,-77.26083519553322
+44,sCFzfLomC4v9OxkASqAODw,Koshary Corner,MD,Clarksville,21029,75.0,5.0,12250 Clarksville Pike,egyptian mediterranean vegan,39.21103,-76.93895
+45,KB9Af-xHWo8IKj2pHen5vA,Hot Pot Hero,MD,Gaithersburg,20879,371.0,4.5,100 Paramount Park Dr,hotpot seafood cajun,39.159738,-77.221286
+46,M9Irs-IR-i-scFoeuO7cBQ,Thai House Restaurant,MD,Gaithersburg,20879,822.0,4.5,8369 Snouffer School Rd,thai,39.1669193700268,-77.1716594696045
+47,HPvSk-f-cIAgyKjdB_efgw,Bonchon Germantown,MD,Germantown,20876,301.0,3.0,19775 Frederick Rd,korean asianfusion chicken_wings,39.178856,-77.23802
+49,oOSKtM7OcdEF4YsDfRGfAg,Tea.com,MD,Gaithersburg,20877,1.0,2.0,Lakeforest Mall,bubbletea juicebars,39.1526336669922,-77.2064819335938
+0,XTrplMR4K3m57wfbnpIPIA,Pho Viet Saigon,MD,Gaithersburg,20879,186.0,4.0,18509 N Frederick Rd,vietnamese,39.161277087303,-77.2203966681461
+1,OSubA2Mr7c8u3jyzVktfiQ,Pho 81,MD,Germantown,20876,197.0,4.0,19735 Frederick Rd,vietnamese,39.1796372157745,-77.2362655028701
+3,L6SDLSxCQwrgOg3Q5xezdg,Pho & Grill,MD,Gaithersburg,20877,244.0,3.5,18310 Contour Rd,vietnamese,39.1540919379856,-77.1995715021247
+4,1fDWZDBM9gLi7IPcWPo93w,Pho Chi,MD,Gaithersburg,20879,316.0,3.5,20 Montgomery Village Ave,vietnamese,39.15561,-77.20886
+5,YPMK3cSl90p58PNCET-vdQ,Chinese Express,MD,Gaithersburg,20879,56.0,3.0,849 Russell Ave,chinese,39.1569583,-77.2121157
+9,ebd5xdjv4oJViKf3fvVK4w,"Chill Snowballs, Ice Cream & More",MD,Reisterstown,21136,9.0,4.5,249 Main St,shavedice icecream,39.462577,-76.827861
+24,gx5RXeJMMBgOzB6jKpKniw,Rita's Italian Ice,MD,Columbia,21044,12.0,2.5,5485 Harpers Farm Rd,icecream desserts shavedice,39.22231,-76.88925
+5,EAgr2WrrYZXPsdKB_dLC3A,Tea Top,MD,Ellicott City,21042,142.0,4.5,10030 Baltimore National Pike,bubbletea desserts juicebars,39.2815,-76.8565799
+12,CNbebTsAZprXGXE-m-nzzw,Bengong's Tea,MD,Ellicott City,21042,38.0,4.0,10045 Baltimore National Pike,bubbletea,39.27774469540326,-76.85925329681343
+14,oeG8kNmEN1JTDTBDLIcZ-A,Kung Fu Tea,MD,Owings Mills,21117,39.0,4.0,10209 Grand Central Ave,coffee bubbletea juicebars,39.406052,-76.781677
+16,Km-sxt6OElxLryD665-51A,Tiger Sugar,MD,Ellicott City,21042,155.0,4.5,9338 Baltimore National Pike,bubbletea,39.2780120488232,-76.8334446
+18,VPXQ9Ay5w58hUp4pF1RX_w,Delimanjoo,MD,Catonsville,21228,3.0,5.0,822 N Rolling Rd,desserts juicebars bubbletea,39.28290293659391,-76.75510248421458
+20,1qV_NRA4rGCiwrajhby8Ug,Seoul Fusion,MD,Owings Mills,21117,31.0,4.5,11000 Owings Mills Blvd,asianfusion korean bubbletea,39.426791,-76.781069
+22,FAWOzcGjLh6ml36zyQyP9g,Tea-Do Ellicott City,MD,Ellicott City,21042,110.0,4.0,3355 St Johns Ln,cafes bubbletea juicebars,39.2777867951788,-76.8251511664863
+28,pJJM4iDF0zyoQcQR8Lgc2g,Kung Fu Tea - Ellicott City,MD,Ellicott City,21042,8.0,5.0,9210 Baltimore National Pike,bubbletea juicebars coffee,39.27742,-76.83029
+31,Lo-w870U2PeLmTpyE8BVOw,Kung Fu Tea,MD,Columbia,21044,91.0,4.0,10100 Twin Rivers Rd,bubbletea coffee juicebars,39.21553,-76.86558
+32,Im4nEY4ZmW2cqOB-dmne-g,Gong Cha,MD,Ellicott City,21043,5.0,4.5,8450 Baltimore National Pike,bubbletea coffee juicebars,39.28680729206387,-76.8068977460266
+38,yyt7V1qRhVO8--BF0mVdUg,Delimanjoo,MD,Ellicott City,21043,18.0,4.0,8801 Baltimore National Pike,desserts gelato bakeries,39.2773857116699,-76.8173446655273
+39,GnjUvZO9g3MIxytBOv1g0Q,Jumbo Jumbo Cafe,MD,Ellicott City,21042,86.0,4.5,9050 Baltimore National Pike,bubbletea taiwanese,39.277404,-76.8243882
+41,BPkTVke5BW-dXzZUKaKJWg,The Crepe Escape,MD,Catonsville,21228,136.0,4.5,724 N Rolling Rd,creperies icecream,39.28213,-76.755253
+44,gzxDMIyKOD5RfrV8BubApg,Jasmine Smoothie World And Bubble Tea,MD,Columbia,21044,21.0,3.0,10300 Little Patuxent Pkwy,juicebars bubbletea,39.216442,-76.860205
+48,LKUWGTP0-EpI6i7xcT3L_Q,Cafe Su,MD,Ellicott City,21043,19.0,4.0,3301 N Ridge Rd,coffee bakeries,39.2808598279953,-76.8173993378878
+0,ajnib-5m4eNZAcfnoCS59w,The Hub Asian Food Hall,MD,Catonsville,21228,139.0,4.0,6510 Baltimore National Pike,asianfusion desserts food_court,39.28703,-76.761989
+1,NVMdygTmmoEu4zDjY47aiA,Gong Cha,MD,Baltimore,21228,6.0,4.0,6510 Baltimore National Pike,coffee bubbletea,39.28621999440132,-76.76223631305349
+2,xqne1_bHgnkEFfzx79j8jw,Kyoto Matcha,MD,Ellicott City,21042,114.0,4.5,10045 Baltimore National Pike,desserts bakeries icecream,39.2777,-76.859271
+10,jODDoWqPXxSCrQS6WCBcjA,Tous Les Jours,MD,Ellicott City,21042,373.0,4.0,9380 Baltimore National Pike,bakeries coffee desserts,39.278494,-76.8347723
+12,zZJnU0Ru7ML0ErCNuFxZ3Q,Rice Kitchen,MD,Reisterstown,21136,44.0,3.5,513 Main St,japanese chinese,39.4568947,-76.8261702
+13,0dOVgF-cZBvYN8YZHafwdg,Cafe EZ - Ellicott City,MD,Ellicott City,21043,590.0,4.5,3290 N Ridge Rd,creperies breakfast_brunch sandwiches,39.28087,-76.81824
+14,EjhbOkB7s0gvH4_EEU9nmg,Foobao,MD,Catonsville,21228,74.0,4.0,6600 Baltimore National Pike,chinese coffee breakfast_brunch,39.28666,-76.76409
+15,ClrWjbNb1NtV7d5JQ3VNfQ,Chopstixx,MD,Elkridge,21075,225.0,4.0,7260 Montgomery Rd,chinese panasian thai,39.2077471081218,-76.7290068045259
+17,GfTVE2MHxhT82ukZimjHBA,Kokee Tea,MD,Columbia,21044,4.0,3.5,10300 Little Patuxent Pkwy,bubbletea,39.21483,-76.86261
+19,03GWkL10s565ud361vPnfw,Beseto Asian Food Court,MD,Catonsville,21228,67.0,4.0,822 N Rolling Rd,food_court,39.282779,-76.754923
+20,a4iEMVLMxEOUm0fi13Lm-Q,Poke Fresh,MD,Elkridge,21075,92.0,4.0,6050 Meadowridge Center Dr,poke hawaiian,39.20865125359796,-76.78095297263565
+22,vSs1vlkY7C9ZaoDEa1o1uw,Iron Age,MD,Catonsville,21228,718.0,3.5,6506 Baltimore National Pike,korean,39.2867234962992,-76.7613998427987
+23,3WHx1O85XjN2W-Q6be_h0Q,Bon Appetit Bakery,MD,Ellicott City,21042,90.0,3.5,10155 Baltimore National Pike,bakeries coffee sandwiches,39.27903,-76.86197
+25,4T3lDW9qdJvYkmXfnEi7Qw,Viet Pearl,MD,Ellicott City,21043,162.0,3.5,8801 Baltimore National Pike,vietnamese sportsbars salad,39.277278,-76.817358
+26,IuGNYXLPoQ3Q4ujOLaqXpQ,Hot Pot Hero,MD,Ellicott City,21042,406.0,4.0,10045 Baltimore National Pike,hotpot seafood cajun,39.27797,-76.85938
+27,z1I3S6c-cCEZP-F06Ydivw,Urban Hot Pot,MD,Columbia,21044,148.0,4.5,10100 Twin Rivers Rd,hotpot seafood cajun,39.21600237766751,-76.86518105445406
+28,-uI6U92eXmit_admBHNs5g,Pho 1,MD,Catonsville,21228,165.0,3.5,5764 Baltimore National Pike,vietnamese,39.2891408436212,-76.7340769459569
+29,kp4R7UJcQCk8ld2kmsq-Ew,Honey Pig Korean BBQ,MD,Ellicott City,21042,911.0,3.5,10045 Baltimore National Pike,korean bbq,39.27819,-76.859199
+30,FFe7X7l5_yPnUbGrvLMHdA,Pho Van Restaurant,MD,Catonsville,21228,209.0,4.0,6477 Baltimore National Pike,vietnamese,39.2850952,-76.7610245
+31,jlc-L0LoU0JUgYC0admeGg,Bonchon Columbia,MD,Columbia,21044,166.0,3.5,10100 Twin Rivers Rd,chicken_wings korean asianfusion,39.21558,-76.86527
+32,MtAhX7_USNut7ZqLK9cwmA,Bamboo Stix,MD,Ellicott City,21042,9.0,3.5,10045 Baltimore National Pike,ramen taiwanese,39.27797,-76.85938
+33,aymXOEor5iwV4K8FDWIuYg,Aji Sushi,MD,Owings Mills,21117,3.0,3.5,10347 Reisterstown Rd,sushi teppanyaki,39.4185567,-76.77678674053335
+34,0H7BzdxCZNs8OiE182Ttrg,Bonchon Ellicott City,MD,Ellicott City,21042,518.0,3.5,3419 Plum Tree Dr,chicken_wings korean asianfusion,39.276726,-76.83473
+19,T9HjN368cECTH2Bukxj5mg,Pho La Cay,MD,Columbia,21045,187.0,4.0,8865 Stanford Blvd,vietnamese,39.19115,-76.81825
+20,o-yKoI0pyNf8OM-uRC5Q_Q,Cafe Mezcla,MD,Columbia,21044,244.0,4.0,6470 Freetown Rd,coffee breakfast_brunch creperies,39.194623,-76.883619
+25,0QPlZbxJllEkP-XfJWsSOg,Sushi King,MD,Columbia,21045,494.0,4.0,6490 Dobbin Rd,sushi japanese,39.19282,-76.8204499
+27,acqNx2-YdFHaPJ1aG0UhNQ,An Loi,MD,Columbia,21045,381.0,3.5,7104 Minstrel Way,vietnamese,39.1773719787598,-76.8424530029297
+28,3FDsxV-X7coCEIgtltFmjg,Pho Dat Thanh,MD,Columbia,21045,352.0,3.0,9400 Snowden River Pkwy,vietnamese juicebars,39.17662,-76.83697
+28,kTdtYeE7HpaZTa95ltgPVw,Rita's Italian Ice,MD,Reisterstown,21136,7.0,4.5,11700 Reisterstown Rd,icecream desserts shavedice,39.442166424177145,-76.80904821235457
+20,9xjPjb6_GgAlvKUpfNKhtA,Hippo Kitchen,MD,Baltimore,21207,18.0,4.5,5514 Baltimore National Pike,bubbletea tapasmallplates sandwiches,39.29128,-76.72229
+0,VrySzZJaf0dsSdvx9snt-A,Sharon's Shaved Ice Snowballs,MD,Forest Hill,21050,2.0,5.0,1500 Rock Spring Rd,desserts shavedice icecream,39.558166,-76.371002
+7,kFvJY7X9mOH4wNFyHIPjog,Sharon's Shaved Ice Snowballs,MD,Bel Air,21014,11.0,4.0,595 Baltimore Pike,shavedice icecream,39.5266965,-76.3540015
+9,OZX4zn2Tu49F030vurb8BQ,Kona Ice of Bel Air,MD,Forest Hill,21050,4.0,5.0,132A Industry Ln,shavedice foodstands,39.577564239502,-76.3714141845703
+12,WhNO6i0fmBc_ej_OjBe_rA,Rita's Italian Ice,MD,Forest Hill,21050,3.0,4.5,1510 Rock Spring Rd,icecream desserts shavedice,39.5587,-76.371398
+14,K_xncxQ94pJPBiEwA7pTOQ,Rita's Italian Ice,MD,Aberdeen,21001,6.0,4.0,772 W Bel Air Ave,icecream desserts shavedice,39.5196457,-76.1862429
+17,9KV4_NvMNnXh0jo0UnYbZA,Sino Wok,MD,Bel Air,21014,10.0,3.5,696 Bel Air Rd,chinese japanese soup,39.5239884,-76.3569352
+2,Mvv5alhPOuh-5nAI1tT_KA,Gong Cha,MD,Bel Air,21014,33.0,4.5,620 Marketplace Dr,bubbletea,39.5239504464881,-76.35244831178179
+9,8qWuFj0QmeNCa37aut-9kg,Chatime Belair,MD,Bel Air,21014,1.0,5.0,512 Baltimore Pike,bubbletea coffee,39.528361652874715,-76.35330864993615
+18,zw6MYIQ6xcBI2O6_EYBxJw,Poke Bowl,MD,Bel Air,21014,54.0,4.5,544 Baltimore Pike,hawaiian poke,39.5266939,-76.3542731
+5,YzxgrjZ54rM14-LhPb2YLA,Emmorton Snowballs & Ice Cream,MD,Bel Air,21015,16.0,4.5,101 E Wheel Rd,icecream shavedice,39.4930801391602,-76.3213958740234
+6,07zDj69h5e-eiGBRR9n-6g,Snoasis,MD,Lutherville Timonium,21093,38.0,4.0,30 E Padonia Rd,icecream shavedice,39.456887,-76.630471
+12,2iKehxdWxjcWrRE3XQB70g,Rita's Italian Ice,MD,Hunt Valley,21030,11.0,4.0,11351 York Rd,desserts shavedice icecream,39.49508,-76.6499
+15,oXVUmgXV_W5lCKoWvWynOw,Rita's Italian Ice,MD,North East,21901,10.0,4.0,2328 Pulaski Hwy,icecream desserts shavedice,39.6093279244173,-75.9444768592904
+17,0YJceuqFVR2HksrNyldpEw,Rita's Italian Ice,MD,Abingdon,21009,7.0,4.0,3007 Emmorton Rd,desserts shavedice icecream,39.47636,-76.30911
+20,DQPDBp-zEnGIf_07XF_oKA,Rita's Italian Ice,MD,Fallston,21047,3.0,4.0,220 Mountain Road,desserts icecream shavedice,39.4927416,-76.3963591
+21,92DlyQjQAug-YFz6ISaB7A,Rita's Italian Ice,PA,Oxford,19363,3.0,3.5,453 N 3rd St,icecream desserts shavedice,39.7941590999529,-75.9758330587219
+2,ztoBtIvdTLgvd_7MjpzZAQ,Gong Cha The sweetest spot,MD,Cockeysville,21030,6.0,4.5,100 Shawan Rd,bubbletea coffee,39.49593,-76.65277
+10,neikEZdu-x9bG6miTdHFDA,Simply Sip Tea,MD,Baltimore,21202,107.0,4.5,413 S High St,bubbletea,39.2854498165591,-76.6009599561706
+12,DF7tN0OuaZTCvbumDAH99g,Snow Cloud,MD,Towson,21204,51.0,4.5,714 York Rd,desserts bubbletea icecream,39.404594,-76.6054826
+15,vCDK8jRqec8-JM2oJtTwrA,Vivi Bubble Tea,MD,Hanover,21076,44.0,4.5,2733 Annapolis Rd,bubbletea,39.136286,-76.749984
+18,ntxcmetjwLMyAMGemTJ-cg,Kung Fu Tea,MD,Towson,21204,121.0,4.0,508 York Rd,bubbletea coffee juicebars,39.400775,-76.6020738771284
+20,aOLIa19RbLxbcaTEzXsSpw,Gong Cha Arundel Mills,MD,Hanover,21076,88.0,4.5,7645 Arundel Mills Blvd,bubbletea coffee juicebars,39.1519495793978,-76.7237138338684
+25,Mt8KF8_1T27QAY3ol1S2cg,WOW Food Cafe,MD,Baltimore,21201,178.0,4.5,222 N Charles St,bubbletea chinese coffee,39.292012,-76.616007
+26,XgP9ZsnyYjpYysJiATaahA,Den Da Coffee - Towson,MD,Towson,21204,158.0,4.5,1 W Pennsylvania Ave,bubbletea desserts coffee,39.40047760207343,-76.60324625923775
+28,XUA_-7F8vW3W0JKAW-1low,Gong Cha,MD,Towson,21204,22.0,4.5,417 York Rd,bubbletea juicebars coffee,39.39960003151561,-76.60270422788263
+31,ld1gml-bparLdqOu4pfzzw,Taste Tea,MD,Arbutus,21227,58.0,4.0,5403 East Dr,bubbletea coffee pancakes,39.24907,-76.6935
+34,aCBzW1GbqKwcoy4dWtCBdw,Chatime Federal Hill,MD,Baltimore,21230,74.0,4.5,1114 Light St,bubbletea coffee,39.27641,-76.61253
+38,02JYDSjcaIOnhrQmuHyUCw,Gong Cha,MD,Fulton,20759,72.0,4.0,8194 Westside Blvd,bubbletea,39.14875,-76.90952
+42,PEbu8PycdKIVAcDP4Sxm0w,HH Tea,MD,Baltimore,21201,82.0,4.0,30 W Biddle St,bubbletea,39.30364,-76.61705
+5,6A9FX24UAfMrOfuMGT-oew,Kokee Tea,MD,Hanover,21076,41.0,4.0,7000 Arundel Mills Cir,coffee juicebars bubbletea,39.1558930367008,-76.7240604758263
+12,H1HfkVhkJkB3hRURqepaOg,Afters Cafe,MD,Baltimore,21230,148.0,4.0,1001 S Charles St,icecream desserts coffee,39.27806,-76.61419
+15,MzvDSnRzwi0FGV3aLt5sEA,168 Asian Burritos,MD,Olney,20832,136.0,5.0,18000 Georgia Ave,asianfusion sushi bubbletea,39.15111301957993,-77.06693328429245
+18,jUZvcGZM8SP-OkGwTDS8LQ,Yog Crepes and Frozen Yogurt,MD,Baltimore,21209,61.0,4.5,6053 Falls Rd,creperies bubbletea,39.372334,-76.649596
+19,5rYJkTY_V5y5IGepcDmW_w,Bambao,MD,Baltimore,21202,105.0,4.0,1010 Aliceanna St,asianfusion bubbletea chinese,39.28348,-76.599289
+26,8PO8XwYLCzfxcTLPiJbL7w,KA Ming Food House,MD,Glen Burnie,21061,17.0,3.0,7550 Ritchie Hwy,chinese bubbletea,39.15956,-76.6213090717793
+34,X0LxFnup529kZ9x2QoYIkA,Charming Elephant,MD,Baltimore,21224,85.0,4.5,2324 Boston St,laotian,39.28281,-76.583637
+36,SW7bXYvHIbG9rQWf9zHR7A,Teavolve,MD,Baltimore,21231,855.0,4.0,1401 Aliceanna St,coffee breakfast_brunch,39.2831709,-76.5978269
+37,sDaOdNHv7C1fFledPKH6Jw,The Red Boat Asian Fusion,MD,Glen Burnie,21061,158.0,4.0,440 Crain Hwy N,asianfusion vietnamese korean,39.1709699,-76.62166
+39,REY-F7E__ygdBJgPrVgeBA,Luckies,MD,Hanover,21076,5.0,4.0,7002 Arundel Mills Cir,gelato coffee,39.15632908541705,-76.72738474396023
+40,t71M01S5pe2lbv26Y3fp8w,Jin Bubble Tea & Smothie,MD,Baltimore,21215,2.0,2.5,2401 Liberty Heights Ave,bubbletea juicebars,39.3172822125389,-76.6550965596862
+41,vKHXgovOulfY9eqXxVJksA,FOD Poke Bar,MD,Towson,21204,81.0,4.5,402 York Rd,salad poke bubbletea,39.39958,-76.60248
+45,mDaGzGeInIt5W-4HobYEDw,Bubble n' Berry,MD,Derwood,20855,63.0,4.0,7234 Muncaster Mill Rd,bubbletea icecream,39.145675281783,-77.1458093419715
+49,VhC1yXf0GKGexOMtFlRmRg,Thai Street,MD,Baltimore,21231,168.0,4.5,1640 Aliceanna St,thai noodles,39.284,-76.59337
+5,zoqbFv4-TcxYTq_ebHqpRw,TKK Fried Chicken,MD,Baltimore,21218,18.0,3.5,3113 St Paul St,bubbletea chickenshop asianfusion,39.326342,-76.615562
+9,xioJXbgWvls-OIIb7qoOzw,Pho Tran,MD,Glen Burnie,21061,101.0,3.5,6714 Ritchie Hwy,vietnamese,39.1918217596614,-76.6138836252568
+11,O2ZrDUuqXoluq9cmrFhoyg,Mount Vernon Marketplace,MD,Baltimore,21201,230.0,4.5,520 Park Ave,food_court,39.295902,-76.618819
+14,mlIvgMI0aUZ2tjd75fxsgQ,iFusion Express,MD,Baltimore,21202,45.0,4.0,621 E Pratt St,asianfusion poke bubbletea,39.285345,-76.60724
+16,ns07YcGLvdky4CWt5YvpkQ,Sushi Tendou,MD,Fulton,20759,154.0,4.0,8194 Westside Blvd,japanese sushi,39.14875,-76.90952
+17,NPztC7E-HNw1pIEyy5Mo7Q,Indochine,MD,Baltimore,21201,200.0,3.5,1015 N Charles St,vietnamese asianfusion,39.301633,-76.615518
+18,21VPL2aT-DY8zVJtGd5eOQ,Ajumma Cuisine,MD,Baltimore,21218,88.0,3.5,3121 St Paul St,korean asianfusion,39.3267135620117,-76.6155624389648
+20,X19jig0ubkRVdHdOup5onQ,Ramen Utsuke,MD,Baltimore,21202,321.0,4.5,414 Light St,ramen,39.28383,-76.61398
+21,qS4yCiFCHsVze9Kra4T8ug,Luk Fu,MD,Hanover,21076,160.0,2.5,7002 Arundel Mills Cir,asianfusion dimsum japanese,39.1568492,-76.72780519999999
+22,jATYj80_ImNkvCfaGESg6w,Towson Best Chinese & Sushi,MD,Towson,21204,176.0,3.0,527 York Rd,chinese sushi,39.40128,-76.60254
+24,GrY_7WvQT6iwDghmJLCW8w,Spice & Dice,MD,Towson,21286,701.0,4.0,1220A E Joppa Rd,thai soup noodles,39.3968355,-76.5764848
+27,LRDAN2fn2pkMyq2DUd41qg,Pho Viet USA,MD,Baltimore,21202,19.0,3.5,1 E Redwood St,vietnamese,39.2886644867865,-76.61469499041456
+28,wejnu-EvlgTITEOyqmtaQw,Noodle Charm,MD,Towson,21286,101.0,4.0,1220 E Joppa Rd,thai noodles,39.3962481330461,-76.5766289997442
+32,D1dT5kmL_7S8fgFiIQn43Q,Sakura Cafe II,MD,Baltimore,21205,8.0,4.0,2510 E Monument St,asianfusion newamerican japanese,39.299039,-76.5819076
+33,qp7RYiO0I2igRZWLoSMF2A,The Red Boat Asian Fusion,MD,Baltimore,21201,165.0,4.0,3 N Eutaw St,vietnamese,39.2894694,-76.6207578
+35,V_sXAVPeed3n6jLwHhx3LQ,Brown Rice Korean Grill,MD,Towson,21204,57.0,4.0,419 York Rd,korean,39.3998824,-76.602797
+37,G5zqIFHP3e6BT6pYa7ThSQ,Kokee Tea at Arundel Mills Mall,MD,Hanover,21076,1.0,4.0,7000 Arundel Mills Cir,desserts bubbletea juicebars,39.157807,-76.724818
+39,zTzDIDY5GBkVpsHQGPsxsg,Asian Taste,MD,Baltimore,21211,121.0,3.0,916 W 36th St,chinese japanese thai,39.33124,-76.6323
+40,JBVolcom6kWoCKiAg7_wEA,Paul Chen Hong Kong Restaurant,MD,Baltimore,21218,99.0,2.5,2426 N Charles St,chinese,39.317108,-76.617276
+41,6i0YJ-c8RX25NUIelG9OiQ,Pinch Dumplings,MD,Baltimore,21201,96.0,3.0,520 Park Ave,chinese vegan,39.2958526456593,-76.6184662457026
+43,USGgYJGni6ImkoTVqihPmQ,Okey Poke,MD,Gaithersburg,20877,75.0,4.5,501 N Frederick Ave,sushi japanese poke,39.151004,-77.209204
+45,g_E1mONRDwe2kSQ6jKUTlw,Orient Express,MD,Baltimore,21218,165.0,3.5,3111 St Paul St,conveyorsushi szechuan,39.3262711,-76.6155396
+47,viOIpHVViYTOtJw8C7UXng,Pho Viet,MD,Baltimore,21202,160.0,3.5,104 Saint Paul St,vietnamese soup,39.290687,-76.614278
+48,4-Ocg8gbGPrc2Y_zqTa_TQ,New Generation Hot Pot,MD,Towson,21204,150.0,4.0,413 York Rd,hotpot chinese seafood,39.39956,-76.6028
+1,xLtLPJw3lpj5wWlH8H5kNw,Sakura Cafe,MD,Baltimore,21215,21.0,3.5,3400 Park Heights Ave,noodles soup,39.32607,-76.65788
+4,yfLoGcq-mgiwE9Ysi2wQMw,Java Junction,MD,Gaithersburg,20877,17.0,3.0,5 S Summit Ave,coffee,39.14168,-77.19326
+10,jWARlWMJ-FXtREZUTH5esw,Sushi Ichiban,MD,Towson,21286,102.0,3.5,1238 Putty Hill Ave,sushi asianfusion,39.3935295101337,-76.5812273916988
+29,BVBnd7pP12ZHRfV1wjrgTg,ChaTime White Marsh,MD,Nottingham,21236,94.0,4.5,8137 Honeygo Blvd,bubbletea coffee juicebars,39.370819,-76.465246
+0,S7SCdNnPzGJXwverrHMoww,Kung Fu Tea,MD,Nottingham,21236,24.0,4.0,7904 Honeygo Blvd,juicebars bubbletea coffee,39.37321,-76.47249
+35,PoAQsd2aHhM4k5rDTsU4sQ,Jasmine's Smoothie World,MD,Nottingham,21236,5.0,2.5,8200 Perry Hall Blvd,healthmarkets bubbletea juicebars,39.3745187,-76.4668033453689
+45,RROFOhnPZGGLjTjHUfRPtA,Pho 7Rich,MD,Nottingham,21236,127.0,3.0,4136 E Joppa Rd,vietnamese,39.398944,-76.48194
+49,d2iNXqa2N-L_-9ogp9a0GQ,Daily Sushi,MD,Parkville,21234,104.0,4.5,1842 E Joppa Rd,sushi japanese chinese,39.400233369377,-76.5524580027268
+12,_7Ru4RauGvW4ZV6jwyZdag,Brown Rice Korean Grill,MD,Whitemarsh,21236,62.0,3.5,8137 Honeygo Blvd,korean,39.3708743199894,-76.464939144844
+14,oSrA8-rQbogSImCCI59Q5w,China Wok,MD,Parkville,21234,19.0,3.5,1842 E Joppa Rd,chinese,39.4002953,-76.5513916
+19,xEdSXv7BNHPSyD3NK97n6Q,Rita's Italian Ice,PA,Birdsboro,19508,1.0,2.0,101 East Main St,desserts shavedice icecream,40.2663116,-75.808136
+1,D20-w6rnO89e_UE5NnVcXg,Lani Ice,PA,Glenmoore,19343,11.0,5.0,1230 Pottstown Pk,shavedice juicebars icecream,40.1178647,-75.6938776
+2,2s0DNjQuSNaInsfs23EdWA,Pelican's SnoBalls,PA,Downingtown,19335,7.0,4.5,807 W Lancaster Ave,shavedice,39.9993133544922,-75.7248992919922
+10,NPKCKHXZYPRiNj__kThD6A,Rita's of Downingtown,PA,Downingtown,19335,7.0,3.0,84 W Lancaster Ave,icecream desserts shavedice,40.003576,-75.707963
+13,VzjQuSVeGVlmHP2qsA7TCw,Rita's Italian Ice,PA,Pottstown,19465,3.0,4.0,2323 Pottstown Pike,icecream desserts shavedice,40.168799,-75.665554
+11,YHohKP1NnXWw0Of7wnQZyQ,Travelers Eats & Sweets,PA,Kennett Square,19348,2.0,5.0,148 West State St,desserts bubbletea importedfood,39.8461,-75.71335
+13,tqCDj8b0lcRfhLMP9iZ3FA,Pho Now,PA,Downingtown,19335,107.0,4.0,3911 W Lincoln Hwy,vietnamese,39.997461,-75.742569
+17,JdCQ3DPoKwSBjB0RcC6Q6A,Rita's Italian Ice,PA,Boyertown,19512,5.0,5.0,309 E Philadelphia Ave,icecream desserts shavedice,40.33111,-75.63359
+11,kPK3_DVC3oANl9m2a02m_A,Spicy Pig Cafe,PA,West Chester,19382,111.0,4.0,234 W Market St,newamerican breakfast_brunch,39.9579127,-75.6082007
+16,3rfFXpIQvFmYwtXj0aQ8nQ,Wasabi,PA,West Chester,19380,107.0,4.0,686 Downingtown Pike,japanese chinese,39.9622256,-75.6229659
+4,SjQWoV94iYiciP31TPCkzw,Reno's Ice Cream & Water Ice,DE,Wilmington,19808,4.0,5.0,4748 Limestone Rd,icecream shavedice,39.7404566238669,-75.6917734389746
+6,GTlnJUKuX_0oqtFjuixfxg,Tagpuan Restaurant,DE,Newark,19711,47.0,4.5,700 Capitol Trl,filipino,39.6937089265897,-75.7197314846486
+10,-VbtijUhH4xVP7cZbEo6-Q,Ted's Montana Grill - Christiana,DE,Newark,19702,153.0,3.5,3194 Fashion Center Blvd,tradamerican steak burgers,39.6712617957885,-75.6479444079988
+11,rbJ-qtyDW4MV9pIyvv_sXA,Rita's Italian Ice,DE,Newark,19711,14.0,4.0,600 Newark Shopping Ctr,icecream desserts shavedice,39.6846219548454,-75.7442138744561
+17,lOXYw5mqIn2eAIN7aFWb2w,Rita's Italian Ice,DE,Bear,19701,5.0,3.0,1673 Pulaski Hwy,icecream desserts shavedice,39.62016,-75.6943
+18,mQFGOnyhpFAxg0yKG8tfLw,Rita's Italian Ice,DE,Hockessin,19707,5.0,4.5,7313 Lancaster Pike,shavedice desserts icecream,39.78853,-75.69338
+19,TlHtbL1Dk56A4gEInUnFOA,Rita's Italian Ice,DE,Wilmington,19808,8.0,3.0,3730 Kirkwood Hwy,icecream desserts shavedice,39.73182,-75.64191
+22,yra62u6wnsKHVLbW8LpMvQ,Rita's Italian Ice,MD,Elkton,21921,3.0,4.5,403 East Pulaski Hwy,desserts shavedice icecream,39.59886,-75.81381
+23,4lF1-6lMyDxe4SS5xLliNg,Rita's Italian Ice,DE,New Castle,19720,2.0,3.0,287 Christiana Rd,desserts shavedice icecream,39.661748,-75.639814
+3,7mj5Etk6-_Ps59XHu6JTsA,TIGER SUGAR,DE,Newark,19711,6.0,5.0,211 S Main Street Unit 106,bubbletea desserts,39.67737,-75.76216
+4,HqDPqtyzexGakzmyLUo7Rw,Tbaar Delaware,DE,Newark,19711,48.0,4.0,108 E Main St,bubbletea juicebars,39.68359503184174,-75.74898764443749
+6,nrlYIT438hkDub2ifE8DHg,Mr Wish,DE,Newark,19702,21.0,4.5,132 Christiana Mall,bubbletea juicebars,39.678572,-75.652164
+9,hUCJ0STZ_KT9gGB2DoGdsg,Tastea 101,DE,Newark,19711,3.0,4.5,101 Carroll Ct,bubbletea juicebars chicken_wings,39.68086,-75.75695
+11,l7vA2NVn1xyuw5lKfSIGbg,Surreal Creamery,DE,Newark,19711,6.0,4.5,93 E Main St,icecream bubbletea desserts,39.6832362643621,-75.74959761276887
+12,sIcqBr3Tr5qtmtNu7EXk_g,Kung Fu Tea,DE,Newark,19711,8.0,4.5,93 E Main St,coffee juicebars bubbletea,39.683126,-75.749602
+13,9ITPcVo_yGzevT0NMxfOVQ,Comma Cafe,DE,Newark,19711,1.0,3.0,74 E Main St,bubbletea coffee juicebars,39.68336315993815,-75.75043259288134
+16,IZMJsuEIxunT-3EndLxtxg,Jasmine Smoothie World,DE,Newark,19702,2.0,2.0,715 Christiana Mall,bubbletea,39.678308,-75.651871
+17,k6d6ddQ8NAscke0_dVrgaA,Rubie's Smoothie,DE,Newark,19702,13.0,3.0,715 Christiana Mall,bubbletea juicebars,39.678615,-75.65315
+21,iNl2Hcp9Rh9UnoD0Q9lhnw,Bowba Cha Smoothie & Bubble Tea,DE,Newark,19711,3.0,3.5,157 E Main St,juicebars bubbletea,39.68358073229125,-75.74657525134417
+22,msp4nQ9YPzSA7d6fVbSrAA,Tree Garden,DE,Wilmington,19808,62.0,4.0,1317 McKennans Church Rd,japanese sushi chinese,39.73246,-75.66634
+25,VbzoVWEPSfzaIGBq4KlVwQ,Soybean Asian Grille,DE,Wilmington,19808,172.0,4.5,4702 Limestone Rd,thai chinese asianfusion,39.7392170075027,-75.6925452853584
+26,jLfXLO5Pg9m1PbGOB1ImyQ,Pho Nhu Vu,DE,Bear,19701,130.0,3.0,1146 Pulaski Hwy,vietnamese,39.6299,-75.66278
+27,TS2vI_Z4oww_HvUlXqKTSg,Banh Mi Boy,DE,Newark,19711,163.0,4.5,209 E Main St,vietnamese sandwiches,39.68351,-75.74499
+29,knBn5dtaLxML4jNQ3BMX7A,Pho Ever Cafe,DE,Newark Shopping Ctr,19711,120.0,4.0,230 E Main St,vietnamese soup bubbletea,39.685202531055396,-75.74398436616187
+30,VkHexf3mBy-8hu2vsSVd4g,Chiwa Bistro,DE,Newark,19702,121.0,4.0,132 Christiana Mall,sushi asianfusion ramen,39.679591,-75.651851
+31,Ct_g_xmNh1wvpfTD-QLI8Q,vPho,DE,Newark,19711,221.0,4.5,2671 Kirkwood Hwy,vietnamese salad noodles,39.708392,-75.68442
+32,yoNQxoFJ80wTElqsQ-VnUQ,Kong Pao Palace,DE,Newark,19711,29.0,3.5,259 S Main St,chinese,39.6766999,-75.76233
+33,kje7KzyDiP7ye1mMbj2qaQ,Colorful Yun Nan,DE,Newark,19711,56.0,3.5,59 E Main St,chinese noodles soup,39.6830651,-75.751016
+34,HfgDFoo1-6JsEdgiIf9SxQ,Tastea Main Street,DE,Newark,19711,2.0,4.0,74 E Main St,bubbletea juicebars,39.683475580616566,-75.7504482
+35,wZTvnoSwy4GxYw9gtdMY7Q,Little Teriyaki,DE,Newark,19711,52.0,3.0,136 S Main St,bubbletea sushi chinese,39.6798273,-75.7598946
+12,5tihVj1XmggRjcRNrrZdYg,Donut Lover's Boom,PA,Kutztown,19530,12.0,5.0,236 W Main St,coffee donuts juicebars,40.516737,-75.777504
+9,edS_q6Cul6fZFEJPAqMrZA,Rita's Italian Ice & Frozen Custard,PA,West Chester,19380,11.0,1.5,323 E Gay St,icecream desserts shavedice,39.96283107703869,-75.60040105185101
+1,X39ZFJRX_fIFpNJn4j9VUg,Tsaocaa,PA,West Chester,19380,13.0,4.5,18 N High St,bubbletea desserts juicebars,39.96017,-75.60529
+5,YygPa1o7gZKkv-6VYDh_3w,Tranquili Tea Temple,PA,West Chester,19380,12.0,4.5,127 N Church St,bubbletea spiritual_shop tea,39.9607190275688,-75.6070548668504
+14,nb4q4rKYdtgH6I8Mbm93VA,Rai Rai Ramen & Hawaiian BBQ,PA,West Chester,19382,294.0,4.5,124 E Market St,bbq hawaiian ramen,39.9607050472652,-75.6021107678981
+9,16qRvmA7HfLO0Br0J234cQ,Rita's Italian Ice,PA,Malvern,19355,5.0,4.0,430 Lancaster Pike,desserts shavedice icecream,40.0373695571018,-75.5587381054635
+5,WKn8iAh4rKuRzRkO2ThCYg,Cocobear,PA,Pottstown,19464,3.0,3.5,18 Lightcap Rd,bubbletea juicebars icecream,40.23639642420115,-75.57008808426517
+2,sGrQyPEj-dwfETNkFR6M3w,Divine Health  Smoothies,PA,Wilkes-Barre,18702,1.0,5.0,28 Wyoming Valley Mall,bubbletea juicebars acaibowls,41.2465738,-75.8421194
+4,ftMDXpZtR-JuM0z1AKfh2Q,Rita's Italian Ice,PA,Scranton,18508,3.0,3.0,534 Scranton-Carbondale Hwy,icecream desserts shavedice,41.4634276273134,-75.6516453373054
+5,y5_nDJJXckgZfWuocFtUUQ,Rita's Italian Ice,PA,Scranton,18505,1.0,2.0,1019 S Washington Ave,icecream desserts shavedice,41.3981439,-75.6743949
+8,DYLPogZ7ApvbNk-uw8lcHA,Rita's Italian Ice,PA,Dunmore,18512,2.0,3.0,139 S Blakely St,desserts shavedice icecream,41.4205108,-75.6314636
+9,WM_HQ2ATwYTEQnGyfSJb9A,Rita's Italian Ice,PA,Walnutport,18088,2.0,4.5,405 S Best Ave,desserts shavedice icecream,40.75244,-75.59095
+12,kynlxhb231Y6q3KwIPmDrg,Rita's Italian Ice,PA,Schnecksville,18078,6.0,3.5,4041 Route 309,desserts shavedice icecream,40.65693,-75.6001
+4,T95zd578qx0uT0oRGqindg,AKI Asian Restaurant,PA,Olyphant,18447,19.0,4.5,422 Lackawanna Ave,japanese chinese asianfusion,41.468696275681,-75.6026523037037
+8,CIPYoR7O_Qbio77ZsASYiQ,Thai Rak Thai,PA,Scranton,18503,231.0,4.0,349 Adams Ave,thai,41.409463,-75.659987
+11,Ztlez--xMHzB7TXBxDh6Xw,Thai Thai Scranton,PA,Scranton,18503,63.0,4.0,309 N Washington Ave,thai,41.4094244,-75.6622215
+13,-BW5C-0-Abk4r83j1XDgsA,Sushi & Thai,PA,Dunmore,18512,70.0,3.5,702 N. Blakely St,sushi thai asianfusion,41.42788,-75.623393
+10,w4qJpxjBkDSIOzIW_MN5DA,Aloha Poke Bowl,PA,Fogelsville,18051,21.0,4.5,7801 Glenlivet Dr W,poke hawaiian bubbletea,40.59128,-75.63122
+15,9nO_JeoRMY6UfnHN4W4D2Q,Takkii Ramen - Allentown,PA,Allentown,18106,25.0,3.5,1042 Mill Creek Rd,japanese bubbletea noodles,40.55325,-75.582042
+9,y0NwHGRVwMZcQkhsC8KYHw,Rita's Italian Ice,PA,Allentown,18104,2.0,5.0,4000 Dorney Park Rd,desserts shavedice icecream,40.57947790489072,-75.53419602879731
+14,2gNcy6jabkWMKPPPYaLMwQ,Rita's Italian Ice,PA,Northampton,18067,3.0,1.0,3219 Cherryville Rd,icecream desserts shavedice,40.7063103,-75.5061035
+16,ih7574KWLfxxsf8fPvUOzA,Rita's,PA,Wescosville,18106,6.0,2.0,5681 Hamilton Blvd,icecream desserts shavedice,40.560604,-75.567907
+6,x6pkIh1UFo2kcyLkYSSwbg,Poke Kai,PA,Allentown,18103,113.0,4.5,3337 Hamilton Blvd,japanese chinese icecream,40.57904,-75.525324
+12,7_gA0AiaiMJ9PDw7TOIiEQ,chopfin,PA,Allentown,18104,19.0,4.0,1403 N Cedar Crest Blvd,bubbletea poke mexican,40.611964,-75.531725
+30,ni7dkDl25ExhM0nL9xzmJg,Rita's Italian Ice,PA,Royersford,19468,9.0,4.0,70 Buckwalter Rd,icecream desserts shavedice,40.197629,-75.524851
+46,2315vEYWa8vw2QOrhK-PqA,China Taste,PA,East Greenville,18041,36.0,3.0,622 Gravel Pike,chinese sushi thai,40.41304,-75.50926
+33,Otyo_ci_i3X3lwiYyJyAyA,Rita's Italian Ice,PA,Phoenixville,19460,8.0,2.0,411 Schuylkill Rd,icecream desserts shavedice,40.14098,-75.54694
+33,BCFxnYDLwIiaN9qS1OzPfA,Rita's Italian Ice,PA,Pennsburg,18073,2.0,3.0,427 Pottstown Ave,icecream desserts shavedice,40.4030391970165,-75.5001068115234
+45,MUTZwuWLPxrf1i-JR4PJ7Q,Chikara Sushi & Asian Fusion,PA,Phoenixville,19460,133.0,4.0,131 Bridge St,sushi asianfusion,40.1342723300808,-75.5141254226775
+49,ihGH3GrL9FyIXojRFcaRMg,Akio Sushi & Poke,PA,Malvern,19355,143.0,4.5,235 Lancaster Ave,japanese poke sushi,40.0412475,-75.5428178
+3,CHzgAFs3h9LGWYo_wIMiGg,Dim Sum Court,PA,Phoenixville,19460,26.0,4.0,236 Bridge St,dimsum bubbletea seafood,40.133701292402385,-75.51759118616283
+7,xTNtyQsPdunuGAIcn69J8Q,Bamboo House of Noodle Soups,PA,Frazer,19355,133.0,3.5,245 Lancaster Ave,vietnamese noodles,40.041093,-75.54073
+0,tYsPoLzuG7f_X0XvXPzgMA,Frozen Island,PA,Coopersburg,18036,4.0,5.0,,shavedice foodtrucks icecream,40.51151,-75.3911
+3,N50eLdac1MJEbjT6QfCYEQ,Inihaw Filipino Barbecue,PA,Bethlehem,18017,20.0,5.0,3350 Schoenersville Rd,bbq filipino,40.659371,-75.418638
+7,p8sIj80pLuzyDZW_gLAIlA,Cafe Cabana,PA,Lansdale,19446,54.0,4.5,628 E Main St,bubbletea tradamerican creperies,40.23260935554953,-75.27151494385221
+8,73rFaAJPuEc_vqDDC5cY-w,Sprinkles Ice Cream Shoppe,PA,Bath,18014,2.0,5.0,626 E Main St,foodtrucks shavedice icecream,40.72243,-75.38205
+10,XKtIlVSnm6TVWPFOayenHQ,Rita's Italian Ice,PA,Gilbert,18331,4.0,4.5,1268 Route 209,desserts shavedice icecream,40.915371,-75.437167
+12,Efce0lwPvgvaqCNP3GcwxQ,Rita's Italian Ice,PA,Whitehall,18052,3.0,4.5,2874 Macarthur Rd,icecream desserts shavedice,40.648408,-75.497718
+13,8W4w1sXXDER5ujjE-cuOFg,Teapioca Lounge,PA,North Wales,19454,112.0,4.5,1200 Welsh Rd,bubbletea coffee juicebars,40.22874501482478,-75.257629106063
+15,XYqpEzrPAmGSwmCisQ5DUA,Rita's Italian Ice,PA,Mount Pocono,18344,1.0,1.0,613 Pocono Blvd,desserts shavedice icecream,41.132654,-75.363124
+16,6MnkLl8FIEYiWKViqZLMyg,Assi Plaza,PA,North Wales,19454,172.0,4.0,1222 Welsh Rd,korean grocery,40.22545,-75.25472
+17,PTz2nRSGpyD7PhTaS7etag,Rita's Italian Ice,PA,Wind Gap,18091,7.0,3.5,501 E Moorestown Rd,desserts shavedice icecream,40.8320248,-75.302491
+21,HP5KI7001wdtf-1VWyhxOg,Rita's Italian Ice,PA,Perkasie,18944,6.0,4.5,7 N 7th St,desserts shavedice,40.374801634126,-75.2956416356089
+26,NhDcEYpgT6IY9NuQEsVu9A,Rita's Italian Ice,PA,Zieglerville,19492,3.0,4.5,1202 N Gravel Pike,icecream desserts shavedice,40.27553,-75.479167
+27,Q09sOBhjMGgMpdkJiY5yfw,Rita's Italian Ice,PA,Bethlehem,18017,4.0,2.5,1907 Stefko Blvd,desserts shavedice icecream,40.64011,-75.34793
+30,1XMXh99_EUagovSKWGvt3g,Rita's Italian Ice,PA,Hellertown,18055,12.0,3.5,1130 Main St,icecream desserts shavedice,40.5856411904097,-75.3414045274258
+31,iEMv0DKjYWHRmayodgRozg,Rita's Italian Ice,PA,Nazareth,18064,5.0,3.0,52 East Lawn Rd,desserts shavedice icecream,40.74795,-75.30307
+33,vH07oe3Y8SIGNshHTGrfng,Rita's Italian Ice,PA,Collegeville,19426,8.0,4.0,222 W Main St,desserts shavedice icecream,40.184097,-75.45149
+34,HevQNI17wfKosXovlBW2HQ,Rita's Italian Ice,PA,Easton,18045,10.0,3.5,3730 William Penn Hwy,icecream desserts shavedice,40.671630859375,-75.2670440673828
+37,_DDhGG9Wj2_cRJdjDiM5Uw,Rita's Italian Ice,PA,Allentown,18103,2.0,3.0,1905 Union Blvd,icecream desserts shavedice,40.62578,-75.42759
+38,_hgqKj5-FJYuVXmrzbzLHw,Rita's Italian Ice,PA,Allentown,18103,4.0,4.0,1052 W Emaus Ave,icecream desserts shavedice,40.570405,-75.470274
+47,wn6FcwLk93lydhoG1Xr5ug,Rita's Italian Ice,PA,Harleysville,19438,6.0,3.5,329 Main St,shavedice icecream desserts,40.2705071121454,-75.3793437033892
+0,OHgyIv9VTujavqwblObrvw,Rita's Italian Ice,PA,Norristown,19403,7.0,3.0,2810 W Ridge Pike,icecream desserts shavedice,40.147427,-75.396215
+1,5vH_3zGUZXOCi03SkKVpTg,Rita's Italian Ice,PA,Lansdale,19446,9.0,3.0,214 N Broad St,icecream shavedice,40.2424318,-75.283064
+5,bqFduaiw9kgUKIgEpnGeCQ,Rita's Italian Ice,PA,Norristown,19401,8.0,3.0,1727 Markley St,icecream desserts shavedice,40.1323995,-75.3339082
+1,YJrEyDZFYb0mIxjErJ7noQ,Hocaa Bubble Tea,PA,Bethlehem,18015,20.0,4.5,220 E 3rd St,bubbletea coffee,40.611980820983156,-75.37502891608129
+14,7EY7Vf6j8IYxrS6nYtq9VA,Jasmine Smoothie World & Bubble Tea,PA,Fullerton,18052,6.0,3.0,250 Lehigh Valley Mall,coffee juicebars bubbletea,40.63134362380737,-75.4810739139671
+16,PAo3XB6A46wMiTcbLQG9qw,U & Tea,PA,Bethlehem,18015,133.0,4.5,119 E Third St,chinese,40.6120825123756,-75.3764237836003
+18,Dt9WTOy__smPWVF9TmdSiA,Honmono Sushi,PA,Allentown,18101,2.0,5.0,27 N Seventh St,sushi,40.60314,-75.47182
+22,8gO0jq4LZU674XHM4R54_w,Kung Fu Tea - North Wales,PA,North Wales,19454,18.0,3.5,1222 Welsh Rd,bubbletea,40.225311,-75.254389
+23,7OY_OiXgtWKpqS_Axx9FlA,Stations Cafe,PA,Bethlehem,18018,53.0,4.0,559 Main St,icecream vegan cafes,40.6220024,-75.3821519
+25,loLgUPaQnY3WkeF598Rzig,Hi Pot - Bethlehem,PA,Bethlehem,18015,36.0,4.5,312 E 3rd St,taiwanese ramen hotpot,40.61188,-75.37411
+27,gB4nDVQY9b5w9F838p_2Yg,Kung Fu Tea,PA,East Norriton,19401,13.0,3.5,2907 Swede Rd,bubbletea coffee juicebars,40.14643299196695,-75.31922210198096
+30,jX8B1Ovw41xo7wXuV38bVQ,Pho Saigon II Vietnamese Cuisine,PA,Bartonsville,18321,436.0,4.5,3180 Rte 611,vietnamese,41.0184077273318,-75.2965178827603
+34,og6mgtOiID6vqDWkvTuT8A,Tasty Dish,PA,Hellertown,18055,17.0,5.0,1184 Main St,chinese,40.5865725874901,-75.3414689004421
+37,Ge06gd57wLKoJkjvv0mtww,Jenny's Kuali,PA,Bethlehem,18015,166.0,4.5,102 E 4th St,malaysian noodles,40.61025,-75.37694
+38,jNneHEEFg_QSe3XKzlwQQQ,Bang Bang Hibachi Grill & Sushi - Allentown,PA,Allentown,18103,12.0,4.0,1519 Lehigh St,japanese sushi,40.579446,-75.47952
+40,B7ITvKiGMf6X1tS7Z2N9vQ,Aloha,PA,Quakertown,18951,24.0,5.0,641 S W End Blvd,poke vietnamese ramen,40.42723,-75.34833
+42,a3MuD7Ew64FvK2plQzTKaA,Hai Ky Pho Ga,PA,Fullerton,18052,102.0,3.5,1236 MacArthur Rd,vietnamese,40.622689,-75.481889
+45,7b7zmjtoY7HySMhP4Jgwew,Pho Viet Royal,PA,Bethlehem,18018,58.0,4.0,2126 W Union Blvd,vietnamese,40.6290756,-75.41890871642234
+49,hc0AiofObGxT8ONpXK2EaA,Asia,PA,Allentown,18103,105.0,4.0,1102 E Susquehanna St,chinese asianfusion,40.592357635498,-75.4302520751953
+0,o3X9fjmFXk0chl7PcXv5uQ,Pho Thai Nam Restaurant,PA,East Norriton,19401,510.0,4.0,144 W Germantown Pike,thai vietnamese,40.1455821,-75.320668
+1,mOk3D7VczrDapNuUgLxUQw,Noodle Eighty Eight,PA,Souderton,18964,249.0,4.5,664 E Broad St,asianfusion noodles,40.31427,-75.31149
+2,wCQoWo5wDgAVUxxFdDm8ug,Rakkii Ramen,PA,Bethlehem,18015,140.0,3.5,328 S New St,ramen noodles,40.610744,-75.378537
+4,wJcIX3OUTQ0DleS9JJyX9A,Izu Sushi,PA,Lansdale,19446,253.0,4.5,322 1/2 W Main St,japanese sushi asianfusion,40.24341,-75.28746
+7,364nhy8VvBXXEXKXREESyg,Pho Kitch'n,PA,Norristown,19403,170.0,3.5,2614 Ridge Pike,vietnamese thai chinese,40.142551,-75.390802
+8,21Qy9s-hv-2OJVWY_14eDA,Touch Thai,PA,Bethlehem,18018,116.0,3.5,549 Main St,thai,40.6217194,-75.3823776
+9,QVqLR6SJZP9DyeYVR9esUg,Pho and More,PA,North Wales,19454,239.0,3.5,1200 Welsh Rd,vietnamese thai,40.228993,-75.258597
+10,1eCqQdJP0ZcHblCTKfWFAw,Ginza Sushi,PA,Bethlehem,18018,5.0,4.5,1903 W Broad St,sushi,40.62342,-75.41172
+16,fAEXznT2eGFaPetPWGghLg,Buddy's Water Ice,PA,Norristown,19401,1.0,5.0,514 E Main St,shavedice gelato,40.1110340328509,-75.3352327644825
+12,UnAvkWNib0F3lHtMwikt8Q,Poke It Up,PA,King of Prussia,19406,51.0,5.0,160 N Gulph Rd,poke salad bubbletea,40.0878835725842,-75.3933076030985
+20,x4BSeDfK8AFeguTRELNgUg,Mr.Wish KOP,PA,King of Prussia,19406,49.0,4.0,690 W Dekalb Pike,bubbletea juicebars cafes,40.0897450162242,-75.3856004862715
+24,yPrNoVfE90iZxSYzty7RNw,Kung Fu Tea,PA,King of Prussia,19406,13.0,4.0,160 N Gulph Rd,bubbletea coffee juicebars,40.088188,-75.392437
+37,15lTva4TjdKvCoer9JMKSg,Co-Cool Smoothies and Bubble Tea,PA,King of Prussia,19406,11.0,3.5,160 N Gulph Rd,juicebars bubbletea,40.08874353501389,-75.392147
+41,cEHkn3gPbxqNvNLvGdeeOQ,Mr Wish,PA,King of Prussia,19406,8.0,4.0,160 N Gulph Rd,bubbletea juicebars,40.087858,-75.392047
+42,YTxOgn-vquErIXTA97Lrlw,Tranquili Tea Temple,PA,King of Prussia,19406,5.0,5.0,160 N Gulph Rd,tea bubbletea spiritual_shop,40.089033,-75.387388
+46,VSngZ2sqqi7IfwpTt5JAow,Qu Japan,PA,King of Prussia,19406,44.0,3.0,160 N Gulph Rd,ramen bubbletea desserts,40.089134,-75.385875
+8,Q4NmqOOn2ZhzgxtcTJXh3g,Pholicious,PA,King of Prussia,19406,202.0,2.5,160 N Gulph Rd,vietnamese bubbletea juicebars,40.0889623255374,-75.3920040652156
+18,6tA28GAh28S4d3LbFw_Gjw,Rita's Italian Ice,PA,Paoli,19301,7.0,4.5,1776 East Lancaster Ave,icecream desserts shavedice,40.042010477545,-75.4736119508743
+8,Rkgf33X-MkNini-tvOajoA,Cup Of Dreams,PA,Paoli,19301,3.0,4.5,5 Paoli Plz,coffee bubbletea,40.04256667941449,-75.48468464343114
+9,BwRt9CtA4JituH5Z4a7-lg,M And M Dim Sum,PA,Paoli,19301,53.0,4.0,1776 E Lancaster Ave,panasian,40.0421,-75.47434
+6,BoEcsaokOWStr04tQqr24A,Lotus Inn,PA,Berwyn,19312,91.0,3.5,402 W Swedesford Rd,chinese japanese,40.06816,-75.4481799
+48,J9syTzHWDgl_02riNCUMug,Rita's Italian Ice,PA,Montgomeryville,18936,13.0,4.0,762-A Horsham Rd,icecream desserts shavedice,40.24543,-75.24159
+33,ocg7vFsYZv2uN7c45JTyJQ,Pholicious,PA,North Wales,19454,31.0,4.5,230 Montgomery Mall,bubbletea hotdogs vietnamese,40.235599,-75.2419236
+9,i9rqSiwl3EAXWU9XA1YyOw,Smokey Bones,PA,North Wales,19454,240.0,2.5,252 Montgomery Mall,tradamerican bbq chicken_wings,40.2362459391968,-75.2448275573726
+4,kLqPSZpEnPVBozEbMn4HXg,8° Thai Ice Cream,PA,Stroudsburg,18360,2.0,4.5,766 Main St,icecream bubbletea,40.98505,-75.1959
+12,cXCky2gHKQo566ThcoVtJg,Kung Fu Tea,PA,Doylestown,18901,13.0,4.5,6 W State St,bubbletea coffee juicebars,40.30974,-75.13072
+17,971I8krj7WAtGTJAOd9oNw,Fruit A Bowls,PA,East Stroudsburg,18301,6.0,4.0,9 Crystal St,acaibowls juicebars bubbletea,40.999053,-75.181998
+24,j4aPMfDV9g_WZ6-W1LS1HQ,Hawaii Poke Bowl Forks,PA,Easton,18040,46.0,5.0,306 Town Center Blvd,japanese hawaiian poke,40.7125044,-75.2205668
+33,hjrtMkRPW_kiHJ7xOHofLQ,Tokyo Sushi,PA,Easton,18042,53.0,4.5,22 N 3rd St,sushi salad soup,40.69211,-75.20941
+40,uYFRwF23vifIR-CKq8cLbg,Sushi Ninja,NJ,Alpha,08865,29.0,5.0,827 3rd Ave,sushi,40.665425,-75.15747667
+7,Tc6WQPgMCdRQjUUKQH7vLw,Kung Fu Restaurant,PA,Doylestown,18901,87.0,4.0,33 N Main St,cantonese,40.31076,-75.1305299
+12,aRb_ToTRcHa9BICLLj8n-A,Pho Viet Hoa,PA,Willow Grove,19090,183.0,4.5,3646 Welsh Rd,vietnamese,40.1526768,-75.1362924
+18,nwq5cM5tYtQ7AnCnjVUhmg,Saigon Noodle Bar,PA,Philadelphia,19118,35.0,4.0,8221 Germantown Ave,vietnamese noodles bubbletea,40.0741022928737,-75.202862237037
+23,bRhnVTfuxDchyFguyDzuDQ,Queen Sushi,PA,Glenside,19038,77.0,3.5,281 N Keswick Ave,chinese sushi,40.1061425402303,-75.1469280361663
+24,yNrw3gO4eW6or8_lR6tEKw,Got Beans,PA,Stroudsburg,18360,6.0,2.5,344 Stroud Mall Rd,coffee breakfast_brunch,40.989889,-75.223853
+44,j_eGi7A7j3uIic1A8pJNmg,Rita's Italian Ice,PA,Philadelphia,19128,2.0,3.0,8945 Ridge Ave,desserts shavedice icecream,40.0701027,-75.2407684
+46,LLV2kDunnN4MINcJ5qQisA,Rita's Italian Ice,PA,Wayne,19087,2.0,1.0,387 West Lancaster Ave,desserts shavedice icecream,40.0444135,-75.3999145
+49,KWDNej4g8wHjguB-Z434aw,Rita's Italian Ice,PA,Conshohocken,19428,15.0,3.0,201 W Ridge Pike,icecream desserts shavedice,40.0943412780762,-75.2893600463867
+3,4tIjXEOBR5Vhtc2JNyftxw,Rita's Italian Ice,PA,Bryn Mawr,19010,15.0,3.0,958 County Line Rd,desserts shavedice icecream,40.021324,-75.325239
+41,SQ1cRsKEdT83STJWPXXI6g,Rita's Italian Ice,PA,Ambler,19002,4.0,4.5,100 E Butler Ave,icecream desserts shavedice,40.154614,-75.2212303
+5,OvCCSwZuQ_x3czY5W2TZZQ,Rita's Italian Ice,PA,Stroudsburg,18360,6.0,3.5,1319 N 5th St,icecream desserts shavedice,41.00157,-75.19848
+5,s0j7hGOWMXJ2Glb7HThD8Q,Rita's Italian Ice,NJ,Stewartsville,08886,2.0,4.5,450 County Rd 519,shavedice desserts icecream,40.68782,-75.145582
+9,1fjSEO-5JMP8jcn-7F1T1g,Rita's Italian Ice,NJ,Clinton,08809,3.0,4.5,2632 Rt 31 S,icecream desserts shavedice,40.670877,-74.915428
+10,5Sz7j2FXRqQC5Bo_O8gpeQ,Fujiyama,NJ,Hackettstown,07840,196.0,4.0,1954 Rte 57,japanese sushi,40.8217247,-74.8355534
+5,nUcJWd-eTyhQDOXIr3xJdA,The Stone Bean at Riverside Coffee & Tea,NJ,Clinton,08809,110.0,4.5,51 Main St,coffee bubbletea juicebars,40.63586,-74.91163
+12,Z0uVPgX1mY9xlYUUx92ZHg,Pathai,PA,East Stroudsburg,18302,48.0,4.5,106 Columbia Dr,vietnamese thai,41.0378421107545,-75.1251608133316
+14,L_pDXwwKgCnFDHL5UHzPcg,Gaza Ramen & Sushi House,NJ,Hackettstown,07840,100.0,4.5,915 Rt 517,sushi ramen korean,40.8708564723238,-74.8253497601155
+17,HCk37kpG_418PbZU3AVuIQ,Citispot Tea & Coffee,NJ,Clinton,08809,103.0,3.5,44 Main St,coffee,40.636414,-74.911648
+19,1zNX-UuT15NW7Tipy2Y1NA,Topo Restaurant,NJ,Hackettstown,07840,177.0,4.0,218 Main St,vietnamese,40.8522083,-74.8274988
+23,hI3O1Zyz7hqukH7yqE3hoA,Pho 57,NJ,Hackettstown,07840,32.0,3.5,1885 NJ-57,juicebars vietnamese icecream,40.820314399688016,-74.83802145293177
+27,JAtNJIZaYgFbfCdeDFtCuQ,Pru Thai,NJ,Clinton,08889,143.0,3.5,6 E Main St,thai,40.6369144207361,-74.9096647650004
+12,XiQoUSwYJYeBES68A_khMA,Rita's Italian Ice,PA,Furlong,18925,9.0,4.5,790 Edison Furlong Rd,icecream desserts shavedice,40.29622,-75.08329
+16,mm_I3Avym1qBKWbC1DS0nQ,Rita's Italian Ice,PA,Chalfont,18914,4.0,5.0,3322 Limekiln Pike,desserts shavedice icecream,40.2458676939194,-75.1933376175951
+26,9MSWQItc_-lO_fX08Y7M3A,Rita's Italian Ice,PA,Warrington,18976,2.0,4.0,1380 Easton Rd,desserts shavedice icecream,40.2513,-75.13468
+12,cYzc_Ei8WK9p9HmBYiy5VQ,Rita's Italian Ice,PA,Richboro,18954,4.0,2.5,722 Second Street Pike,icecream desserts shavedice,40.2084,-75.01579
+16,V8uKFuHyHKSOWojuhcP-2A,Rita's Italian Ice,PA,Warminster,18974,8.0,4.0,390 York Rd,icecream desserts shavedice,40.20094,-75.10139
+24,fQoz-zB3oTltT1OoZIiOqA,Rita's Italian Ice - Warrington,PA,Warrington,18976,9.0,4.0,29-31 Easton Ave,icecream desserts shavedice,40.213035,-75.13912833
+26,ceYLe0FVBmvteyBqb76n8Q,Rakkii Ramen,PA,Doylestown,18901,71.0,3.5,52 E State St,ramen,40.310339,-75.128892
+10,KxEkHwXgy44EA2p1-uw6bA,Rita's Italian Ice,NJ,Flemington,08822,3.0,3.0,23 NJ-12,desserts shavedice icecream,40.50276,-74.8554
+4,8cLeCfs03wXpDt-0zkspeA,Little Egypt Oasis,NJ,Flemington,08822,9.0,4.0,79 Main St,juicebars icecream bubbletea,40.51025465320429,-74.85909049416136
+15,hybMDT8F7KsAVZSb7HeMYQ,Nature's EnerQi,NJ,Flemington,08822,8.0,4.5,7 Main St,cafes bubbletea juicebars,40.5123355,-74.85941517
+15,g1Gx-IECxNuZzg_6PpfO3A,Rita's Italian Ice,PA,Willow Grove,19090,8.0,4.5,1135 York Rd,desserts shavedice icecream,40.159238,-75.111556
+20,pJGDowDVvTkp5yhDbLArXA,Rita's Italian Ice,PA,Glenside,19038,9.0,4.5,520 N Easton Rd,icecream desserts shavedice,40.11023,-75.1447
+38,4u3LzfQ_SYTdRNOpPZ9UhQ,Rita's Italian Ice,PA,Flourtown,19031,2.0,2.5,1527 Bethlehem Pike,desserts shavedice icecream,40.1056875606168,-75.213608359531
+43,-G-p49zYwol8Sw9GP931VQ,Rita's Italian Ice,PA,Abington,19001,11.0,2.0,1700 Old York Rd,icecream shavedice gelato,40.131984,-75.116263
+15,H1FXzbmnMPXRfOrTo1qxKw,Kung Fu Tea,PA,Abington,19001,58.0,4.0,1129 Old York Rd,bubbletea juicebars macarons,40.11546,-75.12101
+18,xWctdvzc-QXFtFkjlIALYA,Mr. Wish Abington,PA,Abington,19001,1.0,5.0,1533 Old York Rd,bubbletea juicebars,40.12704367543013,-75.11681981384756
+25,iKI5jvFAtSSkT1cdN8oIyw,Tea Park,PA,Willow Grove,19090,1.0,5.0,2500 W Moreland Rd,bubbletea,40.14349,-75.1216
+32,ETZK5PuCsVfQ7ElXckDTPw,Ban Ban Asian Bistro,PA,Abington,19001,190.0,3.5,1533 Old York Rd,asianfusion bubbletea sushi,40.1270790528143,-75.1167098432779
+40,mCKkfHKBhAUanBoHzys7hQ,Momoyama Ramen & Hawaiian BBQ,PA,Willow Grove,19090,128.0,4.5,101 E Moreland Rd Ste,ramen bbq hawaiian,40.139523,-75.113188
+4,Mg5N8XXw8ZpC9vFBVtxNTw,Salty Pineapple,PA,New Hope,18938,2.0,4.0,32 S Main St,hawaiian juicebars shavedice,40.363615,-74.950815
+3,nPfUxvE41sjRJqZTUj-qGw,Cafe Clover,PA,Elkins Park,19027,89.0,4.5,1333 W Cheltenham Ave,desserts coffee shavedice,40.06316,-75.13763
+9,HTgKfmmlzgE43trhntv8-w,DuBu,PA,Elkins Park,19027,526.0,4.5,1333 W Cheltenham Ave,korean vegetarian bbq,40.0631599,-75.1376266
+10,9f48RWEylLgrkCt0-49iHw,Paris Baguette,PA,Elkins Park,19027,160.0,4.0,7320 Old York Rd,bakeries coffee cakeshop,40.063,-75.13678
+11,qsm7SkX60JsajT7Yz248FA,Café Soho,PA,Philadelphia,19126,812.0,4.0,468 W Cheltenham Ave,korean asianfusion chicken_wings,40.05515,-75.12605
+15,Id0a0tIcGxaajMtxkQrwgQ,Rita's Italian Ice,PA,Wyndmoor,19038,10.0,3.0,900 E Willow Grove Ave,desserts shavedice icecream,40.0820677,-75.1891593
+20,65sPpkVbRSYS0droEoRavw,Rita's Italian Ice,PA,Philadelphia,19128,16.0,4.5,499 Domino Ln,icecream desserts shavedice,40.04536,-75.2327223
+28,99v5aJGZRvEC1LOsVHafTQ,Rita's Italian Ice,PA,Philadelphia,19115,10.0,4.5,1709 Grant Ave,icecream desserts shavedice,40.0863855332136,-75.0389505922794
+31,Zq-eTrpgXqmOlknkCN1xMw,Rita's Italian Ice,PA,Philadelphia,19152,1.0,4.0,2991 Welsh Rd,icecream desserts shavedice,40.05718,-75.02851
+41,-ZmS12_uMGDRoe41Ld0Kww,Rita's Italian Ice,PA,Philadelphia,19111,4.0,5.0,1901 Rhawn St,shavedice desserts icecream,40.0628700256348,-75.0573425292969
+42,idSmjCKizSDgYLR-IQCucQ,Rita's Italian Ice,PA,Huntingdon Valley,19006,1.0,5.0,2024 County Line Rd,icecream desserts shavedice,40.169594,-75.07068
+43,ZvD3VKF8MAMaMu8BJUV7wQ,Rita's Italian Ice,PA,Rockledge,19046,8.0,4.5,136 Huntingdon Pike,desserts shavedice icecream,40.07967,-75.08851
+48,XDVmfXueuuM4QeLJFhKVkw,Rita's Italian Ice,PA,Elkins Park,19027,4.0,3.0,110 Yorktown Plz,desserts shavedice icecream,40.07868,-75.127574
+49,ty18SHEQEmZKHJbUjns2mw,Rita's Italian Ice,PA,Philadelphia,19149,1.0,4.0,2311 Cottman Ave,desserts shavedice icecream,40.048511,-75.057503
+3,dVvpwwvg7lAe94IOOfVeiw,Rita's Italian Ice,PA,Philadelphia,19120,4.0,3.5,5901 Rising Sun Ave,icecream desserts shavedice,40.04402,-75.10226
+7,ybQFmzhEieLK512AfSYBkQ,Rita's Italian Ice,PA,Philadelphia,19150,6.0,3.0,8201 Stenton Ave,icecream desserts shavedice,40.067813873291,-75.1792907714844
+8,dwpIiIYQdUsMo8E2HTmeGg,Rita's Italian Ice,PA,Philadelphia,19120,3.0,2.5,5744 Mascher St,desserts shavedice icecream,40.0386378597836,-75.1236870287789
+10,YXVt71ViajdXNpdCl4TleQ,Tsaocaa,PA,Elkins Park,19027,19.0,4.5,7320 Old York Rd,bubbletea,40.0627748562237,-75.1367652208321
+11,BxLqgAycWWeq9wFbPh58pg,Mochi Ring Donut And Bubble Tea,PA,Jenkintown,19046,38.0,5.0,501 Old York Rd,bubbletea donuts,40.099132458745885,-75.12658069999999
+19,oN0HEVZHX-u9yYKsYLuXEg,Taiko Bistro,PA,Southampton,18966,20.0,4.5,472 2nd St Pike,bubbletea juicebars panasian,40.1689968,-75.0455226
+22,CVJsqDS_XmI0CGbLC1EclQ,Mr Wish,PA,Philadelphia,19149,76.0,4.0,6846 Bustleton Ave,bubbletea juicebars,40.04172,-75.06473
+24,YUD7r-WrTiAeBtilOJIn5A,Momoka Ramen & Skewers,PA,Philadelphia,19115,4.0,4.0,1619 Grant Ave,ramen asianfusion bubbletea,40.08796412671789,-75.03923824928258
+30,m7DA8pzug_TcB3EBs1w_vg,Tbaar Philadelphia,PA,Philadelphia,19149,45.0,4.0,2842 Saint Vincent St,bubbletea coffee juicebars,40.041618,-75.055023
+31,GvlQw5zpaCLBY0pW4pm4_A,Tiger Sugar,PA,Philadelphia,19120,5.0,4.5,6201 N Front St,bubbletea desserts coffee,40.04578794274591,-75.11912375630145
+47,Mhqq0BaP2CinaPiZCYWVOw,Kung Fu Tea,PA,Philadelphia,19149,90.0,3.0,2222 Cottman Ave,coffee bubbletea juicebars,40.0485579811035,-75.0619283617829
+0,A4HxaMk6EZlieG7jr6FB3w,HaoTea,PA,Philadelphia,19149,9.0,3.0,2825 Cottman Ave,bubbletea,40.0436742233,-75.0521555704
+2,9_GjP_r81TgXbraGMU3U5Q,Mr. Wish Olney,PA,Philadelphia,19120,5.0,4.0,6201 N Front St Suite,bubbletea juicebars,40.04566090663339,-75.11772069999998
+9,-wlmZ-b35UJ-GY-59NDxyw,H Mart - Elkins Park,PA,Elkins Park,19027,158.0,4.0,7320 Old York Rd.,grocery korean food_court,40.063,-75.13678
+13,EQrRwkK6yv44_CEHuoZIQQ,Kc's Pastries Northeast,PA,Philadelphia,19149,25.0,4.0,6840 Bustleton Ave,bakeries coffee bubbletea,40.041585,-75.064831
+21,XgXkTeOtLpX1QSvh9Qql1A,House of Pho,PA,Southampton,18966,190.0,3.5,470 2nd St Pike,vietnamese seafood,40.1689796,-75.0455246
+24,C93hmXkaRnej-jg0Z0ilhA,Rayaki - Philadelphia,PA,Philadelphia,19149,45.0,4.0,2818 Cottman Ave,ramen izakaya,40.04378,-75.05346
+25,Akk5eHutsuuukz6GlgT_kw,Tasty Pot - Philadelphia,PA,Philadelphia,19120,21.0,4.0,513 Adam Ave,taiwanese bubbletea hotpot,40.039051,-75.107404
+28,up5Czl7yXI1LpZ_6Ys2Ahw,Pho Le Lai,PA,Philadelphia,19149,123.0,4.0,2844 St Vincent St,vietnamese bubbletea chinese,40.04158,-75.05437
+29,FIweOxvfz1aSgXqs2X-pqw,Sangkee Asian Kitchen,PA,Elkins Park,19027,144.0,4.0,1333 W Cheltenham Ave,chinese,40.06316,-75.13763
+12,lRj_1nDUCdXS3LVSrg9vfQ,MAIDO! A Marketplace of Japan,PA,Ardmore,19003,138.0,4.0,5 E Lancaster Ave,japanese grocery,40.0080339767981,-75.2909458056092
+16,uLSg1jHsx02bgv7hUri6ng,Roses Real Italian Waterice,PA,Philadelphia,19128,2.0,5.0,4240 Pechin St,breakfast_brunch shavedice,40.0281257629395,-75.2151641845703
+46,Aul3ARq3AxHmSPcNruBojg,Rita's Italian Ice,PA,Philadelphia,19140,2.0,3.0,2271 W Hunting Park Ave,icecream desserts shavedice,40.0102,-75.16678
+7,JPXycnVJbyQdAvQnR7mN-g,Yi's Boba,PA,Ardmore,19003,63.0,4.5,24 E Lancaster Ave,bubbletea,40.0072306,-75.2900607
+9,TZ_pTn6SeZwRcnx6v3bREQ,Tsaocaa,PA,Philadelphia,19127,56.0,4.5,4415 Main St,bubbletea icecream chicken_wings,40.02633,-75.2252
+19,_-GYicUDtfIfMs2SiXdJIA,Kung Fu Tea,PA,Ardmore,19003,32.0,4.0,22 Lancaster Ave,coffee bubbletea juicebars,40.00718,-75.28995
+22,KiTVKaan3jMzn7nTFHs_Tg,Mr. Wish,PA,Ardmore,19003,6.0,4.0,8 E Lancaster Ave,bubbletea juicebars tea,40.00743,-75.29063
+24,VG54JsBaDIbXU29HI9jiXw,Mi 'N Tea,PA,Philadelphia,19127,126.0,4.5,4229 Main St,vietnamese bubbletea sandwiches,40.02435,-75.22072
+8,aTHqsBXlXNeyGbEbSTTGFQ,Golden Bowl,PA,Ardmore,19003,133.0,3.5,33 Rittenhouse Pl,chinese,40.0061229694233,-75.2900573126892
+9,5AwQnUJKugSSv_TekCzORg,Nam Phuong Bistro,PA,Ardmore,19003,103.0,4.0,43 Cricket Ave,vietnamese,40.007074,-75.291991
+11,uIlFxzyoJy7ud9j12aK7MA,DJ Kitchen,PA,Philadelphia,19131,119.0,4.5,4040 City Ave,szechuan bubbletea dimsum,40.007287,-75.212717
+17,v9D3inGP2LaibM0VMufaXg,Coco Thai Bistro,PA,Narberth,19072,146.0,4.0,231 Haverford Ave,thai,40.00578,-75.26078
+21,Ep_jh1Pt4Ggyla21f-BQcQ,New Leaf 2 Chinese & Japanese Cuisine,PA,Philadelphia,19127,141.0,4.5,4260 Main St,chinese japanese bars,40.0246783,-75.2221197
+22,W5qWPa1LPo9stvCGeVSRAg,Pho Don,PA,Philadelphia,19140,43.0,4.5,3528 Germantown Ave,vietnamese,40.00673,-75.15034
+26,bRhUak1PMKvQ3qqcmqc--A,Main Street Pho,PA,Philadelphia,19127,138.0,4.0,4307 Main St,vietnamese asianfusion,40.02504,-75.22206
+29,BOUmrR6yo4cjeDJn-l_zFg,Dream House Asian Bistro,PA,Philadelphia,19128,140.0,3.0,6127 Ridge Ave,thai chinese japanese,40.03438505088,-75.216117126152
+32,VqmbGJ6BY530hOlVcLjvqg,Sake Mian,PA,Ardmore,19003,29.0,4.0,202 East Lancaster Ave,japanese,40.004927,-75.285725
+33,eY8exh1aLVVhW6z_M0u_Eg,Pho Ha Saigon,PA,Philadelphia,19120,265.0,3.5,575 Adams Ave,vietnamese,40.0359369247627,-75.1079542319922
+4,pNziGahf0dgWa2nfavW2eA,Milfords Daily Grind,PA,Milford,18337,8.0,3.5,115 7th St,coffee desserts,41.32454,-74.80838
+4,BeL9ZoZZnpePM5k-Jp1kqw,Rita's Italian Ice,NJ,Flanders,07836,5.0,3.5,286 Route 206,desserts shavedice icecream,40.832215,-74.71007
+0,51Xq1pj1ebobbY-Kgyxw3A,Bubble in Paradise,NJ,Denville,07834,59.0,4.5,38 Broadway,bubbletea juicebars shavedice,40.892303,-74.476839
+1,9Vp7QwQDA46i_BsGC3CbFQ,Kona Ice of Central Morris County,NJ,Parsippany,07054,1.0,5.0,,shavedice foodtrucks,40.86204,-74.40612
+3,k0rgC1UdwEe3pm76dlbvJw,Super Scoops,NJ,Parsippany,07054,39.0,4.5,325 Parsippany Rd,icecream desserts shavedice,40.8550188,-74.4270782
+4,fSJE-v3aIVLdS6joW683PA,CafeTeasia,NJ,Cranford,07016,89.0,4.5,1 S Ave E,bubbletea coffee desserts,40.65469,-74.30495
+5,WkI4HbTsAwU9HSGdmKxC8g,Y&E Creations,NY,Middletown,10941,9.0,5.0,1 N Galleria Dr,desserts donuts shavedice,41.452845,-74.368394
+11,4GZV8h_Sa_jq1hEKF85kkg,Eemas Cuisine,NJ,Orange,07050,4.0,5.0,406 Tompkins St,hawaiian filipino catering,40.7666141,-74.2462922
+14,DhDo4mpM5JqY2anhdHX3Ww,Melao Cafe & Creamery,NJ,Rahway,07065,83.0,4.5,1425 Irving St,icecream cafes sandwiches,40.6065362640869,-74.2756219001525
+15,X6-jTrYB8EMU3bz1_bDDOg,Dan Zai,NJ,Green Brook Township,08812,232.0,4.0,299 US-22,sushi ramen,40.5899052108308,-74.5000356944174
+16,M_i3UBpgyYVGEXM6XQoujw,Kuay Tiew Noodles & More,NJ,Somerville,08876,275.0,4.5,42 W Main St,thai noodles,40.56888998872064,-74.61286336158386
+18,XBrAj-qf4jjPo--1TBApHQ,Rita's Italian Ice & Frozen Custard,NY,Middletown,10940,9.0,3.5,92 Dolson Ave,juicebars shavedice icecream,41.43235012619822,-74.42294247361069
+20,p04KtAlIOpzYccg0x3hf1Q,Acai Express,NJ,Rockaway,07866,38.0,3.0,395 Mt Hope Ave,acaibowls juicebars,40.90740957252784,-74.55890110203372
+23,Z2wEFjq2e5utSoHAfsaQVQ,Red Onion,NJ,Edison,08817,211.0,4.0,260 Talmadge Rd,taiwanese chinese,40.5417054,-74.3981205
+24,-vs6u1s7nQ6qjCKzjxzNDw,Pho Today,NJ,Bridgewater,08807,279.0,3.5,623 E Main St,vietnamese,40.56383922,-74.57720779
+25,4xOPFgrVjxKmRPlfKH-Meg,Binh Duong,NJ,Bloomfield,07003,671.0,4.0,61 Belleville Ave,vietnamese,40.7974008,-74.1816965
+27,_yIN5PPNJ05YKPKuF9KkbQ,Saigon Subs & Café,NJ,Morristown,07960,442.0,5.0,98 Elm St,vietnamese bubbletea sandwiches,40.796422,-74.474255
+29,T4yKvlaCm0Y3TeWc2Or5Mg,Bollywood Grill,NJ,Lake Hiawatha,07034,305.0,4.0,435 N Beverwyck Rd,indpak hotdogs sandwiches,40.876017624730835,-74.38157512947225
+30,ybZ0Coi8uvZviWJk4vnLYw,Leo's Barbecue,NJ,South Plainfield,07080,44.0,3.5,4947 Stelton Rd,filipino,40.5509103911214,-74.4294885245775
+31,5pTQKdoMv_N1l2q06OFMYg,Empire Nutrition -Montclair,NJ,Montclair,07043,4.0,5.0,598 Valley Rd,juicebars acaibowls healthmarkets,40.84089,-74.20818
+32,KBidOWz0clYioxvlmUsOKw,Cinders Wood Fire Grill,NJ,Mine Hill Township,07803,241.0,3.5,319 US-46,bars italian breakfast_brunch,40.88020802932819,-74.60716923917002
+33,blQhf-nMBBp0O2wRXBkyeg,Malay,NJ,Morristown,07960,267.0,4.0,147 Morris St,thai malaysian asianfusion,40.7965176,-74.4744841
+34,vEn8MGxD1cKXJ3-L4EGUZQ,Rita's Italian Ice,NJ,Union,07083,18.0,4.0,1353 Stuyvesant Ave,icecream desserts shavedice,40.70262,-74.26301
+36,XnBKN38V-V-ErN0g-0eCTw,Penang Malaysian & Thai Cuisine,NJ,East Hanover,07936,460.0,4.0,200 Route 10 W,thai malaysian,40.8093879,-74.3753335
+38,p7QwIzWXMBYwCGdS6V36tg,Rita's Italian Ice,NJ,Berkeley Hts.,07922,17.0,4.0,412 Springfield Ave,icecream desserts shavedice,40.6855185,-74.43836
+39,8pl9oj0zdSU6X6Gp-Q3mVg,Rita's Italian Ice,NJ,Pequannock,07440,16.0,4.0,225 Newark Pompton Turnpike,icecream desserts shavedice,40.9472124,-74.2892733
+40,KvyBzPAQZX71Yxd9Yf9zGg,Noches de Colombia,NJ,Randolph,07869,262.0,3.5,140 Route 10 W,colombian spanish bars,40.874144,-74.539645
+42,KiPTSHk23by-8Y0PlroGKw,Rita's Italian Ice,NJ,East Orange,07018,14.0,4.0,513-517 Main St,icecream desserts shavedice,40.766221,-74.217565
+43,lQc6KDq-B66P5agA7VroQQ,Rita's Italian Ice,NJ,Bridgewater,08807,18.0,4.5,1359 Prince Rogers Ave,desserts shavedice icecream,40.5880314,-74.6126259
+44,svXAPghDQ84t86p-Bhh7iA,Rita's Italian Ice,NJ,Bloomfield,07003,31.0,4.0,1066 Broad St,desserts icecream shavedice,40.8281423896551,-74.1870890557766
+47,RWx1P9ZiPbO0m1kuHE79Iw,Rita's Italian Ice,NJ,Plainfield,07062,10.0,4.0,111 Terrill Rd,icecream desserts shavedice,40.6424154,-74.4055213
+48,u3ZX9LGb1gwtGZ-n-9tmpA,Brisas Empanadas,NJ,Elizabeth,07208,3.0,4.5,308 Morris Ave,colombian empanadas coffee,40.66883,-74.21824
+3,njqyJyepyq7g1AbvsPsJfA,Rita's Italian Ice,NJ,Roselle,07203,8.0,3.0,108 Chestnut St,desserts shavedice icecream,40.6595299,-74.26397
+4,wLwmVW6-uzRciuWUOOiTug,Monchy's Colombian Grill,NJ,Dover,07801,34.0,2.5,19 Bassett Hwy,colombian,40.885074,-74.559416
+5,DzudMRbtpg8WVCS88GjIBw,Monchy's Colombian Grill,NJ,Elizabeth,07208,50.0,3.0,330 Morris Ave,colombian,40.6695020003151,-74.2186459703036
+6,mhNukHKqaFUkDq1HWI8iTA,Cali Burger,NJ,Elizabeth,07201,47.0,3.0,1127 Elizabeth Ave,hotdog burgers,40.6623802185059,-74.2125854492188
+7,m_MifFxQmDkG3-kBkhtYBg,Rita's Italian Ice,NJ,South Plainfield,07080,10.0,2.5,1901 Park Ave,icecream desserts shavedice,40.59697,-74.4005899
+8,U_YjeT5GzYSNXEG9dIIUWA,Rita's Italian Ice,NJ,Butler,07405,4.0,2.5,401 Main St,desserts shavedice icecream,41.0050623923216,-74.3426173781482
+10,6YH_etEV_xxf5_Xo4qDjcg,Rita's Italian Ice,NJ,Middlesex,08846,14.0,4.0,1250 Boundbrook Rd,icecream desserts shavedice,40.579856,-74.501218
+11,gZNsdzoWMSE2NEnWv77d1Q,Rita's Italian Ice,NJ,Little Falls,07424,16.0,4.0,66 East Main St,desserts icecream shavedice,40.879447,-74.221656
+12,t-qIvDKpSSjKGi_d1_MCTQ,Rita's Italian Ice,NJ,Whitehouse,08889,4.0,4.0,547 Route 22,desserts shavedice icecream,40.6183,-74.75798
+13,8EIpsdwCs5mpUPXgDHijAA,Rita's Italian Ice,NJ,Piscataway Township,08854,4.0,5.0,1297 Centennial Ave,desserts icecream shavedice,40.5528149753809,-74.4419606029987
+14,u51XJ74mEjRvyjZBZ99b1Q,Rita's Italian Ice,NJ,Hopelawn,08861,5.0,3.0,201-205 New Brunswick Ave,desserts shavedice icecream,40.5245036800685,-74.2980808220901
+16,bDkpPJoEI_bKFvhIhaa26g,Rita's Italian Ice,NJ,Irvington,07111,5.0,3.0,693 Lyons Ave,icecream desserts shavedice,40.7208099365234,-74.2312088012695
+5,HPmvwgs5SrF5zWSVzyglQA,Loving Hut,NJ,Roxbury Township,07852,133.0,4.0,538 Rt 10 W,vegan vietnamese,40.87774,-74.64983

@@ -1,0 +1,1406 @@
+,id,name,state,city,zip code,review count,rating,address,categories,latitude,longitude
+0,glkkUwWUYH5g92h3ztUkwg,Hokulia,GA,Savannah,31401,19.0,4.5,110 E Broughton St,shavedice juicebars icecream,32.0786996835,-81.090459
+1,D4FJAd8DbcJZBH0PIEZcVg,Pelican's Snoballs,GA,Savannah,31406,15.0,5.0,609 E Montgomery Cross Rd,shavedice venues,31.9944182,-81.1079927
+2,Sb-jvEaSrrqvhzc5ISqxwg,Sunset Slush Hilton Head,SC,Bluffton,29910,1.0,5.0,104 Buckwalter Parkway,desserts shavedice,32.284098,-80.912091
+3,yTuz1MJ9YnfKqwCr-P6Iog,Sno Cones By Chris,SC,Hilton Head Island,29928,15.0,5.0,114 Helmsman Way,shavedice,32.1773853265674,-80.7721452104645
+4,PVq2IeDRuTc_iNZIEBhBGQ,Below Zero - SouthSide,GA,Savannah,31406,39.0,4.0,318 Mall Blvd,icecream shavedice bubbletea,32.00477,-81.11217
+5,aa6KskuL-swM8v7MgLp-AQ,Paradise Snow Cone and Fresh Squeezed Lemonade,GA,Tybee Island,31328,3.0,3.5,1509 Butler Ave,shavedice,31.9942254282224,-80.8483550537762
+6,PpvDEYax7jxyE9-8siexEg,Rita's Italian Ice & Frozen Custard,SC,Hilton Head,29928,47.0,4.0,1 N Forest Beach Dr,icecream desserts shavedice,32.14317,-80.75012
+7,Cd7VrlniJpXL_zvMxARrfQ,Jeremiah's Italian Ice,GA,Savannah,31406,12.0,5.0,7400 Abercorn St,desserts icecream shavedice,32.008573019938744,-81.11226109550994
+8,FDt4he8zOqXIxVe5qXSzYw,Savannah Filipino Authentic Cuisine,GA,Savannah,31404,85.0,5.0,5515 Waters Ave,filipino,32.026741,-81.094017
+9,GZpGLPYflGn1r2Y7CIyJdw,The Cotton Exchange Seafood Grill & Tavern,GA,Savannah,31401,1100.0,4.0,201 E River St,tradamerican southern bars,32.0808,-81.0884899
+10,3U7WxJ-gb9C7Xn-Izqa0dg,Lighthouse Pizza,GA,Tybee Island,31328,180.0,2.5,15 Tybrisa St,pizza,31.99195,-80.84836
+11,LPECAP8GrJUUeels5ktivQ,Saigon Bistro,GA,Savannah,31404,237.0,3.5,5700 Waters Ave,vietnamese asianfusion,32.02543,-81.09388
+0,azIVxN6NNYUFlrqyzK5i2Q,Emmy's Bubble Tea Lounge,GA,Statesboro,30458,2.0,5.0,1100 Brampton Ave,bubbletea beverage_stores,32.41153536561317,-81.77131090000002
+1,6h4nY6KLdhRhn0OExQxjRg,Okatie Nutrition,SC,Ridgeland,29936,1.0,5.0,149 Riverwalk Blvd,juicebars bubbletea coffee,32.32052,-80.93537
+2,nO962yZU-6J4F03ctJThQQ,All Migh-Tea Boba Shop,GA,Pooler,31322,2.0,4.5,200 Tanger Outlets Blvd,bubbletea,32.13332664787444,-81.243953729526
+3,N1TJdKE0qZPIFUTHuuiVSQ,Bowls & Bubbles,GA,Savannah,31401,17.0,5.0,206 W Broughton St,bubbletea poke,32.07973,-81.09434
+4,6FrnJBc0eSmogrY_MQUv2A,King Tea,GA,Pooler,31322,6.0,5.0,201 Tanger Outlets Blvd,bubbletea,32.137080617130316,-81.24798690000581
+5,-dxnHCeGDdNMSl-geIPXFg,Ice Bing Cafe - Savannah,GA,Savannah,31401,19.0,4.5,346 Martin Luther King Jr Blvd,bubbletea taiwanese,32.07433,-81.09925
+6,anbIy5SSyDWHQXMGsHmabw,T-Swirl Crepe,GA,Pooler,31322,36.0,4.5,240 Tanger Outlets Blvd,desserts gluten_free creperies,32.133977,-81.246068
+7,A3IrucnC1fesH5njRSikWg,Kung Fu Tea,GA,Savannah,31401,37.0,4.5,206 W Broughton St,bubbletea coffee juicebars,32.07973,-81.09434
+8,QQXr5qEqXxC1WesHAqWnFA,Bubble Berry,SC,Hilton Head Island,29928,4.0,4.0,32 Office Park Rd,bubbletea juicebars,32.15381,-80.7655
+9,mWPrhGXtdszzQy3v6GosSw,Shuga Girl,GA,Savannah,31401,77.0,4.0,36 Barnard St,coffee,32.0800577,-81.093872
+11,QCum6NiU1zrJx2KHbbN7zw,Nood,SC,Hilton Head Island,29928,28.0,4.0,1 N Forest Beach Dr,asianfusion bubbletea ramen,32.14341424462865,-80.75012653561978
+12,8yT6mNgbFj0gyQS8X4WMOw,Chatime,GA,Savannah,31406,14.0,3.5,7804 Abercorn St,bubbletea,32.002793,-81.117046
+13,a9lEckS-TX-0NmljLBXi6A,Splendid Shabu,GA,Pooler,31322,273.0,4.5,9 Mill Creek Cir,hotpot asianfusion chinese,32.1391459,-81.246506
+14,jBqHqYvvTS-f619O4EN85g,Umami Noodle Bar,GA,Pooler,31322,150.0,4.0,103 Park Ave,sushi noodles vietnamese,32.1350867,-81.2541237
+15,C_fmPq5LCfTuAC6ggTD8DA,Fire Street Food,GA,Savannah,31401,484.0,4.0,13 E Perry St,newamerican sandwiches comfortfood,32.07514,-81.09267
+16,KOiKwmSENJ5OmoJ2Csb6SQ,Adobo Filipino Restaurant,GA,Hinesville,31313,32.0,4.0,549 W Oglethorpe Hwy,filipino,31.8361416673301,-81.596167206436
+17,GXpDSamD8sfXn2Y0M-g7Cg,Saigon Cafe,SC,Bluffton,29910,170.0,4.5,1304 Fording Island Rd,vietnamese,32.24475639526489,-80.82830561417623
+18,85qFa5taGSYkguIpXbkEdg,Ruan Thai Cuisine,SC,Hilton Head Island,29926,235.0,4.0,811 William Hilton Pkwy,thai,32.17651,-80.72873
+20,jStwOiBXQml3yckhIS4w7Q,Raw Ingredients,GA,Tybee Island,31328,206.0,4.5,18C Tybrisa St,sushi,31.9923895,-80.848792
+21,keHZ5cCcwuhgG2wpILFqUQ,Pho Nghĩa,GA,Hinesville,31313,44.0,4.0,790 Veterans Pkwy,vietnamese noodles soup,31.83369,-81.61611
+22,GUNd_F3BeHCmhYxvpktJEQ,Ming Garden,GA,Savannah,31401,28.0,4.0,2510 Montgomery St,chinese bubbletea chicken_wings,32.0544700622559,-81.1055221557617
+23,OiwH8WPphsLxIp6ehvRmBQ,Tomo Japanese Restaurant,GA,Rincon,31326,32.0,4.0,591 S Columbia Ave,japanese sushi asianfusion,32.268622,-81.226065
+24,4repG1C1daRAoj6vaLS4_g,The Flying Monk Noodle Bar,GA,Savannah,31401,1093.0,4.0,5 W Broughton St,vietnamese noodles,32.079061,-81.092433
+25,41N6c1YR03KbfMjU77dlFA,Wasabi's Fusion,GA,Pooler,31322,111.0,4.0,950 Morgans Corner Rd,japanese sushi asianfusion,32.0981332370617,-81.2711013580787
+26,v72DIjvJ1FE8PDw5qJdrKQ,CO,GA,Savannah,31401,452.0,4.0,10 Whitaker St,sushi asianfusion cocktailbars,32.0806541442871,-81.092399597168
+27,sN0j_BIP9Juq6Pxuyaklsg,Asian River,GA,Savannah,31406,161.0,3.5,318 Mall Blvd,asianfusion,32.004354,-81.112326
+28,kEQ-ki7EXnH7m8OalJnl6w,Asian River,GA,Pooler,31322,55.0,2.5,120 Towne Center Dr,asianfusion sushi breakfast_brunch,32.146373,-81.250411
+29,CVd4bxz8QE5UztFvH5W3-w,Pj's Thai,GA,Savannah,31401,223.0,4.0,147 Abercorn St,thai tradamerican,32.0766232,-81.0905302
+30,PDQohGg3muZ0mURvRN5toA,Sawadee Thai Cuisine,GA,Hinesville,31313,67.0,4.0,351 Deal St,thai,31.8343804761019,-81.6093776375055
+31,-01HF5QWQA8pWJVeVbdtQA,Ruan Thai Cuisine,GA,Savannah,31401,289.0,3.5,17 W Broughton St,thai desserts beerbar,32.0789199,-81.09273
+32,uHyvijMnq0yUoQJ0n_NMlw,Chopsticks,GA,Savannah,31405,8.0,3.5,5712 Ogeechee Rd,chinese,32.02675750420221,-81.22417615775547
+4,xReoKFLsXLwRD4pxHpW1vg,Polar Sweets,GA,Hinesville,31313,28.0,3.5,755 W Oglethorpe Hwy,desserts bubbletea icecream,31.824954,-81.60025
+0,27ikHR3OicZk6Jc5eCtlMg,Yummicup Noodle House,GA,Jesup,31546,5.0,5.0,207 S US Hwy 301,bubbletea noodles asianfusion,31.59302695042541,-81.87081643496967
+0,g8fTg1q3LhiUT8EdB8_cGw,Sno Biz,GA,Dublin,31021,2.0,4.5,300 Pine Forest St,shavedice,32.5379212270221,-82.9376080666765
+0,4Y0fRoFZzKBVyToAssLsBQ,Cravings,GA,Milledgeville,31061,4.0,5.0,108 W Hancock St,sandwiches bubbletea,33.08095,-83.22743
+0,sBBTk3WEcVPoc4l5ubLgbA,Pelican's SnoBalls,GA,Grovetown,30813,32.0,5.0,101 E Robinson Ave,shavedice,33.4512799,-82.1984
+1,ksON5c7EfsEF_eKfqqIZ-w,Vampire Penguin - North Augusta,SC,North Augusta,29841,22.0,4.0,507 A Georgia Ave,shavedsnow desserts,33.49412060041347,-81.97064098959197
+2,qWBGnToj19oXF0l8MLhIeA,Pelican's Snoballs,SC,Aiken,29803,5.0,5.0,210 E Gate St,shavedice,33.512168050742,-81.7148159383277
+3,LJN4WT5czwQmLfB-uSdHQA,Pelican's SnoBalls,GA,Augusta,30909,16.0,4.5,3644 Walton Way Ext,shavedice,33.49131,-82.07654
+4,2ip7-Whvj21RmU0tN1E83Q,Vampire Penguin Evans,GA,Evans,30809,5.0,5.0,5117 Washington Rd,shavedice,33.573455696356184,-82.19271728601156
+5,OI0YkxDgRifDxQgmI-vzfA,Vanpire Penguin Aiken,SC,Aiken,29801,4.0,4.5,108 Laurens St SW,shavedice,33.56124527720883,-81.7223916717569
+6,EUQY9dFj0UCDyVOxvKhUaw,Pelicans Snoballs,SC,Belvedere,29841,2.0,5.0,707 US-25,shavedice,33.5473928173218,-81.9390140846372
+7,Bwf7gsTrKWENnSQFKD_2aA,Boudreaux's Snowballs & Seafood,GA,Augusta,30906,1.0,5.0,2111 Lumpkin Rd,shavedice seafoodmarkets,33.419111769781566,-82.02389359474182
+8,f5y9lkudyvsv3Q6_pMlOWQ,Vampire Penguin Aiken,SC,Aiken,29801,6.0,4.5,108 Laurens St SW,desserts shavedice,33.561175,-81.722303
+1,kO-xB5r-0TT4RtKqmNndHw,Gong Cha - Augusta,GA,Augusta,30907,25.0,4.0,3821 Washington Rd,bubbletea,33.5126694,-82.0890972
+2,o1Yd4-9XuRdPiJ9kzDVdRw,Hello Poké,GA,Grovetown,30813,50.0,4.5,4982 Steiner Way,poke hawaiian,33.4806808289961,-82.1985662997564
+3,PAjfe_gnMV5uW1-rHmZ8-g,The Confection Cottage,SC,Aiken,29803,33.0,4.0,,bakeries coffee desserts,33.5151881,-81.7267555
+4,LOmYyhzjNfJEoBhHdjl1YQ,Peachy Rolls,GA,Augusta,30909,25.0,4.0,2825 Washington Rd,icecream bubbletea juicebars,33.51145,-82.0328399
+5,YEp8QMFM-4uncCyBipfLbQ,Toki Jr,SC,North Augusta,29841,10.0,4.0,434 Georgia Ave,japanese,33.493565895249915,-81.97146479040384
+6,-G4x95TGAScObRvc_Fsi3w,Mirin Fusion Kitchen,GA,Augusta,30907,145.0,4.5,630 Crane Creek Dr,asianfusion,33.49618,-82.07968
+7,aneV1oFw2ocAlxhwkq5C3g,Pho Bac,GA,Evans,30809,424.0,4.0,4300 Towne Centre Dr,vietnamese,33.53224,-82.12616
+8,p8mCkY7yK8WUTwj1c57Jzw,Sawasdee Authentic Thai,GA,Martinez,30907,171.0,4.0,3836 Washington Rd,thai noodles,33.511479,-82.0901682
+9,fX7Gl8Nb0CndMasvOsZN5Q,New Ming Wah Restaurant,GA,Augusta,30909,50.0,3.0,3415 Wrightsboro Rd,chinese,33.46867,-82.07684
+10,7ImVm2G6ykrRnF7FSCXJcg,Hello Poke Bowl,GA,Augusta,30909,118.0,4.5,1141 Agerton Ln,sushi poke hawaiian,33.4870344515222,-82.0783407814169
+11,qiGE0_U3-LrEaSay0OHO6g,Pho-Ramen’L,GA,Augusta,30901,26.0,3.5,990 Broad St,ramen,33.47608,-81.96984
+12,CK0JVkO9xDywCE-JTWMlIQ,Toki Hibachi & Sushi,GA,Evans,30809,90.0,4.0,4534 Washington Rd,japanese sushi,33.5467262268066,-82.1498107910156
+0,aEBscDhlB8COOHPK2Cynow,E Bubble Cafe,GA,Suwanee,30024,161.0,5.0,2855 Lawrenceville Suwanee Rd,shavedice bubbletea sandwiches,34.02644,-84.0432777
+1,y6i9mMxf6X7Jn-UA74Lc6A,Cafe Mixx,GA,Suwanee,30024,112.0,4.5,2925 Lawrenceville Suwanee Rd,cafeteria desserts korean,34.028099,-84.045591
+2,-6v4guwsh2RrWYXU_JQ9JA,Pelican’s Snoballs,GA,Winder,30680,6.0,5.0,150 N Broad St,shavedice shavedsnow,33.996065,-83.714783
+3,9gct_fArTTdFoK-M9kODYg,Kona Ice of Gwinnett,GA,Suwanee,30024,10.0,4.0,,shavedice foodtrucks,33.95892333984375,-84.09371185302734
+4,9q_qp6-v9_rQ27nbWZeFqg,Rita's Italian Ice,GA,Suwanee,30024,74.0,4.0,340 Town Center Ave,icecream desserts shavedice,34.055423,-84.065165
+5,Qrz3R32fk7WWIBH4DiFwIA,Arte 3 Cafe,GA,Suwanee,30024,67.0,4.5,1291 Old Peachtree Rd NW,cafes desserts bubbletea,34.005287,-84.083602
+6,J5QOIgZCSrdMbaWH-whCZw,J's Asian Cafe,GA,Alpharetta,30022,234.0,4.0,11550 Jones Bridge Rd,malaysian chinese japanese,34.06349185175186,-84.2147317136121
+7,EHZGMnhfLjFk6EOXWFzKrg,Poetree Cafe,GA,Suwanee,30024,217.0,4.0,45 Old Peachtree Rd NW,korean,34.026628,-84.04668
+8,3SPIO7xVGG7cP3KlGQ4aoA,Caffe Bene,GA,Suwanee,30024,125.0,3.5,3131 Lawrenceville Suwanee Rd,bubbletea waffles cafes,34.03502539515717,-84.05038638789708
+9,yCr_KNWxL4tk0kQARQy1cw,Cafe Amico,GA,Suwanee,30024,109.0,4.5,320 Town Center Ave,coffee breakfast_brunch sandwiches,34.05567,-84.06305
+10,Pa5jAbXmLeeIEs3y7TSDYw,White Windmill,GA,Duluth,30096,62.0,3.0,3585 Peachtree Industrial Blvd,bakeries coffee,33.99978,-84.169437
+11,0651UUpiUWkfXL0olJ1j0w,Vincent Bakery Cafe,GA,Johns Creek,30097,87.0,4.0,10900 Medlock Bridge Rd,bakeries cafes desserts,34.047309917969876,-84.17899023505674
+12,QHQXUG7ORECu8FI7ZSKg4Q,Hansel & Gretel Bakery Cafe,GA,Johns Creek,30097,8.0,3.5,10820 Abbotts Bridge Rd,cafes bakeries coffee,34.04629978343635,-84.17706
+13,HbIPyYP_qEpRDqDOY8Uj5A,White Windmill Bakery,GA,Duluth,30097,34.0,3.5,10820 Abbotts Bridge Rd,bakeries coffee sandwiches,34.0452687672537,-84.1787702014846
+14,vC8Bt9HWK7mZk3CS6l0upw,The Human Bean,GA,Cumming,30041,16.0,5.0,1609 Buford Hwy,coffee bagels juicebars,34.1645651,-84.1191297
+15,waQkPAUL-JfI4XL4lyY5Ng,Mozart Bakery,GA,Suwanee,30024,77.0,3.5,2790 Lawrenceville Suwanee Rd,bakeries coffee desserts,34.0233234008677,-84.0450280412499
+0,82QaSSFrCyBj7gyuh1qNSA,Bubble Bees Tea Taiwan,GA,Gainesville,30504,19.0,5.0,333 Shallowford Rd,bubbletea,34.2956201120207,-83.9956474676728
+1,YHoAm5qrckMywylDJjQsCg,King Kong Milktea and Smoothie,GA,Oakwood,30566,24.0,4.5,3885 Mundy Mill Rd,bubbletea desserts juicebars,34.233348,-83.8740282
+2,2pHrG1aAZ5MbwR6YupX5bQ,Tea Top,GA,Flowery Branch,30542,4.0,5.0,3446 Winder Hwy,bubbletea,34.217539335566734,-83.86289019137621
+3,KIjNc8VE__uMkYSjYNXvzg,Zen Ramen & Sushi Burrito,GA,Gainesville,30501,130.0,4.5,115 Washington St SE,ramen asianfusion sushi,34.3001758,-83.8264757
+4,TUIjeLJcKBkEbmWxRkr0hg,Kung Fu Tea - Dawsonville,GA,Dawsonville,30534,6.0,4.0,145 Forest Blvd,coffee juicebars bubbletea,34.3508938028496,-84.04538164776416
+5,kXbiG6wYIoIblUE6sqAkGw,Pearl's Tea - Hamilton Mill,GA,Dacula,30019,22.0,4.0,2115 Hamilton Creek Pkwy,bubbletea coffee,34.071071,-83.911603
+6,W8BpxFkIPNR7DXnbpGQd7w,Kung Fu Tea,GA,Buford,30519,76.0,4.0,3480 Financial Center Way,bubbletea coffee juicebars,34.0746574,-83.9866503
+7,ItxeCwpCNEPeyhQw-It0Ow,Pearl's Tea - Suwanee,GA,Suwanee,30024,228.0,4.5,3131 Lawrenceville Suwanee Rd,bubbletea coffee,34.035069995152114,-84.05025656145364
+8,ylfbHt5fIN0TBC9f1t17-g,Gao Fresh Noodle,GA,Cumming,30040,35.0,5.0,5863 S Vickery St,vietnamese noodles,34.18293317908854,-84.21936515718697
+9,baIp8mFk8l4vhkW0HRAG1Q,Pokéyaki,GA,Dawsonville,30534,116.0,4.0,145 Forest Blvd,poke seafood hawaiian,34.350568,-84.045511
+10,f63PAWL_Ir4hkD9NLQfciA,Pure Pho and Grill,GA,Cumming,30041,109.0,4.0,410 Peachtree Pkwy,vietnamese bubbletea juicebars,34.152544,-84.176527
+11,2M6_ptVcZLtHKec_pUP4Ug,Greatea,GA,Johns Creek,30097,183.0,4.5,10475 Medlock Bridge Rd,bubbletea juicebars desserts,34.034727,-84.18494
+12,6ktohLKZxAQ5g_HtnqpQHA,For Good Tea,GA,Alpharetta,30022,14.0,5.0,6000 Medlock Bridge Pkwy B100,coffee,34.03053,-84.18773
+14,DTBaaBuYE7gpoQcfjIMiJw,Paopao Ramen Factory & Bar,GA,Buford,30519,318.0,4.0,3290 Buford Dr NE,ramen bubbletea icecream,34.06902,-83.98644
+15,Id3Glls2mUjpRLWqQFxNPQ,2plus2,GA,Suwanee,30024,88.0,4.0,3890 Lawrenceville-Suwanee Rd,bubbletea icecream,34.0555971608275,-84.0617185262535
+16,VrDcLvWX1bfv9qlG_T_ziw,Samurai Tea,GA,Duluth,30096,29.0,4.5,3455 Peachtree Industrial Blvd,bubbletea coffee,34.005537532370155,-84.1738719116622
+17,Ph3TIFhs1m3G6738hqmebg,Chef Tommy Thai Cuisine,GA,Dawsonville,30534,108.0,4.0,837 Hwy 400 S,thai,34.358193,-84.044276
+18,551pZeoPT5NrAg-NyGKHKg,Maji Tea Bar,GA,Johns Creek,30022,108.0,4.0,5725 State Bridge Rd,coffee bubbletea,34.020731,-84.192427
+19,aNITBwOg4cxl3NmNx7RoOw,Q Korean Steak House,GA,Cumming,30041,263.0,4.5,872 Buford Rd,korean bbq steak,34.18267,-84.13546
+20,CpjkSKJ36yGqc0vdA0s7IA,Quickly,GA,Buford,30519,8.0,4.5,3730 Buford Dr,bubbletea hotdogs juicebars,34.0833597,-83.9885846
+21,JIVZsRxyOnz_FZ5-086S4Q,Pearl's Tea - Cumming,GA,Cumming,30041,27.0,4.0,410 Peachtree Pkwy,coffee bubbletea,34.15382,-84.17488
+22,EZqB2FP6Dl1FwiMtY2gaUA,Juke N Jive Creamery,GA,Braselton,30517,68.0,4.5,6342 Grand Hickory Dr,icecream desserts coffee,34.12032,-83.824
+23,tdPjBjm-SNbCWMlRr_aFfg,Tan-Cha Buford,GA,Buford,30519,13.0,4.0,2925 Buford Dr,bubbletea juicebars coffee,34.0497000098873,-83.99183607659724
+24,nGqLvoe-ULv0xxMfH3oNKg,Rendezvous Cafe,GA,Cumming,30040,167.0,4.5,543 Lakeland Plz,cafes breakfast_brunch desserts,34.1855015442873,-84.1439372571472
+25,ZOlLR6kEhB1sxjTpxGdzlg,Ding Tea Johns Creek,GA,Johns Creek,30097,55.0,4.0,10900 Medlock Bridge Rd,coffee bubbletea,34.04788984013522,-84.1791658680984
+26,zZA6G5i2mS-4SD8ZoiyFVQ,Bubbly Boba,GA,Alpharetta,30005,42.0,4.0,11500 Webb Bridge Way,bubbletea,34.06148,-84.22509
+27,YKVskdzcVNRV8zZh9Nxeng,Ding Tea - Suwanee,GA,Suwanee,30024,39.0,3.5,2870 Lawrenceville Suwanee Rd,bubbletea vietnamese taiwanese,34.024552,-84.045571
+28,EhWy2vUQML0wnQb6KGp-kw,Gong Cha,GA,Peachtree Corners,30092,39.0,4.0,5210 Town Ctr Blvd,bubbletea juicebars,33.979657636671774,-84.21445290215554
+30,0GfWTqbWxGEiOx8E16EAtQ,Gong Cha - Suwanee,GA,Suwanee,30024,16.0,4.5,525 Peachtree Industrial Blvd,bubbletea,34.062654,-84.076103
+32,kRnvP4fFyOZeUaFeTAfx8g,Pearl’s Tea - Johns Creek,GA,Johns Creek,30097,11.0,4.5,11030 Medlock Bridge Rd,bubbletea coffee,34.0510682694492,-84.17616994325817
+33,e21Hc18k5uWNQCRXMxAiKQ,Modern tea shop,GA,Suwanee,30024,13.0,4.0,3320 Lawrenceville Suwanee Rd,bubbletea,34.0389987590523,-84.054173
+34,ByFUUgNbmi9AD1JXRDW_4g,Saigon Cafe,GA,Buford,30519,169.0,4.0,3380 Buford Dr,vietnamese thai,34.0760688,-83.9840415
+35,nwMLUx_tMSyuRlPYstE67w,Komma Tea,GA,Lawrenceville,30043,22.0,3.5,5900 Sugarloaf Pkwy,coffee bubbletea juicebars,33.981125,-84.0795025822871
+36,4jc6YzEqM0oq-wg_9LhTyg,Lavena Cafe,GA,Alpharetta,30022,49.0,4.5,11585 Jones Bridge Rd,cafes bubbletea,34.063400956017645,-84.21242689802476
+37,2kZ3r-8HhFGiet4FD64jLA,Antoinette's Cafe,GA,Buford,30518,118.0,4.5,1630 Buford Hwy,coffee juicebars sandwiches,34.0995,-84.01079
+38,GsHBYmqgz1-JhLEQJ1tPlA,Snowy Rolls- Johns Creek,GA,Johns Creek,30022,69.0,4.0,5779 State Bridge Rd,bubbletea icecream juicebars,34.01916,-84.19106
+39,XD4Adg3mkHNXppHBt2l_Wg,Donut Now,GA,Buford,30519,68.0,5.0,3300 Hamilton Mill Rd,donuts coffee,34.093118,-83.937789
+40,0fUbtLbP2dasuB-he4jjGw,Golden Phoenix,GA,Buford,30518,46.0,4.0,4850 Golden Pkwy,thai chinese vietnamese,34.142422,-83.950768
+41,RiySW_8dGFI0X9dRD3afUw,Kokee Tea,GA,Buford,30519,28.0,2.5,3333 Buford Dr,desserts bubbletea juicebars,34.0646176522,-83.984457954
+42,PoLGdm5zsCTDk9_4LWdu8w,Tous Les Jours,GA,Suwanee,30024,12.0,3.5,2700 Lawrenceville Suwanee Rd,bakeries coffee desserts,34.0220527648926,-84.0450592041016
+43,nHMe0SJQOXWu3q1JGvGCWA,Gao Fresh Noodle,GA,Duluth,30097,50.0,4.5,11250 Medlock Bridge Rd,vietnamese noodles,34.0537382,-84.1748644
+44,J6Q81aTZCCfAZFOpMDzxTg,CupPoki,GA,Buford,30519,16.0,3.5,3333 Buford Dr,poke ramen bubbletea,34.06682,-83.98465
+45,IRHbx7egTWZQFSKR-sCu_g,TEPPAN Poké & Ramen,GA,Buford,30519,142.0,4.5,2725 Hamilton Mill Rd,poke ramen hotdogs,34.081313,-83.920611
+46,6I1Quj8-rLD-SsjhbFJ_eg,Lunas Cookie Studio,GA,Suwanee,30024,50.0,4.5,2870 Lawrenceville Suwanee Rd,desserts coffee juicebars,34.0258967,-84.0449995
+48,Ll2w7AKaSF4Blk7tbxphbA,A.M. Sweet Creations,GA,Duluth,30096,17.0,4.5,3585 Peachtree Industrial Blvd,coffee customcakes juicebars,34.00019,-84.16956
+0,8bq7qcOlnfR7NMoFKSJoyQ,Kung Fu Tea,GA,Suwanee,30024,61.0,4.0,1291 Old Peachtree Rd NW,coffee bubbletea juicebars,34.00433783524246,-84.08283549459622
+1,63aITpXokBoMYmp1IohCvA,Kung Fu Tea,GA,Duluth,30097,21.0,4.5,9700 Medlock Bridge Rd,bubbletea coffee juicebars,34.01751,-84.19246
+2,sznEIz3UfxboIOmO6lAZNw,Green Tea,GA,Dacula,30019,118.0,3.5,1152 Auburn Rd,sushi thai chinese,34.0315192,-83.9064642
+3,2dKVEghXHiSe8eTY-ui71w,Empanada House,GA,Duluth,30096,23.0,5.0,3559 W Lawrenceville St,coffee juicebars empanadas,34.003148853475,-84.1451333463192
+4,nE7iNPKJZ80xnQlfb9U6Fg,Joy Donuts,GA,Dacula,30019,22.0,4.5,2995 Old Fountain Rd,donuts juicebars bubbletea,34.0356366661696,-83.9113196619309
+5,7N3o-IaHs4lLkYVujYjivA,Umami,GA,Suwanee,30024,93.0,4.0,2631 Peachtree Pkwy,sushi japanese bubbletea,34.0940914,-84.1737074
+6,HIdvlWeOfXhuEhRFeeUYTQ,Taigu Tea,GA,Duluth,30096,13.0,4.0,3631 Peachtree Industrial Blvd,coffee icecream juicebars,33.997847386741086,-84.168249608942
+7,Cg_uGMfbIqFgl_9nRDFlNg,Cafe Landmark,GA,Johns Creek,30022,49.0,4.5,10955 Jones Bridge Rd,bubbletea coffee sandwiches,34.046392,-84.220988
+8,RI1wRcf8jwSPJo0AY8hMMA,Gong Cha,GA,Suwanee,30024,18.0,4.5,1299 Old Peachtree Rd NW,bubbletea juicebars,34.004858,-84.085049
+9,3_DmRfPlMDthwVZvmAo21g,Le Mekong,GA,Johns Creek,30097,412.0,4.0,10900 Medlock Bridge Rd,vietnamese noodles,34.04723477585537,-84.17907
+10,jWqEnpNAgXVe-iPCfvcI7Q,Pho Tastic Vietnamese Cuisine,GA,Alpharetta,30022,77.0,4.5,10995 State Bridge Rd,vietnamese,34.05006,-84.225101
+12,NHNfVx-WAn1DZyRE_m9l3g,Sweet Octopus Atlanta,GA,Duluth,30096,155.0,4.0,3559 West Lawrenceville St,asianfusion poke ramen,34.003213,-84.14513
+13,MgTHBVsQSolBHzCFdhYcpg,Umaido,GA,Suwanee,30024,1021.0,4.0,2790 Lawrenceville Suwanee Rd,ramen japacurry seafood,34.0233003341495,-84.0449438804088
+14,JSiRFXuxX833UVRtr1uvEw,The Sweet Spot Bakery,GA,Duluth,30097,131.0,5.0,2730 Peachtree Industrial Blvd,desserts cupcakes bakeries,34.022643033501964,-84.14306557192576
+15,srmQQeMBw7kQwfTObNJhnQ,White Windmill Bakery and Cafe,GA,Duluth,30097,29.0,4.5,2200 Duluth Hwy,cakeshop sandwiches coffee,33.978475,-84.096766
+17,QaOYf_7hXb0tS4ul7SyldA,Saigon Cafe,GA,Lawrenceville,30043,105.0,3.5,1030 Old Peachtree Rd NW,vietnamese thai southern,33.998551,-84.068736
+18,ng3CnpsgukwEO1ERXdL_vA,Golden Seven,GA,Suwanee,30024,116.0,3.5,320 Town Center Ave,chinese thai asianfusion,34.056251,-84.064232
+20,P1fctrHZsd4-GsqFTLmSpg,Top Crawfish,GA,Suwanee,30024,16.0,2.5,3255 Lawrenceville Suwanee Rd,cajun seafood,34.037527,-84.048461
+21,SAO68N5EI5OxwuoVTzqSNg,Pho.com,GA,Suwanee,30024,18.0,3.5,2700 Lawrenceville-Suwanee Rd,vietnamese noodles bubbletea,34.022002,-84.044869
+22,rP1NmHInJjuB6Uv1cx-bqA,Echo,GA,Suwanee,30024,35.0,3.5,2790 Lawrenceville Suwanee Rd,newamerican karaoke bars,34.02333,-84.04499
+23,CuX_GDZAJGYmP4phQYlKNg,Green Basil,GA,Suwanee,30024,145.0,3.5,2855 Lawrenceville Suwanee Rd,vietnamese thai noodles,34.0266,-84.04279
+24,PY9XlkL0hMxl2_j2XxvMzA,Pho 24,GA,Duluth,30096,144.0,3.5,3585 Peachtree Industrial Blvd,vietnamese noodles soup,34.0001036,-84.1699732
+1,DFHdGcLaE7V8m7t8Vd1SBQ,Snowflake Tea House,GA,Duluth,30096,361.0,4.0,2180 Pleasant Hill Rd,desserts juicebars tea,33.96116,-84.13451
+2,y1LP0tIvgk255bv3fwvJfg,Sweet Rice,GA,Duluth,30096,95.0,4.0,2180 Merchants Way,coffee bakeries bubbletea,33.961136,-84.130754
+4,_9EQeCfpd6vdKkITVBAOAg,Cafe Bora,GA,Alpharetta,30004,58.0,4.5,5250 Windward Pkwy,desserts bakeries coffee,34.091231,-84.275178
+8,9Dr0x3CCQuKctxPUVaLagg,Bang Bang Katsu House,GA,Milton,30004,42.0,4.0,5250 Windward Pkwy,asianfusion,34.09128066105006,-84.2753542587161
+9,wYg8Yk_B7x0q8fOtGDn_Ew,The Coffee By Hand,GA,Duluth,30096,262.0,4.0,2180 Pleasant Hill Rd,desserts cafes,33.9611716683153,-84.1358126699924
+11,rAzIOBXR2gShs5hO5gHSjw,Matcha Cafe Maiko,GA,Duluth,30096,102.0,4.0,2131 Pleasant Hill Rd,desserts icecream bubbletea,33.95674,-84.134681
+13,e3BEFVHr78p-fEKbx-FqBg,Tree Story Bakery & Cafe,GA,Duluth,30096,201.0,4.0,2550 Pleasant Hill Rd,bakeries coffee desserts,33.9692993164062,-84.1428298950195
+14,iWrDXR-Ipc5frGJGbl4nKg,La Tropicana Heladería,GA,Norcross,30071,8.0,4.0,2066 Beaver Ruin Rd,juicebars icecream,33.9332845014379,-84.1791098937392
+16,xOzyNijtRMmVRCHuGxO0fw,Orange Coffee Bar,GA,Duluth,30096,226.0,4.0,3473 Old Norcross Rd,coffee,33.9659547353479,-84.134302096882
+17,vnOLEhQgy2V7PMIJe4I1mg,ViVi Bubble Tea,GA,Duluth,30096,102.0,4.5,3875 Venture Dr,bubbletea taiwanese juicebars,33.951076,-84.142381
+19,-20M30nCSukFBa6eobgg3A,Hansel & Gretel Bakery Cafe,GA,Duluth,30096,54.0,4.0,2131 Pleasant Hill Rd,bakeries cafes,33.95437,-84.134127
+21,BlQUm79Kyc0s6vV40-iUFw,White Windmill Bakery,GA,Duluth,30096,91.0,4.0,3230 Steve Reynolds Blvd,bakeries coffee desserts,33.9580688476562,-84.1405181884766
+22,ZJcCo22z2sVucArIWRYABg,Paris Baguette,GA,Duluth,30096,209.0,3.5,3492 Satellite Blvd,coffee bakeries cakeshop,33.9621240989611,-84.1317598521709
+23,MeB9A9zAY8DUJAWA1FozWQ,Pho Number One,GA,Peachtree Corners,30092,13.0,3.5,6025 Peachtree Pkwy,vietnamese noodles soup,33.95611,-84.23367
+27,s1mE82VEw5GqONY8cdZ_dA,Boba Mocha,GA,Duluth,30096,544.0,4.5,2628 Pleasant Hill Rd,coffee bubbletea icecream,33.9711708777899,-84.1478902172178
+30,ThwkRHfYw6r_fGwiKT78-A,Vincent Bakery Cafe,GA,Duluth,30096,65.0,3.5,2442 Pleasant Hill Rd,bakeries coffee customcakes,33.96596,-84.14124
+32,m68KIt7Sd4J07CCLMM3n3g,Summer Memory Station,GA,Duluth,30096,144.0,3.5,2180 Pleasant Hill Rd,desserts asianfusion icecream,33.96116,-84.13451
+33,PTrxTFgq2BzsAp0Nsnxc-A,Doremi Resturant & Bar,GA,Duluth,30096,16.0,4.0,410-2550 Pleasant Hill Rd,bars karaoke korean,33.96922365248655,-84.14278102438327
+34,_TMBGsvXn1CRRRCCfBCvDA,Kung Fu Tea,GA,Duluth,30096,286.0,4.0,3473 Old Norcross Rd,bubbletea coffee juicebars,33.9662715397118,-84.1342596466918
+35,c-vKNKdzLTNYoGWBDR8nHA,Design Caffe,GA,Duluth,30096,2.0,3.0,1500 Pleasant Hill Rd,coffee,33.9427,-84.1216
+36,ESbEzpwwLWxa9l_MkwKB3Q,J's Mini Hot Pot,GA,Duluth,30096,394.0,4.5,2174 Pleasant Hill Rd,chinese hotpot seafood,33.95986759445486,-84.13478268658115
+37,Zv11xbJlleF0IIhZG6yVZw,Cafe Mozart Bakery,GA,Duluth,30096,118.0,3.5,2131 Pleasant Hill Rd,bakeries coffee desserts,33.9544465982695,-84.1325715034965
+38,oDFVpxG2xfqry_olejC01g,Quickly,GA,Duluth,30096,298.0,3.0,3780 Old Norcross Rd,coffee bubbletea juicebars,33.961404165405945,-84.14195497546646
+39,i6x-TRQEutOkrRE40ui8ew,Pho Saigon,GA,Duluth,30096,40.0,3.5,1630 Pleasant Hill Rd,vietnamese,33.94609,-84.12369
+40,Ob9XzL6yvRLPqiAX0-GjYw,El Dorado,GA,Duluth,30096,257.0,4.0,2570 Pleasant Hill Rd,mexican,33.9691199,-84.14475
+7,V1aNQTnOiJGZfSnU8bmcyA,One Zo Boba - Duluth,GA,Duluth,30096,148.0,4.5,3580 Breckinridge Blvd,bubbletea juicebars waffles,33.9498353,-84.1269508
+11,iCtUWErYqbD5zdc-G2Ld4g,TIGER SUGAR,GA,Duluth,30096,113.0,4.0,2570 Pleasant Hill Rd,bubbletea desserts coffee,33.969099,-84.144694
+12,BTQos3itbkt3cmPDKdhICw,Unbelibubble Tea House,GA,Duluth,30096,183.0,4.0,3865 Venture Dr,bubbletea,33.9516599,-84.13949
+17,kN2w4SHGNigLNuOcdtjAbA,Pearls Tea - Lawrenceville,GA,Lawrenceville,30046,3.0,4.5,30 South Clayton St,bubbletea tea coffee,33.95128560178231,-83.987569
+25,8cePaxBvWKAtrZ81YI-PIA,Where's The Scoop,GA,Alpharetta,30009,27.0,5.0,26 Old Roswell St,bubbletea coffee icecream,34.0750075,-84.2950824
+31,8toMS6ptp-IA-ZAQVltNhQ,Unbelibubble Tea,GA,Norcross,30092,7.0,4.5,5270 Peachtree Pkwy,bubbletea,33.97606805875334,-84.21766194096908
+34,KvsJU9-6vq0vWmkZO9hNFA,Donut Worry,GA,Lawrenceville,30046,198.0,4.5,248 E Crogan St,donuts bubbletea coffee,33.961283,-83.972882
+35,Bj6_c0z9-Fbc_wk4DsebgQ,Kokee Tea,GA,Alpharetta,30022,39.0,4.0,1000 North Point Cir,bubbletea,34.0485421283517,-84.2944172489598
+39,YbVNRj-wmBA1zOLZQOIkfQ,Möge Tee Duluth,GA,Duluth,30096,69.0,3.5,2180 Pleasant Hill Rd,bubbletea,33.961329,-84.134206
+41,4kiQ0t-d8IDoMOIqPoALbA,July Moon Bakery and Café,GA,Alpharetta,30009,9.0,4.5,230 S Main St,bubbletea bakeries coffee,34.06912125150498,-84.29778758436441
+42,hTgJe0nDW-8ibbUYcR1qrA,Wich Tea,GA,Duluth,30096,2.0,4.5,2174 Pleasant Hill Rd,sandwiches bubbletea vietnamese,33.95996,-84.13462
+43,Sjs6VdqBiy6L3KjuXmWYZQ,Ding Tea Duluth,GA,Duluth,30096,207.0,3.5,2180 Pleasant Hill Rd,coffee bubbletea juicebars,33.961348,-84.134115
+44,iYQJs40KZG7MHGWvIeBw_w,Nom Nom Tea & Bites,GA,Duluth,30096,103.0,3.5,1500 Pleasant Hill Rd,bubbletea vietnamese,33.9427,-84.1216
+46,1zYyBkPRQCEPsggW42JayA,King Kong Milktea & Smoothie,GA,Lawrenceville,30044,5.0,4.5,4835 Sugarloaf Pkwy,bubbletea desserts juicebars,33.95546,-84.05272
+47,i_nteEsmqKbPClWWFNTvaw,Yi Fang Taiwan Fruit Tea,GA,Duluth,30096,74.0,4.5,3648 Satellite Blvd,bubbletea coffee juicebars,33.956792296958525,-84.1365993164636
+49,lVu7UYpDf7rxB0cgHo0aRQ,Ding Tea - Lawrenceville,GA,Lawrenceville,30044,1.0,5.0,4955 Sugarloaf Pkwy,bubbletea coffee cupcakes,33.95674,-84.057
+5,0Nx8xAXu59m9IN9z1hn61g,Cafe Au Lait,GA,Roswell,30076,102.0,4.0,2300 Holcomb Bridge Rd,breakfast_brunch cafes,34.004035538865,-84.2937597790985
+7,8FfRXl3KLSQaZ-ailmT4AQ,Mac Lab,GA,Duluth,30096,325.0,4.5,2131 Pleasant Hill Rd,coffee bakeries macarons,33.956550256892534,-84.13491302039962
+12,idCY7qJ0eLYQivM2jO7mow,M Thai Street Food,GA,Alpharetta,30009,226.0,4.5,875 N Main St,thai,34.093072633627614,-84.27991435504626
+13,A-xq88hZWpKoOp6TJteqBg,Moo Tea,GA,Duluth,30096,65.0,4.0,2605 Pleasant Hill Rd,cakeshop bubbletea juicebars,33.9696547385361,-84.1473471745849
+14,TSTN1Vys5d_YCiw451DprA,Saigon Cafe,GA,Alpharetta,30004,194.0,3.0,5530 Windward Pkwy,cafes asianfusion,34.0877559,-84.2672295
+23,M2VBh72Ug6jiFSNE9kud5A,Cuckoo's Cafe,GA,Duluth,30096,103.0,4.5,3182 Steve Reynolds Blvd,taiwanese bubbletea,33.95829,-84.141004
+30,VkidcKxaZ7i4MWoRMNi0nw,Pelicana Chicken,GA,Duluth,30096,22.0,4.5,2550 Pleasant Hill Rd,korean beerbar chicken_wings,33.96999086815361,-84.14384535275887
+32,-PvQqHAafQ2_GUzq4AVgww,Royal Tea,GA,Duluth,30096,41.0,3.5,4500 Satellite Blvd,bubbletea,33.941834,-84.1599183
+34,yD3qXdrPEdgQKIJP186tkg,Peachy Corners Cafe,GA,Peachtree Corners,30092,36.0,4.5,6365 Spalding Dr,coffee bubbletea cafes,33.968813,-84.257384
+38,qtsnLKBBHeRYFHhGQGrgJw,Crazy K-Dog,GA,Duluth,30096,3.0,3.5,1630 Pleasant Hill Rd,hotdog korean bubbletea,33.9468282,-84.1240062
+40,0d6vz-qvvoLNs7JWueWa6Q,Poke Factory,GA,Alpharetta,30022,56.0,4.5,5950 North Point Pkwy,hawaiian bubbletea poke,34.0496764,-84.2819875
+42,o4LltbMV1LbMFM9BBVM05A,Sweet Hut Bakery & Cafe,GA,Duluth,30096,722.0,4.0,2180 Pleasant Hill Rd,bakeries bubbletea sandwiches,33.9617129,-84.1343575
+43,1ilY_PGN7NJ-_1M07qGUfw,Poké Bar Avalon,GA,Alpharetta,30009,91.0,4.5,2685 Old Milton Pkwy,poke hawaiian bubbletea,34.068423060502184,-84.28125129021645
+44,GFTJ0j8tC71QMufsrvlDRQ,Thank U Chicken,GA,Duluth,30096,382.0,4.0,3473 Old Norcross Rd,korean chicken_wings sportsbars,33.9662153972521,-84.1335720196366
+45,AEcn82Cj5lemHi-VQPJ2Jg,Poke Sun,GA,Alpharetta,30005,35.0,4.0,3070 Windward Plz,poke hawaiian bubbletea,34.0935393746573,-84.24050266743198
+48,YDVDFvoIliWVR8ueqqFUlg,Gong Cha,GA,Duluth,30096,161.0,3.5,1630 Pleasant Hill Rd,bubbletea,33.9462305343792,-84.12347675998116
+49,WTA7Mnt6_Xe4PVs13trTOQ,I Luv Pho,GA,Duluth,30096,452.0,3.0,4500 Satellite Blvd,vietnamese noodles soup,33.94207,-84.15986
+0,Xn_5AhyLNABrnzjo2dCccw,Taste 8,GA,Lawrenceville,30046,31.0,3.5,629 Scenic Hwy,chinese thai bubbletea,33.9271630691687,-83.99768330000342
+3,Ln0yD7kzHouCnT2VWDdecQ,Swan Cafe,GA,Alpharetta,30022,93.0,4.5,8400 Holcomb Bridge Rd,cafes breakfast_brunch customcakes,33.9855330204717,-84.270964153111
+9,zdBxjM_Siw8FVwMiQLMwaA,Poké Bar - North Point,GA,Alpharetta,30022,39.0,4.0,6410 N Point Pkwy,poke hawaiian,34.04454,-84.292213
+10,YvXrSP-ZiOxCdUlc-gioAw,Cafe Terrace,GA,Duluth,30096,3.0,4.5,3705 Old Norcross Rd,bubbletea cafes,33.9635134929332,-84.14134903168018
+12,O5CXLz-0PJvvVce1YIZNkg,Ping's Place,GA,Duluth,30096,101.0,4.0,2300 Pleasant Hill Rd,taiwanese chinese breakfast_brunch,33.96366559452893,-84.13502868689267
+14,POAEd0HEsWDv9II--5wDRw,Kabobs House,GA,Duluth,30096,95.0,3.5,3780 Old Norcross Rd,chinese meats,33.9613,-84.142322
+16,Ed2p8A_b1ORsRMFG7c2Ufw,Chatime,GA,Duluth,30096,56.0,3.0,2300 Pleasant Hill Rd,cafes coffee,33.9635336572285,-84.1352247578802
+19,t8ZZFeTw9vxIO_JsU8w90Q,Kumai Ramen,GA,Duluth,30096,144.0,4.0,3875 Venture Dr,ramen,33.951076,-84.142381
+22,W7jInesdToGMQxsagnmh7w,Hot Space,GA,Duluth,30096,3.0,5.0,1600 Pleasant Hill Rd,seafood chinese,33.94506,-84.12391
+24,hmi5bhXeCjLRn_w3N0_c9A,SriThai  Thai Kitchen & Sushi Bar - Duluth,GA,Duluth,30096,447.0,4.0,4500 Satellite Blvd,japanese sushi thai,33.9414649404192,-84.1606787608521
+26,gPQ4SZAZi5kUXmTiupT2Zw,Teriyaki Box,GA,Lawrenceville,30044,142.0,4.0,1766 Old Norcross Rd,japanese sushi asianfusion,33.952743,-84.05381130307237
+29,hMvs3cWRlWiMosHrQRqgfg,Jusgo International Food Court,GA,Duluth,30096,21.0,4.0,3875 Venture Dr,food_court,33.951076,-84.142381
+30,pluLOiSKgrIlhMysr7F_Tw,New Super Pho,GA,Duluth,30096,288.0,3.5,3330 Satellite Blvd,vietnamese soup sandwiches,33.9633,-84.12516
+34,jmgRj9HkElK03ACus6XQCQ,Volcano Steak & Sushi,GA,Duluth,30096,51.0,4.0,1600 Pleasant Hill Rd,japanese sushi steak,33.94506,-84.12391
+37,za0_1vb8756x0zFmErX7gA,Mai Bakery,GA,Duluth,30096,8.0,3.5,2300 Pleasant Hill Rd,bubbletea bakeries,33.96389,-84.13485
+40,9v3fMHYIRLmqrVyMm4ZWlg,Kuya's Food Express,GA,Duluth,30096,83.0,3.5,1630 Pleasant Hill Rd,filipino,33.94759,-84.123186
+42,hPewzBdG16eUJj_Scths-w,Banh Mi Café,GA,Duluth,30096,357.0,4.0,3512 Satellite Blvd,coffee vietnamese juicebars,33.960679,-84.132146
+43,ONsacEXXJ_gvld0rIMkoyw,Xi'an Gourmet House,GA,Duluth,30096,100.0,4.0,3875 Venture Dr,chinese,33.951451800233,-84.140870902985
+44,aWvzpMhwhSaeiq_DG2nMUw,Poke Bar,GA,Duluth,30096,118.0,4.0,3675 Satellite Blvd NW,poke japanese hawaiian,33.9604285269461,-84.1360441789524
+45,T0WyABusrN1o7Ef14snhuw,Pho House,GA,Duluth,30096,251.0,3.5,3606 Satellite Blvd,vietnamese noodles soup,33.9573062198899,-84.1351022198796
+46,OEBEFjNOjSB5cY47A11DiQ,Pho Dai Loi 3,GA,Duluth,30096,251.0,4.0,1500 Pleasant Hill Rd,vietnamese noodles soup,33.9420403970465,-84.1209254124115
+47,2KJtR4huTGPGB7fpVXqckQ,H Mart - Duluth,GA,Duluth,30096,256.0,4.0,2550 Pleasant Hill Rd.,intlgrocery korean food_court,33.969674,-84.142958
+48,VrFoAv7D-dPa_wn96op0gA,What the Pho,GA,Duluth,30096,271.0,3.5,2442 Pleasant Hill Rd,vietnamese noodles soup,33.96596,-84.14124
+0,Q6LjqBT0CxjIDAS45mR2Jg,Ming's BBQ,GA,Duluth,30096,355.0,3.5,2131 Pleasant Hill Rd,bbq cantonese seafood,33.956524,-84.134995
+0,bM2ovH9iS0lKA4qdWvfAKQ,Pelican's SnoBalls,GA,Athens,30605,5.0,4.5,510 Baxter St,shavedice,33.95032,-83.38407
+1,DRR_7QMRNq44lZ7jCGz4Ww,Bubble Cafe,GA,Athens,30601,67.0,4.5,247 E Broad St,bubbletea soup desserts,33.95799762516603,-83.37488840958297
+11,Y4UB3vHjgDamGtgm6FlHnA,Cravings,GA,Athens,30601,3.0,5.0,480 E Broad St,bubbletea salad sandwiches,33.957956,-83.372876
+12,ZbSP176CudaF2fToMjpylA,Taichi Bubble Tea,GA,Athens,30601,7.0,3.5,151 E Broad St,bubbletea ramen poke,33.95800696057291,-83.37491767277888
+17,-QKJZakjsGCnRiudafI5pQ,Ding Tea Athens,GA,Athens,30601,21.0,3.5,125 W Washington St,taiwanese bubbletea juicebars,33.958813,-83.377653
+19,plvQcY5nKGP7ImaRuAhytQ,Mother Pho,GA,Athens,30602,84.0,3.5,167 E Broad St,vietnamese,33.957831,-83.375929
+31,iSEN7uWu2lvTgMhqrs1S0g,Just Pho...and more,GA,Athens,30606,149.0,3.0,1063 Baxter St,vietnamese,33.9472397,-83.3974478
+33,7L4LlPKPLYXhyFga7nNM2Q,Bread & Bubble Tea,GA,Lawrenceville,30045,6.0,4.0,3157 Sugarloaf Pkwy,bubbletea,33.9211,-84.01008
+35,zeS_o8XRO2XKZH7y_H_8Lw,Ru San's of Athens,GA,Athens,30606,145.0,3.0,196 Alps Rd,sushi japanese seafood,33.9451368303731,-83.4111137938457
+2,knpdyPQM1IwLsh1UWYbw2Q,Kona Ice Athens,GA,Athens,30601,1.0,5.0,,shavedice foodtrucks,33.96243,-83.37431
+3,C2haGlz8tG9MkaqyRFaLbw,Pelican Snoball,GA,Blue Ridge,30513,2.0,5.0,3397 E 1st St,desserts shavedice,34.8674214043064,-84.3217887685918
+8,l_EO6EU8lXhdvzM9y794Dw,Granny's Famous Funnel Cake Haus,GA,Helen,30545,42.0,3.5,8630 N Main St,desserts shavedice icecream,34.7013397,-83.7304688
+9,Rgw2xG6FMSaDhuBwIcrBsg,Carlotta's,NC,Hayesville,28904,11.0,4.5,146 US Hwy 64,shavedice sandwiches hotdog,35.0351512704724,-83.8228146359324
+10,iiphWG1-LqakdOcFd3_M6w,Busy's Shave Ice & Coffee,GA,Atlanta,30309,26.0,4.5,10th and Monroe,shavedice coffee,33.78177,-84.36868
+11,6arFyyoJjUxs_XesAtpSSA,Meet Fresh,GA,Atlanta,30360,182.0,4.0,6035 Peachtree Rd,desserts shavedice bubbletea,33.9073963545693,-84.2873783410004
+14,GUKG5CboVhI_csCs52vGcA,Big Easy Sno-balls,GA,Atlanta,30308,42.0,3.5,728 Monroe Dr NE,shavedice,33.774402,-84.371185
+16,I4svyuWXMp6mMxH20R4yPw,Dominic's on the Bayou,GA,Atlanta,30340,7.0,5.0,,foodtrucks shavedice icecream,33.89025,-84.23235
+17,kQP59jmJL_P0Vtt81HVJ3g,Mango Mango Dessert Atlanta,GA,Doraville,30340,266.0,4.0,5177-A Buford Hwy NE,desserts icecream juicebars,33.8944054,-84.2832347
+22,oGshUJhbJsjsnaQZXJaDNA,Waikikie Hawaiian BBQ,GA,Atlanta,30329,603.0,4.0,2160 Briarcliff Rd,bbq hawaiian,33.816665,-84.335219
+26,24--2r1ZEgnmJs5iVVAOgQ,Wagaya - Westside,GA,Atlanta,30318,615.0,4.0,339 14th St NW,sushi ramen seafood,33.786349,-84.398266
+29,uvgl9UDe-RdxBmUe_Y95_w,SunO Dessert,GA,Decatur,30033,174.0,3.5,2144 N Decatur Rd,desserts shavedice coffee,33.790424,-84.3046291
+31,Oe6UKRLOfXoX3YV0VZzR6w,Banjo Coffee,GA,Avondale Estates,30002,96.0,4.5,38 N Avondale Rd,coffee,33.7758424,-84.2712806
+33,4GdjKIMkxp7ji4raVkry4g,White Windmill Bakery & Cafe,GA,Doraville,30340,512.0,4.0,5881 Buford Hwy Ne,bakeries coffee,33.91092293459412,-84.26447502883553
+35,eIWuBgZsHfZg7Xd-xpqmZg,Rita's Italian Ice,GA,Atlanta,30319,76.0,4.0,3530 Ashford-Dunwoody Rd NE,icecream desserts shavedice,33.8950536,-84.3290639
+36,Hhi2NM9I6_gF7itRdTB8gw,Matcha Cafe Maiko,GA,Atlanta,30340,262.0,4.5,5306 Buford Hwy NE,icecream desserts coffee,33.89734,-84.28133
+37,plEh_VdvGNzu2i-cwGDUHw,Poke Dessert Bar,GA,Chamblee,30341,127.0,3.5,4897 Buford Hwy NE,poke bubbletea shavedice,33.8840269604414,-84.2877866327763
+38,mG9whezG33MF43yoA9BDYA,Café Petit Four,GA,Doraville,30360,88.0,3.5,6035 Peachtree Rd,coffee bakeries,33.908419,-84.2885585129669
+39,6RXnG0S3EDVSxe2FH8bZRw,Tuk Tuk Thai Food Loft,GA,Atlanta,30309,917.0,4.0,1745 Peachtree St NE,thai tapas,33.8016534976233,-84.3922739444125
+40,2zKFZq1zPtAcpvvhXbDGEg,Allison's Paleteria,GA,Lilburn,30047,3.0,4.5,3907 Burns Rd,icecream shavedice,33.91166,-84.11513
+48,RkSJ9WgAZvHg6-y0yoDloQ,Paris Baguette,GA,Doraville,30340,452.0,4.0,5252 Buford Hwy NE,coffee bakeries cakeshop,33.896155,-84.282818
+0,Je0MNZ6Q9GnFmB5vS6UBhw,Sweet Hut Bakery & Cafe,GA,Doraville,30340,1040.0,4.0,5150 Buford Hwy,cafes bakeries desserts,33.8934068028725,-84.2843572864732
+2,EnVzNB3OBBuz55g8PYbCkw,Rhea's 2,GA,Roswell,30076,127.0,4.0,11490 Alpharetta Hwy,burgers tradamerican,34.06045,-84.32548
+3,u8MBitab9__SZfVSS52C8Q,Sushi Hayakawa,GA,Atlanta,30340,532.0,4.0,5979 Buford Hwy,japanese sushi,33.9135665061077,-84.2610619312561
+4,sPhPI3B6tvcJIULhICr-Pg,The Varsity,GA,Atlanta,30308,2187.0,3.0,61 North Ave NW,burgers hotdog hotdogs,33.7715099,-84.3893109
+6,cl1a5Jnd1iTU7WOB3H17dQ,Bento Cafe,GA,Norcross,30093,274.0,3.5,5495 Jimmy Carter Blvd,taiwanese bubbletea juicebars,33.9095364392629,-84.2041968845864
+9,UW1NFjJ8S4W0uCy8M6Vpog,Mamak,GA,Doraville,30340,655.0,4.0,5150 Buford Hwy,malaysian chinese,33.8934542170406,-84.2847600951791
+14,boPIehJqIK-c62FdWvApXw,Mozart Bakery,GA,Atlanta,30340,136.0,3.5,5301 Buford Hwy NE,bakeries bubbletea,33.8965873718262,-84.2805557250977
+15,_PuOtQx5ESbydRrGyqz7mA,J's Mini Hotpot Deluxe,GA,Atlanta,30341,377.0,4.0,4897 Buford Hwy,chinese hotpot asianfusion,33.8847048,-84.2879274
+16,tJE9cTnVjI26-pXXzotuqw,Osteria 832,GA,Atlanta,30306,266.0,3.5,832 N Highland Ave NE,pizza italian salad,33.777239164269,-84.3528109656067
+20,zOVsdDMZginQHrl68Y0DkQ,Pho Viet Number one,GA,Norcross,30093,277.0,3.5,4650 Jimmy Carter Blvd,vietnamese noodles soup,33.8847873253274,-84.1926065495987
+2,VoUzMpS16yEQhqJrmFMJDQ,Breezy Freeze Gourmet Shaved Ice,SC,Anderson,29621,3.0,5.0,3131 N Main St,shavedice foodtrucks,34.5389656,-82.6677509
+7,f4Xo45p68YPi5Kz1-AHU6A,Vampire Penguin - Anderson,SC,Anderson,29625,7.0,4.0,118 Commons Pkwy,desserts shavedsnow,34.549580144225,-82.6772264018655
+34,HNdPv0Sbu82u5hVqVdNBdQ,Wing Joint,SC,Anderson,29624,7.0,5.0,3505 S Murray Ave,chicken_wings seafood tradamerican,34.4632999,-82.66112
+3,C0Dq0q1R4Mooq4wvgbmp_A,Poke Star- Clemson,SC,Clemson,29631,13.0,4.5,391 College Ave,poke hawaiian,34.68413542290909,-82.83744230288157
+16,e6NM4IY-mMqyqvlAezVxRg,Zen Ramen & Sushi Burrito,SC,Clemson,29631,66.0,4.0,1067 Calhoun Memorial Hwy,poke ramen,34.6916554079102,-82.8363669767639
+18,5RH8jTcGsIK341svFp2jdA,Tan-Cha,GA,Doraville,30340,165.0,4.5,5677 Buford Hwy NE,bubbletea coffee,33.90565,-84.27007
+22,hDGZeURFtJiZ6aGx2XxkMQ,Tea Top,GA,Atlanta,30360,371.0,4.5,6035 Peachtree Rd,bubbletea,33.90741,-84.2875710502267
+40,VdcQMPVIIfsiHU2FUOyDNQ,Sweet Spot,GA,Doraville,30341,233.0,4.5,6035 Peachtree Rd,desserts asianfusion hkcafe,33.907386,-84.287352
+43,NaDRfdUiZ1oVuH9gTMZiFg,Kung Fu Tea,GA,Doraville,30340,468.0,4.0,5280-A Buford Hwy,coffee bubbletea juicebars,33.8967721090405,-84.28219639233639
+45,yrMfKnw32QxzwBb2fJUYDQ,Cloud 9 Tea & Snack Bar,GA,Snellville,30078,12.0,2.0,1905 Scenic Hwy,bubbletea coffee icecream,33.87669,-84.015056
+46,SKaylvQ6Vr5zldfWbOEfwA,Tea Leaf & Creamery,GA,Doraville,30340,46.0,4.5,5091 Buford Hwy NE,bubbletea desserts icecream,33.89076796652437,-84.28470529143743
+0,hWndOCp71xkqgyehWWuksA,Ding Tea Norcross,GA,Norcross,30093,43.0,4.5,6010 Singleton Rd,bubbletea coffee juicebars,33.90409251988764,-84.1987263255516
+3,SWL9Tdq5YQd7_8gYWfLegw,Ding Tea Doraville,GA,Doraville,30340,66.0,4.5,5150 Buford Hwy NE C150,bubbletea,33.892666100000035,-84.28510436699318
+6,PY0w7Z_L1tdJynrGsTqLWg,InfiniTEA,GA,Atlanta,30340,14.0,4.0,5705 Buford Hwy NE,cafes,33.90639,-84.26904
+9,WEJOjfkJGiImJwRWbcQoHQ,Pearl’s Tea - Doraville,GA,Doraville,30340,71.0,4.5,5979 Buford Hwy,bubbletea coffee,33.91367424072418,-84.26127097910185
+14,yzTsgflj0zEs5QKTWyUm4g,Cuckoo's Cafe,GA,Doraville,30340,53.0,4.5,5302 Buford Hwy NE,taiwanese bubbletea,33.897578,-84.281945
+20,zOY7hEhCkjHD9o6bDNwh4A,4.0 Ice Cream & Drinks,GA,Doraville,30360,53.0,4.0,6035 Peachtree Rd,icecream bubbletea juicebars,33.908047,-84.288187
+23,hSjusZKLyY0_H8FVg4uesg,Mr. Wish,GA,Norcross,30093,53.0,4.5,5495 Jimmy Carter Blvd,bubbletea juicebars,33.90891,-84.204725
+24,WqjZnGlKZeoWCpwIhsx9Yg,Quickly,GA,Doraville,30340,286.0,4.0,5090 Buford Hwy,coffee juicebars bubbletea,33.891411,-84.285855
+27,B5WdrjMsRRSXUxdjHyBEFA,Bubble Cream,GA,Tucker,30084,36.0,4.5,3983 Lavista Rd,icecream bubbletea customcakes,33.84412067,-84.254504
+33,lVkKFe4CHX6-98NUY4GyWg,Five Spot Frozen Yogurt,GA,Snellville,30078,77.0,3.5,1905 Scenic Hwy S,icecream bubbletea,33.87864209112157,-84.01319944898972
+44,Gj8rCGRp8Ika1MmNVP3LAQ,Gong Cha 貢茶 Atlanta - Taiwanese Tea House,GA,Doraville,30340,13.0,4.5,5382 Buford Hwy,bubbletea coffee juicebars,33.899495,-84.279183
+7,ecV-i8VUC0v9aLaL4gtMBA,Java Saga,GA,Atlanta,30340,123.0,5.0,3781 Presidential Pkwy,coffee taiwanese sandwiches,33.886558,-84.265307
+22,732oHm_ktySoQDX6ikQGHw,"Tin Drum Asian Kitchen & Boba Tea Bar - Decatur, GA",GA,Decatur,30033,126.0,3.5,1565 Church St,panasian thai bubbletea,33.7931143,-84.2843716
+24,eYA8CpQFgRhc_sTSb0g8Pg,90 Kabob,GA,Chamblee,30341,63.0,4.0,4897 Buford Hwy,chinese,33.8840478355957,-84.2873537912965
+41,T_meTjtvslVWMn9_SAA7nA,Dagu Rice Noodle,GA,Doraville,30340,42.0,4.5,5090 Buford Hwy NE,noodles chinese hotpot,33.891452,-84.285894
+44,euI6ZYkupS89zSzMI-uzQw,Hi Pot Doraville,GA,Doraville,30340,216.0,4.5,5091 Buford Hwy NE,taiwanese hotpot ramen,33.8908506450845,-84.2853294293409
+48,WxLx34LGSR8B5uYScPD-jA,Hong Kong Bakery,GA,Atlanta,30340,71.0,4.0,5150 Buford Hwy NE,bakeries chinese,33.8937068014153,-84.2853449596634
+0,xnwnhDdc11R2X8Ww-02nNg,Food Terminal,GA,Chamblee,30341,1564.0,4.0,5000 Buford Hwy NE,malaysian asianfusion breakfast_brunch,33.88809,-84.28866
+5,uB7IZ1v0tdIckr8gH82R0g,La Mei Zi,GA,Doraville,30340,558.0,4.5,5150 Buford Hwy,chinese taiwanese,33.8927899012153,-84.2862031236291
+7,3C3D4AppbKXuuv-I9MHoXw,Tous Les Jours,GA,Doraville,30360,40.0,4.0,6035 Peachtree Rd,bakeries coffee desserts,33.90792,-84.28768
+8,2uiFavCGvjlqDSkl1cIZPw,El Rey del Taco,GA,Atlanta,30340,917.0,4.0,5288 Buford Hwy NE,mexican latin,33.8970456631336,-84.2819186300039
+11,Eqf8t4HLY1kS3NoC1iYBdg,Yummy Spicy,GA,Doraville,30340,199.0,4.0,5164 Buford Hwy NE,szechuan seafood,33.89376,-84.28437
+14,2q38UHC6_6_x4aOeysrFtA,Huy's Sandwich,GA,Norcross,30093,174.0,4.0,6100 Live Oak Pkwy,vietnamese sandwiches,33.907138506414896,-84.20162973653484
+22,ihR6AFW0XxutTHIALOHNLQ,So Kong Dong Tofu House,GA,Atlanta,30340,874.0,4.0,5280 Buford Hwy NE,korean bbq,33.8969524286201,-84.2824442419861
+23,MlXsuBBd9UwgBkQzrGDJqA,LanZhou Ramen,GA,Doraville,30340,605.0,4.0,5231 Buford Hwy NE,chinese ramen,33.8948178851,-84.2821337016
+24,fuMKWLOTXH-Q8Om6hVNeKA,Gu’s Kitchen,GA,Chamblee,30341,251.0,4.0,4897 Buford Hwy,szechuan,33.88484406397935,-84.28817013175923
+35,Gylgfub1zA0Sj6-2fzb37w,H Mart - Doraville,GA,Doraville,30360,273.0,4.0,6035 Peachtree Rd.,intlgrocery korean food_court,33.9079754746006,-84.2880709469318
+36,xJFm6z9n9hsCT3-AYFt4Jg,Pho Bac,GA,Chamblee,30341,430.0,4.0,4897 Buford Hwy NE,vietnamese,33.8847839148504,-84.2880117953146
+37,FoFmauyxdHxVFyit2RWaxQ,Beijing Kabobs,GA,Doraville,30340,77.0,3.5,5090 Buford Hwy NE,chinese,33.891368,-84.285734
+40,JuFdQEnanFsQN2pCZODJIA,Kura Revolving Sushi Bar,GA,Doraville,30360,701.0,3.5,6035 Peachtree Blvd,conveyorsushi sushi,33.908159,-84.287725
+42,cFN-AIr-GW2Gc-TrtJidFg,Dish Korean Cuisine,GA,Chamblee,30341,317.0,4.0,5000 Buford Hwy NE,korean,33.8874665303774,-84.28810787899798
+43,VkSRGK40vArClu3CDuQyqQ,Quồc Hương Bánh Mì Fast Food,GA,Atlanta,30340,538.0,4.5,5150 Buford Hwy NE,vietnamese hotdogs,33.8926810673044,-84.2852953283309
+49,h_0CtJG_t8FITPNLn__S_A,China Hot Pot,GA,Atlanta,30340,229.0,4.0,5090 Buford Hwy NE,mongolian hotpot chinese,33.8913696896177,-84.2857840284705
+1,QVTfbEmNX-4WCB7wyv1h-Q,BBQ Corner 2,GA,Atlanta,30340,184.0,4.0,5150 Buford Hwy NE,cantonese,33.8925134890166,-84.2849092656067
+4,JWnyOHFUe7ISzFNwPHRuZw,I Luv Pho,GA,Doraville,30340,424.0,4.0,5145 Buford Hwy NE,vietnamese noodles soup,33.892939,-84.283546
+6,xGxSfAcqn6tlDQx3ZccsoQ,Farmers Market Cafe,GA,Doraville,30340,4.0,3.0,5600 Buford Hwy NE,cafes,33.9054904446872,-84.2741332406213
+10,U9Hf8J7xSACc5-v-mxNL-w,Nam Phuong,GA,Norcross,30093,348.0,3.0,5495 Jimmy Carter Blvd,vietnamese,33.9100852757493,-84.2043968969589
+11,eDa4IWXdEJoJrnaGA49iMA,Ming's Bar B Que,GA,Doraville,30340,286.0,3.5,5150 Buford Hwy NE,bbq chinese,33.8930899852978,-84.286122532639
+3,EsHkfKn4rmNHdC806d7Fqw,El Señor de los Raspados,GA,East Ellijay,30540,5.0,5.0,772 Maddox Dr,desserts shavedice icecream,34.6779749245915,-84.4818592071533
+0,E35YrMF7WNbHsSRCRI5soA,The Shack of Ellijay,GA,Ellijay,30540,85.0,5.0,118 N Main St,poke asianfusion noodles,34.6958423203145,-84.4808352738619
+1,yMEUcj1BgJZHVVwW2QFzoQ,Main Street Coffee & Yogurt,NC,Franklin,28734,23.0,5.0,26 E Main St,coffee icecream bubbletea,35.18181,-83.38069
+7,g6Wh3DCQ6FEOYjBktCakxA,The Six Broomsticks,NC,Robbinsville,28771,1.0,5.0,626 Rodney Orr Bypass,bubbletea,35.328764,-83.8069992
+12,0v-qMW4iNKGC5eVtmKIurw,Nutrition 140,GA,Holly Springs,30115,5.0,4.0,402 Argonne Ter,juicebars bubbletea,34.19492350105696,-84.44929100000002
+14,OtQ-WPfyMHEj-zjCP5czTg,Volcano House Chinese & Thai,GA,Canton,30114,52.0,3.5,130 Prominence Point Pkwy,chinese thai wine_bars,34.1917820905146,-84.51210409525356
+15,NTUY17pvEKOmfGeJ-Vqx3A,Shane's Rib Shack,GA,Ellijay,30540,47.0,4.5,289 Highland Crossing,bbq southern,34.660348,-84.48933
+16,Txm4_VtWEx1OCfwaJ8YH7g,China Star,GA,Canton,30115,74.0,3.0,2060 Cumming Hwy,chinese,34.236115,-84.452983
+2,VJyib1IMw8mAkO6OL6qUTA,Pelican's Snoballs,TN,Cleveland,37311,1.0,5.0,610 Inman St W,shavedice,35.1622928198454,-84.8813788150994
+3,obXEjK2Bn8KPDCd5dGbG1g,Sunset Jacks,GA,Calhoun,30701,2.0,3.5,145 Kelly Ct,shavedice pizza juicebars,34.4848323,-84.9419448
+4,oosjU83-U-JxHIYyjfgz2w,Sno Biz,TN,Ooltewah,37363,3.0,4.0,5209 Hunter Rd,shavedice,35.084015,-85.077024
+7,k0QFFDvE3PmPrKdrMzzSaw,Mango's Ice Cream & Antojitos,GA,Cartersville,30120,6.0,5.0,214 S Tennessee St,icecream shavedice mexican,34.163734,-84.792853
+8,nKW9uYUAsLn_6FaQT54_eQ,SnoBiz Dayton,TN,Dayton,37321,2.0,4.5,200 Able Dr,desserts shavedice icecream,35.4758338,-85.0273249
+9,yH35JK2ktEOvg417VGGfnQ,Pelican Snowballs,GA,Dalton,30721,4.0,4.0,1501 Cleveland Hwy,shavedice,34.80078,-84.9619829
+10,IrjR__ZdTp_7-HD789COqA,Tempting Tiki,GA,Eton,30705,3.0,5.0,3461 Hwy 411 N,shavedice icecream,34.82512834262573,-84.76344186812639
+11,f8ujcWL6HDEl-Fo1-ptpvg,Jazzy T's Sno Mobile,GA,Chatsworth,30705,1.0,5.0,,shavedice fooddeliveryservices,34.76816,-84.77271
+1,QrPzF3GDs2FCdCW7LOaZug,Tiger Tea,TN,Cleveland,37312,2.0,4.5,160 Old Mouse Creek Rd NW,bubbletea icecream juicebars,35.19913,-84.84965
+3,4PyffOrEmYpPuNpjzwlBKQ,Kang’s Boba House,TN,Cleveland,37311,16.0,5.0,2221 N Ocoee St,ramen bubbletea,35.17451,-84.868779
+10,HeNTTin--dZl7oHSJfJODg,Frogurt Land,TN,Ooltewah,37363,24.0,4.5,9408 Apison Pike,bubbletea icecream korean,35.059503,-85.069122
+11,KjrLrPZ_On50qYOuejyOAA,Southern Muggs Coffee Shop,GA,Cartersville,30120,29.0,4.5,26 W Main St,coffee bubbletea bagels,34.16469,-84.7962
+13,a0chqZ7_acVXfN-tW4vJBw,Thai Spice and Hibachi Express,TN,Ooltewah,37363,50.0,4.0,5910 Reagan Ln,japanese thai,35.082484,-85.062404
+17,e_uOEiLn01_GEi3Q9I73YQ,Vietnamese Bistro,TN,Dayton,37321,37.0,4.5,200 Able Dr,vietnamese asianfusion,35.47575,-85.02739
+2,ZO2XvYEk2qV7gPb0pNATwQ,Wainani Shave Ice,SC,Easley,29640,1.0,5.0,6068 Calhoun Memorial Hwy,shavedice,34.82515,-82.57672
+4,HKNfO-g4VCqhbF896iwaqw,The Nomadik Few,SC,Powdersville,29611,5.0,4.0,11201 Anderson Rd,shavedice,34.7891671,-82.4826525
+6,9jfmy50RwUUg3BbEwgLaqQ,Pelican's Snoballs,SC,Greenville,29609,19.0,4.5,2619 Poinsett Hwy,desserts,34.901183,-82.416667
+8,pn0vuEqK1q3FhJyIctUhuQ,Flamingo Jack's Shaved Ice,SC,Greenville,29601,1.0,5.0,,shavedice foodtrucks,34.8482700951792,-82.4001099541783
+9,OyhBxean6clCxY-G26dVqQ,Houni's Italian Ice,SC,Greenville,29607,13.0,5.0,1848 Woodruff Rd,shavedice icecream,34.81922009119,-82.2676799073815
+11,7hmCw77y2ao74US4ZOvQRQ,Tropical Sno Desserts,SC,Piedmont,29673,1.0,1.0,7616 Augusta Rd,shavedice desserts icecream,34.7194993,-82.3875549
+12,ZQJ-NdNi6f9S5ZBZyTbkww,Sno Hut,SC,Taylors,29687,9.0,4.0,3243 Wade Hampton Blvd,shavedice,34.9166378,-82.3178043674591
+14,znN2RTM9LE1zenYUMR1BHA,The Snow Castle,SC,Greenville,29607,6.0,3.0,2109 Woodruff Rd,shavedice,34.820459,-82.258588
+15,XoslJjCgRUmlU7wGoP2aYw,Rita's Italian Ice,SC,Greenville,29609,19.0,4.5,2400-A North Pleasantburg Dr,icecream desserts shavedice,34.8911,-82.38005
+16,StBgTWLwWmwffFCZKbI-bw,Whistle Stop at The American Cafe,SC,Travelers Rest,29690,184.0,3.0,109 S Main St,bbq tradamerican,34.964255,-82.441397
+17,bzQYj4l8vpdtv6KTqf6Qgw,Sub Station II,SC,Taylors,29687,19.0,4.5,41 Edwards Mill Rd,sandwiches catering,34.9178285117379,-82.31765729173
+18,L4GBV2rBF-NkRRXxdOHtpQ,Menkoi Noodle House,SC,Greenville,29601,168.0,4.5,241 N Main St,ramen noodles japacurry,34.85365,-82.398078
+19,xZCq7TKlZpPZBJC2Xy1NXA,Twisted Cup,SC,Simpsonville,29681,13.0,3.5,2531 Woodruff Rd,shavedice juicebars icecream,34.808177947998,-82.23388671875
+22,pi589-w80LQh_JlVJWSDxw,Northgate Soda Shop,SC,Greenville,29609,48.0,4.5,918 N Main St,pubs tradamerican,34.8643351346254,-82.393050044775
+1,zsm21R9Hi1KFlmc9AEEWdg,Cosmic Rabbits Tea Company,SC,Greenville,29601,50.0,4.5,131 E Mcbee Ave,bubbletea tea,34.8492873267903,-82.3981373246389
+4,evMdWAn7NaLwYjfDd0e-Rw,White Rabbit Tea Shoppe,SC,Powdersville,29673,2.0,5.0,3407 Hwy 153,bubbletea tea sandwiches,34.78639948951837,-82.47927655384663
+5,k4BYVuLUmC53FFDUY85diA,O-CHA Tea Bar,SC,Greenville,29601,147.0,4.0,300 River St,tea vegetarian bubbletea,34.8474082946777,-82.4032135009766
+7,wBTLn5gGJ3Flkbq42w1UCg,Ding Tea Greenville,SC,Greenville,29615,59.0,4.5,30 Orchard Park Dr,bubbletea coffee juicebars,34.855280729299366,-82.33360679942204
+10,sU6N4_2v36Y7FsWukJoICg,Kung Fu Tea,SC,Greenville,29607,13.0,3.5,581 Haywood Rd,coffee bubbletea juicebars,34.84783078458703,-82.3403484417242
+11,Mh9a3Zc78w46m02fCgVY-A,Asia Pacific Super Market,SC,Greenville,29607,142.0,4.5,420 N Pleasantburg Dr,intlgrocery chinese,34.85289,-82.35708
+12,6VNJ8WB4Zt0-QJE901S2Dg,Lin's Asian Cafe Five Forks,SC,Simpsonville,29681,100.0,4.0,2603-B Woodruff Rd,chinese thai sushi,34.806372,-82.230881
+17,sWrQ_TkWW4Vyws0bGY4Nvg,Saigon Fast Food,SC,Greenville,29607,119.0,4.0,1011 N Pleasantburg Dr,vietnamese,34.86713,-82.35832
+18,7zmtI6nOpP8WnVqPSXbZBA,Pho Noodleville,SC,Greenville,29615,146.0,4.0,21 Orchard Park Dr,vietnamese noodles,34.857509,-82.33381
+19,vILtQZOAP_LqkV_BB4e0cQ,Chef 21 Sushi Burger,SC,Simpsonville,29680,42.0,4.0,699 Fairview Rd,sushi burgers salad,34.706319,-82.255358
+20,NXqlvkeqjf_0Tpmv2-ENJQ,Tuk Tuk Thai and Vietnamese Kitchen,SC,Taylors,29687,123.0,4.5,5010 Old Spartanburg Rd,thai vietnamese,34.89114017,-82.295111
+21,WnqmLAy7L6DG3MJniRkI0w,Trubroth,SC,Travelers Rest,29690,59.0,4.5,36A S Main St,coffee vietnamese soup,34.96647,-82.44132
+23,FSUExvEqKHuAjDdhLjEHXw,Mekong Restaurant,SC,Greenville,29615,185.0,4.0,2013 Wade Hampton Blvd,vietnamese soup sandwiches,34.88258,-82.3575
+24,V8RPH_UoG7PJA4ATImYymg,Pho 99,SC,Greenville,29609,77.0,3.5,1540 Wade Hampton Blvd,vietnamese,34.87308,-82.36849
+24,ETQoxzt8mphfQuPhEXFQPw,Baristas Of East Cobb,GA,Marietta,30068,18.0,4.0,4932 Lower Roswell Rd,coffee shavedice juicebars,33.965356,-84.407538
+40,0feKkhJhRF71J87axzzgZQ,Amir's Nitrogen Ice Parlor,GA,Atlanta,30307,34.0,4.0,1245 Caroline St NE,icecream shavedice,33.75831652875459,-84.347974
+11,rHh8TWUHWXj8lzrjomdLJw,Frozen Bitez,GA,Lithonia,30058,4.0,3.5,6977 Main St,shavedice icecream,33.71155,-84.10602
+9,lXSTAynRevU-rkYGsut9zQ,Paw Paws Sno-balls,GA,Woodstock,30188,2.0,2.5,,shavedice streetvendors,34.1224212646484,-84.4478988647461
+13,i8jQFyhWSrrx3KBNdrldVQ,Tasty Donuts,TN,Chattanooga,37421,47.0,4.5,1414 Jenkins Rd,donuts tradamerican,35.008457,-85.152084
+1,0nzBdZZeGjZxffzD7TkJig,TaiChi Bubble Tea,TN,Chattanooga,37421,136.0,4.5,1820 Gunbarrel Rd,ramen bubbletea poke,35.0259401,-85.1559672
+7,l8ofVGWZehzermSi8qg7gw,Bubbles & Waffles,TN,Chattanooga,37421,1.0,5.0,2100 Hamilton Pl Blvd,waffles bubbletea,35.03472,-85.15859
+8,yCoN3RbTqZbqbafQbuOyzQ,Tea Time,GA,Woodstock,30189,12.0,4.0,1105 Parkside Ln,coffee bubbletea,34.10771,-84.55318
+27,epkH_AuGZ8vIgNlC18GOpw,FresqO Fresh,GA,Woodstock,30188,10.0,4.5,915 Ridgewalk Pkwy,breakfast_brunch sandwiches juicebars,34.12024206399747,-84.5265033
+25,rVWYJNr1XslXkbXFTLt63g,Poké Life,GA,Roswell,30076,120.0,4.5,10800 Alpharetta Hwy,poke bubbletea sandwiches,34.044419400589,-84.3409000948273
+35,naMel5amcGV2LB6DNHy95A,The Donut Shack,GA,Roswell,30076,73.0,4.5,1055 Mansell Rd,donuts soup coffee,34.042267,-84.3299
+37,7IiBE1J8nTbkn7JrQWi77A,Super Pho,GA,Alpharetta,30004,47.0,4.0,12315 Crabapple Rd,vietnamese bubbletea sandwiches,34.082822,-84.355275
+2,5vWphn1ZS7K6NeIQbQ_jjQ,828 Market on Main,NC,Waynesville,28786,7.0,5.0,180 N Main St,delis bars shavedice,35.492109,-82.9867579
+7,AdzBlasKmEUhsA25Vx6rFg,Dobra Tea,NC,Asheville,28806,104.0,4.5,707 Haywood Rd,tea vegetarian gluten_free,35.57771,-82.59201
+11,fcOr__HcHAb5-kHhOenGJw,Snowmies,GA,Woodstock,30188,8.0,4.5,115 Mill St,desserts shavedsnow icecream,34.100836,-84.5219978
+13,wCnopVfcSNP_couU-BGVVw,Pelican's Snoballs - Marietta,GA,Marietta,30066,27.0,4.5,3600 Canton Rd,shavedice,34.039365,-84.528049
+19,YEwnmeyL945qrMvAHrgm-Q,Big Easy Sno Balls,GA,Marietta,30062,3.0,4.0,2145 Roswell Rd,shavedice,33.96949,-84.49125
+22,URaap-BZBLDECQllpKFjSA,Pelican’s SnoBalls- Roswell,GA,Marietta,30062,3.0,3.5,1642 Roswell Rd,shavedice,33.953549,-84.504526
+25,4_kVH0-sq1cHTWB2yUPadQ,Pelicans Snow Balls,GA,Marietta,30062,1.0,5.0,1642 Roswell Rd,shavedice,33.953525,-84.504527
+40,SWRClxGoXxHDKUdV6gQPbg,La Michoacana Helados,GA,Marietta,30060,1.0,5.0,1977 S Cobb Dr,icecream shavedice,33.9040447217559,-84.5416091009974
+44,9TpDxeHv55coqHoEwgKOgQ,Nom Station,GA,Marietta,30067,54.0,4.5,3000 Windy Hilll Rd,juicebars icecream bubbletea,33.904144,-84.466277
+45,pd26jIQUTITDBQgE8sbLLg,Juniper Cafe,GA,Atlanta,30318,41.0,4.5,2260 Marietta Blvd NW,vietnamese bakeries breakfast_brunch,33.81708,-84.44871
+8,ledfTmux2S93E-BF6ehKtQ,Pelican's Snoballs,GA,Conyers,30013,13.0,4.5,3184 Salem Rd SE,shavedice,33.60468,-83.972
+23,yBx7egbyNAaeM2M5Ze-vww,Fresh Treats Gourmet Bistro,GA,Decatur,30032,171.0,4.5,3148 Glenwood Rd,cheesesteaks italian salad,33.7389549,-84.2891572
+25,Lb7q5SWdUV5kGQf5X3vKsw,The Caboose,GA,Rutledge,30663,36.0,4.5,104 E Main St,sandwiches icecream salad,33.6272468566895,-83.611572265625
+33,Fw_fyQ9roz-xBE0vubuoRg,Up Top Slice N Ice,GA,Covington,30016,10.0,4.0,3300 Hwy 81,pizza shavedice chicken_wings,33.546359,-83.946075
+39,OVAnpqh4Wlq5gbFBCguOlQ,Sweet Thangs Carnival Eats,GA,Decatur,30032,14.0,4.5,1779 Columbia Dr,desserts shavedice icecream,33.73858133,-84.252991
+22,Y1ji-YbPMwfR8dBbMkSQqA,Nobi Cha Bubble Tea,GA,Atlanta,30342,23.0,4.5,4279 Roswell Rd,bubbletea,33.871665,-84.379812
+28,m1KVmBtIDHdTjZqQ5AlKow,Sharetea,GA,Sandy Springs,30328,237.0,4.0,5975 Roswell Rd,coffee bubbletea juicebars,33.9184150119034,-84.3774750457581
+32,NHQEgcRpFdbPgwKKmuQs3A,teamo tea cafe,GA,Sandy Springs,30328,221.0,4.0,5920 Roswell Rd,desserts bubbletea coffee,33.917158,-84.379878
+9,3YF-L-Zwl-9wqRyQRiN5_w,ZenTea,GA,Chamblee,30341,155.0,4.5,5356 Peachtree Rd,coffee,33.891284,-84.30194
+24,pMb6rcBT6jAYazioNIiwjQ,Sweet Hut Bakery & Cafe,GA,Atlanta,30326,63.0,4.0,3393 Peachtree Rd NE,bakeries cafes,33.8463272879604,-84.3620194494724
+29,85paB7fESTaVt_0hJydSZA,Pho & Com Asian Grill,GA,Roswell,30075,205.0,3.5,915 Woodstock Rd,vietnamese asianfusion,34.06212,-84.38835
+22,9L9D0C-QPLz3tZAHiB7MlQ,Gong Cha,GA,Dunwoody,30346,16.0,3.5,6505 Perimeter Mall,bubbletea,33.923761,-84.340324
+35,lpb7e5tnxppSy-_mBN_Edg,Sub Zero Nitrogen Ice Cream,GA,Atlanta,30342,135.0,3.5,5590 Roswell Rd,icecream desserts,33.90743301101037,-84.38011034358492
+36,zqTs9JzDgzwzQ4-AmBS81A,Family Baking,GA,Chamblee,30341,68.0,4.5,5389 New Peachtree Rd,bakeries coffee desserts,33.890659,-84.29997
+5,iQCBhiTT2UNI3AtF0skqeg,JINYA Ramen Bar - Sandy Springs,GA,Sandy Springs,30328,1413.0,4.5,5975 Roswell Rd,ramen,33.918637,-84.378324
+14,vdjzMgnuWrxYnywghyjwXA,Lee's Bakery,GA,Atlanta,30345,1004.0,4.0,4005 Buford Hwy NE,vietnamese sandwiches soup,33.8600684008012,-84.3088930037048
+15,yLOM7ql610g4CGZ7wOP_hw,Genji Izakaya,GA,Chamblee,30341,6.0,3.5,5001 Peachtree Blvd,ramen bubbletea izakaya,33.8848297845956,-84.3142647607579
+17,pqbZ5J40UlQjO_bxG_MGfw,Poke Bar Sandy Springs,GA,Sandy Springs,30328,347.0,4.5,6615 Roswell Rd NE,seafood poke sushi,33.935256,-84.378706
+35,cuvZh4F9zrexeOKC0W0_lw,Grand China Restaurant,GA,Atlanta,30305,420.0,4.0,2905 Peachtree Rd NE,chinese thai japanese,33.8362756,-84.3817358
+48,cS2H4NwmqfLxaSRyDLp9tg,Poke Bar - Chamblee,GA,Chamblee,30341,73.0,4.0,5070 Peachtree Blvd,poke bubbletea ramen,33.8886027265635,-84.3152575148193
+49,iMWq8cio5C__h0RBU6PoSQ,China Kitchen,GA,Chamblee,30341,95.0,4.0,5385 New Peachtree Rd,chinese soup hotpot,33.8907484,-84.3001492
+3,kkgXCsbYVbHoia9Pr214tQ,Pho 24,GA,Atlanta,30341,497.0,3.5,4646 Buford Hwy NE,vietnamese,33.8775326685455,-84.293369
+8,zofErJnOL4I0QKoVr_ZN6g,Pho Dai Loi 2,GA,Atlanta,30345,1066.0,4.0,4186 Buford Hwy NE,vietnamese,33.86517905104348,-84.3050091257995
+10,ZcUB2M-pVd0_6wxyq_TSpw,Wokdragon,GA,Atlanta,30326,44.0,3.0,3393 Peachtree Rd NE,food_court chinese,33.8455044040459,-84.3610376081817
+18,4bOwNP9ML8hQ2aXR5hLT6g,Nam Phuong,GA,Atlanta,30345,630.0,4.0,4051 Buford Hwy NE,vietnamese,33.86113,-84.30737
+21,0K-qCS0dQJ-ipL5lgnXH5w,Pho 24,GA,Sandy Springs,30328,137.0,3.0,6050 Roswell Rd,vietnamese,33.9193217725808,-84.3791735172272
+29,kVLkuQdeqd3dp-XMvAfi4g,Century Center Cafe,GA,Atlanta,30345,4.0,3.5,1800 Century Blvd N East,cafes,33.84697,-84.31356
+34,xHR3CCLtrDMaGzWp9B0luw,Starbucks,GA,Atlanta,30319,80.0,2.5,3901 Peachtree Rd NE,coffee,33.85718,-84.343735
+3,QTzlVDc2vzV2zOPH-ybkeA,Flavors of Hawaii - Authentic Hawaiian Shave Ice,GA,Acworth,30101,8.0,5.0,,hawaiian shavedice foodtrucks,34.0654296875,-84.6773986816406
+15,SePGTyV_nUZUQY4f0YUmfw,Snow On the Square,GA,Marietta,30060,36.0,4.5,31 Mill St,shavedice icecream shavedsnow,33.9532132754607,-84.5508820905582
+45,ieKnbRv9DVdYxpce7x2V8A,Just Loaf'N,GA,Marietta,30060,51.0,3.5,68 N Marietta Pkwy NW,cajun foodtrucks,33.954205,-84.551475
+11,dhKV8TohZ9grCKAhZIr78Q,Penang Malaysian Cuisine,GA,Kennesaw,30144,227.0,4.0,2491 George Busbee Pkwy NW,malaysian,34.0127296447754,-84.5660629272461
+13,TW4jmP0sTSDHQ8W_gDdaYg,Sarah Jean's Ice Cream,GA,Marietta,30060,69.0,3.5,109 N Park Sq,icecream coffee gelato,33.95336,-84.54936
+24,shNGCjMCThAEvSRTCKGSog,Pelican's Snoballs,GA,Douglasville,30134,32.0,4.5,12251 Veterans Memorial Hwy,shavedice icecream,33.753424,-84.742537
+26,MC8DdvKqCEqw9XQNniTg8g,Kayla's Italian Ice,GA,Douglasville,30134,2.0,5.0,,foodtrucks shavedice,33.7530725,-84.7591589
+43,RhRvB_o0crZc2iwz2vM6MQ,Flava King,GA,Marietta,30060,1.0,5.0,901 Milford Church Rd SW,shavedice desserts hotdog,33.88054,-84.58037
+13,C2b0n-TFVg6bl9PeKdgYsg,Tiny Bubbles Tea Bar,GA,Woodstock,30188,63.0,4.5,230 Chambers St,bubbletea coffee macarons,34.0989703,-84.5192663
+8,3heK965RB8BpGxq8CeTH-Q,Kaleido Sno,GA,Rome,30161,6.0,4.0,414 Broad St,cajun shavedice,34.254691,-85.170818
+2,rU8WjnYkgUNRelWDnClKTQ,Pelican's Snoballs,NC,Asheville,28803,19.0,4.5,2601 Sweeten Creek Rd,shavedice icecream,35.5108723145778,-82.5189283333333
+3,biwmR10BHiM-Yr8M_bl8bA,Rita's Italian Ice,NC,Asheville,28806,11.0,5.0,5 Regent Park Blvd,desserts shavedice icecream,35.590328,-82.581993
+8,CLmjlKcaZlYZa2iv6csu_g,Yolo Frozen Yogurt,NC,Asheville,28804,35.0,4.0,505 Merrimon Ave,icecream shavedice desserts,35.61585,-82.55449
+1,l2B4MnRsL9b1gRPhxKnpHQ,Bluebird Bubble Tea Bus,NC,Asheville,28806,1.0,5.0,99 Ascension Dr,foodtrucks bubbletea juicebars,35.5957164,-82.610185
+3,lxcphBTKeX4bmZbg306SDQ,Dobra Tea,NC,Asheville,28801,253.0,4.0,78 N Lexington Ave,tea vegetarian bubbletea,35.59746,-82.55332
+7,XAR2oRhfEPXIDE33e2dLLg,Aloha Cafe,NC,Asheville,28801,39.0,4.5,28 Battery Park Ave,poke sandwiches vietnamese,35.5952977861539,-82.5555366666667
+8,Kt86l9OsiPrpfggFABkg5w,Typhoon Noodle,NC,Asheville,28803,123.0,3.5,1834 Hendersonville Rd,asianfusion,35.504117,-82.5238473
+9,Ur3RMNYY8jjLtV54a2AQdA,Wild Ginger,NC,Asheville,28803,263.0,4.5,1950 Hendersonville Rd,asianfusion,35.491044,-82.522214
+12,IoeIJ3ZQnNVpik9Rxr_wqQ,Thai Kitchen,NC,Asheville,28804,95.0,3.5,535 Merrimon Ave,thai noodles wine_bars,35.617399,-82.554005
+14,uLiz7SbVgoy-IAl7EILG8Q,Suwana's Thai Orchid,NC,Asheville,28801,289.0,4.0,11 Broadway,thai wine_bars beerbar,35.59573,-82.55218
+4,TgkiysDE_plx0ikRtTl0SA,The Sweet Shaved Ice,TN,Soddy-Daisy,37379,1.0,5.0,8352 Dayton Pike,shavedice,35.217331,-85.22619
+5,bBP6R1f_AUZ6vvLV59CvxA,Tikiz Shaved Ice & Ice Cream,TN,Chattanooga,37412,1.0,5.0,,shavedice foodtrucks icecream,34.9972190856934,-85.2277297973633
+22,_LC-7zxZwN2QAUltAgNjPQ,Pelican's Snoballs,GA,Rome,30165,1.0,1.0,2302 Shorter Ave,desserts shavedice,34.27196,-85.23271
+6,hyScsgCFAqyT4nyeffkEkA,8F of Hixson,TN,Hixson,37343,12.0,5.0,5546 Hwy 153,icecream bubbletea juicebars,35.1467209,-85.2486772
+14,NFB3731isefdIsa1X9uASw,Sweet Hut Bakery & Cafe,GA,Marietta,30066,321.0,4.5,2795 Chastain Meadows Pkwy,cafes bakeries customcakes,34.019800070880336,-84.5541585423164
+18,VFpOsAV5QSs43NK3JBk3hw,Oolong Bubble Teahouse,GA,Kennesaw,30144,55.0,4.0,2950 George Busbee Pkwy NW,bubbletea juicebars,34.025498,-84.566903
+20,ZZ9IyHG8d0hDzisbuBWEgw,Sips of Tea,GA,Kennesaw,30144,14.0,4.5,3895 Cherokee St NW,bubbletea,34.048189,-84.601166
+23,0_Vu4Hqzf4AeqAko2csORA,Queen Tea,GA,Kennesaw,30144,162.0,4.5,425 Ernest W Barrett Pkwy NW,bubbletea dimsum chicken_wings,34.01114699088001,-84.5627335589341
+28,le6msBiVy_C_FlWL_hWycA,Chopstix,TN,Chattanooga,37421,196.0,4.5,6903 Lee Hwy,vietnamese bubbletea korean,35.0432567762187,-85.1657224074074
+32,KA0vaVhzyCy6BooNAvEaAw,Snowy Rolls Ice Cream,GA,Marietta,30062,27.0,4.0,3162 Johnson Ferry Rd,desserts icecream bubbletea,34.0254224832025,-84.42326351700287
+34,kdAGLq235HbYMAEr9SZ7zg,The Spot,TN,Chattanooga,37404,45.0,4.5,1800 E Main St,coffee salad icecream,35.02635,-85.28157
+36,UZuab5WkblZpWOiEJ26NWA,Marble House Coffee,GA,Acworth,30101,23.0,4.5,2537 Cedarcrest Rd,coffee bubbletea,34.03725,-84.77432
+38,GugLQ0LeT6jfMrHDBtKFsw,Tiger Sugar,GA,Kennesaw,30144,27.0,4.0,840 Ernest W Barrett Pkwy NW,tea bubbletea coffee,34.00555,-84.5756
+44,itnVwveNVYdElwvJ4ggX0Q,City Creamery,GA,Rome,30161,20.0,3.5,225 Broad St,icecream coffee,34.25356,-85.17391
+45,pU7qs2GtLdiOXRxIwqQW0A,Kung Fu Tea,GA,Marietta,30066,87.0,3.5,2505 Chastain Meadows Pkwy,bubbletea coffee juicebars,34.0161845054882,-84.5562389892909
+46,aKEMxmrs3tHARaTqmKnQhg,Saigon Cafe,GA,Woodstock,30188,263.0,4.0,12195 Hwy 92,vietnamese thai malaysian,34.0892776381258,-84.4830656298733
+12,ZDLyh3gApzVIUf77bWaPuw,Kennesaw Coffee,GA,Kennesaw,30144,28.0,4.5,3070 N Main St,coffee,34.02986,-84.6264999
+13,Qn2FY0sD5YM-MgiO1UaD1g,Teriyaki House,TN,Chattanooga,37412,20.0,3.5,5908 Ringgold Rd,japanese bubbletea salad,34.9897613525391,-85.2169570922852
+19,PonXCAG9zWSfO-PgO0gCQQ,Kokee Tea,GA,Kennesaw,30144,5.0,2.0,400 Ernest W Barrett Pkwy,bubbletea,34.01417,-84.56076
+21,uRWvdjDMJvHQnPcxRLvGpg,Marietta Donuts 2,GA,Kennesaw,30152,10.0,5.0,2953 Cobb Pkwy NW,donuts coffee bubbletea,34.02635,-84.63668
+39,M_QfafVdmy2XgCHHvaRDpw,Boru Ramen Noodle & Poke Bar,GA,Kennesaw,30144,255.0,3.5,440 Ernest W Barrett Pkwy NW,poke ramen sushi,34.013372516510195,-84.5634996
+2,BdNrZUQiG9sT4dBNNBMQRA,Teriyaki Box,GA,Kennesaw,30144,56.0,3.5,745 Chastain Rd NW,sushi japanese bubbletea,34.034448997708,-84.5703080669045
+16,nQuLxY9ntSEgqicnKExRPQ,Happy China,GA,Woodstock,30188,14.0,3.0,300 Village Center Dr,chinese,34.088122,-84.468336
+1,l0r5ohrWFRpBpvZcBgwN5A,Taichi Bubble Tea Downtown,TN,Chattanooga,37402,111.0,4.5,411 Broad St,bubbletea ramen poke,35.05147,-85.31089
+7,wPwn4LPBzt8Sfg7n3oK56g,Kung Fu Tea,TN,Chattanooga,37405,44.0,3.5,50 Frazier Ave,bubbletea coffee juicebars,35.062268,-85.306819
+37,5tLFpbstSSaE56L7UwT0BQ,Thai Smile,TN,Chattanooga,37402,178.0,3.5,219 Market St,thai,35.0541672665334,-85.3098331814131
+8,0aUctJEHbucuOmkXThe98Q,Pelican’s SnoBalls - Jonesboro,GA,Jonesboro,30236,1.0,5.0,7556 Tara Blvd,shavedice shavedsnow,33.54853,-84.36916
+19,60VMr2t3IRFlqZbtQx6SBw,Wigie’s Italian Icees,GA,Forest Park,30297,1.0,5.0,4603 Jonesboro Rd,shavedice,33.6328752605746,-84.3579964714435
+21,5RQmNBMDb-dtTji7ub2e3A,Big Sneaux,GA,Forest Park,30297,1.0,5.0,1111 Forest Pkwy,shavedice,33.6168188,-84.3545777
+38,vLhyoQT99xgdk--SEh68mw,Rio's Italian Ice,GA,Atlanta,30315,4.0,5.0,1518 Jonesboro Rd,shavedice icecream foodtrucks,33.712796,-84.3822293
+40,emCsQinjDnkvU6nXp68nWg,Oasis Raspados,GA,Atlanta,30312,3.0,4.5,,shavedice icecream,33.75674,-84.37181
+11,Z0U_51dSJ84aTCXF3AnEpA,BeeFresh Bowls,GA,Covington,30014,1.0,5.0,1153 Monticello St SW,bubbletea acaibowls,33.59548729999999,-83.8602121
+15,Se7McpauUGP9I18lktXbYg,Kelly's Fusion Express,GA,Conyers,30013,63.0,4.0,1820 Ga 20 SE,ramen bubbletea poke,33.640108697234695,-84.01313659068691
+40,tp6qC7jbKUCHTkI75LQgnQ,Bangkok Grill,GA,Covington,30014,72.0,4.0,5135 Hwy 278 NW,thai salad soup,33.603998,-83.8705376
+15,NmCZiZ3mEQoAiIAX2sNr7g,Pelican’s SnoBalls,GA,Griffin,30223,1.0,5.0,732 W Taylor St,shavedice icecream,33.247022,-84.274882
+9,TE9S4omzQnKQ30kzE6Gq1w,Sno Biz,GA,Griffin,30224,1.0,5.0,1601 Williamson Rd,shavedice,33.22579,-84.29831
+2,G4f6zFgASrByrRG4D5vW4w,Maddlulu,GA,Porterdale,30014,24.0,4.5,2021 Main St,coffee juicebars bubbletea,33.57203,-83.89682
+1,JgBswX-fPTxDImvAQRG6gg,Pinky's Shaved Ice,GA,Macon,77573,3.0,4.0,,shavedice foodtrucks,32.838096618652344,-83.6705093383789
+11,HT2aKMJMrrRaNWzva__QNQ,Nu-Way Weiners,GA,Macon,31217,18.0,4.0,148 Emery Hwy,shavedice hotdogs hotdog,32.8483449,-83.6247111
+12,sN06OkNvD-yXK4cvbwxpaA,Macon Pizza Company,GA,Macon,31210,90.0,4.0,5978 Zebulon Rd,pizza,32.8781245508033,-83.7613949727373
+15,1Qn-xNvl3g5FM1q7fi8MOw,Nu-Way Weiners,GA,Macon,31210,16.0,4.0,3990 Northside Dr,hotdog burgers hotdogs,32.898499,-83.702072
+27,7X5rYjvCd4PrfGpkFKdLKw,Shogun Japanese Steakhouse Bar & Grill,GA,Macon,31204,42.0,3.5,900 Northwoods Plz,japanese,32.8734183,-83.6658543
+8,0RMynHBhbGehWH8klA_8bQ,Chico and Chang,GA,Macon,31210,312.0,4.5,3850 Riverside Dr,korean mexican asianfusion,32.90224,-83.68823
+9,Gh04jjbFOADrnUtLTRtHsA,Hello Boba Cafe,GA,Macon,31201,2.0,5.0,359 Third St,bubbletea desserts,32.83637,-83.62726
+10,v8V2AXDZ_ljONjm5bSSHTw,Cake ‘n Shake,GA,Locust Grove,30248,48.0,4.5,1000 Tanger Dr,desserts icecream bubbletea,33.34761387530713,-84.1232383921164
+12,dr8swXIfwGrrB91Bnp_O9g,Pho Saigon,GA,Macon,31210,135.0,3.5,3076 Riverside Dr,vietnamese,32.88939,-83.67781
+29,Hv9UEhmbmx22gEDiGI2M7Q,Dua Fish Tank Macon,GA,Macon,31201,2.0,4.5,781 Spring St,bubbletea poke vietnamese,32.83459906661301,-83.6380435
+10,3jFYrTqsNXlvoFfmhlY6yA,Snack Time,SC,Woodruff,29388,2.0,5.0,304 A N Main St,shavedice foodstands hawaiian,34.741586,-82.039329
+2,IJziMTCufrxTq4oVvqE2MA,Pinguinos Hermanos,SC,Greer,29651,4.0,5.0,14150 E Wade Hampton Blvd,shavedice,34.94810617,-82.21166617
+10,hDO8HcADABL3MBQxEOZzrA,Aspen Shaved Ice,SC,Lyman,29365,2.0,5.0,200 Spartanburg Hwy,shavedice foodtrucks,34.95465,-82.11923
+11,xrKdGikIz8tx7juOe8CrCA,Pelican's Snoballs,SC,Woodruff,29388,2.0,4.0,7327 Reidville Rd,shavedice,34.86314,-82.11305
+10,vDdqSVm9r9xCAWMNZca5Cw,Ding Tea McDonough,GA,McDonough,30253,3.0,4.5,99 Hwy 81 W,bubbletea coffee juicebars,33.4256417,-84.18524177840833
+13,XEaScza1tVNl9KiYIjEwPg,Boba Lubu Tea,GA,Stockbridge,30281,36.0,4.0,930 Eagles Landing Pkwy,coffee desserts bubbletea,33.51347,-84.21929
+22,iMWxg8s1bMGeDA_6RAw7-g,Bubble Boba,GA,McDonough,30253,6.0,3.0,2162 Hwy 20 W,icecream bubbletea,33.413233,-84.202566
+23,6Jw_Ub3rXXzgMQ8ppPKFpw,King Kong Milk Tea & Smoothie,GA,McDonough,30253,18.0,3.5,1921 Jonesboro Rd,bubbletea juicebars,33.46420129204196,-84.22095789860532
+24,VImj4fxM0FmNmuv1fCPUdQ,Pho Town,GA,McDonough,30253,89.0,4.0,1917 Jonesboro Rd,vietnamese bubbletea,33.461198,-84.217962
+29,j9uxRo1AZwwTKKne-PwV9A,Mcdoughnuts,GA,McDonough,30253,47.0,5.0,2105 Jonesboro Rd,donuts coffee,33.4640273,-84.2246481481
+0,tAKnwn_2EWESt1Il71NRYg,Thai Time,GA,McDonough,30253,98.0,3.5,1134 Hwy 20/81,thai,33.42988,-84.18022
+6,fn_Co3ZHm7C3tn3fzJ7bSw,Sweet Rolled Tacos,GA,Stockbridge,30281,6.0,3.0,82 Hwy 138 W,icecream bubbletea coffee,33.55398725298253,-84.26169632986782
+20,GxHF1bIjXGCL8yI2KpUijQ,Thai Garden,GA,McDonough,30253,47.0,3.5,2675 Hwy 42 N,thai,33.5170160858197,-84.1914411037821
+27,zhQRbK4yPOtrpmi_Fq6Lww,China Express,GA,Decatur,30032,2.0,3.5,1988 Candler Rd,chinese,33.73285811514213,-84.28290030768193
+20,R5h5tGPXCfppWjXbUM7X8w,Everythang Nola Cafe,GA,Atlanta,30310,42.0,5.0,1699 Sylvan Rd SW,coffee shavedice acaibowls,33.708431,-84.418445
+4,5NVozSrIuLIVSC2yiUbO5A,Tiny Bubbles Tea Bar,GA,Marietta,30060,321.0,4.5,21 W Park Sq NE,bubbletea coffee macarons,33.9525004423721,-84.5502141483387
+8,p_YUVC4BKN_4ZUM80UtOuw,FruiTea Bubbles Cafe,GA,Smyrna,30080,3.0,5.0,300 Village Green Cir,bubbletea coffee,33.88498,-84.51563
+10,u_geqnXuTt2amaaIJu4l5A,South Marble Coffee House,GA,Rockmart,30153,20.0,4.5,212 South Marble St,coffee,33.99625,-85.05219
+26,mX-FZ8saEYRmf0BNhJPZUg,The Spot Coffee Shop,AL,Fort Payne,35967,57.0,4.5,101 Gault Ave N,coffee cafes,34.4410399574778,-85.7223308739197
+33,nustCF2Q4nI2wokPH0GAVA,Taichi Bubble Tea,GA,Atlanta,30329,87.0,4.0,2484 Briarcliff Rd NE,bubbletea,33.828108,-84.332114
+39,Znm6v4Q4juG-iXPeXM3oxw,Tiny Bubbles Tea Bar at Marietta Square Market,GA,Marietta,30060,26.0,4.5,68 N North Marietta Pkwy NW,bubbletea icecream coffee,33.954274,-84.551531
+4,Cd-M4AOLiOh17vPOCzrC6A,Kung Fu Tea,GA,Atlanta,30339,33.0,4.0,925 Battery Ave,bubbletea coffee juicebars,33.887485,-84.470852
+9,_6llk-h6g1ed7erxhCvSLQ,Queen Tea,GA,Marietta,30064,1.0,5.0,3625 Dallas Hwy,bubbletea,33.95250410800057,-84.656207161269
+12,RGIYWPHEAGUBNq9Pl9MFgQ,TBaar,GA,Atlanta,30339,14.0,2.0,2860 Cumberland Mall SE,bubbletea juicebars,33.880682,-84.469788
+17,rVFksx1sktVxHLvuzJ8OJA,Pho Oh Pho,GA,Marietta,30064,30.0,4.5,1812 Powder Springs Rd SW,vietnamese,33.900624,-84.606959
+28,VNkK2wEtV-3D14iZt0pk3g,Saigon Cafe - Cumberland,GA,Smyrna,30080,201.0,3.5,2700 Cobb Pkwy,vietnamese thai chinese,33.8870397386265,-84.4755952779047
+33,wGbX6zQQ5fH26c1m9xdSzw,Pho Hoang Long,GA,Marietta,30060,425.0,4.0,371 Pat Mell Rd,vietnamese noodles,33.9025191433323,-84.5433374205211
+5,ks31oDg6BH-EMiiQaZdYzQ,Lucky Dragon Restaurant,GA,Marietta,30008,49.0,3.0,3750 Austell Rd SW,chinese asianfusion,33.8621215820312,-84.5974807739258
+10,fFLuFLlnPzvRQMebfnrtTA,Pho Dakao,GA,Smyrna,30080,292.0,4.0,2411 Cobb Pkwy,vietnamese,33.893448933529314,-84.47740268469437
+13,dgnA9CPdjjcRYxzfbr4EMA,Ph'East - A Far East Street Feast,GA,Atlanta,30339,53.0,4.5,925 Battery Ave,asianfusion coffee,33.88795171007801,-84.47054699998698
+20,FA2aqGbhP2VO9e_fEyRgoA,Cool Beans Coffee Roasters,GA,Marietta,30060,316.0,4.5,31 Mill St,coffee,33.9531211853027,-84.5508575439453
+21,bIcl1C0cBTmyqO_lfba0uw,Perks Coffee,GA,Atlanta,30339,59.0,4.0,3000 Windy Hill Rd SE,coffee bagels bakeries,33.904389,-84.4664027012146
+24,VmTJD300jYyHa7D4JsMrTg,Marietta Crawfish,GA,Marietta,30068,91.0,4.0,1420 Roswell Rd,chicken_wings cajun seafood,33.9507371,-84.5105929
+30,pZe89ewsEYlvtlMW4PkhNQ,Marietta Square Market,GA,Marietta,30060,112.0,4.0,68 N Marietta Pkwy NW,foodstands,33.9541894,-84.5514571
+42,g2u3_cTrHjOMvCLD1vXybw,Stockyard Burgers and Bones,GA,Marietta,30060,840.0,4.0,26 Mill St,newamerican beer_and_wine,33.9532241963646,-84.5516076147987
+8,79q-68qffx-1fYfmGwr2Hw,Thai Chili,GA,Atlanta,30329,241.0,3.5,2169 Briarcliff Rd NE,thai vegetarian,33.8171798,-84.3349987
+1,f0xqHm4Tz7erU7waIGWa4A,Mumdee's,GA,Flintstone,30725,1.0,5.0,3277 Chattanooga Valley Rd,shavedice,34.9358468,-85.3446883
+3,8ShdU-w84WbfkmxAfWIcrQ,Bill's Shaved Ice,TN,Chattanooga,37405,1.0,3.0,199 River St,shavedice foodtrucks icecream,35.0619268,-85.3062944
+5,HeicXEfpU6KTszFeBsukrQ,Happy's House,TN,Chattanooga,37405,2.0,3.0,200 River St,shavedice foodtrucks,35.06130291612442,-85.306633785367
+6,yIRZD4EjysMgGklv5A8HyA,Snack Shack,TN,Jasper,37347,3.0,2.5,904 Betsy Pack Dr,breakfast_brunch icecream shavedice,35.0838914275849,-85.6237039804638
+7,i3HIbKAydAJ1S3CgHeCiag,STIR,TN,Chattanooga,37402,578.0,4.0,1444 Market St,cocktailbars newamerican,35.0370335,-85.3071999
+24,7R20uNi9o-oAerXoAIMcCA,Panda Express,AL,Gadsden,35903,15.0,2.0,500 East Meighan Blvd.,chinese hotdogs bubbletea,34.00929,-85.98578
+0,lUszt-A_n-ZFw0uUIFn_QQ,Mars Shaved Ice,AL,Gadsden,35901,1.0,5.0,346 N Albert Rains Blvd,shavedice,34.0180400547085,-85.992945643626
+6,pYc7v76NYOiVQ-1rEEGT0g,Mars Shaved Ice,AL,Centre,35960,2.0,4.5,1100 W Main St,shavedice icecream,34.1559621584082,-85.6936826403804
+7,jc6-fL2lukbVWpBuZdMhcA,Sno Biz,AL,Albertville,35950,1.0,5.0,118 E Main Street,shavedice icecream,34.26781,-86.20782
+8,Mcl1ZtWyjZ46vXRzdvbjdA,Krazy Kupz,GA,Villa Rica,30180,1.0,5.0,205 S Carroll Rd,shavedice,33.73046,-84.92
+8,Is0FNb9VyINu-t-42vt08g,The Bubble Hut,GA,Douglasville,30135,30.0,4.0,3869 Chapel Hill Rd,bubbletea,33.69972,-84.7166
+9,3dnH-wVA29UhoYF_Edu8kA,Isshin Asian Cafe,AL,Jacksonville,36265,9.0,3.5,815 Pelham Rd S,sushi asianfusion noodles,33.8049761924013,-85.763102728775
+11,tW7zZdOTtOOlj74HlFL20Q,Sprinkles Donuts & Coffee Company,GA,Villa Rica,30180,65.0,4.5,2000 Mirror Lake Blvd,coffee donuts,33.7329268601138,-84.8982000723481
+12,UUTkCfGgkg8SLJPNNovw6g,Fong's Asian Market,GA,Villa Rica,30180,21.0,4.5,219 W Wilson St,chinese bbq chickenshop,33.73186987456842,-84.92081728561176
+18,Aegb777M0_To35j4cOIrqw,Iced And Topped Bakery Shoppe,GA,Douglasville,30135,14.0,4.5,9459 Hwy 5,bakeries desserts breakfast_brunch,33.72572709498361,-84.76352516349763
+15,3wWnr3aCA2aVx81jOTkXIw,Ta Krai Thai Cuisine,TN,Winchester,37398,30.0,4.0,11 S College St,thai,35.18664,-86.11131
+9,qpJaQRkRxZwctV4G3T4vQA,Möge Tee Atlanta Downtown,GA,Atlanta,30303,6.0,4.5,68 Broad St NW,bubbletea,33.756,-84.38924
+23,HEiwvO4Vt9Jy2Oi278fqDg,Tea Leaf and Creamery,GA,Decatur,30033,118.0,4.5,2052 North Decatur Rd,bubbletea juicebars icecream,33.790982,-84.3075017
+31,HkV1JrbeBHhDutCFx_8o2A,Honey Bubble,GA,Atlanta,30306,580.0,3.5,798 Ponce De Leon Ave NE,bubbletea coffee macarons,33.7739334,-84.3611679
+37,83maS2mCXYZjuwEhozVtLA,Sweet Hut Bakery & Cafe,GA,Atlanta,30309,765.0,4.0,935 Peachtree St NE,coffee bakeries sandwiches,33.780215,-84.3839385
+45,Fr3L-ESJpRtAMTllnys5rQ,Unbelibubble,GA,Atlanta,30318,28.0,4.0,1235 Chattahoochee Ave NW,bubbletea,33.802955159514575,-84.42859086835676
+4,KuYg_mDbI0uWhsYIQWYhpA,Unbelibubble,GA,Atlanta,30361,5.0,3.0,1197 Peachtree St NE,bubbletea,33.787899879703026,-84.38201645790474
+8,MirnOwfeKpYAtS5b_mGuFg,Tea Corner,GA,Atlanta,30308,47.0,4.0,620 Peachtree St NE,bubbletea coffee,33.771881,-84.3858263
+9,oTRt8J-tW8EsQmWzSVrZGA,Hiro Ramen and Tea Bar,GA,Decatur,30033,68.0,4.5,1363 Clairmont Rd,ramen bubbletea,33.7926418,-84.3050309
+13,B-PV69ukBpuOG3hWASDwiA,Ding Tea Atlanta,GA,Atlanta,30318,16.0,3.5,1000 Northside Dr NW,bubbletea coffee juicebars,33.782098020673644,-84.40777200982743
+14,BrZa7uzpKHil9aPs0gO-3w,Lady Ha,GA,Atlanta,30308,37.0,4.5,699 Ponce De Leon Ave NE,vietnamese,33.77282,-84.36388
+24,oPoBBnSQlil1SWkX802asA,Momonoki,GA,Atlanta,30309,431.0,4.0,95 8th St NW,cafes ramen,33.779748110268365,-84.39012731764342
+29,1n400R1ooPgv2KUhC-OU4w,Where's The Scoop?,GA,Atlanta,30308,16.0,4.5,985 Monroe Dr NE,icecream bubbletea coffee,33.781383,-84.368318
+34,Z3luDKGf-YOtXKvF-ys-lw,We Suki Suki,GA,Atlanta,30316,288.0,4.5,479-B Flat Shoals Ave SE,vietnamese asianfusion,33.7410361,-84.3466235
+36,VGHMNIccTuq_xBrHmxkoCQ,Bao Bun Hibachi,GA,Atlanta,30318,122.0,4.5,1715 Howell Mill Rd,asianfusion taiwanese chinese,33.80124531592378,-84.41344091460009
+49,UQkGyTLwFUDNE25BJhAOXw,Chattahoochee Food Works,GA,Atlanta,30318,46.0,4.0,1235 Chattahoochee Ave NW,food_court,33.802950700828575,-84.42859106406777
+2,5Z0M3VkIccVWVKsXDwUgoQ,PaoPao Ramen Factory And Bar,GA,Atlanta,30329,254.0,4.0,2929 N Druid Hills Rd NE,ramen noodles asianfusion,33.8153785,-84.31183283
+5,emWWcSEYCEVdfbpoQh313Q,BullGogi,GA,Decatur,30033,220.0,4.5,2140 N Decatur Rd,poke korean asianfusion,33.7904,-84.30485
+10,akEC_AkKFO6Tc3zGJawfqQ,Poke Bar - Decatur,GA,Decatur,30030,46.0,4.5,419 Church St,sushi poke hawaiian,33.775098,-84.2947367
+15,8pe8lwDLrYaK56v_or-zLw,Ton Ton,GA,Atlanta,30308,620.0,4.0,675 Ponce De Leon Ave NE,ramen,33.773011,-84.365651
+20,YES12b8B0afEx-SWv-o1nw,Dua Vietnamese,GA,Atlanta,30303,406.0,4.0,53 Broad St NW,vietnamese salad noodles,33.7555787158321,-84.3893662792789
+22,aCHyEtJ_bKsi_UIVJufU7A,Ssam Burger,GA,Atlanta,30318,306.0,4.5,2072 Defoors Ferry Rd NW,burgers korean chicken_wings,33.8116798,-84.4263763
+24,KTXXK0uWjzOKtcQFm9twYQ,East Wave Asian Fusion,GA,Atlanta,30303,90.0,3.5,60 Luckie St NW,asianfusion chinese,33.756351,-84.389144
+27,hJt6fBcqM70g1npOYYydFA,Saigon Cafe,GA,Decatur,30033,289.0,3.5,2092 N Decatur Rd,vietnamese thai chinese,33.791335,-84.30575
+28,_EDPYQJ4-KKivHOdF3XHhA,Gu's Dumplings,GA,Atlanta,30307,524.0,3.5,99 Krog St NE,szechuan catering,33.7567055924841,-84.3641988024076
+29,4pG0kfb_AQdJ8NJ9Qe872g,Le Fat,GA,Atlanta,30318,436.0,4.0,935 Marietta St NW,vietnamese noodles soup,33.7782571443005,-84.4090312890244
+30,jJ1ecSluTUZO6rm-zsDrRg,Sweet & Fresh,GA,Atlanta,30308,31.0,2.5,708 Spring St NW,bubbletea burgers juicebars,33.774037,-84.389226
+31,jPBySXO_3jOwdP4M473uXw,Boruboru sushi,GA,Atlanta,30322,211.0,4.0,1568 Avenue Pl,sushi poke japanese,33.800721189183,-84.3265157192945
+33,Z6a-a9OihhTxVfon5jMP5w,Bun Mi Vietnamese Grill,GA,Atlanta,30309,158.0,4.5,1197 Peachtree St NE,vietnamese sandwiches noodles,33.787805851976515,-84.38213119999999
+38,ZtHoM3IYOiK4k81OmDTiHA,Caribou Coffee,GA,Atlanta,30303,29.0,4.0,231 Peachtree Street,coffee,33.760433,-84.387107
+39,yPrwvd6z5dCHWU8l4b8nyA,Budi's Sushi,GA,Atlanta,30312,382.0,4.5,349 Decatur St SE,sushi asianfusion ramen,33.74976715614265,-84.37848633176273
+41,bqryFFSvCWpJuGmIW-4OBQ,Pyng Ho,GA,Decatur,30033,112.0,3.0,1357 Clairmont Rd,chinese,33.7925301,-84.3055344
+42,i8ieIxe7psFM3uD4idovgg,Umma's House Restaurant & Cafe,GA,Atlanta,30308,99.0,3.0,75 5th St NW,japanese korean sushi,33.77719,-84.38912
+46,_1GbT1xTQGJ075MGlYJvVw,Poke City,GA,Atlanta,30309,52.0,4.0,2221 Peachtree Rd NE,hawaiian poke acaibowls,33.8147748785096,-84.3910792803566
+49,vSQqLymwWnNpzN36iEjrWg,Pho King Express,GA,Atlanta,30303,28.0,4.0,18 Park Pl NE S,vietnamese,33.754055851317176,-84.38876987773529
+0,jHA2B-vFKZ6QhUX8HDPgEA,Pho 24 - Atlanta,GA,Atlanta,30363,76.0,2.5,264 19th St NW,vietnamese noodles sandwiches,33.7930190379421,-84.39709500223967
+2,U3LxFm7LMo68BELk6hRWAA,Pho King,GA,Atlanta,30309,258.0,3.5,950 W Peachtree St NW,vietnamese soup bubbletea,33.78022,-84.38753
+4,SYR-50l8oJmxYUS5QkSPQg,Atlanta Food Truck Park,GA,Atlanta,30318,173.0,3.5,1850 Howell Mill Rd,streetvendors foodstands,33.8063953879368,-84.4136238098145
+16,-2nIowA3Nd68ogkfGhZBtQ,Politan Row at Colony Square,GA,Atlanta,30361,52.0,3.5,1197 Peachtree St NE,food_court,33.78774467834312,-84.38207826391445
+22,XnnZywAYuHxUkS6Fk3MrlQ,Vietvana Pho Noodle House - Atlanta,GA,Atlanta,30308,82.0,4.0,848 Spring St NW,vietnamese noodles sandwiches,33.77741,-84.3901
+25,7-5uyxn3aErO961QwdFrXA,Panda Express,GA,Atlanta,30332,12.0,3.5,350 Ferst Drive Nw,hotdogs chinese,33.77387379545877,-84.39888691389811
+8,N4vnmf4fbkXZEjL0mqRlGg,Goodness Flows - Bryan's Café,SC,Saluda,29138,1.0,4.0,121 E Church St,coffee shavedice juicebars,34.0017743554091,-81.7712193896882
+0,V5zycDlNNrfJFCRaRunoHw,SnoBiz Warner Robins,GA,Warner Robins,31088,2.0,4.5,4993 Russell Pkwy,shavedice juicebars hotdog,32.578917,-83.718969
+2,USasrpACIUs-pdZ5Q11UEw,Mekong Deli,GA,Warner Robins,31088,3.0,4.5,1806 Russell Pkwy,asianfusion delis sandwiches,32.593775,-83.666181
+0,IujVAQHmM0BcBxK2vUMg2w,Sereni Tea,GA,Tifton,31794,5.0,4.0,218 Magnolia Dr,bubbletea,31.4590603,-83.5250308
+1,5IQ1jQGc6NsMXYDywD6meg,Tbreak Pho and Boba,GA,Warner Robins,31093,74.0,4.0,4027 Watson Blvd,vietnamese bubbletea,32.61533854942871,-83.69887014461854
+2,aml5AFT5ywrfHdD2rpe-Eg,Saigon Noodle House,GA,Bonaire,31005,112.0,3.5,402 Ga Hwy 247 S,vietnamese noodles,32.5675478,-83.5946029
+3,N9UxtJddupv3O-rLEGuOPw,Sushi Thai Restaurant,GA,Warner Robins,31093,189.0,3.0,2624 Watson Blvd,sushi thai japanese,32.619387,-83.668419
+0,lxKgDUGRLUVFMKugRyJdQQ,The Icey Girl & Co.,GA,Columbus,31904,7.0,5.0,1241 Double Church Rd,shavedice foodtrucks,32.5563,-84.9738
+2,MrQdSCEP93ZnQzk1hNen3A,The Frigid Frog Shaved Ice,GA,Columbus,31909,1.0,5.0,6361 Talokas Ln,shavedice,32.5363467860886,-84.8777199577245
+5,5Gj2F0oziS-C0fGLvQcItg,The Ice Cream Girl and Co,GA,Columbus,31904,1.0,5.0,1241 Double Churches Rd,shavedice foodtrucks,32.5563,-84.9738
+0,5LEGNwLDUQU8eIDj6XDerA,Ice Queen,GA,Columbus,31909,26.0,4.5,6600 Whittlesey Blvd,icecream bubbletea indpak,32.548147,-84.935402
+1,f1OeNz6RGQROUi1kof1MUQ,Kung Fu Tea,GA,Columbus,31904,30.0,4.5,2505 Airport Thruway,bubbletea coffee juicebars,32.5216953282812,-84.9571559
+2,2JivJ_gWG30qsbp_OAQPRg,Gongcha Columbus,GA,Columbus,31904,6.0,4.0,5592 Whitesville Rd,coffee,32.52335,-84.95791
+5,LVoIwOXuu4g4-44GBtJEvA,YummyVilla,GA,Columbus,31909,19.0,3.5,5295 Whittlesey Blvd,icecream bubbletea,32.54162,-84.95047
+6,NEk_Iesr8NkHYMGEIDgrnA,JL Japanese Express,GA,Columbus,31909,31.0,3.5,5555 Whittlesey Blvd,teppanyaki sushi bubbletea,32.54755,-84.941262
+8,fdPv6zeJL2Yg-qVAk-wyrg,Ice Queen,GA,LaGrange,30240,19.0,4.0,12 N Lafayette Square,bubbletea icecream,33.03960923693925,-85.03137940290326
+12,ac54w1G7LqaJwg58NjA9cw,Uptown Vietnam Cuisine,GA,Columbus,31901,157.0,4.0,1250 Broadway,vietnamese,32.4697008155032,-84.9930515729762
+14,ew5CKNsjkytah4eAZCqn_A,GongCha Columbus,GA,Columbus,31904,1.0,5.0,5592 Whiteville Rd,bubbletea,32.52310146059817,-84.95759405999787
+15,fHdR-rD8aN2hM4eylfwwcw,Chick Land,GA,Columbus,31904,7.0,3.0,1056 Manchester Expy,tradamerican cheesesteaks,32.5070560102119,-84.9777837734389
+16,t9kaZdrlgnkkoogvMTGGFQ,Sunny Wings & Burgers,GA,Columbus,31904,3.0,3.0,1790 Williams Rd,cheesesteaks burgers chicken_wings,32.568657,-84.9665764
+3,Lu2Fg2a4j_3WSgaisoAgEA,Blue Moon Ice Cream & Brick Oven Pizzeria,GA,Albany,31707,3.0,2.5,2601 Dawson Rd,icecream pizza,31.617532,-84.216583
+3,ToTB5w_rvRIcEEfsBrzDug,Pelican's Snoballs - Newnan,GA,Newnan,30263,1.0,5.0,471 Hwy 29 N,shavedice,33.399457,-84.79517
+5,OAlNF8iyA4Epghytkgn3KA,Beez Freeze,GA,Senoia,30276,12.0,4.5,75 Main St,shavedice foodtrucks,33.3017976,-84.5538844
+6,IVH-v_Wv-jdLXlzltQUCaQ,The Frigid Frog of West Georgia,GA,Newnan,30263,1.0,5.0,203 Roscoe Rd,shavedice,33.3991071389885,-84.8063950090454
+12,Y6qgeO3ahF9Ucw4ju2GzKg,Chick-fil-A,GA,Fayetteville,30214,151.0,3.5,600 Lanier Ave W,hotdogs chickenshop,33.4465449,-84.4677301
+2,rP2V9lArtMtuTN8d-IhOAg,Poke City,GA,Newnan,30265,38.0,4.5,314B Newnan Crossing Bypass,poke salad juicebars,33.39016,-84.7642
+4,BNNcsSaqilVvVDeGqoZCkQ,Sweet Tea Lounge,GA,Peachtree City,30269,4.0,3.0,2705 Hwy 54 W,bubbletea coffee acaibowls,33.39734090808844,-84.5972405
+8,IVtl6m6G-7ttnrnweJVq1A,Sweet Krunch,GA,Newnan,30265,11.0,3.5,1111 GA-34,asianfusion,33.39610304553337,-84.74236215777816
+9,oNfX4C1D-UMbwtl5VrjNyw,Oriental Marketplace,GA,Newnan,30265,99.0,5.0,1485 Hwy 34 E,gourmet bubbletea grocery,33.3986755111854,-84.7303108870983
+14,NRvo5rw8ovqeDhKORbEX5g,AZN Sandwich Bar,GA,Fayetteville,30214,123.0,4.5,790 Glynn St S,asianfusion sandwiches juicebars,33.4341013841749,-84.4561059772968
+16,p54zLfDDFI9oFodAJTXVxA,Donut Worry - Fayetteville,GA,Fayetteville,30214,2.0,4.0,539 N Glynn St,donuts bubbletea sandwiches,33.45919400505196,-84.4521759
+18,N4UfmaNg-la2zfii-Sw6CQ,King Kong Milktea & Smoothie,GA,Hampton,30228,3.0,3.0,1985 McDonough Rd,bubbletea juicebars,33.446550397865,-84.32613494443528
+21,3L8PV3_5BQWU0PATwUzNlw,Viet's Cuisine,GA,Peachtree City,30269,138.0,4.0,2828 GA-54,vietnamese,33.395234,-84.6049984171987
+22,Uvu_YwmR8owxtRqV1CMDaA,AZN Sandwich Bar - Peachtree City,GA,Peachtree City,30269,22.0,4.0,608 Crosstown Dr,sandwiches juicebars asianfusion,33.3752207,-84.5639642
+23,iyR7jbOP7jc1IO6GMPo9sg,Garlic Thai Cuisine and Sushi Bar,GA,Newnan,30263,170.0,4.5,16 N Court Sq,thai sushi,33.3752401,-84.8002848
+25,Dou7ptq4nmvKgiwhOvF43A,Charm Thai Cuisine,GA,Peachtree City,30269,128.0,4.0,1009 N Peachtree Pkwy,thai,33.439866056111,-84.5887470091778
+27,RxT3ws5aBk8_Zm85t9XDCg,Ichiban Japanese Steak House,GA,Griffin,30223,17.0,3.5,1643 N Expy,japanese salad sushi,33.2770701372992,-84.2917519435287
+28,WpL4B93keElWecZYXUw3Ow,Truett’s Luau,GA,Fayetteville,30214,84.0,3.0,600 Lanier Ave W,hotdogs sandwiches chickenshop,33.4467408,-84.4640555
+30,pTKH_klT81EOwHcU3gSmdA,Yi Fang Taiwan Fruit Tea,OR,Portland,97206,34.0,4.5,8136 Se Foster Rd,bubbletea juicebars,45.482671,-122.579569
+14,n0UN2PvL2lT0Z28iiGGFDA,Boba Theory,GA,Morrow,30260,112.0,4.5,1585 Lake Harbin Rd,coffee bubbletea,33.5829757797945,-84.3385916948318
+25,Vz9kkb1K1qIP-io4Y5hXkQ,Gong Cha,GA,Morrow,30260,17.0,4.0,6233 Jonesboro Rd,bubbletea coffee icecream,33.585157,-84.3392701793353
+30,rGfh29te6WbPhMnt-ib1RQ,King Kong Milktea & Smoothie,GA,Morrow,30260,1.0,5.0,1500 Mt Zion Rd,bubbletea juicebars asianfusion,33.571998890341966,-84.33937389403582
+33,tVVWAma3pxqLUQHru8nqbQ,Quickly Morrow,GA,Lake City,30260,24.0,3.5,5299 Jonesboro Rd,coffee,33.6106679579811,-84.3471407407407
+47,Hn5R4eNfHTSho87QxIUHOQ,KAWA 18 RAMEN,GA,FOREST PARK,30297,38.0,4.5,4035 Jonesboro Rd,ramen,33.644699,-84.364612
+5,AqhVJtLhFAUTvw26le1ikA,Argo Tea,GA,Atlanta,30320,104.0,2.0,6000 N Terminal Pkwy,coffee breakfast_brunch,33.6408688797158,-84.4425984299732
+6,Qygj2Phd7ILyFoajsuLpuQ,Dua Hapeville,GA,Hapeville,30354,107.0,3.5,760 S Central Ave,vietnamese,33.66137,-84.41421
+24,atpf1dh2ZjzwevYAUZr8jg,Hmart,GA,Riverdale,30274,96.0,3.5,6335 Highway 85,grocery korean seafoodmarkets,33.5829613763376,-84.4122898893941
+25,RRTA8rRQY--kIr-gSMRs3A,Eat More Korean,GA,Morrow,30260,92.0,4.5,1940 Mt Zion Rd,korean bubbletea bbq,33.56686,-84.32615
+33,Ax9c1XALe5FoydbKxAfjJQ,Hot Cafe,GA,Atlanta,30349,134.0,4.0,5286 Riverdale Rd,thai laotian chinese,33.6110495292005,-84.4361319072708
+34,qmP-K8kG_vGOjk0NeYEsmw,Fusion House,GA,Riverdale,30274,67.0,4.0,6497 Hwy 85,vietnamese thai asianfusion,33.5772826,-84.4122573
+41,te2WC1nqVWUTmOew3OkKXA,Zab-E-Lee Thai & Sushi Restaurant,GA,College Park,30337,379.0,4.0,4837 Old National Hwy,thai sushi seafood,33.623882664158,-84.4765850163679
+47,GyT4vBdZGCNFQpIBdi31eQ,Jpresso,GA,Atlanta,30354,77.0,5.0,407 N Central Ave,coffee breakfast_brunch sandwiches,33.655763,-84.402039
+49,OOeAK34f-MH1TTo_qnXkkw,Pho Dai Loi,GA,Forest Park,30297,399.0,4.5,4061 Jonesboro Rd,vietnamese,33.6438,-84.36439
+27,4Wqj_yFOQj_ecnxKcn8aAg,VN Pho,GA,Morrow,30260,229.0,4.0,6363 Jonesboro Rd,vietnamese,33.581604,-84.340576
+34,U5HlNoC33RQFuxVwIezc8w,Pho Ngon So1,GA,Lake City,30260,41.0,4.0,5372 Jonesboro Rd,vietnamese,33.608799,-84.345052
+8,iySk-C-2UfsuH0Z0RfaX0g,Maynard’s Ice cream & Cafe,SC,Port Royal,29935,12.0,5.0,1115 Paris Ave,donuts icecream shavedice,32.3773235668124,-80.6927979407155
+10,iT7AsxbMViq2kWRxqgB15w,Mameem & Maudie- Beaufort,SC,Beaufort,29907,20.0,4.5,81 Sea Island Pkwy,cafes sandwiches icecream,32.4179287,-80.657881
+16,ndlkcBuq5N2GMNMmAiKxjg,Ocha Noodle cafe,SC,Beaufort,29902,53.0,4.5,1209 Boundary St,ramen noodles,32.44011,-80.67562
+7,5WdSgLWig3NZ29atGNesDg,Island Pho & Bubble Tea,GA,St Simons Island,31522,121.0,4.5,111 Longview Plz,vietnamese soup bubbletea,31.162313410136605,-81.38784497522056
+1,pGrjOGSVHmo1efpwjputyw,Freedom Ice,FL,Yulee,32097,1.0,5.0,,shavedice foodtrucks,30.63212,-81.60347
+0,jTpOhFgjzobFYl39gH3BTw,Coneheads,GA,Adel,31620,1.0,5.0,401 W Fourth St,shavedice icecream,31.13573,-83.4278
+1,MoW18ueN3Wkb4UcYajgAnw,Talk Of The Town Nutrition,GA,Valdosta,31602,2.0,5.0,2941 N Ashley St,juicebars bubbletea breakfast_brunch,30.87232,-83.28889
+2,5Wirz6nKHIUOMqIuYoh2aQ,DeNucci's,FL,Fernandina Beach,32034,125.0,4.0,2210 Sadler Rd,icecream hotdog,30.6398177,-81.444442
+1,MQARuppKrLaxrXK0p5VgqA,Kona Ice of Amelia Island,FL,Fernandina Beach,32034,2.0,4.5,5047 First Coast Hwy,icecream foodtrucks shavedice,30.5852772509023,-81.456116824648
+2,WesFQrfxCTAPOQf3LoNVrA,Island Dream Food Truck,FL,Jacksonville,32208,10.0,5.0,7841 Lem Turner Ave,foodtrucks shavedice,30.3920449175403,-81.6797031462193
+0,ed80R3SJDAjv-HFtA1mfug,Kona Ice Of Lowndes,GA,Valdosta,31601,1.0,5.0,,shavedice foodtrucks,30.83712,-83.28162
+1,S5uwlo_1_cZljTEj7xmetQ,The Front Porch,GA,Valdosta,31601,12.0,4.5,322 St Augustine Rd,desserts shavedice icecream,30.83112,-83.31047
+2,RAmoXKIC2TiPpHhftTdnHg,Snopocalypse,GA,Valdosta,31601,15.0,4.5,700 S Patterson St,shavedice icecream,30.822559826939,-83.2748681027191
+1,iyjz9LDEGalb8YWXInPOdA,Pelican's Snoballs,FL,Lake City,32055,1.0,5.0,1389 W US Hwy 90,shavedice,30.1836068183184,-82.6561834663153
+2,tiDKJdj_LX1EbpwzIbD-Sw,Tikiz Shaved Ice & Ice Cream,FL,Ponte Vedra,32081,7.0,4.5,,foodtrucks icecream shavedice,30.1163463592529,-81.4134674072266
+4,wyUZRBw19B0hMXUO73xg2Q,Pelican's SnoBalls- Jax Beach,FL,Jacksonville Beach,32250,50.0,4.5,1029 3rd St N,desserts icecream shavedice,30.29818,-81.39347
+6,BldihP6NZ62zSktcf9zGGQ,Island Dream Authentic Italian Ice,FL,Jacksonville,32225,4.0,5.0,9501 Arlington Expy,desserts shavedice,30.322290910538,-81.5514825962657
+7,llwWqCuMZVapvdcqa8B9Yg,Rita's Italian Ice,FL,Jacksonville Beach,32250,76.0,4.0,393 3rd St N,icecream desserts shavedice,30.29166,-81.39209
+8,lE3sNJSrjaDkLqodKOCkBw,Jeremiah's Italian Ice,FL,Jacksonville Beach,32250,19.0,4.5,1500 Beach Blvd,desserts shavedice icecream,30.28746065865665,-81.40851438045502
+9,rQOhzcPinS13-gwSI4Lzhw,Jeremiah's Italian Ice,FL,Jacksonville,32257,95.0,4.5,9891 San Jose Blvd,desserts icecream shavedice,30.197929,-81.620582
+10,mZeaBt-wnskLkbVS4UHHaA,Halo‐Halong Sangkap Pinoy Eats,FL,Jacksonville,32244,8.0,5.0,,foodtrucks shavedice catering,30.193952993404153,-81.8226182833314
+11,IrGH5udv7CWlw3GpetXN5A,Frozen Sweets Truck,FL,Jacksonville,32210,7.0,5.0,,shavedice icecream foodtrucks,30.2533321380615,-81.7253036499023
+13,Zem3weYf85T4GPz4WEJP0g,The Sweetest Sisters,FL,Jacksonville,32221,1.0,5.0,,shavedice foodtrucks desserts,30.2920761108398,-81.8024673461914
+14,qK7PLbrn9DQQeLYXurzDIA,Jeremiah's Italian Ice,FL,Jacksonville Beach,32250,2.0,4.5,1500 Beach Blvd,desserts icecream shavedice,30.2875133,-81.40851429762313
+15,CSjvBteoSK5-HRa7OsJUgg,Jollibee,FL,Jacksonville,32225,329.0,3.5,11884 Atlantic Blvd,chickenshop hotdogs,30.31946746348206,-81.49213580499367
+16,lZo3Qrq1t3eS_xRICTOwGA,Azurea,FL,Atlantic Beach,32233,161.0,4.0,1 Ocean Blvd,newamerican breakfast_brunch,30.3249147010251,-81.3952560490023
+17,ogNv4tYzOvu9Slh9wnylOg,Altoque Colombian Food,FL,Jacksonville,32257,15.0,4.5,9825 San Jose Blvd,colombian,30.198938,-81.61892
+18,stFGLEjoJqxY9ELUrfUm6A,Five Fx Ice Cream and Waffles,FL,Jacksonville,32256,377.0,4.5,9802 Baymeadows Rd,coffee icecream waffles,30.217943,-81.553397
+19,6dRyujQ6eA2-o0eskc-9zg,Aroma Corner,FL,Jacksonville,32246,107.0,4.5,11757 Beach Blvd,coffee desserts,30.2873798845148,-81.5157276391983
+20,qkzVx6qsGIOC5OVJ5j-8ig,Kona Ice of Downtown Jacksonville,FL,Jacksonville,32256,4.0,4.0,,shavedice foodtrucks,30.22513,-81.5581
+21,lgWhbpwGg7sIJ4hHIrbn-g,Aroma Corner,FL,Jacksonville,32217,188.0,4.5,5111 Baymeadows Rd,coffee bakeries breakfast_brunch,30.221362,-81.593485
+22,YfIsEDPAW4CPdXmdQNWinw,Rita's Italian Ice,FL,Jacksonville,32224,48.0,3.5,13529 Beach Blvd,icecream desserts shavedice,30.288118,-81.461558
+1,otwJqgq2WtFRQfhdEPfvwg,Tutem Tea,FL,Jacksonville,32204,30.0,4.5,1661 Riverside Ave,bubbletea,30.3117327348051,-81.680492721498
+2,1Hsg6SxeYl5z9efS59_2Fw,Möge Tee-Jacksonville,FL,Jacksonville,32256,30.0,4.5,9932 Old Baymeadows Rd,bubbletea tea,30.22066,-81.55395
+3,eG6wnVYHz7m0aOUn9U0RnA,Tsaocaa,FL,Jacksonville,32246,151.0,4.5,10150 Beach Blvd,bubbletea juicebars,30.28595,-81.54963
+5,HHsad2OqFlqjTNxLoXxkSA,Tutem Tea,FL,Jacksonville,32224,135.0,4.5,13500 Beach Blvd,coffee,30.285177,-81.460458
+6,ix_dtj7vByvUscUATtClHw,Natural Kitchen,FL,Orange Park,32073,56.0,4.0,1910 Wells Rd,bubbletea poke,30.185813,-81.7354227
+7,jH7598ZPsssk8RVavbKMSg,Kung Fu Tea,FL,Jacksonville,32246,149.0,4.5,12630 Beach Blvd,bubbletea coffee juicebars,30.2868233411614,-81.4861648699231
+8,C2nB8lYLilR-Y5xKuad5Wg,Tbaar Cafe Oakleaf,FL,Jacksonville,32222,98.0,4.5,9542 Argyle Forest Blvd,cafes bubbletea juicebars,30.194566,-81.826347
+10,_DWVCxCdhNA87UZCdjmv9g,Q-Cup Boba Tea,FL,Jacksonville,32246,220.0,4.5,11380 Beach Blvd,vietnamese sandwiches bubbletea,30.2848907513615,-81.5261789929543
+11,leg7mE0kQ7A4d3fLJ48pow,Boba Blends,FL,Jacksonville,32225,26.0,4.5,9501 Arlington Expy,coffee bubbletea,30.322635,-81.550575
+12,3FCRZpclwYlgUqVU4kTISQ,OMG Cafe & Tea,FL,Jacksonville,32246,73.0,4.5,12192 Beach Blvd,bubbletea icecream,30.28671,-81.49635
+14,JrHnSZ1HTPDSwnpBid9CBw,Daily Dose Craft Bar,FL,Jacksonville,32246,16.0,5.0,11643 Beach Blvd,coffee bubbletea bars,30.2876991,-81.5174792
+15,0gxy62QdSzhn-ZlpLkgFKQ,Mumuyi Bakery,FL,Jacksonville,32246,49.0,4.5,12041 Beach Blvd,desserts bubbletea bakeries,30.287759,-81.499232
+16,Q4AWdDfXG7MmV22EfNDeZg,Nomnom Boba Tea,FL,Jacksonville,32250,13.0,4.5,14286 Beach Blvd,bubbletea,30.28656056169485,-81.44000877414473
+18,G6iaKDN-erLlMnu1O8fIMw,Tea Poke Spot,FL,Jacksonville,32216,18.0,4.5,4076 Belfort Rd,bubbletea poke icecream,30.256534937116275,-81.5829786658287
+19,Y2tTI-dg4j-hc9CoqdS7uQ,Treata Tea Shoppe,FL,Jacksonville,32246,41.0,4.0,11925 Beach Blvd,bubbletea,30.2879599,-81.5029333
+20,UjdCpigS6CbhsgSCKnoIYQ,I Noodle Ramen & Dumpling,FL,Ponte Vedra Beach,32082,93.0,4.5,880 A1A N,poke ramen,30.189649,-81.381568
+21,wquF0t9Yqz0Ptz9d9crQFA,Paris Bánh Mì Cafe Bakery - Jacksonville,FL,Jacksonville,32224,123.0,4.5,3515 St Johns Bluff Rd S,vietnamese bubbletea bakeries,30.285612,-81.525069
+22,B4bbrH82EMi_loRWDUnLoA,Pho 99 Vietnamese Grill,FL,Jacksonville,32210,169.0,4.0,5024 Blanding Blvd,vietnamese soup bubbletea,30.2518026,-81.743068
+23,BZI8_8tFt5Dtqf6cOPr40g,SEASONS Dumpling,FL,Jacksonville,32257,328.0,4.5,10584 Old St Augustine Rd,taiwanese,30.1832149144401,-81.6084299982767
+24,M7Mx0dFkS1O5aQE9LFQbQw,Little Saigon Cafe,FL,Orange Park,32073,149.0,4.0,1975 Wells Rd,vietnamese soup bubbletea,30.187796,-81.74086
+25,gT1vr0FGESYsjuF756eJiA,Manila Thai,FL,Orange Park,32073,170.0,4.0,1540 Wells Rd,thai filipino,30.188948,-81.713894
+27,yCPk2C6h152ESbS1E1Qf0w,Bento Asian Kitchen & Sushi,FL,Jacksonville,32250,11.0,3.0,1198 Beach Blvd,sushi asianfusion bubbletea,30.28802,-81.40331
+28,CRuNVOPb-FkDhAoIxHl8hA,Tasty Pot,FL,Jacksonville,32256,78.0,4.5,9802 Baymeadows Rd,taiwanese hotpot bubbletea,30.217893,-81.553717
+29,sY6qdAy3yN5HBhZMGXD3UA,Pho Viet,FL,Atlantic Beach,32233,182.0,4.0,1447 Mayport Rd,vietnamese soup,30.333435388828,-81.4150983934021
+30,1ewEavvAIJCo3-2jtg7FEg,PK Noodles,FL,Jacksonville,32246,192.0,4.0,11925 Beach Blvd,vietnamese noodles,30.287917,-81.503526
+31,MH6M8ORwqXUTTz_KCOvpIA,Bowl of Pho,FL,Jacksonville,32256,641.0,4.0,9902 Old Baymeadows Rd,vietnamese soup noodles,30.2203529103203,-81.5538093915176
+32,Ofa89BjZoM459JFoIUR5Ig,Sushi Burrito Express,FL,Jacksonville,32256,7.0,4.5,10300 Southside Blvd,salad sushi hawaiian,30.18435267146533,-81.55428668527055
+33,sTZEIfzRS7wTM1z4b3p6Sw,Bento Asian Kitchen + Sushi,FL,Jacksonville,32246,381.0,3.5,4860 Big Island Dr,asianfusion sushi chinese,30.2536579931936,-81.5322386870316
+34,ixMIX8NGowX-rcVvlwrmEw,Pho Today,FL,Jacksonville,32246,414.0,4.0,9700 Deer Lake Ct,vietnamese,30.2642836157331,-81.555936
+35,8OPhG3eSJ_rk77tmnoDMTw,Miya Sushi,FL,Jacksonville,32257,157.0,4.0,10550 Old St Augustine Rd,sushi japanese,30.1844522502685,-81.6095845129669
+7,zVnswMc1-jj-LiZy9oCUtA,Jeremiah's Italian Ice,FL,Orange Park,32065,81.0,4.5,853 Blanding Blvd,desserts icecream shavedice,30.1417282741786,-81.7668094794601
+14,X08g98U-y_8Xjs3_-4wL3Q,Jeremiah's Italian Ice,FL,Jacksonville,32259,16.0,4.0,1185 St Johns Pkwy,desserts icecream shavedice,30.1016906,-81.53919221165667
+18,yePc3rnxSQzY9EgIOusRsg,Jeremiah's Italian Ice,FL,Fleming Island,32003,1.0,5.0,1811 Golden Eagle Way,desserts icecream shavedice,30.08489399998252,-81.71307884106358
+24,wtCmhmK-nDCzKDk4ofXO2g,Just A Pinch Cafe & Catering,FL,Fleming Island,32003,170.0,4.5,1615 County Rd 220,southern hawaiian catering,30.100961175102583,-81.71692379575119
+7,EOfhDO2kZCWn6RS7_-E9VA,Happy 520,FL,Jacksonville,32223,7.0,4.5,10950 San Jose Blvd,gelato bubbletea juicebars,30.17641,-81.62901
+15,GH3wGyfBAF4N_1Y4ibuHSg,Tsaô Caa,FL,Jacksonville,32223,13.0,4.0,10991 San Jose Blvd,bubbletea desserts korean,30.17647343197108,-81.6256291009415
+21,wQT6syi11bRzpUtuIGviOg,Poké Cafe,FL,Jacksonville,32258,227.0,4.5,14866 Old St Augustine Rd,poke ramen bubbletea,30.1407703,-81.5214849
+24,Ccp-_ROVKEw94MrgDh1VvQ,Saigon Wok,FL,Fleming Island,32003,63.0,5.0,1810 Town Center Blvd,chinese vietnamese,30.0982027082499,-81.713285071311
+25,Rib3b-4X9MQiaYFBZOqXZQ,Tokyo,FL,Fruit Cove,32259,120.0,4.0,450 State Rd 13,ramen sushi,30.11991,-81.626775
+33,8_nvH56636pmS13FDQH7HA,Daily Donuts,FL,Orange Park,32073,40.0,5.0,1513 Park Ave,bubbletea donuts sandwiches,30.171478779931697,-81.70098077505827
+1,gk40DOXpFjkzyzGmWmlM2Q,Mr Morgan's Shave Ice,FL,St. Augustine,32080,8.0,5.0,551 Anastasia Blvd,shavedice foodtrucks,29.88944,-81.2937
+2,rrrw0dj5PGFY9zXJCOsrZQ,Top Down Shaved Ice,FL,St. Augustine,32092,1.0,5.0,783 Scrub Jay Dr,shavedice,30.05380719188396,-81.4983465553113
+5,vdSJzbthTOoyFNRgN6I9_A,Carnival Sweets,FL,St Augustine,32086,11.0,5.0,288 FL-312,shavedice popcorn candy,29.86845,-81.31904
+13,KjufNAqJadkXmixFPp-7yw,The Ice Plant,FL,St. Augustine,32084,1763.0,4.5,110 Riberia St,cocktailbars tradamerican distilleries,29.88952,-81.31866
+4,SeJndjcK7t36huzLJv-i6A,Jeremiah's Italian Ice,FL,Tallahassee,32312,4.0,4.5,1400 Village Square Blvd,desserts icecream shavedice,30.512297,-84.249746
+2,rIBwJ7y4_eIdayQQznxQWQ,Tan's Asian Cafe,FL,Tallahassee,32308,203.0,4.0,2743 Capital Cir NE,chinese vegan indonesian,30.4907875061035,-84.2388534545898
+3,mUJuiQ7bpTE2e4KZhK2WMw,Kami Poke,FL,Tallahassee,32301,48.0,4.5,1779 Apalachee Pkwy,korean sushi poke,30.430777651834106,-84.25051562310105
+4,zMCrVYYhGn990zA2rCxdUg,New Garden - Tallahassee,FL,Tallahassee,32312,10.0,4.0,6753 Thomasville Rd,chinese,30.563504982214543,-84.21301982229309
+5,fjLLhFFDFghJ6AdLAOJctA,Reangthai Thai Restaurant,FL,Tallahassee,32308,178.0,4.0,2740 Capital Cir NE,thai,30.48916,-84.24119
+4,WIwBtB_dt65-htQVPB43BA,Sneauxball,FL,Tallahassee,32301,21.0,5.0,2033 S Adams St,desserts shavedsnow catering,30.4211185,-84.2818343
+5,FAfCOyRqv21xI0pjKJIgAw,Big Easy Snowballs,FL,Tallahassee,32303,61.0,4.0,1621 N Monroe St,icecream shavedice,30.46106,-84.28104
+7,dLxt3CSeGKqQVULafJT5JQ,Madison's Scoop Of Paradice,FL,Tallahassee,32301,2.0,4.5,1205 South Adams St,icecream shavedice desserts,30.43222,-84.28161
+9,-6TTt5EYfPjY2Ri0f9Z3zA,Ur Bowl,FL,Tallahassee,32304,111.0,4.5,1800 West Tennessee St,ramen vietnamese poke,30.44955,-84.31137
+2,WMcReUJf4BSiG6XrjHZDWQ,Bubbly Tea Bar,FL,Tallahassee,32304,75.0,4.5,2020 W Pensacola St,bubbletea,30.44185,-84.31954
+3,5cHoNPj8YW6FgUsJEUd5fA,Pong's Boba Tea,FL,Tallahassee,32304,57.0,3.5,1350 W Tennessee St,icecream bubbletea,30.44914947985439,-84.304765352761
+4,rs4gQ_fFjzVGgUpjhulGTA,Natural Kitchen,FL,Tallahassee,32304,36.0,4.5,699 W Gaines St,poke bubbletea icecream,30.434884,-84.293204
+5,IpI0Vn_kZkA2e5gg5Nif4Q,Paris Banh Mi - Tallahassee,FL,Tallahassee,32303,12.0,4.0,1875 N Monroe St,vietnamese bakeries bubbletea,30.4651531,-84.28321480796541
+6,pl0EChCvrF7zURVnyfkNfw,Midtown Noodles Bar,FL,Tallahassee,32303,58.0,4.5,1660-6 N Monroe St,ramen bubbletea asianfusion,30.461673,-84.2834268
+8,mJIyODih0PrAaBszopNwzw,Natural Kitchen,FL,Tallahassee,32304,5.0,4.0,1525 W Tennessee St,poke bubbletea,30.448619,-84.307259
+9,gqC2Hqjc7XO0a9IMP5_rOw,Sweet Shop Cafe & Lounge,FL,Tallahassee,32304,53.0,3.5,701 W Jefferson St,cafes,30.43936,-84.2940799
+10,taxvnCs9oFC1VQJ86TW9Bg,Straw Hat Poke,FL,Tallahassee,32304,18.0,4.5,631 W Madison St,bubbletea poke,30.43638,-84.29203
+11,x7eKhqX4llDfty6JNMg4AQ,Boru Boru @ Varsity Plaza,FL,Tallahassee,32304,63.0,4.0,1861 W Tennessee St,sushi bubbletea ramen,30.44797,-84.31372
+12,dkD6j6Ch6natq3Svh2jZaA,Blossom Kitchen,FL,Tallahassee,32304,88.0,4.0,625 W Tennessee St,chinese,30.44452,-84.29188
+14,etLpFGmFArlgjfVOpgJpPQ,Bento Asian Kitchen + Sushi,FL,Tallahassee,32304,113.0,3.5,1660 W Tennessee St,sushi panasian chinese,30.449601,-84.309294
+16,5zkCxCKP4egLEFhke-temg,Lemongrass,FL,Tallahassee,32303,136.0,3.5,2415 N Monroe St,thai vietnamese sushi,30.475587807447358,-84.29095827903228
+2,sdb0WQNPca2PWFtonrdJpQ,Sno Biz & Sand Pit Snacks,AL,Auburn,36830,5.0,5.0,1625 E University Dr,shavedice beaches hotdogs,32.610821,-85.449178
+8,vO3RooCW-bFUh87Ltic51g,Cheetos,AL,Opelika,36801,7.0,4.5,3810 Pepperell Pkwy,bubbletea juicebars desserts,32.630984344299016,-85.43725585193683
+3,LDHn9iNl6Hiq07ZftC3OEA,Taste of Asia,AL,Opelika,36801,41.0,4.0,3750 Pepperell Pkwy,bubbletea chinese,32.6343808985421,-85.4349047477685
+4,43ppB5JwMygb2AiTb7JqJw,Kung Fu Tea,AL,Auburn,36830,3.0,4.5,116 N College St,bubbletea,32.60712,-85.48133
+5,AF7etZ3RAx1MbN6XI9H8qg,Yummy Villa,AL,Auburn,36832,24.0,3.5,1633 S College St,bubbletea icecream bakeries,32.5757793207943,-85.49700967306812
+9,rXRI8xvp1dI2-ysDII_1mg,Tiger VR Cafe,AL,Auburn,36830,3.0,3.5,200 W Glenn Ave,bubbletea asianfusion chinese,32.60935,-85.48311
+11,Xz2_i8mHG7dPb2UhEoDDfQ,Fusion Restaurant,AL,Auburn,36830,58.0,4.5,145 E Magnolia Ave,vietnamese thai,32.60685,-85.48059
+12,2SziwUlIihfCMr1cbcyy1w,New China,AL,Auburn,36830,26.0,2.5,"819 E Glenn Ave,",chinese noodles soup,32.611092778661,-85.463246643521
+13,_jMA1Lybnc0bTWgDNzKhKw,99 Kabob,AL,Auburn,36830,2.0,4.5,1100 S College St,chinese,32.585002,-85.490203
+24,T97tv0Bxv_UyWFUyefR9pA,Gallery Row Coffee,GA,Carrollton,30117,67.0,4.0,309 Adamson Sq,coffee juicebars,33.57989,-85.07547
+0,DpU4hv3RQdMC5b_NSO8L4A,Charlies Snow Shack,FL,Gainesville,32601,23.0,4.5,14 NW 7th Ave,foodtrucks shavedice,29.658209153416884,-82.3255911
+2,co1D7YF7MMlc3VtA1uTmmA,Jeremiah's Italian Ice,FL,Gainesville,32608,5.0,5.0,3232 SW 35th Blvd,desserts icecream shavedice,29.623897855732185,-82.37830268690988
+3,LrRfyrrnnGmIDOtA5IjrGQ,FROSTY FOX,FL,Gainesville,32608,66.0,4.0,3265 SW 34th St,coffee bubbletea,29.62427,-82.3721
+4,gom59h4Sc36z6iv62J34vA,Jeremiah's Italian Ice,FL,Ocala,34470,7.0,3.5,2707 E Silver Springs Blvd,desserts icecream shavedice,29.1889865184926,-82.1009986
+5,26h4SzCf3uczK2yKEIReZQ,TeaStori,FL,Gainesville,32608,126.0,4.5,3550 SW 34th St,desserts bubbletea coffee,29.62119,-82.37345
+6,NJV_skkgfMdbmxaBorATrw,Sweetums Sweets & Treats,FL,Gainesville,32605,6.0,4.0,6500 W Newberry Rd,icecream foodstands,29.6598349,-82.4120471
+7,ArPZxW3xjVsAYFgQmyEi4g,Iguana Joe's Tropical Snow,FL,Newberry,32669,1.0,5.0,,foodtrucks shavedice icecream,29.634640587290523,-82.60465095389594
+8,_cLfw5xLKaFTkovHa1jPMQ,Dog Daze Shave Ice,FL,Morriston,32668,1.0,5.0,,shavedice desserts foodtrucks,29.2843704223633,-82.4453201293945
+0,cDeQu70nJB0A4Bdr5aB1Og,The Bubble Bar,FL,Ocala,34471,13.0,4.5,304 SW Broadway St,bubbletea,29.18611,-82.13969
+1,lGVdUH6gS1PvB65ZlKL9Lg,Tea Moment,FL,Gainesville,32603,55.0,4.5,16 NW 18th St,bubbletea coffee juicebars,29.652584,-82.3464675
+2,bQ3Xd0MkMA7jBJydx-qmbA,Tyummi Cafe and Pho Bowl,FL,Gainesville,32608,20.0,4.0,2905 SW 42nd St,bubbletea coffee vietnamese,29.626685608611233,-82.38628336872503
+4,oJoZewmetr5gZ-vXFhmmwg,Kung Fu Tea,FL,Gainesville,32608,143.0,4.0,3102 SW 34th St,coffee bubbletea juicebars,29.6250298,-82.3730335
+5,vtAa4POj7qZ_swJznf5VjQ,Paris Banh Mi - Gainesville,FL,Gainesville,32603,5.0,5.0,50 NW 13th St,sandwiches bakeries bubbletea,29.652699031406247,-82.33976958776613
+7,p7qakb70TCw7P4k4MxgJXg,Pokébowl Station,FL,Gainesville,32603,77.0,4.5,1800 W University Ave,poke bubbletea vegan,29.65224,-82.34648
+8,VAnKdhk5K8tlRWkdNKkQFg,BC Boba Tea & Ice Cream,FL,Gainesville,32609,11.0,4.0,2001 NW 13th St,icecream bubbletea,29.6704444667965,-82.3388516530395
+9,tdqCIIgILAtJQP1dHa8vnQ,Zero Degrees,FL,Gainesville,32608,58.0,4.0,3033 SW 34th St,icecream bubbletea juicebars,29.625917,-82.37114
+10,yrgAv-x85M_rBq8g5xB6Gw,JPetal & Poke,FL,Gainesville,32608,96.0,4.5,3411 SW Archer Rd,creperies poke japanese,29.62603,-82.37298
+11,9zbWmZoHACXnkpCeaJOlPg,Sweet Buns Bakery,FL,Gainesville,32608,142.0,4.0,3102 SW 34th St,bakeries desserts,29.62515,-82.37291
+12,T2qByusUKRzcjaRxNVPGfA,Mai Kai Kava Bar,FL,Gainesville,32601,10.0,4.5,17 W University Ave,coffee tea bubbletea,29.65179,-82.3256
+13,y8zCKEQA-urIVaqjgxV8Vg,TYUMMI,FL,Gainesville,32608,5.0,3.5,2905 SW 42nd St,vietnamese bubbletea,29.626708906154022,-82.3862780068774
+14,z0ykfnDkJgw-_iHaBzPYLQ,Bento Asian Kitchen + Sushi,FL,Gainesville,32607,218.0,3.5,3832 W Newberry Rd,sushi panasian japanese,29.65369,-82.38125
+15,b-nNr8JPQWA7xESwvV7EdA,Momoyaki,FL,Gainesville,32608,231.0,4.0,1624 SW 13th St,asianfusion sushi korean,29.6356621,-82.339685
+16,0LQeW12arx046pVMNCgXTw,Chop Stix Cafe,FL,Gainesville,32608,284.0,3.5,3500 SW 13th St,sushi bars panasian,29.621192,-82.340375
+17,Uex4leP6gKu8Ri7mCFIxPw,Bento Asian Kitchen + Sushi,FL,Gainesville,32608,288.0,3.5,3841 SW Archer Rd,sushi asianfusion chinese,29.6193587216188,-82.3814592058246
+0,8aQTG7Fb3y50TJlVJW4GeQ,Ka Meli Shave Ice,FL,St  Augustine,32080,3.0,5.0,1020 Anastasia Blvd,shavedice foodtrucks,29.88015,-81.2862
+3,8qt_KtZgj94POY-9SvpRZg,Rita's Italian Ice,FL,St. Augustine,32080,43.0,4.0,380 A1A Beach Blvd,icecream desserts shavedice,29.8558623,-81.2670603
+5,eh4PT8b_3Hdw1MdmtYEUvA,Purdees Tropical Flavored Ice,FL,Palm Coast,32137,13.0,4.5,1070 Palm Coast Pkwy NW,icecream shavedice,29.55394,-81.23088
+0,MshjJt2at9zlqgt6m8qKXg,Crucial Coffee Cafe,FL,Saint Augustine,32084,199.0,4.0,26 Charlotte St,coffee bubbletea breakfast_brunch,29.89585,-81.31208
+1,xaeaNNVI7spwSYhR1hjksA,Cafe Eleven,FL,Saint Augustine,32080,337.0,4.0,501 A1A Beach Blvd,bubbletea breakfast_brunch tradamerican,29.851775,-81.267847
+2,XAdKVkIK57dgkcx0A7yPGg,Sunshine Crepes & Bubble Bar,FL,Flagler Beach,32136,10.0,4.0,111 N 4th St,creperies bubbletea,29.482664,-81.1285469
+3,tYgIUfyOf_qwCDef5_7z-A,PC Nutrition,FL,Palm Coast,32137,2.0,5.0,1 Florida Park Dr N,bubbletea juicebars,29.558643,-81.2071626
+4,mm5BpCxhZ3dMmD_7KN1m5Q,2Q,FL,St. Augustine,32084,3.0,2.5,500 Outlets Mall Blvd,bubbletea juicebars icecream,29.92639,-81.41253
+5,Qn79U_wrzGyhPmK6xCcJ-A,Tram's Cafe,FL,Palm Coast,32137,44.0,4.5,101 Palm Harbor Pkwy,vietnamese bubbletea juicebars,29.570993,-81.190309
+6,sLtILRt3BF9RepyI8a_Nug,I Noodle Ramen and Dumpling,FL,Saint Johns,32259,33.0,4.5,2245 Cr 210 W,ramen bubbletea,30.059306269003926,-81.51408140244399
+7,dKYlw1fv2M6a_1So38pPTg,Kawa Sushi,FL,Palm Coast,32137,131.0,4.0,1475 Palm Coast Pkwy,sushi thai japanese,29.5528202,-81.2355804
+8,RKXV-W5j8skSPYMu7yw3fw,Mamaling Asian Street Food,FL,Palm Coast,32137,280.0,4.5,1280 Palm Coast Pkwy SW,panasian vietnamese asianfusion,29.549910314944068,-81.2292718582199
+9,y460alB0HWopOWWcsq_Oww,Pan Asian Sushi Bar and Grill,FL,Green Cove Springs,32043,57.0,4.0,1305 N Orange Ave,sushi panasian,30.0068300713795,-81.693909349383
+10,kZl8pubpgj2ts89l5y6hMw,STA Nutrition North,FL,St. Augustine,32084,1.0,1.0,525 FL-16,bubbletea juicebars healthcoach,29.91554,-81.34771
+14,a7HTyHxt1vmSNu4m4VVMrA,Sakada Japanese Steak House,FL,St. Augustine,32084,126.0,3.5,120 San Marco Ave,japanese sushi,29.904842516589,-81.3177961911938
+9,gheBN3oZrMgWd9GrkCRPGg,Thai Elephant,FL,Ormond Beach,32174,6.0,4.5,3768 Roscommon Dr,thai,29.401434308091048,-81.14897637980589
+0,P_6EAhrJZAV1sSorTWD8Gg,Berryville Bowlicious,FL,DeLand,32720,45.0,4.0,131 N Woodland Blvd,icecream bubbletea salad,29.02928,-81.3032
+1,PNteCNLdg2P6MRc8Zxti3w,Jeremiah's Italian Ice,FL,Mount Dora,32757,8.0,4.5,3220 Sr 44,desserts icecream shavedice,28.8263583,-81.64336856441803
+2,RgIDaj1Gk_Ef0nJpf3DEDA,Jeremiah's Italian Ice,FL,Deland,32720,5.0,4.0,2369 S Woodland Blvd,desserts icecream shavedice,28.987190746458587,-81.29759083659083
+3,vAtqNc2nBj6fEH-lbexfvw,Jeremiah's Italian Ice,FL,Orange City,32763,5.0,4.5,902 Saxon Blvd,desserts icecream shavedice,28.9106993389657,-81.2890336768761
+4,VH92ZDoTSltJHjhu41jpjA,FunRolls Ice Cream & Boba,FL,Orange City,32763,31.0,4.5,2499 Enterprise Rd,icecream shavedice bubbletea,28.920021,-81.296156
+5,hgO873QEugj52HU0aNtCfQ,Jeremiah's Italian Ice,FL,Deltona,32738,1.0,2.0,605 Courtland Blvd,desserts icecream shavedice,28.87938424322239,-81.1771314441109
+1,EYZaiUfynZ5rG57NND0flA,Pho Company Noodle House,FL,DeLand,32720,119.0,4.0,111 N Woodland Blvd,vietnamese noodles soup,29.0285370099417,-81.3033126301312
+3,AmlLliIfZv16IpqHtJELSw,MagicTea Market,FL,Mount Dora,32757,21.0,4.5,118 E 4th Ave,bubbletea intlgrocery icecream,28.7994851,-81.644385
+6,mUYmwVnDWDMLQKNFSQ64fw,TBaar-Lake Mary,FL,Lake Mary,32746,78.0,4.0,1541 International Pkwy,bubbletea juicebars,28.785380117923026,-81.3569069142531
+7,K1o028gAMK01mKdRmIDT-g,Blended Bistro & Boba - Lake Mary,FL,Lake Mary,32746,45.0,4.0,940 Colonial Grand Ln,poke bubbletea,28.78978,-81.35583
+8,CXsqCEtZtr-6HE1nsQGtIg,Neko ramen,FL,Debary,32713,20.0,4.5,2845 Enterprise Rd,thai ramen,28.90186,-81.2864
+9,M3yxURl7qDk9qhStHK0-cg,Red Bowl Asian Bistro,FL,Deltona,32725,168.0,3.5,1573 Saxon Blvd,japanese thai chinese,28.9074498943955,-81.2465588499099
+10,TKfMiWes6xZ9WfOQGcFXrg,Caribbean Grill & Roti Shop,FL,Deltona,32738,46.0,4.0,121 Howland Blvd,caribbean,28.87228,-81.16449
+1,sl9sxffNULkYz-Bj5TkEzw,Jeremiah's Italian Ice,FL,Daytona Beach,32114,39.0,5.0,227 Daytona Blvd,icecream desserts shavedice,29.1944822,-81.072179
+2,F9aCOv66xsezYFFBlc1tPA,Neighbors Ice Cream Parlor,FL,Port Orange,32127,99.0,4.5,5980 Spruce Creek Rd,icecream coffee grocery,29.0926885,-80.993495
+3,RiPzeshb-KTXswk1gfD5ZQ,Bread And Bubble Tea,FL,Daytona Beach,32118,38.0,4.5,151 S Atlantic Ave,bubbletea juicebars,29.22350883,-81.00639867
+4,3nL-_1mrU1sak7XnZCc6ZQ,Jeremiah's Italian Ice,FL,Ormond Beach,32174,7.0,4.0,162 S Nova Rd,desserts icecream shavedice,29.276853,-81.083203
+5,Drr0Ux-93uBr7uJ_YZOM6w,Salty Farms Seafood Restaurant,FL,Ormond Beach,32176,221.0,4.5,1452 Ocean Shore Blvd,seafood,29.32824,-81.05816
+1,n6NmQomAi95LetiUMuLRGQ,Seven Bubble Tea,FL,Daytona Beach,32114,18.0,4.5,1500 Beville Rd,bubbletea desserts juicebars,29.172298067711257,-81.04092784413915
+6,BwNd6UAZOBXZOajbIzLztw,Sweet Marlays' Coffee,FL,Daytona Beach,32114,163.0,4.0,214 S Beach St,breakfast_brunch bakeries cafes,29.20971,-81.0184
+8,_SgRfOsFH23LltgcC0kBjw,Red Dragon Wok And Boba Tea,FL,Daytona Beach,32114,23.0,3.5,1100 Cornerstone Blvd,chinese bubbletea,29.21229659943857,-81.0985454437594
+10,BrXBGNlny1WB6KOrr4oF_g,Lan Lamoon Authentic Thai Bistro,FL,South Daytona,32119,54.0,4.5,2900 S Nova Rd,thai desserts bubbletea,29.152402,-81.019142
+11,VgvQkTj3eCHqwC2os7GhnA,My Health Tree Cafe,FL,Daytona Beach,32118,87.0,4.0,715 Earl St,juicebars breakfast_brunch coffee,29.22987,-81.01022
+12,1GVt3Xn5CZU3si0HN6hodw,Pho Saigon,FL,Daytona Beach,32118,222.0,3.5,312 S Peninsula Dr,vietnamese,29.22019,-81.0104
+7,i0gFqV7WLDSdpIqLrBh3aA,kona ice,FL,Ocala,34471,2.0,3.5,,foodtrucks shavedice,29.1522960662842,-82.1213760375977
+10,pvPLIh2zYAwENFcCL9M1vA,Jeremiah's Italian Ice,FL,Wildwood,34785,6.0,4.0,5806 Seven Mile Dr,desserts icecream shavedice,28.867997766244684,-82.00762504506876
+13,CV2vlTBoIQ8BCbRu4nMhbg,Sandra's Raspa ParadICE,FL,Apopka,32712,2.0,5.0,1810 Rocksprings Rd,desserts shavedice foodstands,28.71073,-81.50968
+14,nOCLP-fJTiKG8nT0ZnraFQ,Jeremiah's Italian Ice,FL,Lake Mary,32746,62.0,4.5,4355 W Lake Mary Blvd,icecream desserts shavedice,28.7539501,-81.35207
+15,Y4EKIiNF4JlOSpqJ7hJ_Pg,Ritas Italian Ice & Frozen Custard,FL,Ocala,34471,12.0,4.5,2602 SW 19th Avenue Rd,desserts icecream shavedice,29.1611143,-82.1653202
+17,_TgED7IVG5mNFlFtvDZo5w,Lighthouse Ice Cream,FL,Ponce Inlet,32127,26.0,4.5,4958 S Peninsula Dr,icecream giftshops sandwiches,29.0792094,-80.92748089999999
+18,mPMwVfBf1fUs-y1AGg6dCg,Ho Daddy O's Surf  Cream,FL,Port Orange,32127,28.0,3.5,4600A S Atlantic Ave,icecream surfing hotdog,29.10338,-80.94173
+22,XeBHG0WODGYjurK_Stp20A,Cafe Heavenly,FL,New Smyrna Beach,32169,279.0,4.0,115 Flagler Ave,sandwiches seafood pizza,29.038431,-80.903275
+24,YAq2OcQTTjHdvwGOVPrxVQ,Pudgee's,FL,Floral City,34436,56.0,4.0,8435 S Roscoe Ct,foodstands hotdog burgers,28.772893,-82.294709
+1,OC_0qzWiSQI5FPJXMZpFig,Lotus Asian and Natural Food Market,FL,Ocala,34471,56.0,4.5,3751 SE 36th Ave,bubbletea sushi poke,29.15028,-82.08719
+2,u4BL3WqU7rMQywWN80R4Fg,Ramen House,FL,Ocala,34474,33.0,3.5,2708 SW College Rd,ramen bubbletea,29.1651318398,-82.16938561
+4,DXf3_1Y-1ch6Jc5b3vF0_w,AK Pho,FL,Ocala,34471,21.0,4.5,2635 SW College Rd,vietnamese,29.16718,-82.16814
+11,QctISwB-ImqKiKgQdETs_w,Face Tea,FL,Lake Mary,32746,50.0,4.5,3801 We Lake Mary Boulevard,bubbletea coffee juicebars,28.75464908528935,-81.345599
+13,AJjEkA4UBqbkTxxE0Dt0FA,Ice Spot,FL,Lake Mary,32746,34.0,4.5,237 Wheelhouse Ln,bubbletea icecream,28.755228,-81.334121
+16,zbaMDOfSdj2o2-fq503Flw,Bobacakes Cafe,FL,Lake Mary,32746,37.0,3.5,187 E Crystal Lake Ave,bubbletea coffee cupcakes,28.75881,-81.31837
+2,IzNRAL3LpiI4nDYirg7vMA,Rainbow Sno-Cones,FL,Winter Park,32792,37.0,5.0,3724 Howell Branch Rd,shavedice icecream,28.624245,-81.3007785
+14,DNNLg_i7Eo_nIB8zMf4Abg,Jeremiah's Italian Ice,FL,Oviedo,32765,36.0,4.5,1024 Lockwood Blvd,desserts icecream shavedice,28.657036,-81.179863
+15,k4y8-RWqQ2oMPF7W6HbSjg,Jeremiah's Italian Ice,FL,Winter Springs,32708,50.0,4.5,1000 Willa Springs Dr,desserts icecream shavedice,28.6471842007859,-81.273145
+8,s5RxrGo9iGGSSY3j4CXcCA,Bengong's Tea,FL,Winter Springs,32708,6.0,4.0,5661 Red Bug Lake Rd,bubbletea,28.646132,-81.26953
+9,OK_--wLgyXwF4Btv04cZ0A,BESTEA,FL,Oviedo,32765,16.0,4.5,1013 Alafaya Trl,bubbletea ramen,28.654686234258165,-81.20994675904512
+12,8njs7IznW7zkDW-8ubmT2A,Chewy Bubble & Froyo,FL,Oviedo,32765,33.0,3.5,1815 E Broadway St,icecream coffee juicebars,28.6597687,-81.1788258
+16,yM_YzDmz_S6U-4mA4xMilQ,Taipei 101,FL,Oviedo,32765,202.0,4.5,3050 Alafaya Trl,taiwanese chinese,28.62517,-81.20721
+17,IkYecwYUK_Rl2uxLYVOw4g,Pho Au Lac,FL,Winter Springs,32708,115.0,4.5,158 Tuskawilla Rd,vietnamese bubbletea asianfusion,28.69773232100342,-81.26204325366437
+19,y1XVHN0RVoRggWDuoUOxiw,Sarku Japan,FL,Oviedo,32765,39.0,3.5,1700 Oviedo Marketplace Blvd,japanese,28.67183,-81.20436
+20,1jLOoLpwUuTLBHkky_O7-Q,Kabuto Sushi & Grill,FL,Winter Springs,32708,54.0,4.5,5661 Red Bug Lake Rd,japanese sushi tapasmallplates,28.646121,-81.2695376
+21,A7KizA4u4srDIebZjOav2Q,Rumaku Sushi,FL,Oviedo,32765,205.0,4.5,3050 Alafaya Trl,sushi ramen burgers,28.6251714264867,-81.2073142443381
+11,g3PdxEP9RS1EpZuQXujfgg,Emma's Sweet Delights Ice Cream Shop,FL,Altamonte Springs,32714,1.0,5.0,1152 W Sr 436,desserts shavedice icecream,28.66637,-81.42979
+21,YudGj9WB6pEq5E7U53-rXg,Frostville Chamoyadas,FL,Apopka,32703,9.0,4.5,925 S Orange Blossom Trl,shavedice markets icecream,28.6673450469971,-81.4869155883789
+31,XgRQCwVbRCxYV76x_UfhTA,Korea House Restaurant,FL,Longwood,32750,280.0,4.0,1155 W State Rd 434,korean,28.698638,-81.364936
+33,ZM3wdJMdDPaG61aVPAiGtA,Jeremiah's Italian Ice,FL,Longwood,32779,63.0,4.5,2491 W State Road 434,shavedice icecream desserts,28.68799788575485,-81.40590551532688
+36,3nOQN6IEdQQFaexj8HLpYg,Jeremiah's Italian Ice,FL,Casselberry,32707,21.0,4.5,80 Golden Days Dr,desserts shavedice icecream,28.681547,-81.33559
+24,QuHdrCu8elooYbw5JeBSMg,CNR Cafe & Pizzeria,FL,Hernando,34442,1.0,5.0,2780 N Florida Ave,coffee bubbletea pizza,28.903060013671087,-82.37718471403295
+27,EcpEdW0Yn5v6AfnTGUHBXA,Sago Tea Bar ATBP,FL,Apopka,32703,59.0,4.5,452 S Hunt Club Blvd,bubbletea filipino desserts,28.673449,-81.450282
+2,PQULHmq7QcgwRCnRKafpeA,Pholicious,FL,Altamonte Springs,32701,32.0,3.0,451 E Altamonte Dr,vietnamese juicebars hotdogs,28.666656,-81.377375
+4,B6bBZiSJb1iHBnBFO1NtQQ,Ice Hut,FL,Altamonte Springs,32714,60.0,4.0,280 S State Rd 434,icecream bubbletea juicebars,28.659072,-81.421996
+0,TfMDDczxtdX8RWHwtYA8MA,Ice & Bites Cafe,FL,Orlando,32817,273.0,4.5,3402 Technological Ave,shavedice bubbletea desserts,28.598259,-81.221036
+6,JATs8Jjazit2PjHuQpRboQ,Sno Tea Caffè UCF,FL,Orlando,32826,126.0,4.5,4498 N Alafaya Trl,coffee juicebars bubbletea,28.606135,-81.208967
+14,ONN9_Yb1LaeP93MBsnGyDw,Kung Fu Tea,FL,Orlando,32817,163.0,4.0,12098 Collegiate Way,coffee juicebars bubbletea,28.596562,-81.2106674876838
+15,AGk89aiY2mo1f3pCZ-yteg,Gustitos Helados y Raspados,FL,Orlando,32807,20.0,4.5,1718 N Goldenrod Rd,desserts juicebars icecream,28.5703884972764,-81.2864956632257
+18,uDmcREJNaOGfp5J8lQHJXw,Jeremiah's Italian Ice,FL,Winter Park,32792,181.0,4.5,6864 Aloma Ave,icecream desserts shavedice,28.6063487136337,-81.2974050386404
+11,82zPURIu_vE5TlomvWsDvg,Tan-Cha,FL,Orlando,32826,37.0,4.5,11913 E Colonial Dr,bubbletea,28.5667719,-81.2051551
+13,3FFnm-wYFCx5kN-AmXgOaQ,Shaka Shaka Tea House,FL,Winter Park,32792,189.0,4.5,4038 N Goldenrod Rd,bubbletea juicebars coffee,28.599428,-81.288267
+15,Bqb2aYl_UPG5XABiqShuNw,Chewy Boba Company,FL,Oviedo,32765,94.0,4.0,4250 Alafaya Trl,juicebars bubbletea coffee,28.612627,-81.205307
+19,jtXX2PeLlLq8hFAbIfFrTg,Ms Tea's Bento,FL,Union Park,32817,109.0,5.0,10376 East Colonial Dr,bubbletea taiwanese,28.56872,-81.23541
+21,p3RbkyapX5fnTJrcypSYGA,Tea Plus Orlando,FL,Union Park,32817,6.0,4.0,10681 E Colonial Dr,bubbletea,28.56971,-81.2307
+22,rIzmyKEsPZsyhHph5n0Nag,Chewy Boba- Winter Park,FL,Winter Park,32792,55.0,4.0,106 S Semoran Blvd,coffee bubbletea macarons,28.5965837088788,-81.3078753555838
+23,P2rmZJuOsYEDLxyF0tdHUA,Dang Boba & Musubi House,FL,Orlando,32817,123.0,4.5,11772 E Colonial Dr,bubbletea cafes desserts,28.565391756400377,-81.20915109386563
+26,CSHiunmos7rw5-jb1hbZVg,Eastside Asian Market,FL,Orlando,32826,134.0,4.5,12950 E Colonial Dr,gourmet vegetarian intlgrocery,28.56471,-81.18587
+29,tVBBb4xOEuGTSa2I8uaeqw,Baguette Factory,FL,Orlando,32826,3.0,4.0,12286 E Colonial Dr,bubbletea sandwiches soup,28.56520657612072,-81.19651596680865
+30,4wAoSBkNLpc8NHRx-n0RRA,China Chef Restaurant,FL,Winter Park,32792,65.0,3.5,4042 N Goldenrod Rd,chinese seafood soup,28.598822,-81.287854
+32,JCffE_BE0WBnXfUtAX0dEw,Brooklyn Water Bagel,FL,Winter Park,32792,342.0,4.0,4026 N Goldenrod Rd,bagels coffee,28.5992659932294,-81.2886158960133
+33,L7FP_tQbwlvTjb2iA51MIw,Bento Asian Kitchen + Sushi,FL,Orlando,32817,261.0,3.5,12250 Strategy Blvd,asianfusion sushi chinese,28.5996431551629,-81.2087986475935
+35,8rHjH1pJKrMIBKkdAlcBNg,Pho So 1,FL,Orlando,32817,25.0,4.5,3402 Technological Ave Suite 124,vietnamese,28.598237,-81.2211597338319
+5,TWHagvmvEhj69fD-tvRMBw,Tikiz Shaved Ice & Ice Cream,FL,Winter Garden,34787,1.0,1.0,,shavedice foodtrucks icecream,28.5621280670166,-81.5868072509766
+8,VVA7P8NtdpaKTtJjZktCDQ,Pelican's  SnoBalls,FL,Ocoee,34761,1.0,5.0,29 W McKey St,shavedice icecream desserts,28.56978,-81.54514
+4,DE7X95EaowAsbhPQO4RMBw,Idrink Boba & Sandwiches,FL,Minneola,34715,13.0,5.0,556 S Hwy 27,bubbletea sandwiches,28.574147245702623,-81.74825837908045
+5,1du454uJPV7YnbhCejBdLA,Teamont Boba,FL,Clermont,34711,27.0,4.5,821 W Minneola Ave,bubbletea,28.5560463,-81.76917449999999
+2,kYki6jQOVID3dj2IfTClwA,SnoMo's Shaved Ice,FL,Clermont,34711,11.0,4.0,13800 S Greater Hills Blvd,shavedice desserts icecream,28.54747,-81.69483
+7,38jZsh-i6jQtHHcXFfyisw,Gochi Japanese Kitchen,FL,Winter Garden,34787,172.0,4.0,14195 W Colonial Dr,japanese sushi seafood,28.552630859777896,-81.59516552883912
+4,SqEsaspMYNVwTvaKIeTxtw,Taipei Taipei Tea House,FL,Brooksville,34601,75.0,4.5,322 N Broad St,taiwanese bubbletea chinese,28.5547,-82.3824
+5,Ql-2DhD7ynpXjC3Bpg2wVw,Lucky Straws Boba Tea Cafe,FL,Winter Garden,34787,99.0,4.5,13750 W Colonial Dr,cafes bubbletea coffee,28.549035,-81.589381
+7,Gnlp6wAjKk0QOguq02O28A,SmallCakes CupCakery & Clermont Boba Tea,FL,Clermont,34711,5.0,4.5,2670 E State Rd,cupcakes bubbletea icecream,28.5493682,-81.70420039999999
+18,95rNN6oU6lAPcYyQrM_fSQ,Jeremiah's Italian Ice,FL,Maitland,32751,144.0,5.0,433 Orlando Ave S,icecream desserts shavedice,28.624726924459527,-81.36459954786777
+15,_CACwX6d9fI0svJdP0JVOw,Quickly Bistro & Boba,FL,Altamonte Springs,32714,206.0,4.0,821 S State Rd 434,bubbletea poke vietnamese,28.64611,-81.41463
+26,tc4bwtcAE7EytoQ8KOX6wg,Kumo Asian Kitchen,FL,Altamonte Springs,32714,99.0,4.5,767 S Sr 434,sushi thai ramen,28.646640607773286,-81.41466619999437
+1,ZTryEfVo-hiRbNpnMPiKkA,Beach Treats,FL,Panama City,32408,2.0,4.0,2521 Thomas Dr,hotdog shavedice icecream,30.158261972306484,-85.75315184891224
+2,PpXv9EnNLH1iTBRRivHy9A,David's New Orleans Style Sno-Balls,FL,Panama City Beach,32407,379.0,4.5,13913 Panama City Beach Pkwy,cajun icecream,30.2083612646224,-85.8466326701984
+1,ZMwf8XfsRGgPTMXLBRt_RA,King Kong Milk Tea & smoothies - Panama City Beach,FL,Panama City Beach,32408,6.0,2.5,8730 S Thomas Dr,juicebars bubbletea coffee,30.169232559748664,-85.78801139198495
+5,7L9X7v0jKI1j72xi4nfU6g,Road Ice Cafe,AL,Dothan,36305,1.0,5.0,2087 S Brannon Stand Rd,hotdog shavedice,31.211065651979848,-85.4846448
+3,wYd1Ud6j-I16ZOJd1P7Eng,J Y Tea,AL,Dothan,36303,1.0,5.0,2767 Montgomery Hwy,bubbletea,31.24643973957869,-85.42295477410778
+2,o7c03AfaLiRQnNaygngg4A,The Sugar Shak,FL,Rosemary Beach,32461,66.0,2.5,5 Main St,icecream candy shavedice,30.279545,-86.016448
+3,ENDS3ZK3hgjmFHiwSkTbRw,Jack & Diane’s New Orleans Style Snowballs,FL,Watersound,32461,7.0,3.5,7000 E County Hwy 30A,shavedice,30.301447,-86.064499
+4,HXYTwOO8FfkNWH1dd3H-YA,The Hub 30a,FL,Santa Rosa Beach,32459,207.0,3.0,7000 E Co Hwy 30A,tradamerican pizza seafood,30.300654,-86.064143
+1,q4fJWWIhdgUMqB_n6I6JAA,Pho Pier 77,FL,Panama City Beach,32413,266.0,4.0,19932 Front Beach Rd,vietnamese,30.242234,-85.929836
+2,dw_xY3TVugMo1QtWLH2r3g,Di'lishi - Freeport,FL,Freeport,32439,11.0,4.5,16400 US Hwy 331 S,coffee icecream,30.48693,-86.1243782
+3,rL_q01KIvAC8HJzjeYBG2g,Real Thai Fusion Restaurant,FL,Miramar Beach,32550,261.0,4.5,11275 US 98,thai,30.3824985,-86.3611986
+4,pxC6WtFNnHn1U9Bb_4BEUQ,Jin Jin 1,FL,Santa Rosa Beach,32459,26.0,2.5,2078 US Hwy 98 W,chinese,30.375055,-86.213689
+5,2HYIzavLj8YYRkSnuuVM2A,Pho Nguyen Vietnamese Noodle,FL,Valparaiso,32580,101.0,4.0,177 S John Sims Pkwy,vietnamese noodles,30.50608854852313,-86.4941964519973
+0,0-pwCtwBGo3IQGZRhNHt8Q,Hokulia Shave Ice - Santa Rosa Beach,FL,Santa Rosa Beach,32459,38.0,4.5,4057 E County Hwy 30A,icecream shavedice juicebars,30.31193,-86.10961
+2,9UJ6bVBNpvy26yKy6jJMGQ,Frost Bites,FL,Santa Rosa Beach,32459,41.0,4.0,2215 E County Hwy 30A,shavedice,30.3200153662949,-86.1380904969262
+5,Gn5uIiVbwGoaeKrm9h2a0A,Kona Ice of South Walton County,FL,Freeport,32439,6.0,5.0,,shavedice foodtrucks,30.5025768280029,-86.1325454711914
+6,mYhpxAno0BF7w5bXpRoObQ,Tony Larue's New Orleans Snowballs,FL,Sandestin,32550,3.0,2.5,115 Cannery Ln,icecream shavedice,30.389331593860927,-86.32500545984341
+7,S9hSYbV1pfXsh8nS54nbdw,Coast Creamery,FL,Santa Rosa Beach,32459,1.0,5.0,5221 E County Hwy 30A,gelato shavedice,30.3130857,-86.0923873
+10,N0_PPPVpDWgFDU0pNpJF6Q,"Mr. Funny Bones - Movies, Toys & Treats",FL,Santa Rosa Beach,32459,4.0,3.0,3723 E County Hwy 30A,candy shavedice videoandgames,30.3133831,-86.1149979
+1,iVvDpdMCpekluIRIONi1Xg,SWEETEA,FL,Destin,32541,100.0,4.5,234 Harbor Blvd,acaibowls bubbletea icecream,30.39398,-86.5056
+6,S-iVmlwsBXBVNCFhs5OXBg,Think Poké,FL,Fort Walton Beach,32548,210.0,4.5,73 Eglin Pkwy NE,poke desserts bubbletea,30.41671,-86.60588
+7,l8misXsub3Q5G4WXthmciQ,Bon De Paris,FL,Fort Walton Beach,32548,6.0,4.5,255 Miracle Strip Pkwy SE,vietnamese desserts bubbletea,30.40435,-86.60234
+9,b33Keqa4c1TvZOYgz6WK3g,Aloha Banh Mi & Boba Tea,FL,Crestview,32536,2.0,3.0,147 N Main St,foodtrucks bubbletea sandwiches,30.75824,-86.56944
+10,4soh6jaB3LjPX7Iy7436bA,Thai Ramen,FL,Fort Walton Beach,32548,102.0,4.5,99 Eglin Pkwy NE,thai ramen,30.41941903047522,-86.60727853282818
+6,xRat2dMiFtXdWOYxf4QdvA,Domo Cafe,FL,Fort Walton Beach,32547,437.0,4.5,1823 Hurlburt Rd,sushi japanese bubbletea,30.4499627713597,-86.6424851864576
+10,MS7DWSZi1Rfcwvu6e4LBjA,Pho Eva,FL,Fort Walton Beach,32547,163.0,3.5,648 Beal Pkwy NW,vietnamese,30.43325,-86.63998
+13,zMOi1BA56SNVV24q5ZsM0A,Ocean Buffet,FL,Fort Walton Beach,32548,83.0,2.5,309 Miracle Strip Pkwy SW,buffets chinese,30.4071293,-86.6319275
+2,hfbQ_rEtLWxbPYyY5kVrxQ,Pho Time,AL,Enterprise,36330,57.0,4.5,2200 Ozark Hwy,vietnamese soup bubbletea,31.346837,-85.836363
+2,ni1B_3cTP93UZ7YlcGUglg,Dewey's New Orleans Style Snoballs,FL,Destin,32541,36.0,4.5,9 Calhoun Ave,shavedice southern,30.3974360947998,-86.515028272748
+5,27RmctncNwsnqL0OKjxMOg,The Cone Ice Cream,FL,Destin,32541,55.0,4.5,960 US 98 E,icecream coffee shavedice,30.387585,-86.476978990213
+9,fzKycSuFYmLQsz9vEBphUg,Deep South Sno Treats,FL,Destin,32541,1.0,2.0,116 Harbor Blvd,desserts shavedice,30.3938765,-86.50897
+12,CEAUmE6DDK00lgC0EI33oA,Dewey Destin Seafood,FL,Destin,32541,868.0,4.0,9 Calhoun Ave,seafood,30.397493,-86.515085
+3,IaLT_MpbsK_JlXfq2vqJ5Q,Retro Sno,FL,Crestview,32539,1.0,4.0,971 Industrial Dr,shavedice shavedsnow icecream,30.7781163090583,-86.5609046031328
+0,9pqvW95Bp_Qnl-DsGToHpA,Lealani’s Hawaiian shave Ice,FL,Fort Walton Beach,32547,1.0,5.0,701 Beal Pkwy NW,shavedice foodtrucks icecream,30.4365,-86.63843
+10,BnuI_jmMKG12m0t2S8JiJw,The Boardwalk Shop,FL,Navarre,32566,9.0,3.5,8460 Gulf Blvd,shavedice souvenirs bikerentals,30.380707,-86.870445
+13,Fa-3hasHHClelfmgtgvnIQ,Shark Bite,FL,Navarre,32566,319.0,5.0,8671 Navarre Pkwy,foodtrucks breakfast_brunch,30.4009577718744,-86.8601967394352
+21,xLZbCLqBHOWAOdNWR546KQ,Turtle Roll Homemade Ice Cream & Shaved Ice,FL,Gulf Breeze,32563,2.0,3.0,1713 Woodlawn Way,desserts icecream shavedice,30.3985357,-87.0054478
+0,ogqMR78bufUwqlUhzSneCg,JC Bubble Tea,FL,Pensacola,32504,25.0,3.5,5100 N 9th Ave,coffee shavedice bubbletea,30.4750347309674,-87.2070713888791
+1,sRjrB8EtbjNDhbp7my95DQ,Sneaky Tiki Shaved Ice,FL,Pensacola,32514,1.0,5.0,,shavedice foodtrucks,30.5337352752686,-87.2118606567383
+2,-YainPulh1YEpEzi36DDDQ,Paradise Snow,AL,Orange Beach,36561,1.0,5.0,25900 Perdido Beach Blvd,shavedice hotdog foodstands,30.290574,-87.5980396
+4,mF2nt1rue-0CFrXdoIfWkA,Frost Bites,AL,Orange Beach,36561,1.0,5.0,27853 Perdido Beach Blvd,shavedice foodtrucks icecream,30.276197,-87.55082
+6,6XBVEmr8eVErW9QfP32W-A,Perdidolicious Sno Cones and Street Tacos,FL,Pensacola,32507,16.0,4.5,10605 Gulf Beach Hwy,shavedice tacos foodtrucks,30.32757277508694,-87.36605859266237
+7,FqO1YGXaEDFoujcnZjNRyg,Louisiana Lunchbox,FL,Pensacola,32526,84.0,4.0,6705 Pine Forest Rd,cajun seafood shavedice,30.47795,-87.307058
+8,GThRs318hUA4aqpQJ0QO5w,Dave's Snowballs,FL,Pensacola,32507,29.0,3.5,13820 Perdido Key Dr,foodstands shavedice donuts,30.287213,-87.489473
+10,yTxePNSWFnYLh67a7M1I6Q,Cafe Nola,FL,Gulf Breeze,32561,192.0,4.0,400 Quietwater Beach Rd,cajun seafood,30.336168743067834,-87.14365942726134
+1,UOgjTRB9NH2V7wyLRN1gGg,Quickly,FL,Pensacola,32505,56.0,4.0,2416 W Cervantes St,bubbletea vietnamese asianfusion,30.421258517579,-87.2455262392759
+2,52fp6aW3OKTEEN4gjvWStg,YoLicious Frozen Yogurt & Sweets,FL,Pensacola,32504,19.0,4.0,5100 N 9th Ave,juicebars bubbletea icecream,30.4764514205899,-87.2064955554561
+3,__jKS6bw2hh_ialVGPX4gQ,Saigon Oriental Market & Deli,FL,Pensacola,32505,131.0,4.5,604 N Pace Blvd,delis vietnamese intlgrocery,30.41916,-87.24079
+4,CWHvRQvKqlIvojv6ldlzVA,Fang’s Poke & Bao,FL,Pensacola,32504,5.0,4.0,5100 North 9th Ave,asianfusion bubbletea hawaiian,30.4751107051,-87.2074468739
+5,O7CBgtPih7UEG3BcYENN7g,Esaan Thai Street Food,FL,Pensacola,32502,4.0,2.5,501 S Palafox St,thai bubbletea,30.40743,-87.21445
+6,fVZ4Sn2eVn3B-DxLuvq4gA,Nippon Sushi,FL,Pensacola,32504,102.0,3.5,5100 N 9th Ave,bubbletea sushi,30.4753454505993,-87.207199819386
+7,YsXjzUqHuZQ5oUojIHQH2A,Tu-Do Vietnamese Restaurant,FL,Pensacola,32504,348.0,4.0,7130 N Davis Hwy,vietnamese,30.49846,-87.22113
+8,Oki4DbFQHDKRM1EJwOPj-g,Pho Golden Palace & Vietnamese Resturant,FL,Pensacola,32504,169.0,4.0,7156 N Davis Hwy,vietnamese,30.4988019,-87.2215169
+5,L7hoRREhGqfMp4T2iTFZSQ,Cafe Bistro,FL,Pensacola Beach,32561,216.0,4.0,39 Via De Luna Dr,icecream breakfast_brunch sandwiches,30.335015,-87.132484
+7,kDePXxpdzj36edpnRYHy2Q,Neomaya,FL,Pensacola Beach,32561,16.0,4.0,35 Via De Luna Dr,newamerican bubbletea breakfast_brunch,30.335159510421285,-87.13261059999999
+7,qscobq4pq0Pz83VF3G4nXw,I Heart Bento,FL,Pensacola,32514,111.0,4.0,875 E 9 Mile Rd,asianfusion,30.531642,-87.246632
+10,euL1bPFG1iItGj-fJnUXMw,Kazoku Restaurant,FL,Pensacola,32534,257.0,3.5,119 E 9 Mile Rd,sushi chinese asianfusion,30.53251,-87.26833
+11,PmaMm5DLzuGVDsaTwOnkkg,Blue Bayou Coffee,FL,Pensacola,32507,1.0,5.0,8701 Gulf Beach Hwy,cafes,30.37093743665737,-87.3298366894416
+5,2PUmPNISpzePR6o8kecbXA,New Orleans Original Snoballs,AL,Gulf Shores,36542,25.0,4.5,320 E Beach Blvd,burgers hotdog shavedice,30.24932,-87.68473
+6,RJLtbDQKNlqgq8SVsQgkBw,Pelican's SnoBalls of Foley,AL,Foley,36535,11.0,5.0,1001 N McKenzie,desserts shavedice foodtrucks,30.4167215,-87.6837321
+8,UYD9ZOfgBm1_jSacXtJWJA,Kona Ice of Coastal Alabama,AL,Gulf Shores,36542,1.0,5.0,,shavedice foodtrucks,30.2460536956787,-87.7027816772461
+10,VzFFHyHcdbLTkBJ4AAWOrg,LuLu's Gulf Shores,AL,Gulf Shores,36542,1476.0,3.5,200 E 25th Ave,seafood musicvenues newamerican,30.280967,-87.684917
+11,QgTrmUpMi_sblPcQ3h997A,Cherry On Top,AL,Gulf Shores,36542,13.0,4.5,132 W First Ave,icecream shavedice,30.24954,-87.69118
+12,HribLZ-KoBePk6BcJAI-Jg,Rita's Italian Ice,AL,Foley,36535,24.0,4.0,2654 S McKenzie St,desserts shavedice icecream,30.375958,-87.684126
+4,PSEus10YI9A52Lok8LehZA,Poke Bowl Sushi Burrito & Boba,AL,Foley,36535,8.0,3.5,2656 S McKenzie St,poke bubbletea juicebars,30.3765438,-87.6834549
+15,Zf-jTuADqW9THN69nSI9xw,Cold Breeze,FL,Gulf Breeze,32563,1.0,5.0,3026 Gulf Breeze Pkwy,bubbletea juicebars salad,30.38572,-87.09808
+1,BDrjbB0YwNmm-FrPx3qglA,Sno-Shack SnoBalls,AL,Fairhope,36532,2.0,4.5,17022 State Highway 181,shavedice,30.47276,-87.852053
+5,QgPN7DSKwI2IYNwYkGar3A,Jennifer's Lil Alaskan Snowball Shop,AL,Prichard,36610,6.0,5.0,1819 W Main St,shavedice,30.7406880898022,-88.0958900441722
+7,Sf4NoeG-G32gFGKpgdyiYQ,Sno Biz In Saraland,AL,Saraland,36571,4.0,4.5,412 Hwy 43 S,shavedice icecream,30.8127497881651,-88.0712563544512
+10,QZbieK6dHC24kYrC-ct19w,ice ice baby Fairhope,AL,Fairhope,36532,2.0,3.0,369 S Mobile St,shavedsnow shavedice desserts,30.51766,-87.91467
+0,Q6RKT8DyV6wQgIjWtSPsnA,Poke Bowl Sushi Burritos and Boba,AL,Daphne,36526,15.0,4.5,28600 US-98,bubbletea sushi hawaiian,30.641846,-87.911508
+1,fPisonAMItR76nvBpisc0g,Kurabi Bubble Tea,AL,Mobile,36608,43.0,4.5,3821 Airport Blvd,bubbletea juicebars thai,30.67529,-88.14182
+2,trBKD2rfMWWt1e5XH0tiCw,Honeybun Donuts and Kolaches,AL,Spanish Fort,36527,13.0,4.0,6729 Spanish Fort Blvd,breakfast_brunch bubbletea donuts,30.67045,-87.90688
+12,QQH1By_ScDfNQUpdAKD_3A,Quickly Asian Fusion Cafe,AL,Mobile,36609,69.0,4.5,5033 Cottage Hill Rd,bubbletea asianfusion juicebars,30.6488959,-88.1590829
+19,0BV0SgV1zejlgKyxdGeOwQ,Pot Au Pho,AL,Mobile,36609,149.0,4.0,464 Azalea Rd,vietnamese,30.6627267757426,-88.1518024206161
+20,UXl-oMwmPpbgGhBesFUa7g,Happy Sushi,AL,Mobile,36608,42.0,4.5,3662 Airport Blvd,sushi ramen,30.67691,-88.13391
+19,NKKwNvb6S_TP7pI4Ilm1UA,Frost Bites Gulf Shores,AL,Gulf Shores,36542,2.0,4.0,925 Beach Club Trl,shavedice icecream foodtrucks,30.237014773707436,-87.87712096808828
+4,DwrGqiXESe3lhlSUsU_lcg,LuLu's Sno Shack,AL,Mobile,36608,4.0,5.0,850 Blackburn Dr,shavedice shavedsnow,30.67239,-88.26266
+14,Af7pP_R-8_y5ajL8dQQnAw,Island Rainbow Pizza,AL,Dauphin Island,36528,79.0,3.5,1614 Bienville Blvd,pizza,30.2505722045898,-88.1304626464844
+10,VeBnOJ2-z22HQEilCpr7KA,Sugar Rush Donut Company,AL,Mobile,36608,92.0,4.5,4701 Airport Blvd,donuts bubbletea juicebars,30.6759352,-88.1736412
+11,eG6lTOtl9BGUwjDC0AuNqQ,Sugar Rush,AL,Bayou La Batre,36509,19.0,5.0,13240 N Wintzell Ave,donuts coffee bakeries,30.4156652837007,-88.2451726594677
+12,XuZhdXADLZesMXzc4T8bcg,Benja's Thai & Sushi Restaurant,AL,Mobile,36695,87.0,4.0,1281 Hillcrest Rd,sushi thai,30.662022294762,-88.1901628377953
+17,qwIXsIiEuXFplhhvXrbmJQ,Smoothie King,AL,Mobile,36609,4.0,4.5,6358 Cottage Hill Rd,juicebars,30.6407534610517,-88.1921318893117
+25,JuxRtj8fqfCaNHmxqz6JDA,Thai Lotus Restaurant,AL,Bayou La Batre,36509,3.0,3.5,13812 Shell Belt Rd,thai,30.403673,-88.249001
+12,8bN3QEF0tdg5fOdF9A8KpQ,HernandoLoser Nutrition,FL,Brooksville,34613,2.0,5.0,13119 Cortez Blvd,bubbletea herbalshops,28.535694,-82.5096
+0,bbbIs3p3Dle29QsSNidrBw,Bubble & Co Tea Bar,FL,Maitland,32751,227.0,4.5,136 Lake Ave,bubbletea coffee desserts,28.618021785020066,-81.36650160670865
+4,cF7HYuOiQCJ75vJg85k_wA,Krave Tea,FL,Winter Park,32789,159.0,4.5,839 S Orlando Ave,bubbletea coffee vietnamese,28.59077,-81.365927
+5,aN1zU4EUW37Gzkz2T2BI7Q,Shen Tea,FL,Winter Park,32792,18.0,4.5,2254 Aloma Ave,bubbletea coffee juicebars,28.60074,-81.32169
+9,2t7UUpOYguKo1ZL_rbyfOQ,KrungThep Tea Time,FL,Winter Park,32789,711.0,4.5,1051 W Fairbanks Ave,tea sandwiches thai,28.59351,-81.36281
+14,fWak6dJ4S4Pi5tiTEYyUFg,La Rima Cafe,FL,Winter Park,32789,3.0,4.5,211 W Fairbanks Ave,bubbletea coffee,28.59329,-81.35223
+16,Prf2jh0JMtsmO2Yo46O0PQ,Bento Asian Kitchen + Sushi,FL,Winter Park,32789,111.0,3.5,501 Orlando Ave,sushi panasian chinese,28.605277,-81.367728
+1,EQ4M-erU_m0RWIXtWm-jPA,Love At First Sip,FL,Winter Garden,34787,103.0,4.5,12750 West Colonial Dr,tea bubbletea coffee,28.550813,-81.5700754
+4,qUD8Oopa9pUTPVudH1IABQ,ROYALTEA,FL,Orlando,32803,692.0,4.5,714 N Mills Ave,bubbletea coffee desserts,28.55376,-81.36465
+6,Qw6qfdkr1RCxMcuq6RTI5Q,MÖGE TEE,FL,Orlando,32819,141.0,4.0,7583 Sand Lake Rd,coffee bubbletea,28.450912,-81.486366
+8,rWvZ4wF1Oiu07vS6Wocc3w,Spring Tea,FL,Orlando,32819,109.0,4.5,8457 S John Young Pkwy,bubbletea,28.44312667,-81.426245
+10,uIrlSMYcz0ssu1BMa_o_yQ,BAMBU,FL,Orlando,32808,127.0,4.0,5210 W Colonial Dr,bubbletea juicebars vietnamese,28.5514496816435,-81.4507811448745
+11,ERmtADckDpHOeP3wQOqoLg,Tbaar,FL,Orlando,32835,121.0,4.5,5816 Conroy Rd,bubbletea juicebars,28.4933071926422,-81.4608369153443
+13,_dwjvjEDxmaZohmeUJemfw,Frosty Fox,FL,Orlando,32814,17.0,4.5,4816 New Broad St,coffee bubbletea gelato,28.566742973415728,-81.3275633919742
+15,Ey5rO1ieJdVTSli7mSCibA,I Tea,FL,Orlando,32808,46.0,4.5,3191 W Colonial Dr,bubbletea coffee desserts,28.55442,-81.41523
+16,2_B4Ks5-UPIbOUuOyE3NYQ,A Cup Of Tea,FL,Orlando,32824,8.0,5.0,13874 Landstar Blvd,coffee bubbletea,28.3623141785796,-81.36689857083503
+17,yLq5VJtR3uNVoOyIRTl8JA,Boba Queen,FL,Orlando,32808,92.0,4.5,5600 W Colonial Dr,bubbletea japacurry,28.5510956335162,-81.4578687318771
+20,xdhlX6B4muZseNuWNDiDXQ,Chewy Boba Company,FL,Orlando,32809,264.0,4.0,8098 S Orange Blossom Trl,coffee bubbletea juicebars,28.448129,-81.402089
+21,dxrjkwMP7OTAoGUtuUiKDg,The Tea Spot,FL,Orlando,32808,156.0,4.5,5078 W Colonial Dr,bubbletea coffee desserts,28.5510639529163,-81.44967206013821
+23,DwmtrYtORcQT5BdHCMkELQ,Moge Tee - Orlando,FL,Orlando,32803,77.0,4.5,636 N Mills Ave,coffee bubbletea,28.5527795,-81.3645934
+25,PfWV3UEFNN9gEHKEjV4bDg,Sun Pearl Bakery,FL,Orlando,32808,169.0,4.5,5082 W Colonial Dr,taiwanese bakeries bubbletea,28.5507755279541,-81.4494857788086
+27,uKkaQjs8LMaqg9tiPT0EQw,Zero Degrees,FL,Orlando,32808,340.0,3.5,5282 W Colonial Dr,bubbletea coffee,28.55117,-81.45279
+29,TWxNG7Y7Re8LR7OpAEKIgQ,RareTea,FL,Orlando,32801,33.0,5.0,12 N Summerlin Ave,bubbletea juicebars tea,28.54293,-81.36859
+32,tdC80tK2kMvhOKgHIG__8g,RoyalTea - Alafaya,FL,Alafaya,32828,17.0,4.5,504 N Alafaya Trl,bubbletea coffee,28.5534,-81.20614
+33,LAreLIpOJe3jkQT_8HbQ7Q,Susuru,FL,Orlando,32836,584.0,4.5,8548 Palm Pkwy,izakaya cocktailbars tapasmallplates,28.384234,-81.501343
+36,lTEngc4f0oIYMw2fRwSJBw,Quickly Boba Tea,FL,Orlando,32819,340.0,4.5,9900 Universal Blvd,bubbletea poke asianfusion,28.42824,-81.444149
+37,vKL0sFb-F1qvs4lNiLDFuw,Zero Degrees,FL,Orlando,32809,244.0,4.0,1700 W Sand Lake Rd,bubbletea chicken_wings coffee,28.449693,-81.402029
+39,I1zhChrvLNtcOKUkx3nTWw,Picasso Moments Bakery,FL,Orlando,32819,61.0,4.5,8231 S John Young Pkwy,bakeries bubbletea customcakes,28.4452925,-81.4256552
+41,pGZ3EeUJq2XaPsm1Z10e4A,Qi Dragon Bakery,FL,Orlando,32809,37.0,4.0,7400 Southland Blvd,bakeries desserts,28.45616,-81.40003
+42,tCgvo6O67o8UiErUeTxoJA,Shaka Shaka Tea House,FL,Orlando,32822,196.0,4.5,3934 S Semoran Blvd,bubbletea juicebars,28.503782,-81.312718
+45,OrPZmcIn8F01b1HWeh0abw,Japango,FL,Orlando,32803,58.0,4.0,1212 E Colonial Dr,sushi desserts bubbletea,28.552912,-81.363844
+48,y2rfO9kc6CNYidJRtMZYag,Morimoto Asia,FL,Lake Buena Vista,32830,2448.0,3.5,1600 E Buena Vista Dr,asianfusion sushi venues,28.370966,-81.517892
+49,jfuZ5FmAkEEKC1NxiBfiUQ,Milk Tea Cafe,FL,Kissimmee,34741,131.0,4.0,3242 N John Young Pkwy,taiwanese ramen bubbletea,28.34643333,-81.42152333
+0,4sxVN9Ly1EuKKQghJlcGCQ,Ding Tea Orlando,FL,Orlando,32839,24.0,3.5,4680 Millenia Plz Way,bubbletea tea asianfusion,28.49441882353097,-81.42920996144917
+1,NtzT-okZ9kU3HMll1a-H6w,Boba Galaxy Smoothies,FL,Ocoee,34761,9.0,3.5,9401 W Colonial Dr,coffee juicebars bubbletea,28.5520049,-81.5148324
+2,Yc0LgrjKALc97Yjk3ejD1Q,I love Ice Cream,FL,Kissimmee,34747,38.0,4.5,8701 W Irlo Bronson Memorial Hwy,sushi bubbletea icecream,28.34761,-81.63472
+3,n-_p1jwGCbZT9YaTbugsdw,Vivi Bubble Tea,FL,Orlando,32803,223.0,4.0,1111 E Colonial Dr,bubbletea,28.553302548320538,-81.36500828450598
+4,SObPInFYfngeFm_vjVs2Kg,True Taste Fried Chicken & Bubble Tea,FL,Davenport,33897,72.0,4.0,2430 Sand Mine Rd,chicken_wings bubbletea,28.312480024862,-81.6692114500672
+5,kE-KZzcpsylIYqRZtYzS3Q,Bubble Top,FL,Orlando,32808,2.0,4.5,5132 W Colonial Dr,bubbletea juicebars,28.5503413400955,-81.4504785463214
+6,SneIWBNy7JerugQYcQFoHA,Bao's Castle,FL,Orlando,32806,354.0,4.5,45 West Crystal Lake St,wine_bars beerbar asianfusion,28.5153931,-81.378811
+7,ViUQnY2Vh8QmdW-h-7HVxg,Quickly Boba N Snow,FL,Orlando,32803,498.0,4.0,3214 E Colonial Dr,bubbletea asianfusion poke,28.5520041913038,-81.3432902698364
+9,ets5rqez9CZGJ0Z1BN72mg,U & Me Revolving Hot Pot,FL,Orlando,32836,294.0,4.0,12384 S Apopka Vineland Rd,hotpot chinese buffets,28.384883,-81.507507
+10,SwW--js1LO5JeQnCE9MsyQ,Paris Banh Mi Cafe Bakery,FL,Orlando,32803,237.0,4.5,1021 E Colonial Dr,bakeries bubbletea sandwiches,28.55331,-81.36561
+11,56fxxWyMKsBJswTH5XAHNQ,Neo Asian Kitchen and Boba tea,FL,Orlando,32822,30.0,4.5,6756 Eagle Watch Dr,bubbletea vietnamese,28.46597912236071,-81.30699578672647
+12,yFqGAp9MhgkjzIW2N848dw,Twenty Pho Hour,FL,Orlando,32821,98.0,4.0,11951 International Dr,noodles,28.39028,-81.46765
+13,2glp3Ug8GMrAYeP7JftPOA,Nine Spices Hot Pot,FL,Orlando,32819,559.0,4.0,5320 S Kirkman Rd,hotpot soup,28.484865,-81.459303
+14,8pXnhYF1AO1Z-Kn0VJn9AQ,King Bao,FL,Orlando,32803,1282.0,4.5,710 N Mills Ave,asianfusion hotdogs,28.55364,-81.36475
+16,jzJVhXYf5cqGvxrEvlJdsw,Lotus House In Epcot Disney World,FL,Orlando,32830,5.0,4.5,China World Showcase,bubbletea,28.3695448388812,-81.5454524636015
+20,Sk_ffK_z2P9OnLtV-Nxqug,Pongu Pongu,FL,Lake Buena Vista,32830,120.0,4.5,2901 Osceola Pkwy,newamerican hotdogs,28.3558325,-81.5925293
+21,ZrQ1UB8GEQde1eHJJuz8Ug,China Tea,FL,Orlando,32819,382.0,4.5,9924 Universal Blvd,chinese soup noodles,28.4279079,-81.4442254
+22,oI4XnbNRM8MglvnrJM1-pg,Mr. Cool Ice Cream & Boba Tea,FL,Orlando,32819,210.0,4.5,6550 International Dr,icecream bubbletea,28.4582088379293,-81.4698555939178
+23,exuczN1j6ttP9AeWXXT6kw,Smootea,FL,Orlando,32808,4.0,4.5,5132 W Colonial Dr,bubbletea,28.55066413087375,-81.45021495849487
+28,9J479DEA3meQbkvcpSNogQ,JuicyPot,FL,Orlando,32808,126.0,4.5,5206 W Colonial Dr,hotpot seafood,28.552,-81.45064
+30,ZEOWstFsFTRmXpsw6azJ1g,Bubblelicious,FL,Orlando,32819,1.0,2.0,8375 International Dr,donuts bubbletea,28.4430857,-81.4691326
+33,uudXOu1rwwnhJ97DuSWr7Q,Snow City,FL,Orlando,32835,70.0,4.5,8935 Conroy Windermere Rd,icecream bubbletea poke,28.4944915123283,-81.5070785844407
+34,QnQCuyh1s5db42ipkbW4Fw,Gong Cha,FL,Orlando,32803,46.0,3.5,2100 E Colonial Dr,bubbletea coffee juicebars,28.55275676993447,-81.35510005889945
+36,3Y2rw1yonra6wEDiLadKhw,Pom Pom's Teahouse & Sandwicheria,FL,Orlando,32803,1322.0,4.5,67 N Bumby Ave,sandwiches vegetarian asianfusion,28.543707340175,-81.3514976796
+38,PBPodbdtLyuQ-sNgOWwkVw,Mr Sushi Express,FL,Kissimmee,34746,202.0,4.0,5770 W Irlo Bronson Memorial Hwy,sushi bubbletea ramen,28.3313364045745,-81.5157765227913
+41,kWSuSb-aIkHy0Jf3iz3CrA,The Leaky Cauldron,FL,Orlando,32819,654.0,3.5,6000 Universal Blvd,pubs amusementparks fishnchips,28.4793246762034,-81.4696651558197
+42,vjOI9-fhVfVCWfWv_0kYBA,The Boba,FL,Orlando,32809,1.0,4.0,8098 S Orange Blossom Trl,bubbletea coffee juicebars,28.448114224469617,-81.40235126294456
+43,Bqn8_RMpw7AfJYbEM-M1kA,Magic Pearls,FL,Orlando,32809,17.0,3.5,8001 S Orange Blossom Trl,bubbletea,28.447264695621055,-81.39441974781933
+44,TB6WEelrvp1CP6i0FoVpUQ,Morimoto Street Food,FL,Orlando,32836,193.0,2.5,Pleasure Island,japanese sushi,28.3707761544749,-81.5180087313933
+45,wzf9BHZsQHF6GvIjbwLmiw,Blended Bistro & Boba,FL,Orlando,32804,160.0,4.0,2306 Edgewater Dr,bubbletea poke asianfusion,28.57238,-81.3896
+47,K2XwYhodpeGWW6T57bZ88Q,Lotte Plaza Market,FL,Orlando,32808,226.0,4.5,3191 W Colonial Dr,food_court intlgrocery grocery,28.555027664517,-81.4154404477235
+48,3LNw3gPYQijDz6FTmRLrIQ,Fresh & Co,FL,Orlando,32819,16.0,4.5,7728 W Sand Lake Rd,salad sandwiches juicebars,28.44851325947251,-81.4883423
+49,B5JWjI48Bkrh36GTk2Vy1Q,Bento Asian Kitchen + Sushi,FL,Kissimmee,34747,143.0,3.5,3254 Margaritaville Blvd,sushi asianfusion chinese,28.345472,-81.609054
+0,SkgcH-a9BqouTchDaUZ0bQ,Le China,FL,Celebration,34747,98.0,2.5,37 Blake Blvd,chinese,28.33082,-81.52727
+2,pF4GK7XGWssaSXwSgVY8lw,Tasty Wok,FL,Orlando,32803,549.0,4.0,1237 E Colonial Dr,cantonese bbq noodles,28.553404,-81.362949
+3,rBMjwa1n55lzFaki5jvNFw,Halal Food Express,FL,Kissimmee,34747,22.0,4.5,6083 W Irlo Bronson Memorial Hwy,halal mediterranean tradamerican,28.333787,-81.528326
+4,8KhGydy6SMcmx9u-ms-Ivg,Crack N Roll,FL,Kissimmee,34746,89.0,4.0,3260 Vineland Rd,cajun sushi seafood,28.344609,-81.486832
+5,CwM4MfYQKrxhVceiIekNSA,Soupa Blvd,FL,Kissimmee,34741,38.0,2.5,740 Centerview Blvd,asianfusion bubbletea ramen,28.34053,-81.41008
+6,KLMC4Tgin63xa2j9w8Im-w,J-Petal & Poke Waterford,FL,Orlando,32828,92.0,4.5,1100 N Alafaya Trl,bubbletea sushi poke,28.559468,-81.208193
+7,G8qgSunyJFhKtZ1mENUEMQ,Bento Asian Kitchen + Sushi,FL,Orlando,32819,534.0,3.5,7335 W Sand Lake Rd,asianfusion sushi chinese,28.4509941854072,-81.4795966291264
+9,JnHxm7cApBM0hWb0KR6Dug,Oishi Japanese Restaurant,FL,Orlando,32821,425.0,3.5,11025 International Dr,japanese sushi,28.4061262337939,-81.4554496988113
+10,1hzqU--WKTPU9gDYmaQiFA,Pho Hoa Noodle Soup,FL,Orlando,32803,363.0,4.0,649 N Primrose Dr,vietnamese,28.552052,-81.347576
+12,qA6GNRK29Rw3iDCG0ggWhA,Boston Bakery & Cafe,FL,Orlando,32803,117.0,4.0,1525 E Colonial Dr,sandwiches coffee vietnamese,28.55338,-81.36064
+14,d3G94W1ah2r-RTK5FwBGRw,Anh Hong Restaurant,FL,Orlando,32803,725.0,4.0,1124 E Colonial Dr,vietnamese vegetarian sandwiches,28.55285,-81.36466
+15,ocnHOmM837SLOxj1yFcvBg,Tenji Hibachi Express,FL,Belle Isle,32812,64.0,4.0,4401 Hoffner Ave,japanese sushi cajun,28.4821335442354,-81.3303859904408
+17,h2-RkpQsn6fwVmmf_CMPMw,Bento Asian Kitchen + Sushi,FL,Orlando,32801,543.0,3.5,151 S Orange Ave,asianfusion sushi chinese,28.540893,-81.378438
+18,4wqq9zO8WeOTOATTrcPC3A,Pho Haven,FL,Orlando,32832,58.0,4.0,14019 Narcoossee Rd,vietnamese,28.361919,-81.243471
+19,GQL6G123ob1XF9F72sIQjg,Pho and Roll,FL,Orlando,32806,242.0,4.5,3334 Curry Ford Rd,vietnamese vegetarian soup,28.52381,-81.34115
+22,cG_CQcRcRsDztIcA3BwU3g,"Bikkuri Sushi, Noodle & Grill",FL,Orlando,32803,368.0,3.5,1919 E Colonial Dr,sushi noodles,28.5533924,-81.3564653
+23,bj6TCIVq0vEzGDyMvM_mzQ,East End Market,FL,Orlando,32803,320.0,4.5,3201 Corrine Dr,farmersmarket food_court,28.56832,-81.34366
+24,yJEDHnvIV49J9Xq1jX4-bQ,Pho 88 Noodle,FL,Orlando,32803,715.0,3.5,730 N Mills Ave,vietnamese noodles,28.55426,-81.3647699
+26,MlrWcJiaWbNslxX_V8ihrQ,Caribbean Sunshine Bakery,FL,Orlando,32804,93.0,4.0,2528 W Colonial Dr,bakeries caribbean,28.5525851,-81.4116141
+27,_-qybhKgwBOlUQgolGaxIw,Little Saigon Restaurant,FL,Orlando,32803,377.0,3.5,1106 E Colonial Dr,vietnamese asianfusion,28.5530451,-81.365372
+28,uccTgm_S7v4N7INpvDgs-w,Mr Sushi Express,FL,Orlando,32819,33.0,3.0,6550 International Dr,japanese sushi bubbletea,28.458129,-81.470173
+0,Fi0qOrrIEpow2E7uJQ5k0g,Oasis Shaved Ice,FL,Cocoa Beach,32931,136.0,5.0,157 N Orlando Ave,shavedice hotdog,28.3217896096793,-80.6099172161172
+1,_f2Hu9DSgf3LwKlVNzQD2w,Hoku Hawaiian Shaved Ice,FL,Melbourne,32940,1.0,4.0,,foodtrucks shavedice,28.2639333246245,-80.7214417308569
+2,TPmBfkPC73zj4r7sktLKuw,Icy Knights,FL,Alafaya,32825,2.0,5.0,,shavedice foodtrucks,28.4965012,-81.0740211
+3,MNiBhj_efpqLfI_n3J0plQ,Hanalei Shave Ice,FL,Orlando,32803,22.0,5.0,1308 Lang Ave,foodtrucks shavedice,28.5624734,-81.3653125
+5,G3b1cq9eT0F-oa_VJgnssg,Shaka Ice company ,FL,Orlando,32806,14.0,4.5,223 E Michigan St,icecream foodstands,28.513186,-81.375543
+7,VRXxXsEOyD1Pj9lVU57_Og,Sweet Spot Snoballs,FL,Saint Cloud,34769,15.0,4.5,1012 New York Ave,shavedice,28.2487484176243,-81.2836571752384
+8,RI0nD1P_x3ePxbH347xDOQ,Surfin' Turtle Ice Cream Shoppe,FL,Satellite Beach,32937,80.0,4.0,1210 Hwy A1A,icecream shavedice,28.1792283,-80.5912564
+10,u6bzECzClIQyQuvfFHDh0Q,Ice Cream Hut,FL,Cocoa Beach,32931,32.0,3.5,1399 N Atlantic Ave,icecream juicebars shavedice,28.33502,-80.61089
+11,xEwVqr0h7fYh966oFrDtDg,SnowBean,FL,Orlando,32807,161.0,4.0,5310 E Colonial Dr,coffee bakeries desserts,28.5538291931152,-81.3172149658203
+12,mQbXPFfFOM9_KzRhhYHYPA,Premium Matcha Cafe Maiko,FL,Orlando,32803,102.0,5.0,639 N Mills Ave,desserts coffee icecream,28.552779,-81.364249
+13,F8GZC2xRgbeQEXfkBAOJnw,Jeremiah's Italian Ice,FL,Melbourne,32940,5.0,5.0,5555 N Wickham Rd,desserts icecream shavedice,28.19808835428168,-80.67119155265848
+15,I_L6ac6s3l7AMknEa_ehVQ,Acai Express,FL,Cocoa Beach,32931,89.0,4.0,19 N Orlando Ave,juicebars acaibowls,28.31866,-80.60984
+19,WT7bezmVRv0J05LfNqoaew,Jeremiah's Italian Ice,FL,Orlando,32806,81.0,5.0,3150 Orange Ave S,desserts shavedice icecream,28.50658446,-81.3767067813492
+20,GMHAjYJCup4uUjb8IkOLvw,Rolled Ice Cream,FL,Orlando,32828,246.0,4.5,688 N Alafaya Trl,icecream desserts,28.557147,-81.2078243
+22,BAle9XGF4_x-uHAQi59qCw,The Greenery Creamery,FL,Orlando,32801,439.0,4.5,420 E Church St,desserts icecream vegan,28.54012,-81.37212
+23,-2aMFgYft7rED0bstJelAA,RedCone Ice Cream,FL,Orlando,32824,46.0,4.0,14846 Wyndham Lakes Blvd,icecream desserts,28.358601,-81.333251
+24,IGl3WUM1swm2onte0ZphrA,Shaka Donuts,FL,Orlando,32806,121.0,4.0,225 East Michigan St,donuts coffee icecream,28.5131986890624,-81.3749278384776
+25,2I_3ymwLETaRPCNdOnqWTA,Mamak Asian Street Food,FL,Orlando,32803,895.0,4.0,1231 E Colonial Dr,asianfusion malaysian tapas,28.5533,-81.36324
+26,1WSYBfu2qHS0AMdQRUh1PQ,Hawkers Asian Street Food,FL,Orlando,32803,2421.0,4.0,1103 Mills Ave N,tapasmallplates ramen panasian,28.56066,-81.3642
+27,UHvbWe-v3q7q-yod7gvUYw,Jeremiah's Italian Ice,FL,Orlando,32828,219.0,4.5,877 Alafaya Trl N,icecream desserts shavedice,28.5573201538345,-81.2053295484621
+28,baIx5HZ9K2ikSppMGenI0Q,Z Asian - Vietnamese Kitchen,FL,Orlando,32803,157.0,4.5,1830 E Colonial Dr,vietnamese vegan tapas,28.55295,-81.35758
+29,_YSCzcBrG8zExPSXQdftYw,Jeremiah's Italian Ice,FL,Orlando,32804,41.0,5.0,2213 Edgewater Dr,icecream desserts shavedice,28.5717410223199,-81.3892257
+31,mTvDES6KmTj3Qky74vOt7w,Scoops Old Fashion Ice Cream of Viera,FL,Rockledge,32955,30.0,3.5,5380 Stadium Pkwy,icecream delis hotdog,28.2670701,-80.7367449
+33,6bmpLs8E7oilJooBgrofXw,Jeremiah's Italian Ice,FL,Orlando,32822,11.0,4.5,6017 S Goldenrod Rd,desserts icecream shavedice,28.4757102,-81.2890021
+37,GfXflrmYwZ9olGGMR1TNyA,Shin Jung Korean Restaurant,FL,Orlando,32803,409.0,4.0,1638 E Colonial Dr,korean bbq tradamerican,28.55296,-81.35872
+38,jQjYkev1KJlxyy6qqaWaGA,Izziban Sushi And Korean BBQ,FL,Orlando,32807,921.0,3.5,5310 E Colonial Dr,sushi bbq korean,28.55392,-81.31724
+39,kGshsR_tREoeFrX-yedLwQ,Jeremiah's Italian Ice,FL,Orlando,32827,42.0,4.5,9971 Tagore Pl,icecream desserts shavedice,28.3893857425555,-81.2459223395315
+1,Y_ZEzuRlrgcUgCQlurl-DQ,Island Tea and Boba,FL,Cocoa Beach,32931,17.0,4.5,5360 N Atlantic Ave,bubbletea,28.366491,-80.605829
+2,J2-U_XG26zAcKLLOmd5Omw,The Skinny Mermaid,FL,Cocoa Beach,32931,51.0,4.5,66 S Orlando Ave,poke bubbletea breakfast_brunch,28.31726,-80.61036
+5,6dFVJXnXzPysgsp-S6Eejw,Chi Lin Restaurant,FL,Merritt Island,32953,45.0,4.5,2137 N Courtenay Pkwy,chinese taiwanese,28.3955718534941,-80.7048677867316
+8,EuEHEJ828wfRHB-bCVsFxg,Papasan’s Vietnamese Cafe,FL,Cocoa,32922,562.0,4.5,400 N Cocoa Blvd,vietnamese,28.36038,-80.7330099
+14,VWZOQbmwt_CMA-FDtR8Xog,Mima's Cafe & Tea Bar,FL,Melbourne,32940,19.0,4.0,7640 North Wickham Rd,coffee bubbletea sandwiches,28.231406,-80.695102
+32,vQ0ihvqI0Xpz8TxBIKK_qg,Sip & Dip  Donuts,FL,Saint Cloud,34769,279.0,4.5,1001 13th St,donuts bubbletea breakfast_brunch,28.24559,-81.28041
+34,06-F5iDc8n0jLMsDNdW4nA,Bangkok House,FL,Merritt Island,32952,229.0,4.5,700 E Merritt Island Cswy,thai hotpot sushi,28.358002,-80.68886
+38,MJnOwGQDaSbQdWAJMLizeA,Bean Sprout,FL,Viera,32940,109.0,3.5,2221 Town Center Ave,sushi thai asianfusion,28.2415908383857,-80.7278335204927
+42,fRAxQRSb2ABEAAqohsZRGQ,Nippon Thai,FL,Satellite Beach,32937,107.0,4.0,1114 Highway A1a,thai sushi japanese,28.182507,-80.592554
+43,5fNBUGa3TXAtvVIAohSkFw,Le Crave,FL,Rockledge,32955,128.0,4.5,6525 3rd St,coffee french wine_bars,28.2287325,-80.6735046
+44,phXgYF0fv9GL7PJm6VJI7A,Thai Koji & Sushi Bar,FL,Melbourne,32935,44.0,4.5,2330 N Wickham Rd,sushi thai,28.14441,-80.67237
+4,C8YeYBK_0IgKS9pj2Be9wA,Freeze Your Brain Shave Ice,FL,Orlando,32836,20.0,5.0,12399 S Apopka Vineland Rd,shavedice desserts icecream,28.3846389073563,-81.5056106067806
+8,Xyaz7J6vNi3Mc2OBBotQIw,Bahama Buck's,FL,Orlando,32837,54.0,5.0,11234 S Orange Blossom Trl,shavedice juicebars acaibowls,28.401624,-81.4062531
+16,nHImbsrklt2qTWkfVvL-cA,Kabuki Cafe,FL,Lake Buena Vista,32830,29.0,4.0,Epcot,beer_and_wine desserts,28.3680118726051,-81.5500532090664
+17,XdKwl2XChnGOFhaY-zQ8nA,Izzi Korean Kitchen,FL,Orlando,32809,6.0,4.5,1700 W Sand Lake Rd,korean asianfusion sushi,28.44863,-81.4035
+20,46ZA9llJUAZ2UjPbI0u1tw,Taglish,FL,Orlando,32808,128.0,4.5,3191 W Colonial Dr,filipino burgers hotdogs,28.55470166696119,-81.4151271116567
+35,SP6MAsdlGAosGFOICaBPRg,Jeremiah's Italian Ice,FL,Windermere,34786,136.0,4.5,4750 The Grove Dr,desserts icecream shavedice,28.49224,-81.5112
+36,k7wXOsFvP-CKGjGYszqWtA,Bread & Co.,FL,Orlando,32808,32.0,4.0,3191 W Colonial Dr,bakeries customcakes breakfast_brunch,28.554423,-81.415238
+37,SrsebLQ5lVehQXJp8OcBUg,The Cowfish Sushi Burger Bar,FL,Orlando,32819,2756.0,4.0,Universal Citywalk - Orlando,sushi burgers,28.4730275706703,-81.4653477619019
+40,rWxMgJZU9EvcrMTEdXGXzQ,Orlando Snow Cone,FL,Orlando,32819,3.0,3.0,8358 International Dr,desserts shavedice icecream,28.4442845232862,-81.4696580171585
+43,P_9Jsb4fO9JfDhUW36WVBw,Nam Giao Deli,FL,Orlando,32808,11.0,4.5,5274 W Colonial Dr,vietnamese gourmet sandwiches,28.5511,-81.45279
+44,iImJ3W0nw7MTIQ76NR9AAQ,Rita's Italian Ice & Frozen Custard,FL,Orlando,32821,31.0,4.5,11567 Regency Village Dr,shavedice icecream,28.393329,-81.483839
+45,tgtOwDfJaz4Hi9kcRqpCFQ,Jeremiah's Italian Ice,FL,Windermere,34786,35.0,5.0,6536 Old Brick Rd,icecream desserts shavedice,28.449781538981618,-81.5628417893716
+8,t4aWnr8l2K9CTo6pnxCTPQ,Hanamizuki Japanese Restaurant,FL,Orlando,32819,631.0,3.5,8255 International Dr,sushi ramen,28.4455031,-81.4685904
+12,kRsosPpruQ_IbjSiMgtOkg,Jeremiah's Italian Ice,FL,Hunters Creek,32837,84.0,4.5,3988 Town Center Blvd,desserts icecream shavedice,28.361539,-81.4249300255544
+14,P2mtVYspoXWefQZoLIjRCQ,Kabayan Grill Filipino Restaurant,FL,Kissimmee,34741,179.0,4.5,1328 North John Young Pkwy,filipino,28.303803378941407,-81.4166136
+8,aB85oiGYeIrNMvE2D_pP3g,Bahama Buck's Original Shaved Ice,FL,Kissimmee,34747,54.0,4.5,3238 Margaritaville Blvd,desserts juicebars shavedice,28.344673,-81.608689
+18,x3uSKx4UBXZMcf9nWFhPsQ,Kona Ice Celebration,FL,Kissimmee,34747,3.0,4.5,,shavedice,28.3430219,-81.5815776
+44,8HHlsZ1x55EBhi7jrdBgYg,Yak & Yeti Restaurant,FL,Lake Buena Vista,32830,1067.0,4.0,775 Werikhe Way,asianfusion,28.358577385467033,-81.58952268331645
+48,C_dTIGb4te7F9tkkBPrpOA,Nipa Hut Bar & Restaurant,FL,Kissimmee,34746,253.0,3.5,5485 W Irlo Bronson Memorial Hwy,filipino bars,28.3338303987912,-81.5069064153442
+5,9SksCBH7lADSg7AmBMDikg,Via Napoli,FL,Lake Buena Vista,32830,893.0,4.0,EPCOT World Showcase - Italian Pavilion,italian,28.3672014573733,-81.5482037694883
+6,iwIqMJNZfjRQZ2sJC8COEA,Bahama Breeze,FL,Kissimmee,34747,557.0,4.0,8160 Irlo Bronson Memorial Hwy,seafood bars latin,28.34631,-81.61404
+45,86zMS57VUlzCvcSDcexBXA,Surf's Up Ice Cream Shack,FL,Haines City,33844,4.0,5.0,950 Lily Ave,desserts shavedice icecream,28.1111991510682,-81.6234863922
+19,Bx0gF5eA_yuS0uncIm4qfw,Oriental Square Restaurant,FL,Kissimmee,34746,48.0,4.0,1620 Pleasant Hill Rd,japanese chinese sushi,28.25933356033746,-81.43684711319762
+0,BBdmwXRymKZhBlshJzEubw,Sassy Granny's,FL,Melbourne,32901,31.0,5.0,921 E New Haven Ave,juicebars sandwiches desserts,28.0782044,-80.6053426
+1,wf5hiS9iOQfmUMrjqNq3Qg,Jeremiah's Italian Ice,FL,West Melbourne,32904,6.0,5.0,225 Palm Bay Rd NE,desserts icecream shavedice,28.0375998,-80.6638652
+7,lN8Or1K41IMxiVHZzrycEw,Kona Ice South Palm Bay,FL,Grant Vlkria,32909,1.0,5.0,,desserts shavedice foodtrucks,27.9178142547607,-80.6368865966797
+9,zvww2RtRUsnLPs4dT7wdKw,Moo's Soft Serve,FL,Indialantic,32903,131.0,4.0,930 N Hwy A1A,icecream hotdog,28.099087398052,-80.56943371245
+0,GGjFqC37MaHWAAGoDdjIKg,Rain-bo Island,FL,Melbourne,32901,67.0,4.0,1905 Airport Blvd,poke bubbletea,28.07998,-80.626785
+1,3HjtAmi7J1zujfwSUMEQkQ,The Sun Shoppe Cafe,FL,Melbourne,32901,78.0,4.0,540 E New Haven Ave,coffee cafes sandwiches,28.07863,-80.61154
+2,x8qPg-ubv7d7cwstDXgGDg,Mima's Cafe & Tea Bar,FL,Indialantic,32903,62.0,4.5,1400 N Hwy A1A,bubbletea coffee,28.1062415,-80.5717616
+3,oFGrBD2D6qHM10LBe6skGA,La Crepe de France,FL,Melbourne,32901,215.0,4.5,707 E New Haven Ave,creperies french breakfast_brunch,28.0783042,-80.6089336
+4,IVacmpLrsLAjLIaoWfYxZA,Meshi Ya,FL,Palm Bay,32905,66.0,4.5,2150 Harris Ave NE,ramen bubbletea noodles,28.03413,-80.6082
+5,GoTQyk9u0lU-WfHfon1_ug,Jao Thai Kitchen,FL,Melbourne,32901,134.0,4.0,914 W New Haven Ave,thai sushi,28.0789642,-80.6367722
+6,SkptvVBRMkdGQN2yEcJ3dw,Senzu NoodleBar,FL,West Melbourne,32904,48.0,4.0,2233 West New Haven Ave,ramen asianfusion bubbletea,28.077692594482684,-80.65862052509823
+7,pag7bK34ygMWRLWNEcHVDw,Pho Viet,FL,West Melbourne,32904,175.0,4.0,3142 W New Haven,vietnamese bubbletea,28.079859,-80.673196
+8,Fih7E2aaw3qD4L_sOUfcqA,Pho Cali,FL,Melbourne,32935,160.0,3.5,830 N Wickham Rd,vietnamese,28.1196212768555,-80.6730575561523
+9,FlLAUsHm3nhNmndevsqcnA,Kavasutra Kava Bar,FL,Melbourne Village,32904,2.0,3.0,1105 Palm Bay Rd NE,lounges tea bubbletea,28.03577,-80.64118
+10,mhvs-0zuOcJUsmUXHFzVeg,Pho Viet 2,FL,Palm Bay,32905,12.0,4.5,5275 Babcock St NE,vietnamese noodles juicebars,28.01803,-80.621
+12,oLZoYw8OHvs4xnNNX1pEMw,Maki of Japan,FL,Melbourne,32904,8.0,2.5,1700 W New Haven Ave,japanese food_court,28.081415,-80.649952
+2,LUNb7sKMbXYvI0b88RqkBA,Bubble House,FL,Sebastian,32958,18.0,4.5,661 Sebastian Blvd,bubbletea coffee cupcakes,27.7959622,-80.48156
+3,fzuC5pK880Vg1yqRuPQFag,Rita's Italian Ice,FL,Vero Beach,32960,6.0,4.0,Mall Ctr,desserts shavedice icecream,27.6258754730225,-80.3903427124023
+12,_5BMNhB-GXDq0VocuSqzcw,Steel N Roll,FL,Vero Beach,32966,27.0,4.0,1820 58th Ave,icecream desserts bubbletea,27.63572,-80.44609
+9,0OLx5b02MN9MqvCfMD_4KQ,Hwy 55 Burgers Shakes & Fries,FL,Port Saint Lucie,34953,64.0,3.5,4007 SW Port St Lucie Blvd,burgers tradamerican icecream,27.22616,-80.37192
+1,t99hLO3hlDfmuXLe0XIeiw,Tea Spot,FL,Port St. Lucie,34986,25.0,4.5,986 St Lucie W Blvd,bubbletea icecream juicebars,27.3167001285409,-80.3836758434772
+3,JkPkNwunI9OZDfG1MSbS4A,Ice King,FL,Port Saint Lucie,34952,90.0,4.5,9122 S US Hwy 1,desserts coffee,27.374262,-80.325807
+4,fdJpmNo-9e1xS0UQtRaOMQ,Fruits From Heaven,FL,Port St. Lucie,34952,19.0,4.0,10173 S Federal Hwy,coffee juicebars bubbletea,27.2768735136629,-80.2933946488739
+5,3Nq-P7slujeZXpgnW_ffqg,Ninja Thai Asian Fusion,FL,Port St Lucie,34952,215.0,4.5,899 E Prima Vista Blvd,sushi japanese thai,27.3266861,-80.321976
+6,IK_mE_cgRZSpkneb6ev6pQ,Pho Wagyu,FL,Port St. Lucie,34986,66.0,4.0,1707 NW St Lucie W Blvd,vietnamese,27.313208504206507,-80.40516684110507
+2,gAxJMr1OdsbOMwjwsZR4Jg,Bahama Bucks Original shaved ice,FL,Jupiter,33458,6.0,4.5,1209 Main St,shavedice juicebars,26.889165301837988,-80.11589936012909
+3,ZJOVY7rEVXkKa-GHno6_aw,Paradise Cups,FL,Juno Beach,33408,4.0,5.0,14731 US Hwy 1,shavedice foodtrucks icecream,26.8926116,-80.06017
+4,bHcL0EaQWLBET9d1O7Syvg,Poke Poke,FL,Port St. Lucie,34987,45.0,4.5,11200 SW Village Pkwy,poke bubbletea,27.2609209952868,-80.4297302745332
+7,mwITldf_1mY5-LsQRFpK3g,Pho Deli,FL,Port Saint Lucie,34953,145.0,4.5,466 SW Port St Lucie Blvd,vietnamese,27.271258,-80.359668
+3,t2iLIChrn5sS1HxyWYXzwg,Sherry shaved ice,FL,Sebring,33872,1.0,5.0,2833 US Highway 27 N,shavedice,27.5094912423841,-81.4934088664838
+15,4Hh_XHlJVyJvM8Y-k6Xq0g,La Michoacana Paleteria,FL,Lake Placid,33852,1.0,4.0,960 US-27 S,shavedice icecream juicebars,27.28706,-81.35834
+0,q_yZ0pVNJOkmxZhzGJnjcQ,Charli's Shave Ice,FL,Islamorada,33036,15.0,4.5,77522 Overseas Hwy,shavedice,24.8823099,-80.6908664
+1,fgNM8PK1Ko3TAYo4pm-bHQ,Jimmy Sno Concessions,FL,Big Pine Key,33043,5.0,4.0,,foodtrucks shavedice icecream,24.6724,-81.34667
+0,WB_JAbQvRVdZS3BIUt5NtQ,Sake Thai & Sushi Bar,FL,Homestead,33033,223.0,3.5,650 NE 22nd Ter,sushi thai japanese,25.4761524200439,-80.4457778930664
+1,K2jxuczBerZUg4ZNw9vIbQ,Five Spice Vietnamese,FL,Homestead,33033,125.0,4.0,1801 NE 8th St,vietnamese sushi,25.47817,-80.452542
+0,4HSw_DYTLgH7bp8mdaD7YA,Key West Shaved Ice,FL,Dania Beach,33004,74.0,4.5,64 S Federal Hwy,shavedice icecream,26.05071,-80.14389
+1,7dGWnKILQSxe-0wi0hBisA,Snoballs,FL,Hollywood,33024,80.0,4.5,6401 Sheridan St,shavedice,26.035827,-80.218532
+2,ePm1ihj900ErGgIY9Zowxg,Kasai & Kaori,FL,Fort Lauderdale,33311,2.0,4.0,115 NW 6th St,desserts shavedice waffles,26.129975,-80.145419
+3,OkxBnPmIJ-Oz6xct_zbP9w,Isla Pilipinas Cafe,FL,Fort Lauderdale,33316,52.0,5.0,1083 SE 17th St,filipino grocery,26.10093,-80.13197
+4,ncdiQiLiCzdvQ-FnWMwl7A,Jaxson's Ice Cream Parlor and Restaurant,FL,Dania Beach,33004,1629.0,4.0,128 South Federal Hwy,icecream tradamerican,26.049298,-80.1437434
+5,oR1Ca0FTG0qjPPDCOnGpgg,Sistrunk Marketplace & Brewery,FL,Fort Lauderdale,33311,219.0,4.0,115 NW 6th St,food_court venues cookingclasses,26.12997,-80.14542
+6,QCy5E9d8fliZmdFUPrBkSA,Pho Bar Vietnamese Kitchen,FL,Davie,33314,227.0,4.5,6310 Griffin Rd,vietnamese cocktailbars,26.06466,-80.23016
+7,p_4hD1J9S-6pmTO7U_w3QQ,My Ice Party,FL,Hollywood,33019,1.0,5.0,,shavedice foodtrucks,26.0099716186523,-80.1166305541992
+8,reATVci6ZzxHVAknYHKQDA,KUBO Asian Fusion Street Food and Sushi,FL,Fort Lauderdale,33316,443.0,4.5,745 SE 17th St,sushi thai asianfusion,26.100968,-80.1355496
+9,Zp-ul6C4s2_-_8YRFC_OnA,Kuro - Seminole Hard Rock Hollywood,FL,Hollywood,33314,511.0,4.5,1 Seminole Way,sushi japanese cocktailbars,26.05205,-80.21127
+10,qTllcY3e6BU9FarH7gWLcQ,Fiesta Manila,FL,Fort Lauderdale,33316,2.0,3.0,1616 SE 10th Ave,filipino,26.10161,-80.13253
+0,WFnV4G-IFhTlLxcYY6XHXQ,K-TOWN,FL,Hollywood,33020,7.0,4.5,2420 N Dixie Hwy,korean bubbletea,26.0330332,-80.15097
+1,gJrX2najzUsFPJbutoQXjg,Puffles,FL,Hollywood,33019,227.0,5.0,349 Johnson St,desserts bubbletea icecream,26.01971,-80.11653
+2,q0gS4HmT-5Qc7RZOE6SZSw,Boba Farm,FL,Hallandale Beach,33009,32.0,4.0,800 E Hallandale Beach Blvd,bubbletea taiwanese,25.985319,-80.139849
+3,cIjgTHbec4Rtu_7ifioWRw,Tiger Sugar,FL,Hollywood,33024,136.0,4.5,6778 Stirling Rd,coffee desserts bubbletea,26.04545,-80.22462
+4,N3TTnwEPDoa_Q1IoTs5Ywg,Tea & Straw,FL,Hollywood,33021,3.0,3.5,3080 Sheridan St,bubbletea,26.03218,-80.16893
+5,_DNP5NCm40mmaULkenqBuw,Tea Plus,FL,Davie,33314,182.0,4.0,5450 S State Rd 7,bubbletea,26.0531245182377,-80.206659161702
+6,Jh-zjXcSvyusiUpDvp6VKQ,545° Banh Mi Cafe,FL,Davie,33314,724.0,4.5,6461 Stirling Rd,vietnamese juicebars sandwiches,26.0461601,-80.2324228
+7,2TUUXKAb3CegizNCGLQqmw,Bubble the Tea,FL,Hollywood,33021,6.0,3.5,1940 N 30th Rd,bubbletea,26.02827,-80.16886
+8,LNeBTENJFtEx4g4pvi0Wug,Tealicious,FL,Davie,33314,34.0,4.5,3890 Davie Rd,bubbletea coffee,26.07363,-80.23168
+9,spE6AIghHedJ4gduyG1meg,Softea Dessert Bar,FL,Fort Lauderdale,33304,22.0,4.5,908 N Flagler Dr,icecream desserts bubbletea,26.13543,-80.13936
+10,68LPQqdvi2-4B4T-yG_Tog,Thai Best,FL,Hollywood,33020,86.0,4.0,2119 Hollywood Blvd,thai juicebars japanese,26.01162,-80.15013
+11,4BoaKQYFmaAOd0OVSzGHsQ,Kung Fu Tea,FL,Davie,33314,139.0,4.0,6819 Stirling Rd,bubbletea coffee juicebars,26.0464969,-80.23683
+12,lJacp-dadzONZEjzLiz9ow,Quickly Boba Tea & Snacks,FL,Davie,33314,59.0,4.5,6013 Stirling Rd,bubbletea,26.0462760326713,-80.226307480654
+14,rd0u4-yh11Yz2ytNpfsL3w,WoodOne Ramen,FL,Hallandale Beach,33009,226.0,4.5,800 E Hallandale Beach Blvd,ramen,25.9851,-80.13981
+15,2BHGRyLxan1iNSu4uZ8ssw,GO! Bento,FL,Hollywood,33020,216.0,3.5,2725 Hollywood Blvd,hotdogs japanese thai,26.011232,-80.162124
+16,-2SVst55t3Xf1BzZZAOZpw,Kung Fu Tea,FL,Fort Lauderdale,33304,4.0,5.0,721 N Federal Hwy Bay,bubbletea juicebars coffee,26.13252,-80.13784
+17,sShQ4DIOfY5zyXzjKFD9Og,Wonton Garden,FL,Hallandale,33009,208.0,4.0,709 W Hallandale Beach Blvd,chinese vegetarian,25.98502,-80.15694
+19,XX0SYuWnXmfvI1dy3NjbrA,Pho 79,FL,Davie,33314,721.0,4.0,6451 Stirling Rd,vietnamese,26.046807,-80.233022
+20,gLMshrMFUJZRTOjEgQQztQ,Aunt Jenn’s Tea & Spice Shop,FL,Hollywood,33021,9.0,5.0,3080 Sheridan St,coffee bubbletea herbsandspices,26.0323485,-80.169017
+21,NRoeG-gv4yg4ylR07FHh4A,Pho 46,FL,Hollywood,33021,102.0,4.5,116 N 46th Ave,vietnamese,26.011156706379133,-80.18996588177023
+22,Y1RfRREMW7AFeXbjUt0W3A,Ceviche Dozo Sushi & Ceviche,FL,Hollywood,33021,107.0,4.5,5715 Hollywood Blvd,japanese seafood sushi,26.01051,-80.20214
+23,GrKdmkiQMJoXHRazlaqIjQ,Brandon Asian Cuisine,FL,Davie,33314,163.0,4.0,6417 Stirling Rd,vietnamese soup karaoke,26.047008,-80.231963
+24,SundwQLTiqEgTTzSoNErnA,Tasty Cafe Restaurant,FL,Davie,33314,149.0,4.0,6477 Stirling Rd,cantonese hkcafe,26.04657,-80.23304
+25,LLpU0oEJu2RRlvRSMyYIWw,The Skinny Dip Frozen Yogurt Bar Hollywood,FL,Hollywood,33021,2.0,2.5,3359 Sheridan St,icecream bubbletea,26.03375,-80.17734
+2,HybWjodaFn-7gSMysMWFFA,Taiwan Ice,FL,North Miami Beach,33160,199.0,4.5,16165 Biscayne Blvd,bubbletea shavedsnow icecream,25.9248502752998,-80.153533847252
+3,5IH7A0I8Ul4z9TLC7g-HdQ,Amazonica,FL,Miami,33180,4.0,3.5,19501 Biscayne Blvd,coffee acaibowls shavedice,25.95731,-80.14508
+4,Js-Ch4UnS4lWlGlA7UTU3Q,Nola Sno,FL,Miami Gardens,33056,2.0,5.0,18553 NW 27th Ave,shavedice icecream,25.943178,-80.244869
+5,hB3wGnCGVtAKBl-NplfVVw,Lutong Pinoy Filipino Cuisine,FL,North Miami Beach,33160,195.0,4.0,17048 W Dixie Hwy,filipino,25.9323134,-80.1536255
+6,abW5_zMnc3bPzGqtig0FNA,Korean Kitchen,FL,North Miami Beach,33162,241.0,4.5,1661 NE 163rd St,korean,25.92621,-80.16672
+9,9Wi9eZJb3KtyI9DxBqbw7A,PhoMi2Go,FL,North Miami Beach,33160,572.0,4.5,17010 W Dixie Hwy,vietnamese,25.93248,-80.15386
+12,IFR86llpQQvBUD6TF4rYiQ,Pho 78,FL,Pembroke Pines,33024,306.0,3.5,7849 Pines Blvd,vietnamese soup,26.010368,-80.245443
+5,KNqlPPsWx4JSVbv0l44JXw,Yip Aventura,FL,Aventura,33180,36.0,2.5,19565 Biscayne Blvd,dimsum bubbletea cantonese,25.95657,-80.14664
+6,rIHLk0JTZHpM6TgqvNNVug,Mi Tea,FL,North Miami Beach,33162,26.0,4.5,555 NE 167th St,bubbletea coffee,25.929440379767453,-80.18929625514077
+8,HX9xxF24LhYNzcXvVxuRnQ,Dumpling King,FL,North Miami Beach,33162,854.0,4.0,237 NE 167th St,chinese bubbletea,25.9286638709426,-80.1961721963188
+12,b4VlGk-0ZWylBwFluyFEuw,OhLa Tea,FL,Miami,33162,94.0,4.0,329 NE 167th St,bubbletea,25.9285542,-80.1935921
+16,WmvE6aoJHtSsuUjbj0Q-EQ,BoBaMaN,FL,Pembroke Pines,33024,5.0,3.5,7853 Pines Blvd,bubbletea coffee acaibowls,26.010375952036593,-80.2452224
+17,gPmldaphxhv12TEq8Lb1Hg,Basilic Vietnamese Grill,FL,North Miami,33181,475.0,4.0,14734 Biscayne Blvd,vietnamese bubbletea,25.9116923379431,-80.1577875074097
+21,zkBJXJ7cxmq3f53L-h8-lA,Kabobji,FL,North Miami Beach,33160,808.0,4.5,3055 NE 163rd St,mideastern seafood wraps,25.9271928244913,-80.139624
+23,0ivH45r3_Hd8A1uaHF6KXw,Poke & More,FL,North Miami,33181,53.0,4.5,12892 Biscayne Blvd,hawaiian juicebars poke,25.8958,-80.16266
+25,yiMLIzS3qGxeIZe2E-4oUQ,Ohho Noodles Market,FL,Aventura,33160,62.0,3.5,3455 NE 163rd St,ramen noodles dimsum,25.929005,-80.135895
+26,b8G7CbNAB-paZ9eYo3cTYw,Mr  Q,FL,Miami,33180,6.0,2.5,19860 W Dixie Hwy,foodtrucks panasian,25.9593775,-80.1476919
+27,q1uXZUAQIF4h5E6H8HoBgw,Little Saigon,FL,North Miami Beach,33162,259.0,3.5,16752 N Miami Ave,vietnamese chinese,25.9285597,-80.200814
+28,cM5CA_VViOtHT8njMqaTwg,Tako Sushi,FL,Sunny Isles Beach,33160,49.0,4.5,17630 Collins Ave,sushi ramen thai,25.939578,-80.121943
+29,59uxWDX-zF5kSrZwCtCmRQ,Sushi Zen & Izakaya,FL,Sunny Isles Beach,33160,183.0,4.0,18090 Collins Avenue T-23,japanese sushi thai,25.943329569650952,-80.12249782317893
+0,AG18TYCdS_eSs2f5xHAi8w,Yeti's Snowballs and Pizza,FL,Hialeah,33013,9.0,5.0,401 E 65th St,shavedsnow foodstands pizza,25.88196,-80.27447
+1,g-P0-5jfeJQZ4Aa6909TLQ,Japow,FL,Miami,33137,12.0,4.0,151 NE 41st St,shavedice foodtrucks,25.8144122212317,-80.192086
+2,8gAdckJVp9ZCtZGKT7gbrg,Ronnie & Moe's Italian Ice,FL,Miami,33147,3.0,5.0,7900 NW 27th Ave,shavedice acaibowls gelato,25.84814,-80.24346
+3,DdIBIuCcelRFqUCXVUgyHw,Raspados Loly's,FL,Miami,33174,105.0,4.0,10404 W Flagler St,desserts,25.7681,-80.36515
+4,xgoSJR1nOAXW2bUWB3-GSg,Amazonica,FL,Miami,33137,91.0,4.0,5030 NE 2nd Ave,shavedice juicebars colombian,25.82175,-80.19191
+5,noTxZ9C_3gmZnLM9qicu9w,Jeepney Wynwood,FL,Miami,33127,25.0,3.5,143 NW 23rd St,filipino,25.79940040177796,-80.19790824592046
+6,iipIhhoYyDsXBB8zZFrKgw,Sushi Cafe & Shilla Korean BBQ,FL,Miami,33126,546.0,4.0,7917 NW 2nd St,japanese sushi korean,25.7728010678068,-80.3250411048311
+7,hv9LbFn6RXu0Zsd560vOvQ,Bali Café,FL,Miami,33132,426.0,4.5,109 NE 2nd Ave,sushi indonesian asianfusion,25.77545,-80.190207
+8,ytb24iUXCaophnrZ7jtU6w,Manila Kantina,FL,Miami,33131,28.0,5.0,245 E Flagler St,filipino breakfast_brunch asianfusion,25.7744277357264,-80.189323626485
+9,FyBxAvEhUVV7eVJMk8e_kA,Shokudo,FL,Miami,33137,367.0,4.0,4740 NE 2nd Ave,sushi japanese panasian,25.81909,-80.19185
+10,cT97c08hmtxfcyJ7SrQv2A,Itamae,FL,Miami,33137,140.0,4.5,140 NE 39th St,japanese peruvian,25.812281,-80.192575
+11,VPy-BL9EEUS9a9VI0r02xw,AMA,FL,Miami,33137,3.0,4.5,151 NE 41st St,japanese cocktailbars,25.814314,-80.1924526
+0,1UF9z3tMeHrPjm7Pj7oRww,Bubba Tea N Smoothies,FL,Miami,33127,169.0,4.0,2617 N Miami Ave,bubbletea juicebars coffee,25.80208,-80.1949
+1,2pVe1_Y9aSygxFw3XWnHyw,Hotline Boba,FL,Miami,33130,10.0,5.0,744 SW 8th St,bubbletea,25.76572,-80.20668
+2,vPKAXT3Yn3bIqnuq6kxJJA,Imperial tea,FL,Miami,33145,26.0,4.5,3301 Coral Way,bubbletea chinese asianfusion,25.75044,-80.24905
+3,WSrUpMjCDcygAV-RUre6Fg,Wonderfruits,FL,Miami,33132,21.0,4.0,401 Biscayne Blvd,bubbletea icecream,25.7779173837514,-80.1866344233482
+4,geDljBx0U3XY1pN2btV-nQ,Bao dude,FL,Doral,33172,5.0,3.0,1455 NW 107th Ave,bubbletea asianfusion dimsum,25.78658,-80.36546
+5,Yaq6I5aAraLKZQLjPNa9-w,specialTEA Lounge,FL,Miami,33165,851.0,4.5,10766 SW 24th St,coffee tea sandwiches,25.746051,-80.369099
+6,HNcflMxfUs-znWYNRtR2Gg,107 Taste Brickell,FL,Miami,33130,49.0,4.5,1190 SW 2nd Ave,ramen bubbletea asianfusion,25.7626121,-80.1974213
+7,-3U1K-W87mtmRdNO4d-UUg,Sovereign - Miami,FL,Miami,33132,120.0,5.0,22 NE 3rd Ave,bubbletea asianfusion poke,25.77491,-80.18884
+8,qzMTGMJLIJxqBPQDiSl0og,Boba Station Food Truck,FL,Miami,33138,47.0,4.0,6815 Biscayne Blvd,taiwanese bubbletea foodtrucks,25.8558416,-80.1819268
+9,eo2W_Hakq3SVGUsUSBHvGw,1-800-Lucky,FL,Miami,33127,1388.0,4.0,143 NW 23rd St,asianfusion bars karaoke,25.79931,-80.198
+10,_10Zd80V37u9XR1-ujrxDQ,Arigato Bubble Bar & Coffee,FL,Miami,33127,4.0,4.5,3246 N Miami Ave,bubbletea coffee bakeries,25.80718,-80.19555
+11,EVGPTVYEU65_tvMEBRPIYg,Good Chef Restaurant,FL,Miami,33174,144.0,5.0,113 S W 107th Ave,asianfusion bubbletea ramen,25.767745,-80.36805
+12,wsJQm_iSAj2jLeK9jaCQdg,Hi Pot,FL,Miami,33165,189.0,4.5,1665 SW 107th Ave,taiwanese hotpot ramen,25.752836,-80.367636
+13,gxjQEU2aWE6WpSMxxV3JpA,Pho 305,FL,Miami,33137,60.0,4.0,2519 NE 2nd Ave,vietnamese bubbletea,25.801449283624336,-80.19082294375684
+14,i-fgz6ZbZ4D1uqeKa76xmw,Pho 79,FL,Miami,33174,776.0,4.0,1415 SW 107th Ave,vietnamese noodles bubbletea,25.756192,-80.366591
+15,-di50tbWDDRhx6NNOkXEDw,Say Tea & Smile,FL,Coral Gables,33134,22.0,3.5,86 Miracle Mile,bubbletea coffee,25.74938,-80.25645
+16,MfkZSdJ0w4-SOLJiEyHU5A,"KYU, Miami",FL,Miami,33127,1729.0,4.5,251 NW 25th St,asianfusion,25.80089,-80.20017
+17,XXk0WJoXomMPlXsISgnXUQ,107 Taste,FL,Miami,33165,943.0,4.5,1679 SW 107th Ave,ramen panasian,25.7527,-80.367311
+18,3_aiSMesuN9OxCOsM0StIw,Mr Cool Ice Cream Roll,FL,Miami,33174,124.0,4.5,10562 SW 8th St,icecream bubbletea,25.7599262799819,-80.3666826269837
+19,2ec1aEtSYPL3rKTuweSxYA,107 Taste - Miami Lakes,FL,Miami Lakes,33014,514.0,4.5,6705 Main St,asianfusion ramen panasian,25.9133462,-80.3097048
+20,TTqtazhQDoxYZvQPDSdACQ,Hawaiian Poke,FL,Miami,33165,248.0,5.0,1671 SW 107th Ave,hawaiian bubbletea poke,25.7532798,-80.3678343
+21,PCcO6zulzjwdHMKUMGiMww,Doral Thai Restaurant,FL,Miami,33122,228.0,4.0,2613 NW 79th Ave,thai desserts coffee,25.7979519446344,-80.3247750345185
+22,_R2AOf8Db30i3xjLl7uu_w,Yip - Wynwood,FL,Miami,33127,78.0,4.0,143 NW 23rd St,dimsum,25.79931,-80.198
+23,vy0KmoiHoK_HEeBiwJ9S-w,Bubble T Time,FL,Hialeah Gardens,33018,6.0,3.0,11850 Hialeah Gardens Blvd,bubbletea juicebars salad,25.88168809999842,-80.3520966
+25,kSBE7iHfiYKdyNBIoB3Bvw,The Doral Yard,FL,Doral,33166,211.0,4.5,8455 NW 53rd St,bars musicvenues tradamerican,25.81999998,-80.33561727
+26,CG27dIUxEmMclCA9MBoqDA,Phuc Yea,FL,Miami,33138,667.0,3.5,7100 Biscayne Blvd,vietnamese asianfusion cocktailbars,25.840456,-80.184568
+27,h0Nt2CqzdkJvixnesuWQcA,Siam Rice Thai & Sushi Restaurant,FL,Miami,33138,315.0,4.0,7941 Biscayne Blvd,japanese thai sushi,25.8483938,-80.1845151
+28,1miHaVZzM6G2SgcAXZ-08g,Miss Saigon Bistro,FL,Coral Gables,33134,306.0,3.5,148 Giralda Ave,vietnamese noodles asianfusion,25.7512718439102,-80.2576891332865
+29,Po_6niCFaj-TvZSZbgbIoA,Asian Thai Kitchen 2,FL,Miami,33135,289.0,4.0,1981 SW 8th St,thai noodles asianfusion,25.7657153,-80.228079
+30,vsyuWsegeskGw8IFLrxzWg,King Duck BBQ,FL,Miami,33174,99.0,4.5,10340 West Flagler St,chinese bbq,25.76788,-80.36445
+31,-Deu17zwREKsW2iiXNaR0A,Sushi Maki - Coral Gables,FL,Coral Gables,33134,341.0,3.5,2334 Ponce De Leon Blvd,sushi japanese asianfusion,25.750372,-80.258865
+32,PMrzNbLpJJG-I4J1oKwYtw,San Villa Asian Fusion,FL,Miami,33132,13.0,3.5,30 NE 3rd Ave,buffets asianfusion filipino,25.7749999688268,-80.1887330100881
+33,AJezKwo9LWh2Pn1XB6hFpw,Sushi Maki - MIA Airport,FL,Miami,33126,341.0,3.0,2100 NW 42nd Ave,sushi japanese asianfusion,25.7971974024835,-80.2797660595551
+34,TiHJpUV56fBSizl73WGY_Q,3 Chef's at Brickell,FL,Miami,33130,206.0,3.5,48 SW 12th St,chinese vietnamese,25.7624887456795,-80.1942033298647
+35,zTGOVetsRWdAY_KfAYfqpw,Sub Zero Ice Cream and Yogurt,FL,Miami,33172,94.0,4.0,10141 W Flagler St,desserts icecream,25.7689602,-80.3605835
+36,3HdDrsF5OSHgI3IQQuJeZg,Changs Chinese Restaurant,FL,Miami,33174,105.0,4.0,1311 SW 107th Ave,chinese,25.75626767,-80.36748633
+37,i4gfckuCUfFjl4gQ2SLZZg,Sakura Sushi Bar,FL,Miami,33144,227.0,3.5,1180 SW 57th Ave,sushi japanese,25.76013,-80.28802
+38,tnBKzbKjwDbmXLm1qs27EA,Pacifico Chinese Restaurant,FL,Hialeah,33012,24.0,3.5,1098 W 29th St,chinese,25.84782,-80.3041
+39,42_6xTyBbkBhXiImoZ8ffw,Geisha69,FL,Miami,33131,8.0,5.0,1060 Brickell Ave,asianfusion japanese mediterranean,25.76309,-80.1922
+40,awJ5k0obkCrI3C4FzzrAdQ,3 Chef's,FL,Miami,33132,270.0,3.0,1800 Biscayne Blvd,chinese vietnamese,25.7939313414568,-80.1891506857027
+41,AN5NNr-TBBavva4EVb_uDw,Chop Suey International Restaurant,FL,Miami,33135,83.0,3.5,90 SW 27th Ave,chinese,25.77155,-80.2394599
+1,UWbgMndXql-O9uVb2snVcA,Litchi Snow Ice,FL,Pembroke Pines,33027,411.0,4.5,15721 Pines Blvd,bubbletea juicebars poke,26.0093673605487,-80.3550614176394
+2,-lF1z8w7b5oQ04jxJMwbFg,Sweet Aloha Ice Cream,FL,Davie,33324,50.0,5.0,8600 W State Rd 84,shavedice icecream,26.10183,-80.26458
+3,WlCPrNS5COFJukrhUxDUHA,Vayla's Gourmet Shaved Ice,FL,Miami,33176,44.0,4.5,8888 SW 136th St,shavedice gluten_free icecream,25.645316,-80.338996
+5,PNinU_Rbffbn3rJOnXVcsA,Rita's Ice and Custard,FL,Miami Gardens,33015,15.0,4.0,18451 NW 67th Ave,icecream gelato shavedice,25.94118733,-80.30663767
+10,q6De5k3cUsdLcu3oe3p5HQ,Icyy Xpress,FL,Miramar,33025,3.0,5.0,9917 Miramar Pkwy,shavedice,25.9808649,-80.2772418
+11,tW2c0eD82NH7gKdw7dv4Iw,Miami Ice,FL,Miami,33172,1.0,5.0,,shavedice desserts,25.790923,-80.136592
+13,l98ZjPLm_UTLCyEQi1hkJw,Zombie Ice,FL,Broward,33327,11.0,5.0,,foodtrucks shavedice catering,26.11629,-80.41566
+17,Gg3sED0V-1OOkjZ5Gry32g,Paris Morning Bakery,FL,Davie,33328,439.0,4.0,4900 S University Dr,coffee bakeries korean,26.06081,-80.25144
+18,83EQg8AsrTKT3OfE42DGgQ,Paris Morning Bakery,FL,Miramar,33025,83.0,4.0,11679 City Hall Promenade,bakeries korean bubbletea,25.9859785,-80.2991348
+19,Un0JCT5L235FUu5o44yE_g,Richie's Gourmet Italian Ices,FL,Oakland Park,33334,137.0,4.5,898 E Commercial Blvd,coffee icecream shavedice,26.18862,-80.13567
+20,S18dZUjbbPpYeL0ooORKNg,Sandbar Snacks,FL,Pompano Beach,33062,7.0,3.0,20 N Pompano Beach Blvd,coffee juicebars sandwiches,26.2324605829093,-80.0895112752914
+21,clnQnPsk8_2BkIxAXiDkKg,Snow At The Beach,FL,Miami Beach,33139,3.0,3.5,229 9th St,icecream shavedice,25.779653456086,-80.13260658859846
+22,JMwXyJMamctrmaXlFyMHeA,iSweets Cafe,FL,Plantation,33317,101.0,4.0,7031 W Broward Blvd,desserts bubbletea macarons,26.1210549,-80.2416522
+23,U40xZk8djjBUUQ91Th7YvA,El Ranchito Marketplace,FL,Miami,33175,30.0,3.5,12320 SW 56th St,farmersmarket juicebars shavedice,25.71471483,-80.39430667
+26,2MNUr9aCNcUknSH61p2jtA,Rita's Ice and Custard,FL,Surfside,33154,19.0,4.5,9461 Harding Ave,icecream gelato shavedice,25.88457,-80.12319
+28,_SGVRCb1GngSCZKQovBThw,Rosies Gourmet Italian Ices,FL,Pembroke Pines,33026,98.0,4.5,1791 NW 122nd Ter,icecream desserts shavedice,26.0232658,-80.3096619
+29,Yzz_gAcCupmgSIn6KStovw,Ohho Noodles Market,FL,Coral Gables,33146,379.0,4.0,1100 S Dixie Hwy,ramen chinese noodles,25.71672337,-80.27378209
+34,QYE-GpOe1Jp8A4fHPD3Qqg,Kona Ice Fort Lauderdale,FL,Fort Lauderdale,33327,3.0,3.5,,icecream shavedice foodtrucks,26.1190700531006,-80.4150924682617
+35,LBibH2Inm9SrskDd6WBRwQ,Izziban Sushi & BBQ,FL,Lauderhill,33313,465.0,4.0,7225 W Oakland Park Blvd,korean bbq sushi,26.1655884,-80.243576
+37,oMNNmO65TZl6n8XOggAMHA,Manila Grill and BBQ,FL,Pembroke Pines,33025,123.0,4.0,12165 Pembroke Rd,bbq filipino,25.994655,-80.308612
+38,RZjJKOwPzsrtaz3C4ZtQ1Q,Larb Thai-Isan,FL,Fort Lauderdale,33308,310.0,5.0,6234 N Federal Hwy,laotian thai,26.2053240992281,-80.1079427123845
+40,gjxk7Fe5XDo5NuEWqMH9Ag,Pampanguena,FL,Miami,33157,47.0,4.5,18623 SW 107th Ave,filipino breakfast_brunch grocery,25.5948550801576,-80.3636441354431
+41,dSbO2iToVLDF5KWWMQ2JMw,Gabose Korean BBQ,FL,Lauderhill,33351,1036.0,4.0,4991 N University Dr,korean,26.1878409760147,-80.2524259997247
+42,oN6nzzRlBB5_Q-0GXSAsJw,Gabose Pocha,FL,Lauderhill,33351,249.0,4.5,4933 N University Dr,korean tapas,26.187629,-80.252784
+43,cPK7uSpHwyEDmDR0_gzhjA,Pao by Paul Qui,FL,Miami Beach,33140,227.0,4.5,3201 Collins Ave,asianfusion,25.807361,-80.123435
+45,R-niG4cwDcztgpLfKyMfQQ,Sriracha House,FL,Miami Beach,33139,814.0,3.5,1502 Washington Ave,asianfusion chinese thai,25.787726,-80.1319909
+47,9GPVZQlgD6SXqvM-GmCtkg,Macchialina Taverna Rustica,FL,Miami Beach,33139,663.0,4.0,820 Alton Rd,italian cocktailbars,25.77868,-80.14122
+49,8F3AsgwF25Dun2vdx2323A,Bap Bistro,FL,Sunrise,33325,162.0,4.5,149 NW 136th Ave,korean bubbletea,26.1215242846852,-80.3302763623947
+2,yf8i0wBtxoX1NPnLbGl9qg,Jeremiah's Italian Ice,FL,Cooper City,33024,48.0,4.5,9630 Stirling Rd Ste 7-101,desserts icecream,26.044678,-80.277007
+5,U7GOVTFuiollseT3RsmvLA,Nobu Miami,FL,Miami Beach,33140,797.0,3.5,4525 Collins Ave,asianfusion sushi japanese,25.8194553196472,-80.1217758895297
+7,9wUWeXcfAZ-8NIKRvCLuIA,Azabu Miami Beach,FL,Miami Beach,33139,229.0,4.0,161 Ocean Dr,sushi japanese,25.77042,-80.13219
+9,onfKOnMWtFV7ME7aoV3_og,Paris Morning Bakery,FL,Lauderhill,33351,156.0,4.0,4840 N University Dr,bakeries bubbletea,26.1856348227161,-80.2514470556039
+11,tW0Zr4o5cFPR7bNxiJ4HCw,OLA,FL,Miami Beach,33139,982.0,4.5,2360 Collins Ave,seafood latin venues,25.799714,-80.128267
+12,vL5j_00IOW31ASltuBgVwQ,Lutong Pinoy Filipino Cuisine,FL,Pembroke Pines,33025,48.0,4.0,9131 Pembroke Rd,bubbletea filipino asianfusion,25.9942582222632,-80.2650001645088
+13,rlbPvQKrq40wHv7GqKHm9A,Even Keel Fish Shack,FL,Lauderdale-By-The-Sea,33308,403.0,4.5,112 Commercial Blvd,seafood bars diners,26.1895161,-80.0964197
+15,lBOlk5t1eYRjJJD4t27Pfg,Habitat,FL,Miami Beach,33139,204.0,4.5,2341 Collins Ave,mexican breakfast_brunch,25.7992071,-80.1275448
+0,DClHHQBOC82KjpCBl_RxbA,AraVita,FL,Hialeah,33015,241.0,4.0,18400 NW 75th Pl,bubbletea coffee juicebars,25.941146049428102,-80.32444257947444
+1,szPXB40zUmHBXxq8pmhoew,AraVita,FL,Doral,33178,133.0,4.0,11402 NW 41st St,coffee bubbletea juicebars,25.810795,-80.3819
+5,bga6ur52mC9mDX6kHmoZDg,Green Papaya,FL,Miami Lakes,33015,362.0,3.5,16893 NW 67th Ave,vietnamese,25.9268171,-80.3080766
+12,QUVaYz4_Mf0ESawL1Z65Lw,Yeung's Lotus Express,FL,Miami,33172,13.0,2.0,11401 NW 12th St,chinese,25.788862,-80.381951
+11,a1izoceHqK9qvDmOmuGQKQ,Nami Sushi,FL,Miramar,33027,167.0,3.5,12711 Miramar Pkwy,sushi chinese thai,25.979601,-80.317032
+2,4pa5tSKl1NHSoXP-ipW28Q,Boba And Chill,FL,Pembroke Pines,33027,40.0,4.5,14928 Pines Blvd,bubbletea,26.006380649354305,-80.348442
+3,x2WY2HM2a-qYMyjork4Tqw,Gong Cha,FL,Pembroke Pines,33027,70.0,4.0,106 South Flamingo Rd,bubbletea juicebars coffee,26.006585,-80.314488
+4,H3at7wjadMrsXFIJ_zAyUQ,Leaf House,FL,Cooper City,33026,172.0,4.5,12389 Sheridan St,bubbletea desserts juicebars,26.030302,-80.31105683
+5,g30SdkKOo0oiQPClqqjPrw,Nine Five Pho,FL,Pembroke Pines,33027,134.0,4.5,14928 Pines Blvd,vietnamese bubbletea,26.0074851,-80.3482068
+8,jtSCVVQyUAHaPL5rS-FISA,Hiccups & Churroholic,FL,Pembroke Pines,33026,52.0,4.0,10640 Pines Blvd,asianfusion bubbletea thai,26.0078,-80.28649
+11,G6p93zY0IaKklnY5aBIATA,Sakura Ramen,FL,Southwest Ranches,33331,158.0,4.5,15771 Sheridan St,ramen asianfusion bubbletea,26.0304518,-80.3578115
+13,VYQ0SW7FvTOcNPCKagvefQ,Hi Pot Pembroke Pines,FL,Pembroke Pines,33024,140.0,4.5,620 N University Dr,hotpot taiwanese ramen,26.014758,-80.251187
+15,ekIepPjxwknAvzVFFs1kvg,Leafy,FL,Pembroke Pines,33024,147.0,4.0,641 NW 100th Pl,vietnamese asianfusion bubbletea,26.01429,-80.27952
+16,9PWvZvV10NHWS62UTkMfhw,Bubble Fresh,FL,Pembroke Pines,33026,2.0,4.5,,bubbletea foodtrucks,26.0285774380314,-80.2934522
+17,_kEogu5gswLKwsWnoNjKBQ,Vaniglia & Cioccolato,FL,Pembroke Pines,33027,284.0,4.5,15969 Pines Blvd,coffee gelato creperies,26.0110808214297,-80.3593291595264
+20,uhid2di1x2x5Ok26xwEdGg,No 1 Wok,FL,Cooper City,33026,32.0,3.0,2515 N Hiatus Rd,chinese bubbletea seafood,26.0305081,-80.2967051
+21,3MR8J-xZf_qiyegr99-LUw,Litchi Delights,FL,Pembroke Pines,33028,6.0,4.0,15973 Pines Blvd,bubbletea juicebars teppanyaki,26.0078849,-80.361543
+22,v-BrbMUrrOoOd_nyIIru0A,Bento Asian Kitchen + Sushi,FL,Pembroke Pines,33017,154.0,3.0,10350 Pines Blvd,sushi bubbletea asianfusion,26.006647,-80.283783
+23,i0va1zjXKmuGIkDVOz34yg,U-Sushi Japanese & Thai,FL,Pembroke Pines,33024,161.0,4.0,610 N University Dr,sushi thai japanese,26.014434,-80.2485753
+24,GVFh8iMGi2NLaMuLSTCH8A,Supunnahong Thai,FL,Pembroke Pines,33024,328.0,4.0,9945 Pines Blvd,thai wine_bars beerbar,26.0095234001931,-80.2770195375157
+25,26_cgPUmuiqhaiDIRQIB_Q,Chow One Korean Steakhouse,FL,Pembroke Pines,33024,246.0,3.5,8369 Pines Blvd,korean steak,26.00923,-80.25427
+7,4bRTPPLCW28_pap775Hm-w,Simply Perfect Java,FL,Pembroke Pines,33029,1.0,5.0,,bubbletea popuprestaurants,26.01715,-80.39949
+11,9pvUia_8R7fytk0DHrBu8Q,Frulados,FL,Margate,33065,22.0,4.5,8022 W Sample Rd,shavedice juicebars,26.270874,-80.233238
+22,R8raJ2gEQuEmhvXSLKLQvA,Jeremiah's Italian Ice,FL,Coral Springs,33067,181.0,4.5,9172 Wiles Rd,desserts shavedice icecream,26.2855052118346,-80.2482490593883
+25,isKCvkqFyO2uoApL2ryvvQ,Creams And Crackers,FL,Coral Springs,33071,1.0,5.0,9373 W Atlantic Blvd,bubbletea desserts juicebars,26.23975,-80.25097
+34,gb3cOCmPVSlVfxde1wJsRA,The Namu,FL,Coral Springs,33065,428.0,4.5,10317 Royal Palm Blvd,korean izakaya asianfusion,26.2600994486184,-80.2632341284668
+18,3m8MqgtRNuSt3z4EoQK5YA,Le Bistro,FL,Lighthouse Point,33064,160.0,4.0,4626 N Federal Hwy,french steak seafood,26.2880939,-80.0954056
+12,9Fb9q5Z-rTtZSVDk4VxMgQ,Jade Tea House,FL,Davie,33324,80.0,5.0,2215 South University Dr,coffee icecream bubbletea,26.09386,-80.25217
+27,GBFM_niGZK3Tbu84ep5Pag,Bento Asian Kitchen + Sushi,FL,Davie,33324,614.0,4.0,2260 S University Dr,sushi asianfusion chinese,26.094129,-80.249574
+29,eeNso0VhpAbwfx0X0L6vLg,Dragon Pho,FL,Davie,33324,136.0,4.0,7740 Nova Dr,vietnamese,26.090287,-80.249806
+37,T2P6MihENRGcriaQGmYESQ,Shinju Buffet,FL,Davie,33328,331.0,4.0,3305 S University Dr,japanese buffets,26.08054,-80.25194
+13,NZ-s79vK7Qz2gzOsn6N5qA,BoraSoo Cafe,FL,Davie,33324,60.0,4.5,8600 W State Rd 84,bubbletea coffee korean,26.101568,-80.26376
+14,F3YX9CJKBCFiKCR3rgB7nA,Zero Degrees,FL,Davie,33024,332.0,4.0,8560 Stirling Rd,bubbletea coffee,26.044523,-80.2584
+23,KNcQFKwqL7eLJjOxxecE6Q,Litchi Delights,FL,Cooper City,33328,20.0,5.0,8751 Stirling Rd,poke coffee juicebars,26.0453049,-80.2613966
+47,XmvFOA4Bas-Y4ui1WIZTdg,Emerald Thai Restaurant,FL,Davie,33324,138.0,4.0,8500 W State Rd 84,thai sushi,26.101217,-80.262432
+14,wSs92aFaF4CdL77-ew8ABA,Pearl Boba Tea and Snacks,FL,Davie,33325,4.0,4.0,11372 W State Rd 84,bubbletea,26.1106941,-80.3004999
+22,qT74i_kD27zLEB6zDVS8HQ,Yum Korea,FL,Weston,33326,108.0,3.5,1669 Market St,korean bubbletea poke,26.09794,-80.38101
+28,TjbGvsTl__GzoNqYXFG-LQ,Masan Asian Grill,FL,Weston,33326,310.0,4.0,1924 Weston Rd,asianfusion poke bubbletea,26.0943421846963,-80.3691436513122
+29,Naw_gYEPGrjdcXUpZVbuOA,107 Taste Plantation,FL,Plantation,33388,84.0,4.0,8000 W Broward Blvd,asianfusion ramen bubbletea,26.117781,-80.254754
+21,FDCeFvfG5xTNOfXHX2VJjw,Pelican’s SnoBalls of Deerfield Beach,FL,Deerfield Beach,33442,9.0,3.5,1305 S Military Trl,shavedice,26.301161,-80.134125
+2,Sx5vBrhUZuOKTlkBDvoygA,Paris Morning Bakery,FL,Boca Raton,33433,96.0,4.0,22191 Powerline Rd,bakeries desserts cakeshop,26.3469536460521,-80.1553532847252
+0,1sq9wi1UEFCemMegHESqag,Poke & Tea,FL,Cutler Bay,33189,35.0,4.0,20465 Old Cutler Rd,poke bubbletea juicebars,25.576651,-80.3376385
+1,W_296IhlZLIJJNMf5H0EwQ,Boba World,FL,Miami,33173,181.0,4.0,9658 SW 72nd St,coffee juicebars icecream,25.701498,-80.3490829
+3,3L4yj2oGdVibr_SDAiPchg,TeaJito,FL,Miami,33186,175.0,4.5,12983 SW 112th St,bubbletea coffee,25.665006,-80.406156
+4,0Q-HIO7_HuAoT_Ldcug2qQ,Miu's Tea,FL,Miami,33139,376.0,4.5,1520 Washington Ave,bubbletea tea coffee,25.7880091,-80.1320019
+5,rP1FTNOyHQUAsTFNVCwhWQ,Miu's Tea,FL,South Miami,33143,192.0,4.5,5853 Sunset Dr,bubbletea coffee tea,25.7044437,-80.2886006
+11,e_J071_2K5kfZx-FLNefaw,Tik Tea,FL,Miami,33176,73.0,4.0,10846 SW 104th St,ramen bubbletea juicebars,25.671695,-80.37128
+12,GmHyKOQiAtR3jgga9xNWMQ,Asian Fusion Cafe,FL,Palmetto Bay,33157,407.0,4.5,17043 S Dixie Hwy,sushi japanese asianfusion,25.611403,-80.346068
+13,K-DwgAYr4zL5DxU3ywjuww,Z Ramen,FL,Miami,33183,20.0,4.5,8352 Mills Dr,japanese bubbletea,25.6896,-80.38808
+14,IGdmWO4xUXHjP6gb0oZFcQ,Pho Tastic,FL,Miami,33196,194.0,4.5,16772 SW 88th St,vietnamese bubbletea juicebars,25.68241,-80.46375
+16,CnJET9dzNi9DfUUoo_7UkA,Honeybee Doughnuts,FL,Miami,33176,50.0,4.0,8888 SW 136th St,donuts bubbletea bakeries,25.645198,-80.3387907467593
+17,CQoF0SPKnPzkXKZaPl-HMQ,Naruto 88 Bistro,FL,Miami,33176,167.0,4.5,10471 North Kendall Dr,sushi ramen poke,25.6875155,-80.3631461
+18,6CZmIFIcRblSBB7TsxKnHA,Imperial Tea,FL,Miami,33156,124.0,4.0,9010 Dadeland Blvd,chinese bubbletea asianfusion,25.686501,-80.3138929
+19,zc-Dz3Ro8uKnTVNq-0e6ng,Moge Tee South Miami,FL,Miami,33143,12.0,4.0,5796 Sunset Dr,bubbletea coffee desserts,25.70409,-80.2872
+24,RmUzW88I7EQUh1jN005g0w,Teriyaki Ninja,FL,Cutler Bay,33189,23.0,3.5,Southland Mall - 20505 S Dixie Hwy,asianfusion bubbletea teppanyaki,25.5747222,-80.3691667
+31,hKA-WyCjG3uvroENeO_hIA,Taco Bao’T It,FL,Miami,33173,42.0,4.0,9895 SW 88th St,foodtrucks asianfusion tacos,25.687769842208937,-80.3540529
+33,iwe6Gs39HHi6fX_qGK53Jg,Chopsticks House,FL,Cutler Bay,33189,169.0,4.0,20553 Old Cutler Rd,chinese thai,25.5765123753454,-80.3380483956127
+35,cPctRC4v0KxU5G6cdi5j_g,Latropical Artisan Paletas,FL,Key Biscayne,33149,3.0,2.5,328 Crandon Blvd,icecream bubbletea,25.695193653517354,-80.16370636815209
+37,RIlXSnTu5z_e30s8JtXwpA,Lan Pan Asian Cafe,FL,Miami,33143,466.0,4.0,8332 S Dixie Hwy,panasian bubbletea sushi,25.6927979,-80.3039098
+43,XFoNbtXTLzAYHHNe-6VoXQ,Pho 79 - Pinecrest,FL,Pinecrest,33256,560.0,4.0,9503 S Dixie Hwy,vietnamese,25.6825858416345,-80.313448251136
+44,Vq4Pj4XyVhnNQxD0RLGqtQ,The Bazaar By José Andrés,FL,Miami Beach,33139,978.0,4.0,1701 Collins Ave,tapasmallplates spanish venues,25.792629354785,-80.1286451630211
+4,Kva9p90GqI8tYhrl-YQ5-A,Yi Fang Taiwan Fruit Tea,FL,Kendall,33156,3.0,3.0,7535 N Kendall Dr,bubbletea icecream coffee,25.69032,-80.31255
+9,fF7o4p1c8VLNwWjDbprqcA,Apoke,FL,South Miami,33143,161.0,4.0,6620 SW 57th Ave,poke sushi soup,25.7092451,-80.2857149
+10,4TfobvCktFXqxMKGVsVkfw,Sushi Maki - Coconut Grove,FL,Miami,33133,121.0,3.5,2550 S Bayshore Dr,sushi japanese asianfusion,25.732156,-80.23237
+11,XUGoYjHVDsFERPNTP5iR9g,Sushi Maki - Palmetto Bay,FL,Miami,33176,230.0,3.5,14491 S Dixie Hwy,sushi japanese asianfusion,25.635626,-80.337828
+13,X88xUqfO3C1sa4UYEYCXLQ,P.F. Chang's,FL,Miami,33176,385.0,3.0,8888 SW 136th St,chinese asianfusion,25.6458347731816,-80.3396962711639
+14,oTZPSTOQjolPqLxK0O81Dw,Sushi Maki - Kendall,FL,Miami,33176,259.0,3.5,11531 N Kendall Dr,sushi japanese asianfusion,25.6873352523561,-80.3804932261396
+15,ybiDTxr76fbW6Pn1JokdVw,Outrageous Bagel Company,FL,Kendall,33176,215.0,4.0,8843 SW 107th Ave,bagels breakfast_brunch coffee,25.6857049,-80.3658117
+17,TvqCYUuzQMm43NYPOWvoYA,Sushi Maki - South Miami,FL,South Miami,33143,208.0,3.5,5812 Sunset Dr,sushi japanese asianfusion,25.70421,-80.2876
+20,eBkBCLKIWPNzqprm5MgSbg,Sushi Maki - Dadeland,FL,Miami,33143,29.0,4.0,6661 S Dixie Hwy,sushi japanese asianfusion,25.693935,-80.3008
+22,iqIYib0QyWivEW8_R0narw,Long Gong Restaurant,FL,Miami,33184,79.0,4.5,11920 SW 8th St,chinese,25.76023,-80.3892599
+27,Rz852jQ4JMKI-nXySmJFMw,Ho Wah,FL,Miami,33165,72.0,3.5,11459 SW 40th St,chinese,25.734139,-80.3800769
+10,V84akW26bQAE7SBIVAOEsQ,Rama 9 Thai Dish & Sushi,FL,North Miami,33181,128.0,4.5,2188 NE 123rd St,thai sushi japanese,25.88918,-80.15401
+34,r5s3njxdEihniVzMkA9HYQ,"Sovereign - Poke, Boba, Asian Kitchen",FL,Plantation,33324,570.0,4.5,9723 W Broward Blvd,poke bubbletea panasian,26.1219131,-80.2781841
+42,EIKF6csMi8HOtHB2SBBWVw,Yanyan Bubble Tea-Sunrise,FL,Sunrise,33322,16.0,3.5,10065 Sunset Strip,bubbletea tea noodles,26.154647,-80.284252
+34,hK8f_sLwv3FwMiYv5QovMQ,Thai Garlic & Sushi,FL,Fort Lauderdale,33326,181.0,4.0,116 Weston Rd,thai sushi,26.1218077,-80.3613397
+36,w3bp6oUz8lounIYraA7fIw,Wilton Creamery,FL,Wilton Manors,33305,452.0,4.5,2301 Wilton Dr,icecream desserts bubbletea,26.1574982155293,-80.1368958503008
+37,jvacZrkfqjHcMn_AkJhJAQ,Banh Mi 2020,FL,Sunrise,33322,15.0,4.5,10041 Sunset Strip,vietnamese bubbletea,26.15442641455713,-80.28324724072655
+13,DqBTHRWlynsJu9OoHPUGMw,Miami Best Latin American Grill,FL,Sunrise,33323,3.0,2.5,12801 W Sunrise Blvd,latin,26.1500148298888,-80.3245462373706
+21,Du40XuzR4LiSslWcog7ULA,07 Street Food & Sushi,FL,Sunrise,33322,10.0,4.0,10025 Sunset Strip,sushi streetvendors,26.1538909,-80.283188
+35,bV4Oekm_8IRZSE7QQ2aj8Q,Pho 75,FL,Sunrise,33322,208.0,4.0,2430 N University Dr,vietnamese sandwiches noodles,26.15425,-80.25645
+4,hm0c4mnIVh0VwBZ7Nyj8rQ,Pho 79,FL,Sunrise,33322,220.0,4.0,10023 Sunset Strip,vietnamese,26.153847,-80.28319
+0,G_1snWEGqC1RAll5rkc4pA,Tropical Vibes Rolled Ice Cream & Shave Ice,FL,Key West,33040,60.0,4.5,411 Greene St,shavedice acaibowls icecream,24.55865,-81.8062
+0,YZzB9u3_1vDL1zAyhq1auw,Kimochi Bubble Tea,FL,Fort Lauderdale,33308,15.0,4.5,6280 N Federal Hwy,bubbletea,26.20628,-80.1072
+1,UmeKgVNjRcBXcRfmHsHNtQ,Kin Asian Street Food,FL,Pompano Beach,33060,535.0,4.5,143 SW 6th St,japanese thai korean,26.2227309,-80.1254049
+2,CcETIkcnIxrPbrDMFM8GrQ,Lucky Cat Street Eatery,FL,Fort Lauderdale,33309,142.0,4.0,6322 N Andrews Ave,asianfusion,26.20492212,-80.14729153
+3,6Nnw-sICK648uXwwuyGSjA,Bubble Fresh,FL,Fort Lauderdale,33308,1.0,5.0,3939 N Federal Hwy,bubbletea foodtrucks asianfusion,26.177066,-80.119943
+4,ip8weg6Tx0ZZ0AK84wv6yw,Joji Yogurt & Dessert Bar,FL,Margate,33073,87.0,4.5,5480B W Sample Rd,icecream desserts bubbletea,26.2738851,-80.1979157
+6,EeQbndyaNGAr67sg0nwMgQ,Basilic Vietnamese Grill,FL,Lauderdale-By-The-Sea,33308,598.0,4.0,218 Commercial Blvd,vietnamese,26.1896706,-80.0980627
+7,Hv-8xawLmhWLtmoXfG_LuQ,Panda Express,FL,Coral Springs,33067,133.0,2.5,4190 N State Rd #7,chinese hotdogs bubbletea,26.2828535586643,-80.2026031419087
+8,YiPg02mKCBlmY2hc-fB4JQ,Crave Poke,FL,Coral Springs,33067,155.0,4.5,5816 Wiles Rd,asianfusion hawaiian sushi,26.2860663071451,-80.203411616385
+9,dWxl9-hSTiCgXtV0ISOCgg,Pho Hoa Noodle Soup,FL,Tamarac,33319,274.0,4.0,5435 Florida 7,vietnamese noodles bubbletea,26.1929178735058,-80.2045083045959
+10,6j-SsMrjtbmLrXyY_Pi7Xg,Huong's Bistro,FL,Lauderdale Lakes,33319,70.0,4.0,4225 N State Rd 7,vietnamese coffee juicebars,26.177863,-80.204335
+11,1MO5ldyy8dSg-FmaZ1402A,Noodle House,FL,Lauderdale Lakes,33319,479.0,4.0,4461 N State Rd 7,vietnamese noodles,26.1806591,-80.2037642
+12,iGrZaF_iUiV6vUugwtohDA,Favor Sushi,FL,Pompano Beach,33069,41.0,3.5,1415 SW 26th Ave,sushi poke ramen,26.2124508,-80.1563053
+13,96QCxY0ur1eIfxz8kfeZvg,Atlantic Pho,FL,Margate,33063,222.0,4.0,5408 W Atlantic Blvd,vietnamese,26.23495,-80.19995
+14,-l4zzilkkzPDoAfy8-iCSQ,Dragon Pho,FL,Coral Springs,33067,279.0,3.5,6268 W Sample Rd,vietnamese soup asianfusion,26.27258,-80.209334
+15,idR8_i6lOq2CzjLISxNkJA,Saigon Cuisine,FL,Margate,33063,142.0,3.5,1394 N State Rd 7,vietnamese,26.247524,-80.199904
+16,gUCHQAZlyvwixtkaoVApuA,The Modern Rose,FL,Deerfield Beach,33441,225.0,5.0,331 SE 15th Ter,coffee catering,26.3141693,-80.0845049
+17,rDjW00cAtRkGRXkG6cu6JQ,Mama Asian Bistro,FL,Coconut Creek,33073,226.0,3.5,4437 Lyons Rd,sushi thai ramen,26.283965,-80.187995
+18,oCRSaIGtM02wdA_flPay7g,Lily Garden Chinese Restaurant,FL,Coconut Creek,33073,60.0,3.0,6558 N State Road 7,chinese,26.310874,-80.200416
+2,NWVNmbXDN1nHMiV2cE6P9Q,J-Petal Ramen & Crepes,FL,Coral Springs,33071,141.0,4.0,1267 N University Dr,creperies ramen bubbletea,26.24462,-80.251556
+3,GhvUYf18lFkf-gfc1NIejw,Fyr & Ice,FL,Coral Springs,33065,474.0,4.0,10371 W Sample Rd,ramen bubbletea asianfusion,26.2728843977142,-80.2644749358786
+17,GkaIOHp35kjBYbC_sHazRQ,Mainland China Bistro,FL,Coral Springs,33065,523.0,3.5,2445 N University Dr,chinese,26.2608290317206,-80.2493018041286
+1,GCb-W0Z4hPTkF1a-l5pRYQ,Jeremiah's Italian Ice,FL,Boca Raton,33434,22.0,4.5,8170 Glades Rd,desserts icecream shavedice,26.367465328357124,-80.173805
+2,XKYeOn2Gy8a8evLbOqVd6g,Sugar Milk Boba and Dessert Bar,FL,Boca Raton,33432,33.0,4.0,495 N Federal Hwy,bubbletea waffles icecream,26.354532213503965,-80.0868022644061
+3,nVm0n8Q-u4nXBB3fk7FCHw,Black Pearl Boba Tea,FL,Boca Raton,33432,44.0,3.5,893 E Palmetto Park Rd,bubbletea dimsum asianfusion,26.3508278862861,-80.0719911877356
+6,QKCqH57sxfCu8jRYNaJGSQ,"Sovereign Poke, Boba, Asian Kitchen",FL,Boca Raton,33486,69.0,5.0,1345 W Palmetto Park Rd,asianfusion poke bubbletea,26.35333,-80.112399
+7,OWBCSjqdM3ArSd5rIOQ4fw,Kung Fu Tea,FL,Boca Raton,33431,21.0,4.0,481 NE 20th St,bubbletea coffee,26.368486518851398,-80.0789305
+9,W2o25887SbqS0UUX3VdcaQ,The Juicy Bubbles,FL,Boca Raton,33431,7.0,3.5,6000 Glades Rd,bubbletea juicebars coffee,26.36264301584698,-80.13270260559631
+13,CiNXvXB-R3YHnbrG266ZmQ,Ramen Lab Eatery,FL,Boca Raton,33432,688.0,4.0,100 NE 2nd St,ramen poke noodles,26.3522551,-80.0848595
+17,4xsBGXNr6tp5tuKmbCvF1A,Maxin Tea House,FL,Boca Raton,33431,1.0,5.0,1928 NE 5th Ave,bubbletea,26.3672752,-80.077141
+18,kfF2EQ7BnZp-95PEHA5vqA,Boba Street Cafe,FL,Boca Raton,33431,62.0,4.0,141 NW 20th St,bubbletea juicebars icecream,26.36865522730446,-80.08637246690643
+19,DCu22PyDMZJ2B12gStCuQg,NORI,FL,Boca Raton,33432,289.0,4.0,217 E Palmetto Park Rd,thai sushi ramen,26.3506584,-80.0830994
+20,jbtv68qVH9-0pWPRjB-ZCw,Basilic Vietnamese Grill,FL,Boca Raton,33432,423.0,4.0,200 S Federal Hwy,vietnamese,26.34757,-80.08604
+21,GuFxp40_8ZBQMRG2Xqjrfw,Pho Boca,FL,Boca Raton,33434,284.0,4.0,9181 Glades Rd,vietnamese chinese noodles,26.3684925777793,-80.1890085353088
+25,o0qP8oRwE1Nd654mQzGL2Q,True Food Kitchen,FL,Boca Raton,33431,527.0,4.0,6000 Glades Rd,newamerican vegetarian vegan,26.3663913917053,-80.133920682209
+28,o_QE-XvdZnG6Y-cr2k-OMQ,Oishii Japanese & Hibachi,FL,Boca Raton,33431,119.0,4.0,141 NW 20th St,japanese sushi asianfusion,26.368459705367517,-80.08708620264242
+29,WIEv35qcy9Z0qBVknw4MBg,Eat District Healthy Asian Bowls,FL,Boca Raton,33431,29.0,4.5,1914 NE 5th Ave,asianfusion gluten_free,26.3672109,-80.0776951
+30,D9epTzkQ5o-Jh2DxOO4v_A,Sushi Masa,FL,Boca Raton,33431,144.0,3.5,2240 NW 19th St,japanese sushi thai,26.36607,-80.125534
+10,TG-2LuhJq8LQturK-4OkLQ,Sen Thai Bistro,FL,Boca Raton,33428,87.0,4.5,11395 W Palmetto Park Rd,thai noodles,26.34961,-80.22773
+0,wwbPrf6pEaNnap0oi-DLSw,Press Creamery,FL,Boca Raton,33496,78.0,4.5,9858 Clint Moore Rd,icecream bubbletea acaibowls,26.40739142026608,-80.2022516080405

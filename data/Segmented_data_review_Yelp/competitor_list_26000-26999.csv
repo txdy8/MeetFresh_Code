@@ -1,0 +1,1141 @@
+,id,name,state,city,zip code,review count,rating,address,categories,latitude,longitude
+0,lK1nossCriWLRzCpa0gfAw,GB's Grille & Lounge,OK,Fairview,73737,3.0,3.5,902 N Main,shavedice burgers pizza,36.276802,-98.479869
+0,hroyMhPHvFUc7wPXm5aHeA,Sweet Em’s Snowcones,OK,Owasso,74055,2.0,4.5,10950 E 116th St N,shavedice foodtrucks,36.321731,-95.853166
+1,DZCwIEbtByF1KB_xrQYpwg,Tyson's Shaved Ice,OK,Collinsville,74021,1.0,5.0,706 W Main St,shavedice,36.364675478790055,-95.83310357064191
+2,Ch9FqOjWuz6CIXFaNXLBWA,Simply Sweet,OK,Owasso,74055,1.0,5.0,12200 E 86th St,foodtrucks desserts shavedice,36.3012554,-95.8503574
+3,liGlwKHIBaoMQCeGI0QZ8w,Flip’s Shaved Ice,OK,Owasso,74055,2.0,3.5,12350 E 86th St N,shavedice,36.278496,-95.834785
+4,dKmi9rM98yYyuT97gw_1Ag,Tropical Sno,OK,Oologah,74053,1.0,5.0,202 W Cooweescoowe Ave W,shavedice,36.4473761,-95.709882
+5,Pd9_vQ--YwPUVZGeISsdpA,Nani's Shaved Ice,OK,Claremore,74019,1.0,5.0,25985 OK-66,foodtrucks shavedice icecream,36.2359,-95.6861799
+6,6noe-LIQlXgkdXRSI1VC2A,Sweet T's Burgers & More,OK,Pawhuska,74056,3.0,5.0,714 W Main St,burgers shavedice icecream,36.66421461059379,-96.34881596654354
+0,XYlLMU0NSDOUn9EmAS1UGQ,Cha Bubble Tea,OK,Tulsa,74133,56.0,4.5,8246 E 71st St,bubbletea,36.06007,-95.884416
+1,s_4AY3rfv3YynvfJgU2dIQ,Hey Boba,OK,Tulsa,74136,98.0,4.5,6942 S Lewis Ave,bubbletea asianfusion,36.0625802,-95.9580049
+2,KRJUyMor7EDZXLxuOOKXUw,Kung Fu Tea,OK,Tulsa,74135,19.0,4.5,5956 S Yale Ave,bubbletea coffee juicebars,36.0773298867737,-95.9227427500524
+3,rUTXtBFl72QCwoZG2P-hGw,Ding Tea Tulsa,OK,Tulsa,74133,38.0,4.0,11007 E 71st St,bubbletea sandwiches,36.0621731738,-95.853121103
+4,lr6YX57v_-ZojzF2cWSCUw,Judes Health & Java House,OK,Bartlesville,74006,49.0,4.0,2503 SE Washington Blvd,healthmarkets coffee sandwiches,36.7134799,-95.93527
+5,O4RCcZm-rLSSE3e6Uq3CfQ,Boss Tea,OK,Tulsa,74133,40.0,4.0,8222 E 103rd St,bubbletea,36.01306,-95.88464
+6,2yr25VWssDJ4spVgjXF6GA,Lacaboba,OK,Owasso,74055,1.0,5.0,12500 East 86th St N,bubbletea coffee,36.27808,-95.8339
+7,YM0ythVPKAGI_s965q_3rw,Viet Hot Bread,OK,Tulsa,74134,72.0,5.0,3151 S 129th E Ave,vietnamese bubbletea sandwiches,36.11788,-95.83228
+8,2gYHlxliaTep4lU4NZlg6Q,Roppongi,OK,Tulsa,74119,126.0,3.5,601 S Boston Ave,ramen bubbletea,36.150848435701,-95.9881294038383
+9,HN6NhlyDDC2Pe75h0l6skg,Gung Ho,OK,Tulsa,74132,19.0,4.0,7547B Olympia Ave,bubbletea poke ramen,36.0543804,-96.00358039999999
+10,tg_qS78HiD1_tRhsn3p-lg,Gogi Gui Korean Grill,OK,Tulsa,74135,130.0,4.0,6380 E 31st St,korean asianfusion thai,36.1188450365324,-95.9057200287801
+11,pV7ummmRIArrO9U0mfg2tg,Katy’s Donuts,OK,Wagoner,74467,1.0,5.0,906 E Cherokee St,bubbletea donuts burgers,35.95906695996514,-95.3660264
+12,TCvGFNQm8dzuPlHT1OBXRg,Eggroll Street,OK,Tulsa,74133,23.0,4.0,7911 E 71st St,asianfusion,36.0612373352051,-95.8881378173828
+13,cb7mLj5743AjBtfuGK_RBA,Pho Nhi Vietnamese Noodle House,OK,Tulsa,74129,173.0,4.5,11514 E 21st St,vietnamese soup noodles,36.132824,-95.8477645
+14,9BC9pI3_P_9MJn8IvlLPyA,Pholicious,OK,Tulsa,74133,25.0,3.0,7021 S Memorial Dr,vietnamese,36.0632417037376,-95.8804930451441
+15,Xl7noiTDWyYWnG0Eq1V3uw,Thai Taste,OK,Tulsa,74146,29.0,4.0,5646 S Mingo Rd,thai bubbletea hawaiian,36.08150288033156,-95.86893538749435
+16,RO4UL7oQ95Qt4o8L9ATBjQ,New Royal Dragon,OK,Tulsa,74133,31.0,4.0,6528 E 101st St,chinese,36.0170860326113,-95.9038063407274
+17,0BGWkoxgg_Rxt_8XLo7ltg,Pho Da Cao,OK,Tulsa,74145,184.0,4.0,9066 E 31st St,vietnamese chinese,36.118966,-95.87297
+18,h5OtqXvQlOI0YaDdg_TUVA,Yum Eats & Sweets,OK,Tulsa,74137,8.0,4.0,8204 S Harvard Ave,bubbletea candy sandwiches,36.0448626,-95.94109279999999
+1,MSQR0nM-6PrUXkxzOmdlAA,Mary's Snow Cones & Fruits,KS,Parsons,67357,1.0,5.0,1907 Harding Dr,shavedice juicebars foodtrucks,37.366469,-95.264522
+6,pGBSbZkPv5W-MWmzYwrC8Q,Tropical Sno,KS,Coffeyville,67337,1.0,5.0,1108 S Sunflower St,shavedice,37.032817,-95.602142
+7,V7TnEy-dDzpH4io4cp7i-w,Patsy’s Sno Cones and Party Place,OK,Claremore,74017,2.0,5.0,510 N Lynn Riggs Blvd,desserts shavedice,36.316604907736,-95.613245
+9,rDtqIzVCgPfGTNsW9TcEeg,Pinky’s Snowcones,OK,Tulsa,74112,1.0,5.0,1515 S Sheridan Rd,shavedice,36.14009,-95.904196
+11,1XK2PbgHjw4BWHfguxn-0Q,Snacks Morelos,OK,Tulsa,74146,1.0,5.0,10915 E 31st St,mexican,36.1193489,-95.8542389893331
+12,eCLVprvaNielKYFcaQJq3Q,STG Gelateria- Cherry Street,OK,Tulsa,74120,32.0,4.0,1601 E 15th St,gelato desserts shavedice,36.140816569263,-95.9695213660598
+13,eAx2CeXT1TknGuc8HRTY0w,Kona Ice,OK,Tulsa,74101,1.0,1.0,,foodtrucks shavedice,36.151,-95.99493
+14,U2SGipI258OI_DZBlhAOeQ,Angel's Snow and Snack Shack,OK,Tulsa,74146,2.0,3.5,4702 S Mingo Rd,shavedice desserts,36.0949764,-95.8687549
+15,y_8D41Hj6c08havoJ2nsCw,Iguana Island Treats,OK,Tulsa,74145,5.0,5.0,4912 S Memorial Dr,shavedice,36.0921765,-95.8869215
+16,c3jwVWP43LqrnzaW3XXcFA,Candy Castle,OK,Tulsa,74103,15.0,5.0,525 S Main St,desserts candy icecream,36.1509385,-95.9892892
+17,BRZEcARYxLtmWE2DAO1spg,Big Whiskey’s American Restaurant & Bar,OK,Tulsa,74135,50.0,3.5,4532 E 51st St,whiskeybars sportsbars tradamerican,36.089281,-95.9256474
+18,KUsRtSjpdFOpfqYjwkHiWA,Candy Safari,OK,Tulsa,74114,1.0,5.0,4707 E 21st St,candy desserts shavedice,36.1335913054868,-95.9237085655332
+19,Xt-bNn4_C_Tf7dsT9tVCeQ,Josh’s Sno Shack,OK,Tulsa,74105,1.0,5.0,4100 Riverside Dr,shavedice,36.10391700248596,-95.98463600751704
+20,jeCIe_YU53WXf2U_gNUGsA,Harper's Hut Shaved Ice Memorial Stadium,OK,Sand Springs,74063,2.0,3.0,500 N Adams Rd,desserts shavedice,36.1430099,-96.10305
+1,dqwWNKH1rl8djfYCqNy99A,Iguana Island Treats,OK,Broken Arrow,74012,2.0,5.0,1000 N Elm Pl,shavedice,36.0618469427216,-95.7979596260938
+3,g16IgLY4D15nq6fahAxz4A,Zogam Cafe,OK,Tulsa,74136,109.0,5.0,6930 S Lewis Ave,thai malaysian juicebars,36.0624301,-95.9580049
+11,MJAz53F4blOj6ZpbVEUdNA,Inks ShavedIce,OK,Broken Arrow,74012,21.0,5.0,318 W Kenosha St,shavedice,36.06133,-95.793962
+16,u0kWS5mii0ysZsHcNCGsng,Iguana Island Treats,OK,Tulsa,74133,13.0,3.5,7201 S 101st E Ave,shavedice,36.0578089,-95.8642782
+0,rNMxFwTs1h3oJpKrRGrMgQ,Sugar Booger,OK,Jenks,74037,5.0,4.5,120 W Main St,shavedice,36.0225844344018,-95.9699327498674
+1,xnkcs12Pc4w3SR2yP4Z3WA,Chill Out Shaved Ice,OK,Coweta,74429,1.0,5.0,S State Hwy 51,shavedice,35.9553286337396,-95.6490064250518
+2,N9xiHdi4zAh0wJ8rTukITg,Cactus Cones,OK,Coweta,74429,11.0,4.0,13729 S State Hwy 51,shavedice,35.963741,-95.653607
+3,6mroVkypojrtanaysvM8Vw,Stadium Club Snow Cones,OK,Okmulgee,74447,1.0,5.0,2000 S Wood Dr,shavedice,35.6046245873832,-95.9620329737663
+5,ya3KtAH7Kf1BNauBf0_2aw,Josh's Sno Shack,OK,Tulsa,74133,11.0,5.0,8922 S Memorial,desserts,36.033679,-95.887332
+6,XFmnBkGvqsjwypcFXTeYkQ,The Ice Barn,OK,Broken Arrow,74011,3.0,1.5,832 E 131st St S,shavedice,35.9741941092231,-95.7986805856673
+9,CVjt0ac98RanbslY3Z8pBQ,Sam Frances,OK,Tulsa,74132,5.0,4.5,7853 S Olympia Ave,shavedice foodstands,36.04847,-96.00411
+15,vInTIXHMCgZsr_QMeF4oMw,Josh's Sno Shack,OK,Jenks,74037,2.0,3.0,718 W Main St,foodtrucks shavedice,36.0216396043322,-95.97882883783608
+20,tnDq04C3tpmYWKnwrKyZ1w,Bagelarium & STG Gelateria- Broken Arrow,OK,Broken Arrow,74012,32.0,4.5,217 S Main St,coffee gelato bagels,36.0506791,-95.7905138
+3,TXfXzQE_Rqi6krgDAK0Ftg,Cafe 88,OK,Stillwater,74074,48.0,4.0,209 S Knoblock St,chinese bubbletea,36.1202,-97.06481
+4,pnss9oAa_44AFybwxwQV5Q,Boba Fusion Cafe,OK,Stillwater,74075,59.0,4.0,211 N Perkins Rd,asianfusion chinese seafood,36.125502,-97.0503559
+6,D28sTUxDOx7HC9BS1R9UFg,Elevated Grounds,OK,Shawnee,74804,13.0,4.0,3930 N Kickapoo St,coffee bakeries bubbletea,35.3721665885773,-96.9298915633741
+9,KCo0nDcOMtW6Jk1Zca7dmA,Golden Dragon Cafe,OK,Stillwater,74074,147.0,4.0,203 S Perkins Rd,chinese thai,36.1212381894438,-97.0509771438941
+11,NwyZZsh7UbZvLXuCqVrycA,The New Thai Cafe,OK,Stillwater,74074,150.0,4.0,502 S Husband St,thai,36.1163749694824,-97.0604248046875
+13,k37BCe7-tsA99hEgnXyqhg,The Rolling Cow,OK,Shawnee,74804,1.0,1.0,4901 N Kickapoo St,icecream bubbletea,35.3866,-96.925493
+15,9HqcL0D0XLBHx0CHK6L_Tw,Shawnee Pho,OK,Shawnee,74801,53.0,4.5,603 W Kickapoo Spur St,vietnamese sushi asianfusion,35.344711,-96.932165
+16,2bky2Su3FefN5Ij9eWKGGg,Happy Buddha,OK,Stillwater,74075,21.0,3.5,1915 N Boomer Rd,chinese thai,36.14084,-97.067214
+21,M6_niJz2sWRP9m1fextR8A,Panda Express,OK,Shawnee,74804,17.0,2.0,194 E. Shawnee Mall Dr,chinese hotdogs bubbletea,35.3847588107821,-96.9225198719496
+19,cclTnHvSM2GHVDPAQXyySw,Snow King,OK,Muskogee,74403,2.0,4.0,1311 Gibson St,mexican shavedice hotdogs,35.754939707012,-95.3478221967816
+0,ZPbJyXLaayvPIBQWgZjSpQ,Bubble Trouble : Boba Tea & More,OK,Muskogee,74401,1.0,5.0,811 W Shawnee,hotdogs bubbletea,35.76917192141004,-95.37371189999999
+10,yFPGcasxqz0hFpUhdmrlTA,Rollie Pollie,OK,Tahlequah,74464,4.0,4.0,225 N Muskogee Ave,bubbletea icecream,35.9152013635855,-94.9702278524637
+3,7XPYD23DHBBZU0YQwUdHxw,Two Okies Food Truck,OK,Stillwater,74075,1.0,1.0,1616 N Perkins Rd,shavedice popcorn foodtrucks,36.13888,-97.05364
+0,h1XGXaa2KakMlyLLwQlESg,Snow Tyme Shaved Ice,OK,Guthrie,73044,1.0,5.0,,shavedice foodtrucks,35.9052051,-97.394882
+1,YbAPveBrLSY_AtW0JGeQ2w,The Hut Shaved Ice,OK,Shawnee,74804,3.0,3.5,4 W MacArthur,shavedice shavedsnow,35.361857,-96.9239785
+2,98e1QHsRRk4QWCb2ShN93w,Heavenly Grind Coffee,OK,Shawnee,74804,20.0,4.5,1836 N Kickapoo Ave,coffee shavedice juicebars,35.3514943,-96.9298698
+5,1ipcXh_7cPVwXDvbd3BaCw,Sasquatch Shaved Ice,OK,Oklahoma City,73106,18.0,5.0,1801 NW 16th St,shavedice,35.4862115391538,-97.5413089271537
+6,oJZ2mRxf48bv5OAlhk8Gig,Island Sno,OK,Edmond,73003,2.0,4.5,2269 W Edmond Rd,shavedice foodtrucks,35.6533019560248,-97.5131457298994
+8,P15oOmGWz08z_xJFqrhoCg,Bahama Buck's,OK,Edmond,73003,42.0,3.5,1468 N Kelly,shavedice juicebars acaibowls,35.66939,-97.49547
+9,UXbE0b-WhEX9EVmCQHI48w,Icealicious Snow,OK,Edmond,73034,17.0,5.0,502 S Broadway,shavedice,35.6497981365168,-97.4814815819263
+10,qAR_6Q3aQ4jS5pCzhUff3w,Shimmer's Sno Cones,OK,Edmond,73034,20.0,4.0,1433 E Danforth Rd,juicebars shavedice,35.66796,-97.46085
+11,0_z4GhmnipWMwHggREL7AA,Sydneys Big Kahuna Shaved Ice,OK,Moore,73160,1.0,5.0,1304 NE 12th St,foodtrucks shavedice shavedsnow,35.34859,-97.47011
+12,FRII2iAJqdL5XBRMj_dnwQ,Bahama Buck's,OK,Moore,73160,40.0,4.0,761 SW 19th St,desserts shavedice juicebars,35.3198681026697,-97.5024135410786
+15,RbiT7rQFKBy6NwnKNSWgQg,MAC's Scooby Shack,OK,Edmond,73013,5.0,5.0,3030 E Memorial Rd,shavedice desserts foodtrucks,35.6086551288638,-97.4588156996943
+16,D2m5Uqi3Xt8bn4Csw9KrqQ,Crave Shaved Ice,OK,The Village,73120,6.0,4.5,2203 W Hefner Rd,shavedice,35.5802849,-97.5517908
+18,DZGL0Ikul0gIBI6VHdYAGw,The Ice Shop,OK,Oklahoma City,73120,19.0,4.5,9227 N May Ave,shavedice,35.5641881,-97.568256
+20,0XfuyiAEWXVPqhRKSxUNqQ,Katiebug's Sips & Sweets,OK,Oklahoma City,73102,75.0,4.5,7 NW 9th St,shavedice bakeries customcakes,35.4772651065544,-97.512523457408
+21,v-Lo8SSLOlFiRgA7ckRj9Q,Sno Cones,OK,Del City,73115,10.0,5.0,4617 SE 15th St,shavedice,35.4500198,-97.4334564
+22,VeXnyPNoZ2q1YI5N5uPsfQ,Eskimo Hut,OK,Midwest City,73110,9.0,4.5,904 S Air Depot Blvd,shavedice,35.4552563641584,-97.4056293815374
+24,PnomvdOWItNW4D_vEHTWew,Tasty Snow,OK,Oklahoma City,73115,7.0,4.0,4129 SE 29th,shavedice,35.4356407549482,-97.442478000418
+25,Q5Pyl2jTXoVwopnRE1gEFA,Snow Daze,OK,Oklahoma City,73159,6.0,4.0,2103 SW 89th St,shavedsnow shavedice,35.3772649,-97.548655
+26,0jjBC8w_PsxcY2Ror3Op_Q,Sip Boba and Desserts,OK,Oklahoma City,73159,53.0,4.0,2138 W I 240 Service Rd,bubbletea desserts juicebars,35.3905699,-97.54966
+27,4WqBkRi281AHWmq2MCpYyg,Okie Sno,OK,Oklahoma City,73159,2.0,5.0,2103 SW 89th St,shavedice,35.3775748353632,-97.5485615179863
+28,hNGqtehQ8Jn5fgkf4wW_Pg,Teapioca Lounge,OK,Oklahoma City,73106,244.0,4.0,1101 NW 23rd St,coffee desserts juicebars,35.4935352722143,-97.5303775817156
+29,Y4AT2HqiOdGIqJxV5EpD2Q,Teapioca Lounge,OK,Oklahoma City,73134,13.0,4.0,13415 N Pennsylvania Ave,tea juicebars bubbletea,35.60703760475134,-97.54988537305611
+30,oFLzhmrBuzQsDpL_0HmIIA,Chibugan Filipino Cuisine,OK,Del City,73115,110.0,4.5,4728 SE 29th St,filipino,35.4350593201018,-97.4308401346207
+32,8RYJEe2ad0tyraYh2OdhRg,Sweet Trips,OK,Del City,73115,2.0,4.0,4613 SE 15th St,desserts shavedice,35.4498649,-97.43415
+33,Zzgy9ro5Se6a3USV84MPFg,Kona Ice Moore OKC MWC Choctaw,OK,Oklahoma City,73170,2.0,5.0,12121 S Western Ave,shavedice desserts foodtrucks,35.3470959,-97.5300749
+34,i0av_O9HLw9lPU_kf_9LSA,Eskimo Sno - South OKC Stand,OK,Oklahoma City,73170,1.0,5.0,10601 Sw Ave,shavedice,35.3625968530383,-97.5302588939667
+35,Im_3z4tYxmXImwrddXiLzA,Upbeat Treats,OK,Oklahoma City,73110,2.0,3.5,,shavedice foodtrucks,35.47973,-97.39287
+36,qxHNH_xsS8ZCzB7be1MQ5Q,Snow S'more Food Truck,OK,Oklahoma,73112,11.0,3.5,,desserts foodtrucks,35.468494,-97.521264
+37,KI4Eaqr2UIiHzZ7fSTMdxA,Sasquatch Shaved Ice,OK,Oklahoma City,73106,1.0,5.0,1801 Northwest 16th St,shavedice,35.4863909,-97.54154609999999
+38,IbB8ZOkR9MhsLtFF_kDu_A,Bondi Bowls,OK,Edmond,73034,20.0,5.0,,foodtrucks acaibowls vegan,35.6706199645996,-97.4250030517578
+39,m_qUjdpMQPia4lhvnCHWHA,Teapioca Lounge - Edmond,OK,Edmond,73034,19.0,3.5,1185 E 2nd St,bubbletea juicebars coffee,35.654133957763,-97.4643583595753
+41,YSMU4OXuNmL_cu-CsFwiUw,Pho Lien Hoa 2 - N Penn,OK,Oklahoma City,73120,19.0,4.0,13120 N Pennsylvania Ave,vietnamese,35.603521345246996,-97.54887735786117
+2,dHV3pFWRM3a3XWOlPxc33g,The Shivering Monkey,OK,Tecumseh,74873,1.0,5.0,309 E Walnut St,shavedice coffee,35.2613354,-96.9333884
+11,oz8BPRL6ZJcKUWUY65xYvA,Eskimo Sno,OK,Norman,73071,9.0,4.5,867 12th Ave NE,eventplanning shavedice,35.22873,-97.42297
+18,nmdpVPgFc1mfmZh8QQ1_6Q,Spirals: Hot Dogs & More,OK,Norman,73069,20.0,5.0,2203 W Main St,newamerican gourmet hotdog,35.220104,-97.473816
+25,lY3XU8W9qnQeVxL_XHN7-g,Beanstalk Coffee & Sno,OK,Norman,73072,16.0,4.5,3408 36th Ave NW,coffee shavedice desserts,35.258946,-97.4948634584013
+28,fn6bpYmuch173flvY1PV_w,Teapioca Lounge,OK,Norman,73069,52.0,3.5,1808 W Lindsey St,tea juicebars coffee,35.2034983467717,-97.4686853577047
+35,pw8pB-L7ITt52L71XbvkUA,Beacon Coffee Stand,OK,Edmond,73012,24.0,5.0,3700 NW 206th St,coffee shavedice donuts,35.681695,-97.583944
+1,tr0krrvZg3biKzyjeo6nuw,Swig,OK,Midwest City,73110,5.0,4.5,2590 S Air Depot Blvd,desserts juicebars bubbletea,35.43890973918233,-97.4057674479688
+5,hZmSkQWA5usLb8sv93lcLw,Gongcha,OK,Oklahoma City,73106,4.0,5.0,2800 N Classen Blvd,bubbletea tea,35.49773,-97.53387
+6,wsCpX6lnfI7S6Bci5Yc7Tw,Sharetea,OK,Oklahoma City,73160,6.0,5.0,937 SW 25th St,bubbletea,35.316809,-97.493666
+7,TjxnOJOHWeTBD8QlLyHDuA,Ooo Cha,OK,Edmond,73003,36.0,4.0,2000 W Danforth Rd,sandwiches bubbletea coffee,35.66622,-97.51017
+8,WGhw4-0-NkgDYql745oewA,HI TEA X COFFEE TREE,OK,Edmond,73034,83.0,4.5,784 E Danforth Rd,coffee bubbletea,35.666874,-97.470428
+9,8ZwAm1oVIc8i10oFsvYcjw,Tao Cha Cafe,OK,Edmond,73034,110.0,4.0,331 S Blackwelder Ave,coffee taiwanese noodles,35.651158616733134,-97.46555782169062
+12,MQyMGuXXT5_wlO84SqL1wQ,Feng Cha,OK,Edmond,73013,13.0,4.5,900 NW 150th St,desserts bubbletea,35.62339,-97.52843
+13,Jz4jt_pAvuG3WTjfBiMeSQ,Sharetea,OK,Oklahoma City,73106,53.0,4.5,2723 N Classen Blvd,bubbletea coffee juicebars,35.497072,-97.5347757
+14,AZ3I6lHtB7XMteqlPnXrQA,Koala Tea,OK,Oklahoma City,73139,37.0,4.5,10400 S Western Ave,macarons coffee juicebars,35.364117,-97.5286152
+15,wvGBG_M1SYhpkXfnsWJlbA,Mr Pan,OK,Oklahoma City,73118,25.0,4.0,1901 Nw Expy,bubbletea tea,35.525007,-97.544553
+22,z9X2SsGl2nQ-LEKNzNbo-w,Boba Cafe,OK,Moore,73160,58.0,3.0,717 S I-35 Service Rd,coffee bubbletea juicebars,35.3302424879646,-97.490568048961
+25,Fi48zORBrBQdC0JBHu6fvw,Cafe De Taipei,OK,Edmond,73034,84.0,4.0,603 S Broadway,sushi bubbletea,35.6488999,-97.4823281
+27,R8qX_RW8pjEzKNfdpIBmOw,Kao Mun Gai,OK,Oklahoma City,73118,67.0,4.5,3709 N Western Ave,thai bubbletea,35.50827,-97.53
+28,pVucQW8gMxwfbG63X1zeBA,Tea Cafe On the Corner,OK,Norman,73069,50.0,3.0,788 Asp Ave,coffee asianfusion,35.2117080688477,-97.444206237793
+29,6oS5bxc3iKfdgexgddgJpQ,Bahn Thai Tea,OK,Norman,73072,46.0,4.5,1204 N Interstate Dr,coffee bubbletea desserts,35.234539,-97.486333
+30,-1Df6D4M0WR4AyMH5p1qfw,Pho B&B,OK,Midwest City,73110,51.0,3.5,1908 S Air Depot Blvd,vietnamese,35.4461288452148,-97.4057083129883
+31,bP0WGhBmQNvxTGt-QD-Isw,Wahaha Cafe,OK,Edmond,73034,108.0,4.0,801 S Broadway,chinese,35.64675,-97.48279
+32,9oSfIOeGWe_VrtoUoGFtqw,Chae Cafe & Eatery,OK,Oklahoma City,73116,70.0,4.5,7300 N Western Ave,korean cafes coffee,35.5457867898376,-97.5293090566993
+33,Xm_IopUCX2aVtVNQ8emXHQ,Cafe Oasis,OK,Oklahoma City,73106,104.0,4.5,1135 Nw 25th St,asianfusion coffee,35.4954832,-97.5307258
+34,YtBRkcLG1zOx5cq4O88w_A,Pho Lan Asian Bistro,OK,Moore,73160,243.0,4.5,711 SW 19th St,vietnamese,35.320267553348,-97.501052
+35,7i50FEIErCHDNA7VL2G8nw,Siam Noodles Thai Cuisine,OK,Midwest City,73110,98.0,4.5,7016 SE 15th St,thai noodles,35.4495337,-97.4036044
+36,GmAsFiqqrz8eOyqvrHtWqw,Kung Fu Tea - University of Oklahoma,OK,Norman,73071,15.0,3.5,1915 S Classen Blvd,bubbletea coffee juicebars,35.20527,-97.432315
+38,RQkoJW8CHhfgjEB97iWnWg,Lee's Sandwiches,OK,Oklahoma City,73118,269.0,4.0,3300 N Classen Blvd,sandwiches vietnamese coffee,35.503372,-97.533623
+39,HdAwS_oJpv7E2AZL22xWQg,Pho 54,OK,Oklahoma City,73134,183.0,4.0,15001-J May Ave,vietnamese chinese,35.6219957376019,-97.5677627883604
+40,1Ck9utTgLYwtVKanjaaIvA,Bistro 38,OK,Oklahoma City,73112,180.0,4.5,2903 NW 36th,thai bubbletea coffee,35.5087702259156,-97.5669806823134
+41,RNX98EqH05ThQ7VNW3gnmg,Pho Thai Nguyen,OK,Oklahoma City,73118,92.0,4.0,3221 N Classen Blvd,vietnamese thai chinese,35.5025199,-97.53482
+42,162AATsGJlqqkfIm6hvYmg,Pho Lien Hoa,OK,Oklahoma City,73106,436.0,4.0,901 NW 23rd St,vietnamese,35.4935273559254,-97.527479454875
+43,bCH2Hk-GEfq2m4XwN1Bhmw,Pho Cuong Restaurant,OK,Oklahoma City,73106,221.0,4.0,3016 N Classen Blvd,vietnamese,35.50023118362213,-97.5339290750185
+1,0tRxZNW_bzQB-A5u6iLkRg,Lake Breeze Shaved Ice,OK,Grove,74344,2.0,3.0,1701 S Main St,shavedice foodstands,36.5782902541,-94.7690004799
+5,aW8V2gVaqww8yz-_aMvJfA,Country Snow,OK,Edmond,73012,4.0,5.0,17905 N Macarthur Ave,desserts shavedice foodtrucks,35.6534558797241,-97.6212317124009
+13,jh6cuFg1AWXgNKht8L6frw,Shimmers,OK,Oklahoma City,73132,12.0,3.5,6918 Northwest Expy,shavedice,35.5573999,-97.6372708
+11,PN_pue1PBZPnQYvps8RKSQ,Aloha Shave Ice & Coffee Shoppe,OK,Bethany,73008,54.0,4.5,8000 NW 39th Expy,shavedice coffee sandwiches,35.514548,-97.654757
+26,-TSb33dEVnUzpyZMR1moeg,Shimmers,OK,Oklahoma City,73122,6.0,3.5,5116 N MacArthur,shavedice coffee juicebars,35.5225347,-97.6189319
+31,smF43OYRBdUCFhHNiV8Ktw,Raspados Hawaiian,OK,Oklahoma City,73127,25.0,3.5,4571 NW 23 Rd,juicebars burgers shavedice,35.493679,-97.603801
+7,YSv8qulaEYznaCiY2XWqsQ,Shack Snocones,OK,Piedmont,73078,1.0,4.0,1434 Piedmont Rd N,shavedice foodtrucks,35.651852,-97.744951
+8,uZLVOA0UCDUDvKaiY2gWlQ,Okie Sno,OK,Yukon,73099,10.0,4.0,1121 S Ranchwood Blvd,shavedice,35.4938596487045,-97.7294149249792
+1,G6KqqKJBBPXMwa3ZlsafpA,Boba Tea House,MO,Joplin,64801,1.0,5.0,101 N Rangeline Rd,juicebars coffee bubbletea,37.09044336981902,-94.47350932640653
+3,uGAl_8e1nIlgEJKJYKy-_g,Thai Time Cafe,MO,Joplin,64804,202.0,4.5,1804 E 32nd St,thai noodles soup,37.0545460955714,-94.4958917
+0,Yt6khrx-Pvojnj144gIEIw,Black N Tan Coffee Company,OK,Tahlequah,74464,4.0,5.0,1612 S Muskogee Ave,coffee shavedice,35.8957689564332,-94.9765643211098
+1,BBOpRcquST4IDjTkNqMzdw,Shaved Ice,AR,Rogers,72756,1.0,5.0,1225 W Hudson Rd,shavedice,36.356407,-94.133203
+2,VM0Buzw2Twt4WTbLSTc1Jg,Shave the Planet,AR,Rogers,72756,3.0,4.0,100 N Dixieland Rd,shavedice,36.33579,-94.1456
+3,kfxha3MA7ZLxyxDLL6udNg,Tropical Sno - Fayetteville,AR,Fayetteville,72703,1.0,5.0,464 E Joyce Blvd,shavedice,36.12495,-94.150653
+4,YMauMNky2i01zmBOhvQ3Sw,Tropical Sno NWA,AR,Springdale,72762,1.0,4.0,1154 E Henri De Tonti Blvd,shavedice,36.17621,-94.21589
+5,N92xvJPPL6I-enN1f19UXg,Shave The Planet,AR,Fayetteville,72703,12.0,4.0,3078 N College Ave,shavedice,36.107354,-94.145252
+6,m5A_lnDfWwM76mfPssFa8g,Brain Freeze Sno & Whips,AR,Bentonville,72712,11.0,4.0,604 SW A St,desserts shavedice gluten_free,36.3654876035336,-94.2105253193676
+11,S4JhfVpmo0OKfsBZR83rMg,Bobo's Ribbon Ice,AR,Fayetteville,72704,59.0,4.0,4155 N Steele Blvd,icecream bubbletea shavedice,36.1270167475732,-94.1557614452001
+12,M0d4VkgEI2SfJ-nrffegvg,Shave the Planet,AR,Lowell,72745,5.0,3.0,1115 N Dixieland St,shavedice,36.2680024912256,-94.1459881251665
+13,EK5-Ga2vM_bMocCeP28cFg,Shave the Planet,WA,Springdale,72764,1.0,5.0,1300 N Thompson St,shavedice,36.19681,-94.13933
+14,ZH1I2Nz1QeLZtvuEfjPDNA,Sissy’s Snowcones,AR,Fayetteville,72703,1.0,5.0,1432 N College Ave,shavedice,36.0813323,-94.1564403
+15,EDmmBia0kn--FoYpUkJ0ng,Hi Tea,AR,Rogers,72758,24.0,4.0,2203 Promenade Blvd,coffee,36.303653,-94.174345
+0,FvV6PHxyQZHenHLAx76RWQ,Fruitealicious Bubble Tea & Smoothies,AR,Bentonville,72712,36.0,4.5,1335 S Main St,bubbletea coffee juicebars,36.357275,-94.20898
+5,l66ATXpXDgaV1HBEcSlysA,Bee's Style: Egg Rolls & Fried Rice,AR,Fayetteville,72701,6.0,5.0,492 W Lafayette St,thai bubbletea foodtrucks,36.06879,-94.16521
+6,woU05NGwI25RKehhSwfYVQ,Leaf Tea House,AR,Fayetteville,72703,49.0,4.0,240 E Joyce Blvd,coffee tea macarons,36.1251675397832,-94.153497339373
+7,NOwJ764dQsUDB9L7Qhr7Zw,Mochi XO,AR,Fayetteville,72703,3.0,5.0,4201 N Shiloh Dr,bubbletea,36.128083,-94.1478576
+8,EnF22QZeZGa-tUbAf5Mt8w,Pho Thanh,AR,Bentonville,72712,155.0,4.0,1204 S Walton Blvd,vietnamese,36.35862,-94.21524
+9,NMKu1Y1AMXQG_Do5A1pNgQ,Thai Cuisine,AR,Bentonville,72712,64.0,4.0,1100 SE 14th St,thai,36.3560215,-94.196302
+10,CovDqNki5GydmKj7Zrctfg,TK Chinese & Thai Hot Foods,AR,Springdale,72764,19.0,4.0,4782 N College Ave,foodtrucks chinese thai,36.1362636258664,-94.1439867764711
+11,zd6s0s7S-vzODQEo5gDYGg,La Michoacana Ice Cream Shop,AR,Rogers,72756,2.0,1.0,1803 S 8th St,bubbletea coffee icecream,36.31433833,-94.125505
+12,VhjahMr_JTPILd3jCNSTcQ,Typhoon Vietnamese Cuisine,AR,Fayetteville,72701,117.0,4.0,2612 W Martin Luther King Blvd,vietnamese,36.0542297363281,-94.1970062255859
+13,IIV5guLnoNuOnrTxm_dwRg,Bucks of Asia,AR,Fayetteville,72703,73.0,2.5,2141 N College Ave,vietnamese asianfusion,36.0911045510919,-94.1540454992414
+14,k3Uz7uTIAOPjzmbv4t1DxQ,Pho Thanh II,AR,Fayetteville,72703,84.0,4.0,637 E Joyce Blvd,vietnamese,36.123009,-94.149228
+0,KPFA3CUlGvXUoyG-2LmikA,Meistro Sno,KS,Pittsburg,66762,1.0,5.0,1701 N Broadway St,shavedice,37.4229474440929,-94.7051644346625
+0,LqzKh83iq7hkBhXwhqLDWg,Sno Biz,MO,Monett,65708,2.0,5.0,841 E Hwy 60,desserts icecream shavedice,36.91393,-93.9106924196434
+12,H2yNU_eXeK1nNAWLmKSAVA,Brain Freeze Sno & Whips,AR,Pea Ridge,72751,2.0,5.0,200 Townsend Way,shavedice foodtrucks,36.443314,-94.117162
+2,uPF_Hzm_htgZikq5AB8Qtw,Anime Cafe,AR,Rogers,72756,29.0,4.5,111 S 2nd St,bubbletea,36.3326012,-94.1172561
+8,IcAYA9y-ErDuprNQD_PMBg,3 Crazy Berries,AR,Fayetteville,72701,24.0,4.5,1826 N Crossover Rd,icecream gelato bubbletea,36.08681,-94.11918
+11,kNBdodXEvdEBinZ7qTDEtg,Tiki Cabana,OK,Gore,74435,3.0,5.0,412 N Main St,icecream juicebars shavedice,35.5316187,-95.115012
+4,dDxGcvZZessdChsZt5_npg,Lake Trash Treatz,OK,Checotah,74426,3.0,4.5,417832 State Hwy 150,shavedice,35.362512,-95.577417
+5,DYbTf_VZQjhCaxDCdcneaA,Big Ice Snow Shack,OK,Poteau,74953,1.0,5.0,2503 N Broadway St,shavedice icecream juicebars,35.0783641308929,-94.629223230992
+9,0ufBo3oBSTS_N8VjamaOwA,Grizzlies Shaved Ice,OK,Sallisaw,74955,1.0,4.0,302 W Iola,shavedice foodstands,35.449689,-94.796384
+11,a82mnV7BYdVT_SoItR6Osg,Da Bayou Snowball Shack,AR,Fort Smith,72908,2.0,1.0,2700 Market Trace,shavedice,35.301233,-94.407091
+6,Ega8EnI3kxv4W19QSHxRgQ,Thai Chicken Bowl,AR,Fort Smith,72901,142.0,5.0,2100 Rogers Ave,thai,35.37868,-94.4102599
+13,lxQvrA9T-mZl34PeFpZuig,Thai Curry,AR,Fort Smith,72901,11.0,3.5,912 Garrison Ave,thai,35.38483,-94.42233
+3,1vK24xQ7tEiclHRHDy9PdA,Alpine Ice - Wilburton,OK,Wilburton,74578,1.0,4.0,621 Hwy 2 N,juicebars shavedice coffee,34.919195,-95.3176175
+3,MHgF5-VoC8EkItf95jkx0Q,Da' Bayou Snowballs,AR,Greenwood,72936,1.0,5.0,110 S Coker St,shavedice shavedsnow icecream,35.21099,-94.25916
+4,EeTl2Xmryf3QdDN8phHu6A,The Purple FROG,AR,Van Buren,72956,1.0,5.0,1903 Fayetteville Rd,shavedice,35.4656188369,-94.3574524902
+6,1UhdTjilDQZYR9ZYDxF6pQ,Frosty's SnowCones,AR,Alma,72921,1.0,5.0,200 Collum Ln,desserts shavedice,35.4919229252367,-94.2216835140678
+22,UP5HO6wRTXMElBjZZ-k3HA,Pho Hoang,AR,Fort Smith,72901,45.0,4.0,2111 Grand Ave,vietnamese,35.3863639831543,-94.4051513671875
+1,eMVKpGocepmxO7197IuQ2A,Sakuu Asian Bakery & Deli,AR,Fort Smith,72903,18.0,5.0,4620 Rogers Ave,bakeries bubbletea sandwiches,35.36751,-94.38076
+2,Lkn_sEKj2N1aSU4byXedlg,Kelly's Eggrolls,AR,Fort Smith,72903,1.0,1.0,3722 N O St,foodtrucks bubbletea vietnamese,35.392824,-94.387471
+4,60rVGPsN4FM7GT0rAs0opQ,Smiling Cup Boba Bubble Tea,AR,Fort Smith,72904,1.0,5.0,3970 N O St,bubbletea,35.39199,-94.38734
+13,lSFbcH2J8bDAWCCCdGY76A,Pho King,AR,Fort Smith,72901,34.0,4.5,1217 S Waldron Rd,vietnamese chinese,35.370453,-94.372035
+3,46Z5DA-cNGvw8fULXI--8Q,Yello Sno,OK,Ada,74820,1.0,5.0,310 S Main St,shavedice,34.864969,-96.668726
+1,gLAclpjmkw7wP0ZHnU5Vag,Tacohoma Tacos and More,OK,Hocha town,74728,23.0,4.5,1 Carson Creek Rd,tacos shavedice foodstands,34.1712603277627,-94.7647223856
+0,fwf8H75nwNT9ljih5E3lKQ,Toadally Kool,OK,Idabel,74745,1.0,5.0,2010 SE Washington St,shavedice foodtrucks,33.895266,-94.798923
+0,ae6n7WgXW66OmRwIqrJ2lQ,AZN Boba Tea & Coffee Shop,OK,Durant,74701,2.0,5.0,818 W Main St,bubbletea coffee,33.99310083,-96.38492683
+1,Ja620Qd5FQBpGL2PYJfYXQ,Main Street diner,TX,Denison,75021,4.0,5.0,120 W Main St,diners shavedice,33.75504,-96.53625
+1,sxr0PQWNywxF1rH6SdlK3w,Ni Ni's Cafe,TX,Sherman,75090,5.0,4.5,2114 Texoma Pkwy,sushi poke bubbletea,33.66168099709671,-96.60045240638156
+2,cmYV-C_-U75Zt9plVmV7lQ,Hau’oli Poke,TX,Sherman,75090,63.0,4.5,3903 N US Hwy 75,poke sushi bubbletea,33.678120972482084,-96.60760549095947
+1,I0oryLxuPvNKqoDlGuz-ww,The Snow Blizzard,OK,Ardmore,73401,1.0,5.0,1305 12th St NW,shavedice catering,34.187608,-97.145601
+0,2XTXGjy1qao5AFJhucttuQ,Fluffy Cones & Gift,TX,Sherman,75090,1.0,5.0,1809 E Lamar St,shavedice watches cellphoneaccessories,33.640412,-96.588103
+0,uLp60VoGah-BBcd1nNvB7g,Tropical Freeze,OK,Enid,73703,5.0,5.0,3608 W Randolph Ave,icecream shavedice,36.3981988,-97.9244508
+2,jweIV7Tsf805ItolA3R0uA,MangoTree Cafe,OK,Enid,73703,110.0,4.0,1732 S Van Buren St,vietnamese thai chinese,36.3784599,-97.8902649
+2,TO2QKU3ZbL8GQtlypmnsOg,SnoBall Gainesville,TX,Gainesville,76240,4.0,5.0,517 E California St,shavedice streetvendors,33.6244891242856,-97.1409245207906
+3,7iP0PlII_v3vuFt3HrYHqA,Hawaii Five-Sno,TX,Anna,75409,3.0,3.5,2101 W White St,foodtrucks shavedice icecream,33.34446818580899,-96.57588671949883
+5,ExHCyIojyY97R9MpG0dq1w,Blake's Snow Shack,TX,Sanger,76266,1.0,5.0,400 Locust St,shavedice,33.360621,-97.172711
+6,Q60p3kwtTpBPK0_u_EC9Cw,Avalanche Bay Pizza And Snow,TX,Valley View,76272,6.0,5.0,113 North Lee,pizza shavedice,33.489154,-97.16538
+7,wbiVqJWN_lZY5IT8WVFTVw,Spurlock's Malt Shop,TX,Anna,75409,100.0,4.5,504 N Powell Pkwy,mexican desserts tradamerican,33.3528536,-96.5510188
+2,e14eJmVylQD7MU6FK5uVww,Hokulia Shave Ice,TX,Prosper,75078,15.0,5.0,105 N Coleman St,shavedice,33.236582884508174,-96.80204450307075
+4,8S6UxxIbtNvoGvrNrLg-5w,"Happy Camper's Shaved Ice, Lemonades and Floats",TX,Denton,76201,1.0,5.0,,foodtrucks desserts shavedice,33.2202,-97.1465
+7,ADIndk1yZ7vcGYJqtX2bJA,C & J's Sweet Snow,TX,Krugerville,76227,5.0,5.0,5246 US 377,shavedice foodtrucks,33.2812662,-96.985851
+8,djslGZ7PTDCn5K39PNG1iQ,Zach's Shaved Ice,TX,Denton,76209,10.0,4.0,1607 E Mckinney,shavedice foodstands,33.2162619,-97.1110033
+9,zp4B8XOJqVTptV6tqQAokQ,Jeremiah's Italian Ice,TX,Mckinney,75070,42.0,5.0,7820 Eldorado Pkwy,desserts icecream,33.1751688,-96.7205282
+10,Sv-eGciHbBjxinV6rjj_kA,Hairy Gorilla,TX,Celina,75009,7.0,3.0,102 S Louisiana Dr,shavedice,33.3231443187275,-96.7850758507848
+11,gT9hX7_b7Gy9yAC2w3fxQw,Cajun Cone,TX,Commerce,75428,1.0,5.0,1820 Park St,shavedice,33.2424917,-95.8980957
+12,nwPStqaj0YaWR4mpeNlkIQ,TC Shaved Ice Frisco & Plano,TX,Frisco,75033,65.0,4.0,8750 W Main St,desserts shavedice icecream,33.151668,-96.806787
+13,TBwx33p1W84ZVyhdVqjC3g,Gnome Cones,TX,Denton,76201,53.0,4.5,205 N Elm St,shavedice,33.2158,-97.13396
+14,DH16gpF3K6H6TNHMpdklvQ,TC Shaved Ice,TX,McKinney,75069,21.0,3.5,812 S Mcdonald St,shavedice,33.189667901431,-96.6136498376727
+16,jNr-O7OBSbYxo89r0cG4rw,Scallywags,TX,McKinney,75070,24.0,3.0,3850 Eldorado Pkwy,desserts foodstands shavedsnow,33.1741154,-96.6812886
+17,zc0GVHpSDrwZYBH5imO6Eg,Ice Ice Baby,TX,Savannah,76227,1.0,5.0,,shavedice foodstands,33.2221536223282,-96.9035983085632
+18,_kNC-feuS_ZmBXkrPPHkzg,Frisco Snow Cone Lady,TX,Frisco,75034,90.0,4.5,6427 Elm St,shavedice,33.1505073091258,-96.8306344640212
+19,3Yo7MqVULbqcSjuu9JTMiA,Los Mangos,TX,Little Elm,75068,9.0,2.5,407 W Eldorado Pkwy,shavedice icecream juicebars,33.158118,-96.942824
+20,UjqX2OsMAJL_0fjFgFY9Dg,Antojitos El Rey de la McKinney,TX,Denton,76209,11.0,3.5,805 E McKinney St,shavedice mexican gourmet,33.2161988317966,-97.1226596832275
+21,UB35yjIdTDv23TnpoTBPsw,Bahama Buck's,TX,Frisco,75033,101.0,3.0,11288 Legacy Dr,shavedice juicebars acaibowls,33.1718014,-96.8466749
+24,mGFvD09Ydig3XfH3cMMZrw,Bahama Buck's,TX,McKinney,75071,98.0,2.0,2783 Virginia Pkwy,desserts shavedice juicebars,33.19845,-96.6536
+25,hlzVS95ebhlnF6QPDzAdQw,Bubble Well,TX,Denton,76205,87.0,4.5,2215 S Lp 288,bubbletea coffee,33.1885107,-97.1049683
+26,0ayVGTZo_OdBeh-75mGZ-g,Fruteria Pa'Ti,TX,Denton,76205,2.0,5.0,518 Acme St,juicebars markets icecream,33.195342,-97.13918
+27,5ZXnO5bxte2VXF_RQZ-o0Q,Frutería Pa'Ti,TX,Denton,76209,8.0,4.0,619 E Sherman Dr,icecream juicebars desserts,33.23566,-97.12566
+4,ze5dzdwLSQGkVNkAdFKDzw,Boba House by Charlie Jr,TX,Princeton,75047,19.0,5.0,406 E Princeton Dr,bubbletea,33.17435,-96.494376
+5,ReSdMqMEne2qufYbRu9N6g,Ding Tea - McKinney,TX,McKinney,75071,32.0,4.0,2050 W University Dr,bubbletea tea,33.219351,-96.638638
+6,yO7DtQrDnyLolSv6rETOlw,Drip N Roll,TX,McKinney,75070,63.0,4.5,1681 N Central Expy,icecream bubbletea,33.21435,-96.638082
+7,7FwyDpaOdpb4ZBYqvOH83g,Mr Boba Tea Cafe,TX,McKinney,75070,28.0,4.5,7502 W Eldorado Pkwy,bubbletea juicebars coffee,33.1748,-96.71617
+8,lgFV1_B0fNwXUfGAM_Gx2Q,Aliboba Cafe,TX,Corinth,76210,3.0,4.5,5017 Teasley Ln,bubbletea asianfusion,33.14533,-97.10402
+9,SeZjsMvJcWudinxyKIqBDA,Kung Fu Tea,TX,Denton,76201,54.0,4.0,2735 W University Dr,coffee bubbletea juicebars,33.229364,-97.1685367699899
+10,sgJuywZoRuIGB8yiG86C5g,TeaLatte Bar,TX,Frisco,75034,9.0,4.5,8425 Fm 423,bubbletea coffee,33.14862,-96.89166
+11,kXFTbwklmU1HUx3fNkxXRA,TEACo,TX,Aubrey,76227,65.0,4.5,26742 US Highway 380 E,bubbletea coffee juicebars,33.220291,-96.932553
+12,_7705BxzJbdVYqvlu5vCQA,Sharetea,TX,Denton,76201,38.0,4.0,2200 W University Dr,bubbletea coffee juicebars,33.230183,-97.158511
+13,_6mJ9XrY-bC93RRzaD3KLg,Taiyaki Sweets,TX,Denton,76201,6.0,4.5,1206 W Hickory St,desserts bubbletea,33.21487,-97.14563
+14,4EBYD8fg_YhdMox2gpluwg,Exotic Blendz,TX,McKinney,75071,29.0,4.0,3530 W University Dr,bubbletea,33.2172604203025,-96.6564304521221
+15,F1jvPoWuYoZt6bW29BrMvA,Hello Boba,TX,Mckinney,75071,21.0,4.0,260 N Coit Rd,bubbletea coffee juicebars,33.20568642940492,-96.76702924344872
+16,yLsLQLfdKyaJOApWbZ7agw,Boba Republic,TX,Allen,75013,110.0,4.5,975 State Highway 121,bubbletea juicebars,33.142852,-96.679379
+17,TqmP8fEuA0e46IUdyRGnYw,Kung Fu Tea - Prosper,TX,Prosper,75078,3.0,4.0,1151 S. Preston Rd,coffee bubbletea juicebars,33.222751986022466,-96.79802413905612
+18,L1gK7-oAYXjwrzT1NagvkA,Chu Cha,TX,Frisco,75034,2.0,5.0,9215 John W Elliott Dr,bubbletea,33.15461849417175,-96.83064700479854
+19,XIJtjuZKyoJs-KhTPpCaAA,Naranja Cafe,TX,Denton,76201,90.0,3.5,906 Ave C,coffee icecream bubbletea,33.20638,-97.15107
+20,VIxZlZ7Bi27p4MqNiF7gQA,Tam's Cafe,TX,Celina,75009,28.0,4.5,2750 S Preston Rd,bubbletea sandwiches,33.3011931762488,-96.7830613269053
+21,4PUrPFVx7EmBek3rUdxpUw,Hot Spots Eat Fresh,TX,Denton,76209,49.0,4.0,3520 E McKinney St,bubbletea ramen chinese,33.2128,-97.09348
+22,rneHZ-Ls54Zx0_Y1qVkeTg,King And Cardinal Burger Joint - Little Elm,TX,Little Elm,75068,6.0,3.5,2587 FM 423,burgers bubbletea chicken_wings,33.17680362070878,-96.88679341534402
+23,JYg1CQSxPX5MKTd5s1LfPA,Magic Cup,TX,McKinney,75070,32.0,4.5,7701 Stacy Rd,bubbletea coffee juicebars,33.15154898421348,-96.7170141
+24,1IITXcUc9Jvv93qQX-z7Xg,Fruitealicious Bubble Tea & Smoothies,TX,Frisco,75034,231.0,4.5,5566 Main St,coffee bubbletea juicebars,33.153277,-96.838834
+25,f04bopRIlQrqGCxnziZVUg,Sugarboy Donuts,TX,Prosper,75078,33.0,4.0,1180 Coit Rd,donuts bubbletea juicebars,33.2485,-96.7666799
+26,Baf8OwkGI3Cei1FcJrz96w,Gangnam Chicken,TX,Denton,76201,61.0,4.0,321 W Hickory St,korean bubbletea chicken_wings,33.214347,-97.136079
+27,DrFQJUU3Y4LIJlb-Bu4XsQ,Yogurt Story Rayzor Ranch,TX,Denton,76201,44.0,3.0,2700 W University Dr,icecream bubbletea,33.2305486491786,-97.1668894331071
+28,FZnIZPSrXdeZQnkVR6dOPg,Viet Bites,TX,Denton,76201,119.0,3.0,1104 W Hickory St,vietnamese,33.214351,-97.144753
+29,urdtLM06sYYr-5RVjD79zQ,Thai Ocha,TX,Denton,76201,356.0,4.0,1509 Malone St,thai,33.228926,-97.149987
+30,1hvti2VAgL83xSP4Y5Bm_Q,TeaLatte Bar,TX,Prosper,75078,1.0,5.0,1921 N Preston Rd,bubbletea tea,33.26010277690597,-96.78511340171099
+31,_dCelilwuyDyld2Zti_H1A,J Sushi,TX,Denton,76205,187.0,3.5,1400 S Lp 288,sushi japanese,33.1953441148087,-97.0936171943671
+32,22OECjsBUsz1U1Hz3Tqeaw,Viet Bites,TX,Denton,76201,160.0,3.5,1115 W Hickory St,vietnamese,33.21434,-97.14463
+33,BFxRbtL7R74cxLwgm2i6mw,Donut Box,TX,McKinney,75070,19.0,4.5,4100 S Ridge Rd,donuts coffee bubbletea,33.1578723687899,-96.6949523626995
+34,QJFlzbDYd0xJrcGiQeJ6PQ,Donut Box,TX,Little Elm,75068,81.0,4.5,2700 E Eldorado Pkwy,breakfast_brunch donuts coffee,33.17572705777869,-96.88801068150434
+35,J26k0zVPgjW9B95j4-A3Uw,Pho Bistro,TX,McKinney,75070,193.0,3.5,1751 N Central Expressway,vietnamese,33.21469862984193,-96.6400129433642
+36,l0ToePXK-I8YWCy_Sra6Gw,The Donut Kitchen,TX,McKinney,75071,360.0,4.5,7250 Virginia Pkwy,donuts breakfast_brunch coffee,33.2006120258201,-96.7116376619019
+37,8F-LNn0pl3SVLYeFceVM5g,Pho Que Huong - Noodle & Grill,TX,Frisco,75033,216.0,3.5,5110 Eldorado Pkwy,vietnamese noodles,33.1757818,-96.8421414
+1,FaWv3nh8CU1ezqv8y_yc2Q,Angie's Tropical Sno,AR,Ashdown,71822,1.0,5.0,540 West Locke St,shavedice,33.6695711956353,-94.136060513556
+2,aCcd-uFj9JhKW2RU6oMLsQ,Wake Village Shaved Ice,TX,Nash,75569,2.0,4.5,800 N Kings Hwy,shavedice,33.4318196287261,-94.1300476714969
+4,6jBPQt1oxyskTj2OzR4gzA,Southern Tropics,AR,Texarkana,71854,7.0,4.5,116 E 35th St,shavedice,33.4564716210319,-94.0426384420417
+0,7TFWKLrBdzubmFPmJ4ud0g,Eden Bubble Tea,TX,Texarkana,75503,44.0,4.0,3003 Richmond Rd,bubbletea juicebars sushi,33.46307954293833,-94.0940065609207
+5,R1yGuUsUYulrjA0jmarehA,Sweet Home Texas Eatery,TX,Mt Vernon,75457,8.0,5.0,100 Houston St,hotdog shavedice,33.1887536,-95.2204894
+6,sgs1O2WAP3eRFwI2rEBQvw,Jackrabbit Shaved Ice,TX,Naples,75568,1.0,4.0,414 Wl Doc Dodson W,shavedice,33.1987379,-94.6874722
+7,I_f4-Z6NQY45hh-ag5uirA,Round Eye Sushi Guy,TX,Mount Pleasant,75455,65.0,4.0,113 W 3rd St,sushi japanese,33.15814,-94.96913
+1,x1NyIMPDZ4DLb_cPVWIIGQ,Potato Patch Eden Bubble Tea,TX,Atlanta,75551,2.0,3.0,797 US Hwy 59 S,bubbletea tradamerican,33.13101,-94.17453
+2,WV5rqWtGZBksID4qyZPNjw,"Boba, ETC",TX,Mount Pleasant,75455,8.0,3.0,208 Alexander Rd,bubbletea icecream desserts,33.135965,-94.966325
+4,mpVcdBPU1XRb9d5uXWHDkg,Sul & Beans,TX,Frisco,75035,94.0,4.5,9292 Warren Pkwy,coffee desserts shavedice,33.10993,-96.80281
+7,sDWNnbpL6rM0sCuCGqNC2g,Umbrella's Shaved Ice,TX,Allen,75013,1.0,5.0,820 W Stacy Rd,shavedice,33.1332162287538,-96.6585629240659
+20,lw4TrDmna3Afv4bp7nRwCA,Delish Bubble Tea,TX,McKinney,75070,145.0,4.0,8930 State Hwy 121,coffee juicebars bubbletea,33.1291,-96.73236
+14,-FWtX2KXlCt7inyH-7oM7g,FengCha - Allen,TX,Allen,75013,88.0,4.5,945 W Stacy Rd,desserts coffee bubbletea,33.12918,-96.67486
+17,iGJvyenlqdjKhFYiJKiZ2A,Ben Gong's Tea,TX,Frisco,75035,5.0,4.0,9292 Warren Pkwy,bubbletea,33.10963,-96.80177
+21,8KGFJlaWVVnlWHE-Svf3ng,Boba + Donuts,TX,Frisco,75034,73.0,4.5,2552 Stonebrook Pkwy,donuts bubbletea,33.133081,-96.868329
+23,2NT7glBcKYF-XGQqbMU5HQ,Yifang Taiwan Fruit Tea,TX,Frisco,75035,41.0,4.0,9244 Prestmont Pl,bubbletea,33.11172622488848,-96.80292225889553
+27,eoBID5gflQpb5P2APgq3Fg,7Leaves Cafe,TX,Frisco,75035,162.0,4.5,9292 Warren Pkwy,cafes,33.110896845624154,-96.80255245423011
+28,ibt78bPUcO-p8G-IErTMdQ,Boba Latte - Frisco,TX,Frisco,75035,98.0,4.0,16100 TX-121,coffee bubbletea juicebars,33.1262704272357,-96.7351949671432
+29,Nb0G3BngTGJrLMdUztMoIA,TeaLatte Bar,TX,McKinney,75070,49.0,4.0,7001 S Custer Rd,coffee bubbletea,33.133602,-96.732381
+31,4fiO9kyC7FKEA-t3AusKhw,Pho Luv,TX,Lake Dallas,75065,31.0,3.5,1029 Hickory Creek Blvd,vietnamese bubbletea soup,33.1282526390413,-97.0441145449877
+34,p70oN_C_PN1asvzb3iGL6A,Annie's Sweets & Treats,TX,Frisco,75036,127.0,4.5,5480 FM423,icecream bakeries bubbletea,33.12435,-96.88933
+37,IJ_6VoseADX4YE9UHJoxIw,King & Cardinal - Frisco,TX,Frisco,75035,162.0,4.0,14550 State Hwy 121,burgers bubbletea juicebars,33.12055423923339,-96.74978604110451
+38,E28Hm7hLqCAZK2GgpkImAQ,Forever Pho,TX,Allen,75013,154.0,3.5,939 W Stacy Rd,vegan juicebars chicken_wings,33.1291977995317,-96.6734750535174
+39,pgLGHfb9SzwFE0Hb-VboJw,My Thai Vegan & Boba - Frisco,TX,Frisco,75034,5.0,5.0,6363 Dallas Pkwy,thai vegan bubbletea,33.12992,-96.82574
+41,4yRJxqDMx6kVmSUiM-xPAQ,Thai Box,TX,Allen,75002,217.0,3.0,190 E Stacy Rd,thai asianfusion,33.127025,-96.65782064338119
+43,3m1fFOsPlS2cpq1hBCPShA,Barney's Brunch House,TX,Frisco,75034,728.0,4.5,5480 Farm to Market Rd 423,breakfast_brunch sandwiches burgers,33.1243894,-96.889310516417
+44,RQeuBav7KmWyBg1Cax80_A,Kung Fu Tea,TX,Frisco,75035,32.0,3.0,9292 Warren Pkwy,coffee bubbletea juicebars,33.1103390280931,-96.802698
+2,CvalUuYZelLn5mrMuMqXPw,Snow & Waves Cafe,TX,Highland Village,75077,8.0,5.0,2930 Justin Rd,shavedice acaibowls,33.07418369670163,-97.0745613
+21,uESgcGIm54xiri_sCJXiEA,Hi Sweetie Ice Cream Rolls & Desserts,TX,Plano,75024,260.0,4.0,8604 Preston Rd,icecream bubbletea shavedsnow,33.0951195,-96.8050365
+23,GdUaRE8zSFOEPaptiBUOPA,Bahama Buck's,TX,Allen,75002,40.0,4.5,715 Main St,shavedice juicebars acaibowls,33.100963,-96.654396
+24,8y90mKuZK670IkPW-0DBsA,Tikiz Shaved Ice & Ice Cream,TX,Lewisville,75056,1.0,5.0,,shavedice foodtrucks icecream,33.05603,-96.85053
+25,lbBM16JB2Met3kswev3Rmw,Gigi's Sno Shack,TX,The Colony,75056,7.0,2.5,4173 Main St,shavedice foodtrucks,33.07191,-96.8933721
+26,PW2NEeUIe5yWSEap6h-lVg,Bahama Buck's,TX,Double Oak,75077,41.0,3.0,125 Chinn Chapel Rd,shavedice juicebars desserts,33.070592,-97.0886439560433
+29,jpZ9BXzosUbo5qq7u4q6Xg,Pete's Snoballs,TX,Allen,75002,1.0,1.0,501 E Bethany,shavedice,33.0875778,-96.6706009
+31,9h7AeL6V5TBhg2PR8W3JhA,Twice the Ice,TX,The Colony,75056,2.0,4.5,5000 Main St,shavedice,33.081413,-96.891495
+32,hS7ZE2wCLM_tNOKdAfy5ZQ,Froyo Joe's,TX,Highland Village,75077,17.0,5.0,2540 Justin Rd,icecream gelato shavedice,33.0739525,-97.0669862
+33,BRj76UFQ7QzTyaXckVOGbA,SomiSomi,TX,Frisco,75035,296.0,4.5,9292 Warren Pkwy,desserts korean icecream,33.109866,-96.80298
+35,n0kt8_213Ey4GJmyx6Wvow,Tasty Eggroll,TX,Plano,75025,137.0,3.5,7200 Independence Pkwy,chinese malaysian singaporean,33.0731101,-96.7499951
+12,uSF35QYmFAI012QeEvaBBA,Teaholic Teahouse & Restaurant,TX,Highland Village,75077,186.0,4.5,2940 Justin Rd,coffee juicebars panasian,33.074234,-97.075495
+21,iAOyVIbwjUzteq3jX7A-rw,Hello Boba,TX,Allen,75013,142.0,4.0,210 Central Expy S,bubbletea coffee juicebars,33.0996124,-96.6791954
+30,35Ad7E1R81Pa64nGBGrhAw,Mac's Boba Cafe,TX,Plano,75024,63.0,4.0,8240 Preston Rd,bubbletea,33.08938476413107,-96.80485677280882
+33,YmrfIxrEkkPpjvJ1k3kdCA,Chill’D,TX,Frisco,75034,9.0,4.5,3401 Preston Rd,bubbletea asianfusion coffee,33.10742,-96.80651
+34,Mk1u7X-QN6xMLdb69rX7uw,Mochinut,TX,Plano,75024,9.0,3.5,8600 Preston Rd,donuts desserts hotdog,33.09482,-96.80431
+37,VYP88S7WcFcofon4shEBww,Sugar Pine Creamery,TX,Plano,75023,170.0,5.0,6832 Coit Rd,icecream bubbletea,33.0700378044907,-96.7706362401241
+38,P5hx5tQipPNs9HyZm9X7Mg,Fruitealicious - Stonebriar,TX,Frisco,75034,163.0,4.5,8300 Gaylord Pkwy,bubbletea coffee juicebars,33.1034736633301,-96.8117218017578
+40,uZKsrUwhKqP5U4SjVsHxRw,Vivi Bubble Tea,TX,Frisco,75034,121.0,4.0,3520 Preston Rd,bubbletea taiwanese,33.10846,-96.8049
+41,8fHTjFQjANB509D47GodpQ,Caffe Promenade,TX,Allen,75002,91.0,4.0,600 E Bethany Dr,coffee desserts donuts,33.0853925,-96.6658447
+44,wqNETT1FNcQUWFCJnqqfQA,Tiger Asian Bowl,TX,Allen,75013,270.0,4.0,508 W McDermott Dr,asianfusion thai sushi,33.102273,-96.675393
+45,aeoqxRcfBMJpVzfp5BsR2g,Gong Cha,TX,Frisco,75035,73.0,3.5,9370 Warren Pkwy,coffee bubbletea waffles,33.1095421583784,-96.8018121927292
+47,5E1W5aWy35utI5SgTDuudQ,Sharetea Frisco,TX,Frisco,75035,16.0,4.0,9351 Warren Pkwy,bubbletea coffee juicebars,33.1088751,-96.8018587
+2,XzNECLG99zO9LFQ_OgjXmw,85°C Bakery Cafe,TX,Frisco,75035,103.0,4.0,9292 Warren Pkwy,coffee bakeries cakeshop,33.109766,-96.802951
+6,O6OPM8gStwJg8DVz4WK5qA,Kung Fu Tea,TX,Frisco,75034,40.0,3.5,2601 Preston Rd,bubbletea coffee juicebars,33.099849,-96.81009
+10,isjmPIkJIqYUxmtzNNoL2w,X-press Thai,TX,Frisco,75034,128.0,4.5,6750 Gaylord Pkwy,thai,33.10273,-96.82538
+11,kfy9Z4oNUQecv7iMpYiTwQ,Noodle Wave,TX,Frisco,75035,513.0,4.0,9288 State Hwy 121,thai soup noodles,33.099394789928,-96.8028146401955
+12,7Y3B42mFUJI0JCQUxFnqiw,Panda Express,TX,The Colony,75056,44.0,2.5,5667 State Highway 121,hotdogs chinese bubbletea,33.0767108940038,-96.8671936926009
+9,PD_aObtbMqqpMZqCKXt_Ng,Cotton Eyed Joe's,OK,Mustang,73064,7.0,4.0,365 W State Highway 152,shavedice,35.39214,-97.73106
+7,RsT3Ru_dHPeWC-e8wv3dVg,Swig,OK,Yukon,73099,9.0,4.5,809 N. Czech Hall Rd,desserts juicebars bubbletea,35.470589366282645,-97.74253829999999
+9,5nrpMuCr0owSa5gJq4w0Iw,Babble,OK,Oklahoma City,73162,154.0,4.5,6909 W Hefner Rd,coffee bubbletea fooddeliveryservices,35.58191312444135,-97.63598924110305
+14,3UXQzMh6zhByku7m1OdMsA,Feng Cha Yukon,OK,Yukon,73099,3.0,4.5,335 S Mustang Rd Suite H Yukon Ok 73099,coffee bubbletea desserts,35.46251,-97.72639
+16,bQ1MeGgVPrsUdm7_nzrvSA,Tao Cha,OK,Yukon,73099,80.0,4.5,1600 Garth Brooks Blvd,chinese bubbletea,35.483226,-97.761744
+26,qb1oqG67GmCkXMONuEQc6g,365 Boba & Eatery,OK,Oklahoma City,73162,6.0,4.0,6909 W Hefner Rd,desserts bubbletea korean,35.581879,-97.635991
+29,IdJx3rv8CXYLheMzwPT2rA,Wich Pho,OK,Yukon,73099,91.0,4.5,1781 Garth Brooks Blvd,vietnamese bubbletea noodles,35.4798003,-97.7600751
+37,UPLOAagGeiq-C8gkOzy35w,Pho Hieu,OK,Yukon,73099,201.0,4.5,1615 S Mustang Rd,vietnamese sushi,35.4490314397831,-97.7256827932582
+40,7gUHofQrjPFmzowZelyznQ,Shawn's Sushi,OK,Warr Acres,73132,47.0,3.5,5612 Nw Expy,sushi,35.5462252,-97.6120427
+6,5SGlgfI3HZajWQlurLRqOA,The Snow Parlor,OK,Duncan,73533,1.0,5.0,,shavedice foodtrucks,34.49774803477341,-97.85429063943891
+0,_e8zJHS6E2Bh-52fG2311g,Ice Wizards Shaved Ice,TX,Carrollton,75006,20.0,5.0,2155 Marsh Ln,shavedice,32.96931727649524,-96.85445876441823
+1,3H1oNVNUkTScmrQacpJPJg,Snow City Cafe,TX,Carrollton,75006,391.0,4.0,2540 Old Denton Rd,desserts bubbletea shavedsnow,32.98175108081694,-96.90784223191955
+2,h2InGT9mqdS28kUWC8gfUw,Sno,TX,Dallas,75231,198.0,4.5,10455 North Central Expy,shavedice icecream,32.8877640528834,-96.7720148310485
+3,bM-G7brYfnqm87K6rGiGcw,Wicked Snow,TX,Carrollton,75007,124.0,4.0,2625 Old Denton Rd,desserts coffee shavedice,32.986448,-96.910837
+4,SDQLRdCYJynMTxy8jJE-wQ,Heavenly Kup,TX,Plano,75093,160.0,4.5,6505 W Park Blvd,bubbletea shavedice coffee,33.0276225114368,-96.8409794569016
+5,KXdGVciFxDNMXTlKnDaloA,Vampire Penguin,TX,Dallas,75240,2.0,3.5,,shavedice desserts,32.9290218,-96.8200386
+6,HiBBAj5jmYsbVHWE8dXWgg,Cocohodo Carrollton,TX,Carrollton,75007,334.0,4.0,2625 Old Denton Rd,desserts coffee icecream,32.9863030046875,-96.9122717514511
+7,tzbmS6BdTiSDvkiRv4TgOg,Boba Tea & Treats,TX,Addison,75001,128.0,3.5,4135 Beltline Rd,bubbletea juicebars shavedsnow,32.955005645752,-96.8413696289062
+8,sa83RhC0oDFErpN5xyqcHg,Lyn's Tasty Sno,TX,Carrollton,75006,31.0,5.0,2405 E Beltline Rd,streetvendors shavedice,32.9539942385015,-96.8865659075012
+9,1yEhrJQfEPOD0DdezmhdpQ,Meet Fresh,TX,Plano,75075,252.0,3.5,2001 Coit Rd,desserts bubbletea taiwanese,33.0282355481129,-96.7716245523654
+10,3dWzO3jqD5PZxQCCRDIWxg,Ice Wizard Shaved Ice,TX,Carrollton,75007,20.0,4.0,3050 N Josey Ln,shavedice,32.9994441032808,-96.8866239488125
+11,AKpFdTD-HEWY4hqEqqds7g,9 Rabbits Bakery,TX,Dallas,75229,490.0,4.0,2546 Royal Ln,bakeries coffee desserts,32.8957035472635,-96.8937374620407
+12,q-jWkQSwqtomaEBt_dGJyA,Coach SLim Snowcones,TX,Carrollton ,75006,20.0,4.5,2661 Midway Rd,shavedice hotdogs hotdog,32.98673534233854,-96.8442455906107
+13,d-a7jv2zdyVEcACBtIET5w,Mango Mango Dessert - Carrollton,TX,Carrollton,75007,164.0,3.0,2625 Old Denton Rd,desserts shavedice waffles,32.98645396404855,-96.91186533919667
+14,0vHAFdpAyLd4S89n-J5JeA,Ice Wizard Shaved Ice,TX,Carrollton,75007,13.0,4.5,1000 W Rosemeade Pkwy,shavedice,33.011485,-96.91224
+15,80jkzascLpR-03Qu9DepTg,Taiwan Cafe,TX,Plano,75075,275.0,4.0,2747 W 15th St,taiwanese chinese,33.0194639,-96.7479279
+16,up8M9qWClB3DI7bkPX-LUA,Marie’s Kitchen,TX,Dallas,75243,45.0,5.0,11910 Greenville Ave,filipino salad sandwiches,32.911322,-96.745431
+17,v8TmRAg66QfQyQNAbuJqjQ,Bahama Buck's,TX,Dallas,75248,131.0,3.5,6033 Campbell Rd,shavedice desserts juicebars,32.9837042397682,-96.8033719291276
+18,QM1vjf-mAwyHdreTXJUhJg,Dragon Boba,TX,Carrollton,75007,257.0,4.0,1060 W Frankford Rd,desserts coffee pastashops,32.999184282863865,-96.91179965507547
+19,o9ZM0KEVW-XwM_I1GNaikQ,Ecclesia bakery cafe,TX,Carrollton,75007,152.0,4.5,2625 Old Denton Rd,coffee bakeries juicebars,32.984532376089,-96.910454
+20,Y5KnYuh2dFc5wso41RPu3A,Below 40,TX,Plano,75093,421.0,4.0,1921 Preston Rd,hawaiian sushi poke,33.02641,-96.798127
+21,wFWpLQew9Gc5mskjO8FlFQ,Crepes & Waffles Bae Bae,TX,Carrollton,75007,31.0,4.5,2625 Old Denton Rd,desserts icecream creperies,32.985143,-96.912186
+22,5REcIskLM1SMb-xFtb7tZQ,Tom N Toms Coffee,TX,Carrollton,75007,124.0,3.5,2625 Old Denton Rd,coffee juicebars,32.9865943270986,-96.9118295438606
+23,-PKPANoeTVQYN8b6liU9Xg,Sweet Ice,TX,Carrollton,75007,3.0,4.5,3656 Old Denton Rd,shavedice,33.011293,-96.910484
+24,egassvbf1u11tleUoxkdYw,Aloha Shave Ice Truck,TX,Dallas,75240,12.0,5.0,,foodtrucks shavedice,32.9327125549316,-96.7882766723633
+25,XDB5tcCqTnWYvxAeVasFfQ,DFW Ice Cream Truck,TX,Dallas,75244,3.0,5.0,,foodtrucks shavedice desserts,32.92868,-96.83965
+26,YAIh26VemQRVJc0dj_itTg,Mozart Bakery,TX,Dallas,75229,128.0,3.5,11420 Emerald St,bakeries coffee,32.89658,-96.89889
+27,1zIeiBp1iRS4bMFzBuQh-A,Petit Four Dessert Cafe,TX,Carrollton,75010,35.0,5.0,4070 State Hwy 121,desserts coffee,33.0221413,-96.9335035
+28,nftUnv6Gl0sY9A1NZljQrQ,Pho Pasteur 2,TX,Carrollton,75006,421.0,4.0,1927 E Belt Line Rd,vietnamese,32.955146,-96.8883483
+29,Rpt8zWUYJPi80Y5_n4Ag4w,"The Human Bean Carrollton, Midway Rd",TX,Carrollton,75006,88.0,4.5,2661 Midway Rd,coffee juicebars,32.9855964,-96.8426566
+30,UjEbRPOXa7BdUiYcSNGuKw,Tous Les Jours,TX,Carrollton,75007,92.0,4.0,2625 Old Denton Rd,bakeries coffee desserts,32.984393,-96.910833
+31,vnu-YtmdClG_teWgSMFAyg,Secret Recipe,TX,Plano,75075,259.0,4.0,2304 Coit Rd,malaysian asianfusion singaporean,33.0304896659563,-96.7695864289999
+32,ym36PYzF7v-G_tC8e7gLCw,Secret Recipe Asian Bistro,TX,Carrollton,75010,326.0,3.5,1404 W Hebron Pkwy,asianfusion singaporean,33.0209774,-96.9284429
+33,6hFspN5KSs06LvGqoLPD6Q,Kona Ice of Far North Dallas,TX,Far North Dallas,75240,1.0,3.0,,foodtrucks shavedice,33.00304,-96.85862
+0,qYv6hZRQh3Ex-xDu48Il8Q,Feng Cha - Addison,TX,Dallas,75254,29.0,4.5,5225 Belt Line Rd,bubbletea desserts juicebars,32.954683,-96.81745
+2,en68Ybb58a7lIbNHbMr3sA,Moge Tee - Carrollton,TX,Carrollton,75006,70.0,4.5,1016 W Trinity Mills Rd,bubbletea coffee juicebars,32.983966355351996,-96.9114173
+3,j-HU6GKHXbVBxOUJno7KvA,Fat Straws Bubble Tea - Alpha,TX,Dallas,75240,462.0,4.0,5301 Alpha Rd,bubbletea juicebars donuts,32.93382,-96.81713
+4,i46Oxyy9EC0gy8u7H9cPEw,Dottea,TX,Dallas,75254,117.0,4.5,14902 Preston Rd,bubbletea coffee juicebars,32.9512032540643,-96.8025894920654
+5,KETCVz4IqonC6g6YRE2kQw,TocoToco Boba Tea,TX,Plano,75075,123.0,4.5,3801 W President George Bush Hwy,desserts bubbletea gourmet,33.000126,-96.764578
+6,fdkKMbtj5dnaHStQIP5JOA,OneZo,TX,Carrollton,75010,120.0,4.5,4060 Sh 121,bubbletea desserts,33.02055409793221,-96.93403174110463
+8,Yx_tKPocFLrNnCY56BbOgw,Fukuro,TX,Richardson,75080,3.0,5.0,3000 Northside Blvd,bubbletea poke japanese,32.9934,-96.74925
+9,neQZ06_BDrhBB8Moyak67Q,Tiger Sugar,TX,Carrollton,75007,291.0,4.0,2625 Old Denton Rd,bubbletea desserts coffee,32.9866736299295,-96.910443071772
+10,Hpa-HkR0-uBC3ZPN67GJmg,TeaLatte Bar,TX,Carrollton,75007,248.0,4.5,3052 Old Denton Rd,coffee bubbletea,32.99841,-96.90933
+12,LVFzKprzuYP9c1F7D3AR0g,Feng Cha - Carrollton,TX,Carrollton,75006,80.0,4.5,2528 Old Denton Rd,bubbletea,32.98014,-96.90786
+13,ZAyJk30loovv1ZenkTJFEg,Fruitealicious,TX,Carrollton,75006,405.0,4.5,2150 N Josey Ln,coffee juicebars bubbletea,32.97442308119612,-96.88904212632245
+14,Lw2mA3mqQir5Mrd2q2YdLg,R&B Tea,TX,Carrollton,75007,35.0,4.5,1017 E Trinity Mills Rd,bubbletea,32.98487095513152,-96.9081265
+15,bZ4XQO7ZQb3OpvRh5xFaRQ,Sweet Hut Bakery & Cafe,TX,Plano,75075,370.0,4.0,2001 Coit Rd,bakeries cafes bubbletea,33.029849,-96.771192
+16,0l4fe9Z1kcOYI7GQoEKiWw,Sharetea,TX,Dallas,75240,56.0,4.5,13350 Dallas Pkwy,bubbletea coffee juicebars,32.929036,-96.8200386
+17,3bItW5e_UAOfhFjhhdtG2Q,Milk n Tea,TX,Plano,75093,7.0,5.0,6121 W Park Blvd,bubbletea,33.03062936708247,-96.83252211660147
+18,wiLNVh0ShqO4fcPPvdy_yg,Best Thai Signature - Addison,TX,Addison,75001,443.0,4.0,4135 Belt Line Rd 112,thai vegetarian vegan,32.95489,-96.84138
+19,ZSNDiL2vQ-I_HutWEWcqSA,Meetcha Bubble Tea Cafe,TX,Plano,75093,79.0,4.5,5960 W Parker Rd,bubbletea cafes,33.0450488,-96.8278611
+20,3EGH77zq7safMTaWR3gnnQ,Ding Tea - Richardson,TX,Richardson,75080,132.0,4.5,581 W Campbell Rd,coffee bubbletea juicebars,32.97717,-96.73951
+21,XKCdISOmwxgOXPgIZiB6LA,Gong Cha,TX,Carrollton,75007,174.0,4.0,2701 Old Denton Rd,bubbletea,32.98809,-96.91056
+22,A9GfCY8uOedn5F0MlJF0GQ,Sharetea,TX,Carrollton,75007,226.0,4.0,2625 Old Denton Rd,bubbletea coffee juicebars,32.9844465813134,-96.9104271692715
+23,4GyGkPmBMsmpC-VruF5xzQ,Fat Straws Bubble Tea -Plano,TX,Plano,75093,552.0,4.0,6509 W Park Blvd,juicebars bubbletea donuts,33.0271039521241,-96.8418914859673
+24,BKEC2fy_RL0Dv62nZ6sAOg,85°C Bakery Cafe,TX,Carrollton,75006,722.0,4.0,2540 Old Denton Rd,coffee bakeries cakeshop,32.980988,-96.907826
+25,K9ucOGNmcLAoaOr8Og5KBw,Mochinut,TX,Carrollton,75007,61.0,4.5,3052 Old Denton Rd,bubbletea donuts hotdog,32.99835139997989,-96.90936271101236
+26,PmHmWkFIh22RZORKDkwjJQ,Tea Town,TX,Plano,75075,79.0,4.0,2731 W 15th St,coffee bubbletea filipino,33.0200849871759,-96.7468309681806
+27,Mav403zzIPsbvhyG2WGscQ,Boba Guru,TX,Plano,75075,32.0,4.0,2220 Coit Rd,bubbletea,33.02934459886858,-96.7688887240889
+28,YVYgBL7FHDQReE1rI5XfQw,7 Leaves Cafe,TX,Carrollton,75006,147.0,4.5,2540 Old Denton Rd,coffee macarons,32.981395,-96.907806
+29,pxYD5YjnKvGKOKrDquY7kw,Kung Fu Tea,TX,Carrollton,75006,402.0,3.0,2540 Old Denton Rd,coffee bubbletea juicebars,32.981561,-96.907724
+30,1iCtrVjgKeQVfBky6ZfS2g,QQ Teahouse,TX,Plano,75075,252.0,4.0,2909 W 15th St,taiwanese bubbletea,33.0200557459398,-96.7513381685973
+34,IZnh57KI-apnhoKCNMVs0Q,The Boba Plug,TX,Dallas,75231,4.0,5.0,,bubbletea popuprestaurants,32.87607192993164,-96.75423431396484
+35,lfTezDa24IV6vpGDKQS3Sw,Milk Bubbles,TX,Plano,75093,22.0,3.5,6121 W Park Blvd,bubbletea juicebars,33.0311018756889,-96.8327340111136
+36,kGTuqy8tNOV0MeGJxyXm8A,Peridot Coffee,TX,Dallas,75229,186.0,4.5,2240 Royal Ln,coffee juicebars bubbletea,32.895211,-96.902838
+37,xjB8mPGjYe4iP40bOTVGiw,Kung Fu Tea,TX,Plano,75075,118.0,3.5,2001 Coit Rd,bubbletea coffee juicebars,33.028043,-96.7718090820327
+38,8Bno28aLy8BUrkLSzJMc2w,Gong Cha,TX,Dallas,75243,15.0,4.5,11613 N Central Expy,coffee bubbletea,32.907906696215434,-96.76981914089062
+39,Y6CTLQGRDSIMUw2UTM0EHg,Banh Mi Dalat,TX,Carrollton,75007,160.0,4.5,3733 N Josey Ln,vietnamese sandwiches coffee,33.01262,-96.88797
+40,H5XL9zJIcu8-lJBq_AAhYw,Cris and John,TX,Dallas,75254,846.0,4.0,5555 Preston Oaks Rd,vietnamese asianfusion,32.94343299441581,-96.8136318
+41,iHk6xs7L_Tf_FR1VikpQVg,Fat Straws,TX,Dallas,75230,127.0,4.0,11810 Preston Rd,juicebars bubbletea donuts,32.9100422110951,-96.8036212829225
+42,xHwnfeUjioL3hOds3_UY3g,MOMO MAGIC AND MORE,TX,Plano,75093,2.0,5.0,4006 W Plano Pkwy,himalayan indpak bubbletea,33.00951,-96.76837
+43,TPQZM42fnAbSvwtt3GYUWQ,H Mart - Carrollton,TX,Carrollton,75007,560.0,4.5,2625 Old Denton Rd.,korean intlgrocery food_court,32.98494806246839,-96.91249982944775
+44,97GD_J5ZKAkOCshT6LD4_g,Banh Mi Ba Lee,TX,Carrollton,75006,83.0,4.0,1927 E Belt Line Rd,vietnamese,32.955036,-96.888694
+45,ZF5JUP9nn3TPR5R5MSqSvw,Fat Straws Bubble Tea - Richardson,TX,Richardson,75080,85.0,4.0,1251 W Campbell Rd,bubbletea donuts coffee,32.977628,-96.762179
+46,XTwreUu3kx-guyCpzczzMQ,Escape,TX,Carrollton,75007,30.0,3.5,2625 Old Denton Rd,coffee bubbletea juicebars,32.985102,-96.912434
+48,CP0hZWiA2l83aC8tFyXfHA,1102 Bubble Tea & Coffee,TX,Carrollton,75010,11.0,2.5,1509 W Hebron Pkwy,bubbletea,33.01939716581508,-96.93209250944786
+0,noTVgK8NaWeFixAGlmpVdw,Wu Wei Din Chinese Cuisine,TX,Plano,75075,836.0,4.5,2909 W 15th St,taiwanese chinese noodles,33.020071,-96.75138727123688
+1,DFK4ubWNELyJ-_6CnQMrZQ,Sophia's Kitchen,TX,Lewisville,75056,70.0,4.5,2540 King Arthur Blvd,donuts coffee juicebars,33.035086,-96.897648
+2,R7POrCuNI3UEbFaEnPM1gg,Hoki Poki,TX,Richardson,75080,318.0,4.5,581 W Campbell Rd,poke asianfusion,32.97717,-96.73951
+3,KKUamNyidGxcAcvn6LQqkA,The Crab Station - Carrollton,TX,Carrollton,75007,272.0,3.5,2625 Old Denton Rd,cajun seafood bars,32.9869240210917,-96.9105103976227
+4,SCHXviAxcROEUzLJbt4EfQ,Pho Noodle and Grill Express,TX,Carrollton,75011,75.0,4.0,2012 E Belt Line Rd,vietnamese noodles,32.95322,-96.88502
+5,6N8WoQAflmOWih7BIGHoUg,Cafe China & Pho,TX,Carrollton,75007,257.0,4.0,3108 Old Denton Rd,vietnamese bubbletea juicebars,32.9994,-96.90931
+6,P-BVBn4hEnR3TH82ThtMRQ,Sushi Shack Japanese Sushi Restaurant,TX,Plano,75075,338.0,3.0,3291 Independence Pkwy,sushi japanese noodles,33.0403344,-96.7537829
+7,U0FCz6aqnfROVtEhGtj2Bg,Noodle House,TX,Plano,75075,192.0,3.5,3921 W Park Blvd,chinese taiwanese noodles,33.0276149855774,-96.7685883969589
+8,AYrSH8l87Kce8ZmtBnufbg,Escapé bakery,TX,Carrollton,75007,26.0,3.5,1060 Frankford Rd,donuts bakeries bubbletea,32.9987069917895,-96.9118577824529
+9,xK-qkgOMpvOk0UBHBbHk-g,I Heart Yogurt,TX,Dallas,75230,48.0,4.0,10720 Preston Rd,icecream juicebars,32.893396,-96.803128
+10,YRFLg7UwCTvzM4BHIx_fCw,Pho Bistro,TX,Carrollton,75007,143.0,4.0,3052 Old Denton Rd,vietnamese,32.9983709,-96.9092307
+2,SpIm_qqKNZPc-gXfSozSTQ,LA Super Icecream,TX,Plano,75074,29.0,4.5,1201 E Parker Rd,desserts shavedice icecream,33.0377566,-96.6977999
+4,LOzv-6GsZZbvp9VCK8ItTQ,Bobaland,TX,Plano,75023,376.0,4.0,240 Legacy Dr,coffee bubbletea juicebars,33.06730880971443,-96.694614
+6,zDgQ9LIQJGOl-7UYWeqhWg,Fruteria Tropical,TX,Plano,75074,45.0,4.5,2380 E Park Blvd,juicebars,33.0295423909086,-96.6825842857361
+7,HuPzWpIoE4xuZEHXjVM8FA,Mozart Bakery H-mart,TX,Plano,75074,63.0,4.0,3420 K Ave,coffee bakeries,33.040003501999,-96.6978571691623
+8,TVRJjLl42PGKUKfhlBJNmw,Food Court at Legacy,TX,Plano,75023,21.0,4.5,240 Legacy Dr,food_court asianfusion,33.06724,-96.6953
+9,kNp5MM9JTG6HU5fugqy_Ag,El Super Elote,TX,Plano,75074,30.0,4.5,1120 E Parker Rd,juicebars icecream,33.0367301199578,-96.6960289538621
+10,Zl8LZpbQ58nLom3KfvbQXg,Zhabuki,TX,Plano,75074,408.0,3.5,2380 Central Expy,sushi noodles hotpot,33.03008857112612,-96.70743528402748
+11,tVm_z3M46dNGqjotKzCOlQ,What The Pho,TX,Plano,75023,165.0,3.5,221 W Parker Rd,vietnamese desserts juicebars,33.0402401,-96.7058392
+3,z6BoHSGGM1aMWmRTiFVW3g,Boba Lush,TX,Murphy,75094,136.0,4.5,511 Fm 544,bubbletea juicebars,33.0119966491653,-96.6006566577176
+4,SwnqaZdSFSL9i-FMqqzA8A,Drip N Roll - Wylie,TX,Wylie,75098,23.0,4.0,803 Woodbridge Pkwy,icecream bubbletea,33.008547,-96.573975
+6,4m1nXGp9de7XJEMQ6yd1ww,Sharetea,TX,Plano,75023,182.0,4.5,3933 N Central Expy,coffee bubbletea juicebars,33.048532,-96.69978
+7,zrraNKCGrJxR0k1g9hwPkw,Boba Republic,TX,Plano,75023,58.0,4.5,100 Legacy Dr,bubbletea coffee juicebars,33.066627,-96.692931
+9,Jzfd2AjocNUH3peEAoSFUw,FULLL,TX,Plano,75023,156.0,4.5,240 Legacy Dr,bubbletea juicebars coffee,33.0672221288,-96.6963218854
+10,9UG_uK54vLs6fDflKKx0hQ,Yifang Taiwan Fruit Tea -Plano,TX,Plano,75023,23.0,4.5,280 Legacy Dr,bubbletea,33.06759,-96.69764
+11,ebdYDwLHMh2wJqm79Gaz3w,Sucre Cafe,TX,Plano,75074,335.0,4.5,6100 K Ave,desserts cafes bubbletea,33.05781,-96.68893
+12,XeUdySycvngbWzeD3i1kSw,Hoja Bubble Tea And Asian Street Food,TX,Plano,75023,66.0,4.0,812 W Spring Creek Pkwy,taiwanese bubbletea chicken_wings,33.05554,-96.70786
+13,zJZwQmyPdUQp0Jf25jIOKw,Kung Fu Tea,TX,Murphy,75094,77.0,3.0,160 E Fm 544,bubbletea coffee juicebars,33.01049,-96.609975
+15,32Ua09K79Z0hJjabHBsrhg,85°C Bakery Cafe,TX,Plano,75023,178.0,3.5,107 W Spring Creek Pkwy,bakeries coffee cakeshop,33.058633,-96.694509
+16,18vIvS1DTS7ZaitU3g_jQw,Donut Bliss,TX,Murphy,75094,7.0,4.5,1015 N Murphy Rd,donuts coffee bubbletea,33.032894745340094,-96.61244668932862
+19,z21ilRu6k1BFtJIuaR0KIA,Bazaria Frozen Yogurt & Ice Cream Cafe,TX,Plano,75023,18.0,4.5,700 W Spring Creek Pkwy,icecream juicebars bubbletea,33.056731691840774,-96.70691744174272
+20,-oYvhigaqHAuAMXxAFBi_w,Tofu House,TX,Plano,75023,72.0,4.0,240 Legacy Dr,korean,33.06724,-96.6953
+22,uKdTZazTEjME_ddX4Ta0ZA,BF Bakery & Café,TX,Plano,75023,10.0,3.5,131 W Spring Creek Pkwy,bakeries taiwanese,33.059483,-96.69506
+25,Qp7YAI_vmeyvLJ7xxhB4BQ,Bund Wok -Plano,TX,Plano,75074,153.0,3.5,617 K Ave,chinese asianfusion,33.00609,-96.69983
+27,49VlSbqx-adZldZ-l1bWlw,H Mart - Plano,TX,Plano,75074,217.0,4.0,3320 K Ave.,korean intlgrocery food_court,33.0399821,-96.6989172
+9,oJ4MmSUl14MeoBKgKRolBA,Jk's Shaved Ice,TX,Lewisville,75067,9.0,4.0,301 TX-121 Bus,shavedice,33.02689956958104,-96.99326040510398
+16,5bEP3eGN9uLTXWX6l1rXfQ,Kabayan Filipino Store & Cafe  - Lewisville,TX,Lewisville,75067,116.0,4.5,2305 S State Hwy 121,filipino cafes intlgrocery,33.013243,-96.994495
+26,b5wXWtnU2i6Vg3zh_sNjag,Snappy’s Sweet Shoppe,TX,Lewisville,75067,1.0,5.0,2401 S Stemmons Fwy,icecream desserts,33.002327,-96.971657
+30,e1QavtM09FlJjSBHv51Ilg,Bombay Chowpatty,TX,Irving,75039,231.0,3.0,825 W Royal Ln,indpak juicebars sandwiches,32.897195,-96.960615
+31,x_TX2YHKNXxKhz4qbTwlfA,Pho Que Huong,TX,Lewisville,75067,243.0,3.5,291 E Round Grove Rd,vietnamese,33.0048699,-96.98598
+16,DG-HZgLg82g0myaSEZa6Iw,Feng Cha Coppell,TX,Coppell,75019,13.0,4.5,230 N Denton Tap Rd,bubbletea coffee,32.97363,-96.99298
+26,lP5y9zUheCT_ny6g3vSeIg,Gong Cha,TX,Lewisville,75067,13.0,3.5,2401 S Stemmons Fwy,taiwanese bubbletea,33.002402,-96.971686
+28,Cjo5xybC9mBP4JEORhJlBw,Totally Tea,TX,Irving,75038,12.0,3.0,5483 N MacArthur Blvd,bubbletea juicebars,32.884427,-96.9643549
+29,gXUFrnmzvLaug2txRp7f5w,Maui Fresh Grill,TX,Irving,75063,201.0,4.5,3285 Regent Blvd,hawaiian asianfusion poke,32.92076964912884,-96.98847041983443
+30,jGl7kEKeRx5-Nh8HpaWQFg,Boba World,TX,Lewisville,75067,134.0,3.5,291 E Round Grove Rd,coffee bubbletea juicebars,33.0045878915431,-96.9861391806357
+35,ZwVg29NfWqKlRGr0oHJiwg,NewSong Donut & Cafe,TX,Lewisville,75067,9.0,5.0,1530 TX-121 BUS,donuts coffee bubbletea,33.023568,-96.992368
+39,tpv2j11KBZ2xq3jlA0wq0g,Pho One,TX,Lewisville,75067,451.0,4.0,2305 S State Hwy 121,vietnamese,33.01313125792698,-96.99352571246935
+40,PvA5d3nKcLdW9Z9Je9scvw,Thai Tea Asian Fusion Cafe,TX,Irving,75063,281.0,3.5,8251 N Belt Line Rd,thai asianfusion bubbletea,32.91897,-96.99423
+44,5STdTlPMS9NaT7B3DOBsGw,I Luv Pho,TX,Irving,75063,328.0,3.5,8350 N MacArthur Blvd,vietnamese,32.9215049743652,-96.9561920166016
+49,R3A0_0vVN9VyP8AxtNAovg,Kibo Asian Fusion Restaurant,TX,Irving,75063,69.0,4.5,7707 N MacArthur Blvd,japanese sushi asianfusion,32.91174925138184,-96.95959197790985
+0,hjc20CE2rAQk5DBHK43AwQ,Edohana Sushi,TX,Irving,75063,270.0,4.0,7447 N Macarthur Blvd,sushi,32.907766,-96.960878
+1,AmekbEllvppvy-4GVenCVA,Pho Yen Phi,TX,Coppell,75019,139.0,3.5,150 S Denton Tap Rd,vietnamese,32.9667816,-96.992897
+3,j60ouKJPwYE7YkG3BSf1Cw,Panda Express,TX,Irving,75063,95.0,3.0,8411 Bent Branch Dr,chinese hotdogs bubbletea,32.9214386976394,-96.9887404115248
+20,xEFcdXrRN5iVUSpfn-Pv-A,Teapioca Lounge,TX,Lewisville,75056,77.0,4.5,6225 N Josey Ln,bubbletea coffee juicebars,33.0650046,-96.8888051
+32,kZGKp9foAs7MQ-fGG07s7Q,Pho Beef Noodle & Grill,TX,Lewisville,75056,174.0,4.0,4740 State Hwy 121,vietnamese chinese bubbletea,33.06304848429011,-96.88638054177355
+16,4Bg9ejo4pQpEbuhvdFpfNw,Tropical Sno Flower Mound,TX,Flower Mound,75022,5.0,5.0,2151 Long Prairie Rd,shavedice,33.014774,-97.070896
+21,dFS5HHMow6SosCSkT_JFYQ,Snowy Bingsu & Boba Curbside Cafe,TX,Flower Mound,75028,68.0,4.5,2601 Flower Mound Rd,shavedice coffee bubbletea,33.01323,-97.06897
+23,JrWv4oS-bASakccq8AqzLQ,Mango Mango Dessert,TX,Plano,75075,371.0,4.0,2205 N Central Expy,desserts,33.02972,-96.7095499
+40,pEpbKj0d-CzEX6d8UGkKEw,Sugar Mountain,TX,Plano,75023,73.0,4.5,909 W Parker Rd,desserts juicebars,33.0411749,-96.71439
+46,ovLtJuYazD0G6-uTD3JaTg,Bahama Buck's,TX,Lewisville,75067,104.0,4.0,2320 S Valley Pkwy,shavedice juicebars acaibowls,33.00748,-97.01983
+2,upXooWyiSldN3jd4JO5kow,"The Human Bean Lewisville, W. Round Grove Rd",TX,Lewisville,75067,28.0,4.5,1001 W Round Grove Rd,coffee juicebars,33.0065841,-97.01425706
+5,AIS7omaUQLRS8iJyIXeQWg,Vivi Bubble Tea,TX,Plano,75075,56.0,4.0,1301 Custer Rd,bubbletea,33.0184161,-96.7355171
+9,M4vBClPSX8v5b1V5E3HvPA,Slushworks Truck,TX,Lewisville,75022,1.0,5.0,,foodtrucks shavedice juicebars,33.04507,-97.02238
+12,Se9uzz68edvh0a7NEDD2QQ,Taipei Station Cafe,TX,Plano,75075,188.0,3.5,930 W Parker Rd,taiwanese,33.04011852159,-96.7150700696832
+32,bbv25y5dkva2iEE4pkaU4g,Boba Boba Bubble Tea & Coffee,TX,Plano,75023,31.0,4.5,6900 Alma Dr,macarons bubbletea coffee,33.06806117638984,-96.70910466545011
+2,eSwaGFnaKptIamOejmJNBw,Smiley Cup,TX,Richardson,75082,73.0,4.5,4140 E Renner Rd,bubbletea coffee juicebars,33.000074,-96.644926
+13,kEdSSPSyg-i3_4BHhtDjmQ,Gong Cha,TX,Plano,75075,162.0,4.5,2205 N Central Expy,bubbletea,33.0293279174293,-96.7092092335224
+27,vCA6OVZjB8nM4V2jc1ARzw,Zero Degrees,TX,Plano,75075,237.0,4.0,2301 N Central Expy,bubbletea coffee,33.03088,-96.7089
+30,1eGQ_Oecii1c2hi5iXLOGA,Yogurt Zone,TX,Lewisville,75067,25.0,4.0,1093 W Main St,icecream juicebars bubbletea,33.044207,-97.02014
+8,n9ZJhOZxWVIHDHIwbWzweg,Hip Pop,TX,Grapevine,76051,88.0,4.5,520 S Main St,shavedice desserts,32.936,-97.07875
+14,_hBT4blSXyyc8McSjRSUIg,Heavenly Snow Sno Cone,TX,Grapevine,76051,8.0,3.5,722 E Northwest Hwy,shavedice,32.94067,-97.07019
+24,SudhCxrBIpUmXZbaAFROcQ,Bubble Tea Bliss,TX,Grapevine,76051,33.0,3.0,3000 Grapevine Mills Pkwy Suite,bubbletea,32.967769,-97.041282
+28,_K706OgyKWjMAmC0BDvxXA,Wildberry Yogurt,TX,Grapevine,76051,12.0,2.0,3000 Grapevine Mills Pkwy,icecream bubbletea juicebars,32.9666751054865,-97.042665233374
+32,0ZNH5FbR6VlTIKXNJCeLOg,PhoXpress,TX,Grapevine,76051,262.0,3.5,2805 E Grapevine Mills Cir,vietnamese,32.967999,-97.038817
+26,CcpondDvkNzD-X6fB46B7w,Snappy Snow,TX,Argyle,76226,1.0,3.0,1217 Fm 407 W,shavedice foodtrucks,33.1000093,-97.2265204
+27,-RIpzKfXc5kIiKi7zi_AjA,Gnome Cones,TX,Argyle,76226,52.0,4.5,421 US-377 S,shavedice,33.1031308,-97.1897054
+22,Fklqrk3fuf38WMP4Dihv7w,Nu Dang Pho,TX,Greenville,75402,15.0,4.0,185 FM 1903,vietnamese laotian bubbletea,33.0414429437203,-96.11205775982138
+6,yIuudWTrzU6EVpbQV5M0JQ,Tropical Sno of Southlake,TX,Southlake,76092,3.0,4.5,2190 E Dove Rd,shavedice,32.961233,-97.117027
+10,LsmIbEQG48DkWh9gdI2nxQ,Sushi Sam,TX,Southlake,76092,231.0,4.0,500 W Southlake Blvd,japanese sushi,32.9417309,-97.1584041
+11,q8optrIuJTUBZ28IPMTtMQ,Big Chill Ice Cream,TX,Trophy Club,76262,26.0,3.0,2550 Bobcat Blvd,icecream desserts shavedice,33.014294,-97.203487
+10,ALV5eJ_W1LxtrMaZDL5Ugg,Sweet Firefly,TX,Richardson,75080,432.0,4.5,2701 Custer Pkwy,icecream shavedice candy,32.991451,-96.728
+15,NNGbhy9uZmuYajl807HWEA,Feng Cha Teahouse,TX,Richardson,75080,282.0,4.5,2701 Custer Pkwy,desserts bubbletea coffee,32.991751788642816,-96.72785983254089
+20,oCdUPeDMZO2kV2hdHsPozA,Junbi Matcha - Richardson,TX,Richardson,75080,85.0,4.5,326 W Campbell Rd,coffee bubbletea icecream,32.97621860615056,-96.72276004277016
+2,Ibqe2jzqNwQWgKwi-hbcyw,Kung Fu Tea,TX,Richardson,75080,288.0,3.5,2067 N Central Expy,bubbletea coffee juicebars,32.977089,-96.716059
+25,-GzxqllPnl3J_4z735MgiA,TKK Fried Chicken,TX,Richardson,75080,5.0,3.0,2067 N Central Expy #100,bubbletea chickenshop asianfusion,32.977114,-96.716098
+0,NHpBKjiGAwiU9yeTzRXxgg,The Ice Train,TX,Rockwall,75087,3.0,5.0,901 S Goliad St,shavedice,32.9218001289278,-96.460230499506
+1,6ZBUaDFpaPPuFdXJLmiDDA,The Shiver Shack,TX,Sunnyvale,75182,3.0,5.0,780 hwy 80 east,shavedice,32.77708,-96.51978
+2,73AVhE5UEP7XR0ZRxmtwwA,Bob's Shaved Ice,TX,Forney,75126,14.0,4.5,769 E US Hwy 80,shavedice foodstands desserts,32.7429051159886,-96.4511042833328
+3,NmrnW7b8So1DjcfpndUXsA,Snow Ball Express,TX,Mesquite,75149,3.0,5.0,1805 N Galloway Ave,shavedice,32.7871612573374,-96.6070500387952
+4,5IMLte3v2gBGmYZ-mg_YaA,Tiger Shaved Ice,TX,Terrell,75160,5.0,4.0,812 N Park Ave,shavedice icecream,32.742834,-96.29204
+5,-Yfy10PsPuCCPLnObDuGuA,Bahama Cones,TX,Mesquite,75149,4.0,5.0,1220 Narcissus Ln,shavedice candy,32.753337,-96.58252
+6,EZW4CExGYR30QDuiSanmCA,Café Chamoy,TX,Rockwall,75032,31.0,4.5,101 West Fate Main Pl,desserts cafes tacos,32.9417521963718,-96.3820658996701
+7,3ANcXrDDUawbHDiPRky2Zw,The SWEET Space,TX,Caddo Mills,75135,2.0,5.0,5452 FM-36,shavedice foodtrucks,32.997796,-96.185318
+9,aCNLNu997skeMWQSo773_g,Castle Sno'zone,TX,Balch Springs,75180,6.0,5.0,11903 Lake June Rd,shavedice foodtrucks icecream,32.7349699,-96.62168
+10,6xa8SPcMjW60i9Qz4TFvVg,Shaved Ice & Funnel Cake,TX,Dallas,75217,23.0,4.0,9185 Bruton Rd,desserts shavedice icecream,32.7490175,-96.666005
+11,D2wQ3KYEFd1F41HpXrKJbQ,Shaved Ice Sno Cones,TX,Dallas,75228,3.0,5.0,3102 N Buckner Blvd,shavedice icecream,32.808140919284,-96.6822714624128
+12,wIxlS_8Z1BJx0kdyPQrDdg,Ruby's Sno-Balls,TX,Dallas,75204,88.0,5.0,1605 N Haskell Ave,shavedice,32.7992,-96.783354
+15,aeUQxDnajuu6M4HEWRsbkQ,M T A Shaved Ice,TX,Garland,75042,12.0,4.5,2551 Belt Line Rd,shavedice desserts hotdog,32.944883,-96.666855
+17,_WV_dyGMnknvN1ax2J9Zrw,TC Shaved Ice,TX,Dallas,75218,29.0,4.0,10999 Garland Rd,shavedice,32.846394,-96.687463
+19,0R8h5nAPfRNW6yhOfJ20uA,Tastee Ice,TX,DeSoto,75115,10.0,3.0,1001 N I-35,shavedice,32.6045152244067,-96.8238560439335
+21,BwfYGaTKh8nDYLQm1ZcjdQ,Shaved Balls of Ice,TX,Dallas,75226,2.0,5.0,2644 Elm St,shavedice desserts,32.78422,-96.78474
+22,mXsqka1yMk92iOMRf4PdMQ,Paleteria Niko,TX,Rowlett,75088,30.0,5.0,5113 Rowlett Rd,desserts,32.9061526,-96.5695849
+23,fwRoqL_dQmlQhRdljUNBRw,TC Shaved Ice,TX,Garland,75046,31.0,4.0,3117 S 1st St,desserts,32.87757305303246,-96.63140365571613
+24,c8phxglEum6BXza9qI0lSQ,Bahama Buck's,TX,Rowlett,75088,30.0,3.5,5300 Lakeview Pkwy,desserts juicebars shavedice,32.90654,-96.55112
+26,RoPKkV_OZUr6-zZNptO43g,Sno-To-Go,TX,Red Oak,75154,2.0,3.5,2506 Ovilla Rd,shavedice coffee juicebars,32.53216,-96.82473
+27,heqmqda6lOwzEhg9uXis-w,La Piñita,TX,Garland,75043,35.0,5.0,3338 Broadway Blvd,mexican icecream breakfast_brunch,32.8747981,-96.6164739
+32,ZnpRZf5wc4WBQkPLRwmvqw,TX SHAVED ICE,TX,Garland,75043,3.0,3.5,3353 Broadway Blvd,shavedice icecream,32.87379783,-96.616247
+33,lusRrJFwzIsj8h1fUR0Vow,Bahama Buck's,TX,Dallas,75231,48.0,4.5,6780 Abram's Rd,shavedice desserts juicebars,32.86788,-96.74227
+34,MSXzRFCi3GMmAi_Vb26u5g,Paleteria Super Smash Ice Cream and Shaved Ice,TX,Garland,75040,29.0,4.5,3845 N Garland Ave,shavedice icecream,32.9517130380004,-96.6548029705882
+36,hryzSiCAQClVphUuL4Q4qA,Big D Kona Ice,TX,Richardson,75081,5.0,5.0,1110 E Collins Blvd,shavedice,32.96727,-96.70767
+37,V73mKIzjV8F0be3CigExEg,Bahama Buck's,TX,Rockwall,75087,37.0,3.5,2025 Mims Rd,desserts juicebars shavedice,32.8999110930493,-96.4560374419004
+38,2HvRmBa5QIp0IRbYk8d7vg,NOLA Snoballs,TX,Dallas,75208,27.0,4.5,345 W Jefferson Blvd,shavedice,32.7432203154676,-96.8273141349777
+40,lJivKc_qB0vy2mf_ddotNg,Sno Palace,TX,Lancaster,75146,2.0,5.0,112 S Dallas Ave,desserts shavedice candy,32.59168,-96.75645
+41,3ObCL5k8oWMAHeDI9stBKg,Royal I.T. Cafe,TX,Dallas,75231,231.0,4.0,9100 N Central Expy,bubbletea icecream poke,32.87237292746,-96.7687199316615
+46,ZvHuVhIq3_KIwc4TzNzvkw,Snowie Naturals DFW,TX,Dallas,75206,2.0,5.0,,foodtrucks shavedice,32.8573608398438,-96.765754699707
+47,5ny18KRKU-P_FOGHPk_nBQ,Jazzy Joint,TX,Dallas,75216,26.0,4.5,2502 E Ann Arbor Ave,shavedice foodstands desserts,32.6994533,-96.7816484
+48,QpfetugoDTCK5DZ0FqeiBQ,SNO Dallas Farmers Market,TX,Dallas,75201,8.0,4.0,920 South Harwood,shavedice icecream,32.7803134371766,-96.787255662329
+49,GzSMVUiMRY-WLvFM-WnRAg,Bahama Buck's,TX,Sachse,75048,108.0,3.0,5040 State Hwy 78,desserts shavedice juicebars,32.9764120829052,-96.5959167480469
+2,GjDUCFIXttPGsD05QEGvLQ,The Piña Loca Fruteria,TX,Dallas,75228,15.0,4.5,2331 Lakeland Dr,shavedice customcakes mexican,32.81079860653727,-96.70087256073029
+6,c-nTkTziToKv5LLZB0XZXQ,Bobaddiction,TX,Dallas,75226,159.0,4.0,3014 Main St,foodtrucks bubbletea coffee,32.7845367,-96.7797609
+9,CNbNYbDVKUP8Cuv9RKTnvA,Nobu Dallas,TX,Dallas,75201,645.0,4.0,400 Crescent Ct,japanese sushi asianfusion,32.79461640525954,-96.80369567364684
+11,aNjQQYElEHxyJimjVpqOtw,PEKES Fruteria Y Neveria,TX,Garland,75042,12.0,4.5,2622 W Walnut St,desserts shavedice icecream,32.9154701438173,-96.6673235222697
+12,gI-3d3B3QyjQPam8pytWlw,Tiki Loco Deep Ellum,TX,Dallas,75226,185.0,4.0,2639 Elm St,coffee vegan tacos,32.78464,-96.78498
+13,1xz3ecOqre2daz9lLE71_w,Italian Ice Cart,TX,Dallas,75201,6.0,5.0,Woodall Rodgers & Saint Paul,shavedice,32.7881421279273,-96.8022552172314
+15,vQiNdMSgy_jZ7voU6nS3LA,Fruti Paleteria,TX,Garland,75040,1.0,5.0,1835 N Garland Ave,icecream juicebars shavedice,32.92997360624286,-96.64869220587946
+19,2Wajn6qfWGH70yy0YZJlCA,DaNang Souphouse,TX,Richardson,75081,119.0,3.5,1600 E Belt Line Rd,vietnamese,32.94488,-96.69526
+20,hmTIdCQWhEes0YK9j09bEA,Bistro B,TX,Dallas,75243,1046.0,3.5,9780 Walnut St,vietnamese asianfusion chinese,32.921826020961,-96.7197918891907
+21,K1j_e9foGWJ2le6DGWNCbw,Java Land Coffee Haus,TX,Richardson,75081,285.0,3.5,400 N Greenville Ave,coffee chicken_wings waffles,32.95416557165722,-96.72756440143091
+23,Qtr2Vq7w0SZ4mOKcy8FpKg,Taiwan Cafe,TX,Richardson,75081,55.0,3.5,300 Terrace Dr,chinese noodles seafood,32.95174,-96.72779
+24,8BDEY76ZF_OJdj26t-oCPg,TC Shaved Ice,TX,Garland,75046,10.0,3.5,503 S Garland Ave,shavedice,32.9085578918457,-96.6484451293945
+26,EzbH8Hn8DLHY1zVb4DCjBA,King's Noodle,TX,Richardson,75081,351.0,4.0,201 S Greenville Ave,taiwanese noodles,32.94703,-96.72999
+27,1KkxXUf4dDDLoRca2_esdw,Saigon Deli,TX,Garland,75042,61.0,3.0,3341 W Walnut St,vietnamese,32.917763,-96.67984
+28,yO90P2WzywNtvXrsqYcJuA,Jeng Chi Restaurant,TX,Richardson,75081,1402.0,4.0,400 N Greenville Ave,bakeries chinese cocktailbars,32.9533416983721,-96.7277272637164
+30,vNHdNyLsw5LYZY1Xldhv5A,Fifth  Avenue Nutrition,TX,Garland,75040,35.0,4.0,414 W Avenue D,coffee,32.90866,-96.63644
+33,Tu-FNyy4-nSyvATYt4z6jA,Saigon Block,TX,Richardson,75081,420.0,4.0,2150 E Arapaho Rd,vietnamese,32.960385,-96.684084
+0,c9ygaXf3qmYXhguYrt7ddQ,Bubble Bubble Tea House,TX,Rockwall,75087,122.0,4.5,493 E Interstate 30,coffee bubbletea juicebars,32.893556,-96.471899
+1,cv-uRt1h2zPL7SDuheFKbA,Sharetea,TX,Rockwall,75032,11.0,4.5,2675 Market Center Dr,bubbletea coffee juicebars,32.89779,-96.464299
+2,rTlPRGfu2C345t1FPSkomg,Heart of Texas Tea House,TX,Rockwall,75087,1.0,5.0,316 S Goliad St,bubbletea coffee bagels,32.92835356315765,-96.4611552
+3,tSiJiBhT7oWyYpqcqB8Eyw,Panda Pho & Boba House,TX,Rowlett,75089,154.0,4.5,6702 Dalrock Rd,vietnamese,32.9202194213867,-96.5172882080078
+4,cPjODLhGT9QP52xFFAVq2w,Pho Garden Vietnamese Noodle,TX,Rockwall,75087,174.0,3.5,423 E Interstate 30,vietnamese noodles soup,32.895124,-96.472885
+0,AvCqsdTaoTy7r_KFtKGU3g,MC Snow Cones,TX,Irving,75062,23.0,4.0,1103 W Airport Fwy,shavedice foodtrucks,32.83749,-96.96012833
+2,-RVCg4C_KvSVQrDSRCijJQ,UNICORNDOG,TX,Irving,75062,80.0,4.0,3048 N Belt Line Rd,hotdogs,32.84833,-96.99206
+3,wWdiqGUPG2xdNgFoPY1YXw,Inihaw Avenue Filipino Kitchen,TX,Irving,75062,164.0,4.0,4835 N O'Connor Rd,filipino bbq,32.865707,-96.949113
+5,XCbGOtZdbGd2YaKt9idV9A,Mary's Fried Ice Cream,TX,Irving,75062,15.0,5.0,3524 W Airport Fwy,desserts icecream shavedice,32.834262,-96.997274
+7,A8WKIALPDWfM82HuiM09VQ,Bodacious Cones Irving,TX,Irving,75060,4.0,4.0,2431 W Shady Grove Rd,shavedice,32.80069,-96.97815
+8,yiTffzvmrdYlHuG-HYwqUw,El Minutero,TX,Irving,75062,1.0,5.0,3303 W Rochelle Rd,shavedice,32.8473659,-96.9912446
+11,nffBZ0y8rkL7D043NFyiOQ,Waterboy,TX,Irving,75060,1.0,5.0,808 E Irving Blvd,icecream shavedice juicebars,32.811861,-96.936304
+13,cP68P7RzMXAh4DF1bqL-RQ,Kona Ice North Grand Prairie,TX,Irving,75061,1.0,5.0,,shavedice,32.8255958557129,-96.9623489379883
+1,Zga13Phl6BRrWxjAmNEuiQ,Zero Degrees,TX,Irving,75062,110.0,3.5,3401 W Airport Fwy,bubbletea coffee,32.839413,-96.991215
+2,sJGmwZz_QVofGe9fYmABcQ,Fresh Bubbles Tea and Cookies,TX,Irving,75038,11.0,5.0,3040 Story Rd W,bubbletea desserts coffee,32.870920405297056,-96.98543219263333
+5,RfHZjSpZKOiuyYgfDGSbTQ,S&T Boba and Foods To Go,TX,Irving,75062,2.0,4.5,1111 Coker St,bubbletea hotdogs,32.85382,-96.95966
+6,DTjRr40xnENRq55FJyWCog,Pho Empire,TX,Irving,75062,531.0,4.0,3591 N Belt Line Rd,vietnamese,32.8562881894326,-96.9939894229174
+10,hyAQh-aV3T_LqTJlXxaRjA,Foo's Asian Grill & Bubble Tea,TX,Irving,75062,207.0,3.5,2403 W Airport Fwy,asianfusion thai,32.8373983,-96.9766219
+12,mD2KYQjPbyqU-sN41Q1Jiw,Lohas Teriyaki,TX,Irving,75038,95.0,3.5,3981 N Belt Line Rd,japanese asianfusion korean,32.859513,-96.992671
+13,QsedgF8v1aXZEsUHSN0IhA,Pho Legacy,TX,Irving,75061,136.0,4.0,3109 N Belt Line Rd,vietnamese,32.8491504,-96.9925049
+16,UQ8AYXYP7MiSdjy5yO6MKw,Totally Tea,TX,Irving,75062,3.0,2.5,3880 Irving Mall,bubbletea,32.84048532832085,-96.9950129
+18,8nEe_E1Jfs5RdE5kRydXmA,Smetzels,TX,Irving,75062,3.0,5.0,3909 W Airport Fwy,tradamerican,32.8393890951078,-96.9971004659431
+19,SmK3tTAympYMCGqUtqdDZg,Wings N Tings,TX,Irving,75061,9.0,4.0,1930 N Story Rd,chicken_wings bubbletea,32.835678,-96.975538
+21,UwbRtcYgbBBexNs6JAm3bQ,Smoothies Paradise,TX,Irving,75062,1.0,4.0,3740 Irving Mall,juicebars bubbletea icecream,32.84022038619694,-96.99471051502927
+23,-FY72S06kj76PqjhS9pq9g,Pho Chau Restaurant,TX,Dallas,75235,178.0,3.5,1640 W Mockingbird Ln,vietnamese,32.8219951,-96.8569285
+0,sVFicvp_kzx7btZR_qQyHw,Vivi Bubble Tea,TX,Garland,75040,71.0,3.0,325 Coneflower Dr,bubbletea,32.9517726693133,-96.6132335736102
+1,oc9wTOAYXjNwFXW3o7ZbTg,Feng Cha - Garland,TX,Garland,75044,91.0,4.5,2645 Arapaho Rd,coffee desserts juicebars,32.960616434371644,-96.66614614343979
+2,dUpeKCS0fc2bVubqHB9gPQ,R&B Tea - Garland,TX,Garland,75044,26.0,4.0,4750 N Jupiter Rd,bubbletea,32.95983,-96.68201
+4,n2j6QA1kv5wmH-dOGJv-ow,Magic Cup,TX,Richardson,75081,472.0,4.0,901 N Jupiter Rd,coffee bubbletea juicebars,32.9582794388424,-96.6832490306884
+5,7L5URoNfx9j_c1K-SZNG5Q,Mango Thai 2 Go,TX,Garland,75040,35.0,5.0,834 Belt Line Rd,thai bubbletea asianfusion,32.939654,-96.639224
+6,dwlVVAPnsGPxwccLWuvpzw,Ding Tea Garland,TX,Garland,75044,134.0,4.0,3317 Belt Line Rd,coffee bubbletea,32.94556633,-96.67881133
+7,8Yiwtj7BiNg3PchtxDYV6w,Tea Daddy,TX,Richardson,75081,47.0,4.5,800 E Arapaho Rd,coffee bubbletea bakeries,32.960235,-96.712964
+9,d5B6tPnGJzaTBofS74Nr0Q,Boba Heaven,TX,Garland,75044,146.0,4.0,3112 N Jupiter Rd,bubbletea coffee juicebars,32.945702,-96.680472
+10,uoQtv5GmccIZk4GoN-Fong,Happy Lemon,TX,Richardson,75081,44.0,4.0,169 N Plano Rd,bubbletea juicebars,32.9474,-96.70116
+11,mpeK_u4wMTgOQxix-ZBKUA,Gong Cha,TX,Richardson,75081,198.0,3.5,1425 E Beltline Rd,bubbletea,32.946993,-96.699333
+12,omurTPthpXMNeEZsdAcJFw,Sharetea,TX,Richardson,75081,108.0,4.0,1386 E Belt Line Rd,bubbletea coffee juicebars,32.9435724760766,-96.7005858689601
+15,id7SjLyYJGG5GGAXTBcp2Q,Squishies Bubble Tea,TX,Dallas,75238,2.0,5.0,9850 Walnut Hl Ln,bubbletea,32.878597169667444,-96.71561971306801
+16,U7MyAKrD9NO8nbJWxeDJXw,Shiny Wok,TX,Rowlett,75088,110.0,4.0,3526 Lakeview Pkwy,bubbletea chinese juicebars,32.9064503799269,-96.5672140669206
+17,_7tq0pq-cfo6OMH94nSTQg,Little China Restaurant,TX,Garland,75043,26.0,4.0,3161 Broadway Blvd,chinese bubbletea,32.87701,-96.62152
+20,pfok18OJ0p0yQp1gbQvd6Q,Lu's Kitchen,TX,Garland,75042,3.0,3.5,618 N Jupiter Rd,asianfusion,32.918193,-96.682436
+21,f4jZ4AmOp7c4_W00vQ-eyA,Garden Restaurant,TX,Garland,75042,279.0,3.5,3555 W Walnut St,dimsum,32.918539,-96.684904
+22,gZi9FLqpxP5oE6vwGI5vag,ZIZi Ramen & Sushi,TX,Dallas,75238,119.0,4.0,9711 Plano Rd,ramen sushi asianfusion,32.879633,-96.701388
+23,VDh5CdrGe7inFGVEn_MxEQ,Lee's Sandwiches,TX,Garland,75044,100.0,3.5,3212 N Jupiter Rd,vietnamese sandwiches coffee,32.947335,-96.681361
+24,BQAmkLZ8P_UVGa45ARywsQ,Pho Bac Restaurant,TX,Richardson,75081,350.0,4.0,153 N Plano Rd,vietnamese,32.9470685,-96.7000649
+25,G-IzDDaCjT6TN5rn1kylIA,Le's Kitchen,TX,Dallas,75238,3.0,5.0,10945 Estate Ln,vietnamese breakfast_brunch bubbletea,32.881829,-96.695468
+4,FjN5WjMtBZR8_zB2T2QW8w,TP Tea,TX,Richardson,75081,35.0,4.5,400 N Greenville Ave,bubbletea,32.95327,-96.72799
+8,YezdUEmVoqv8OIkZWaQaxg,Bubble Leaf Boba Lounge,TX,Mesquite,75150,7.0,3.0,427 N Town E Blvd,bubbletea,32.81468755877787,-96.60207439999999
+10,2LknMZwKd09jal4klsCFRA,Boba Latte,TX,Richardson,75081,432.0,4.0,115 S Greenville Ave,coffee bubbletea juicebars,32.94765,-96.72981
+14,OSxhO-K5lGCV11hAQ5tJnA,Hello Dumpling,TX,Dallas,75218,396.0,4.5,1146 Peavy Rd,noodles dimsum bubbletea,32.83965,-96.69686
+17,pjTbKEqn3Wu2EUTuxNxS6Q,85°C Bakery Cafe,TX,Richardson,75081,195.0,4.0,400 N Greenville Ave,bakeries coffee cakeshop,32.9532477797078,-96.7276402969589
+18,x35aOtUMye-DQkG3S1UTrQ,His Tea,TX,Richardson,75081,107.0,4.0,221 W Polk St,bubbletea,32.94887,-96.73449
+21,jz58htMpxtM_YqWAkJXz0w,Hometown Cafe,TX,Richardson,75081,84.0,4.0,310 B Terrace Dr,chinese juicebars seafood,32.95167,-96.72848
+22,GrVIBiSoZvIghpfuxKrG0A,Poke Bop,TX,Dallas,75214,93.0,4.0,4140 Abrams Rd,poke sushi bubbletea,32.8360561,-96.7528051
+24,5kAzm2gRoJ7KQE2-PIAeaw,Tapioca House,TX,Richardson,75081,285.0,3.5,400 N Greenville Ave,coffee taiwanese,32.953344,-96.727535
+25,6eh8CBU_6d9tRHXSD6osHQ,I Heart Boba,TX,Mesquite,75150,40.0,2.5,3042 Town East Mall,coffee juicebars bubbletea,32.807655,-96.623967
+28,icmD4aj64i9gwJyUJ6kNfQ,Kirin Court Chinese Restaurant,TX,Richardson,75081,1076.0,3.5,221 W Polk St,dimsum seafood,32.9489496,-96.7345587
+33,oWk6JzRKhIJ9sUf9TmECxA,Smallcakes Medallion,TX,Dallas,75214,51.0,4.5,6464 E Nw Hwy,cupcakes icecream desserts,32.8564260268346,-96.751095
+35,QCojIAd5t7mnNqHhBRbEfw,Pho Truong,TX,Richardson,75080,407.0,4.0,516 W Arapaho Rd,vietnamese,32.9624097784172,-96.7353731570798
+37,H-BuZy53hNB4xHhMFaw-Yg,First Chinese BBQ,TX,Richardson,75081,442.0,3.5,111 S Greenville Ave,chinese,32.94771666351,-96.729750074158
+38,ahc1zcN1qsJb9q9RMDG82w,Genroku Sushi & Grill,TX,Richardson,75081,290.0,4.0,400 N Greenville Ave,sushi japanese chinese,32.9539831480134,-96.7274520245369
+15,oBIZUr2uUarpVxu0Mu8ahw,Panda Tea,TX,Dallas,75206,87.0,4.0,5521 Greenville Ave,bubbletea coffee juicebars,32.85375162053193,-96.76977368366522
+28,BLXygIriqhfEHGCsH7UDWw,Craft Boba Tea,TX,Dallas,75206,84.0,4.0,6105 Greenville Ave,bubbletea juicebars,32.859737690132,-96.7685236036777
+43,2BQoPC8d7ap-eLEoSwCK8A,Zaap Kitchen Lao & Thai Street Eats,TX,Dallas,75206,409.0,4.0,6107 Greenville Ave,laotian thai asianfusion,32.8602789,-96.7681662
+45,hU3ez_C8Prz9vqvZNN8F4Q,Three Egg Muffins,TX,Dallas,75206,80.0,4.5,3607 Greenville Ave,bakeries coffee bubbletea,32.83131,-96.77044
+49,MPtwpXS1YTUVilDtyHsLVQ,Poke Bear,TX,Dallas,75206,9.0,3.5,5521 Greenville Ave,hawaiian poke bubbletea,32.8533972,-96.7696317
+0,PnPjK1eYUQe3QO3r1h6EgA,Steph's Chill-Ville,TX,Grand Prairie,75052,20.0,4.5,128 SW Dallas St,shavedice,32.7432522922754,-97.0037895441055
+1,aI3fMm5xPdfDTvdPh4Q6lA,Tastee Ice,TX,Grand Prairie,75051,33.0,4.5,829 S Belt Line Rd,shavedice,32.73679,-96.9953
+4,gyzotl1Xs3kpj6-g0beOTg,Bahama Buck's,TX,Arlington,76011,78.0,4.0,1630 E Lamar Blvd,juicebars shavedice desserts,32.76337,-97.08609
+5,yYI90srY8iOA8ZPCvpLnXg,Tastee Ice Snow Cones,TX,Arlington,76010,20.0,4.0,1808 E Park Row Dr,shavedice,32.7207756,-97.0825043
+6,B529NnUwM2Ss00dPTtyLeA,Rainbow Snow Cones,TX,Dallas,75212,10.0,4.5,5422 Bernal Dr,desserts hotdogs icecream,32.77673,-96.90967
+7,HWHhNhhveYNaWvfau8fHbw,Meccha Matcha,TX,Grand Prairie,75051,38.0,4.5,2625 W Pioneer Pkwy,desserts coffee icecream,32.709704,-97.046151
+8,cPBBit5PBGezYBw8FGrJ6g,Rita's Italian Ice,TX,Bedford,76021,78.0,4.5,501 North Industrial Blvd,desserts icecream shavedice,32.842515,-97.10044
+11,3rBf_u4iVPcXaktYVEeIzg,Fro-Yo Cup,TX,Arlington,76010,52.0,3.5,2515 E Arkansas Ln,icecream shavedsnow bubbletea,32.707896735623855,-97.06630116646807
+12,X0p_9s5buTg3lW6t7I9tTw,BAMBU,TX,Grand Prairie,75051,156.0,3.5,2625 W Pioneer Pkwy,juicebars bubbletea vietnamese,32.71021910823685,-97.04564842987217
+16,76qgxeCceMscM_j6BnYOSw,Bistro B,TX,Grand Prairie,75051,250.0,3.0,2615 W Pioneer Pkwy,vietnamese,32.710272,-97.044762
+17,wn5daHtQfbYrT_eeiuBXbA,El Antojo,TX,Dallas,75211,12.0,3.5,210 N Ira Ave,markets juicebars shavedice,32.7471733093262,-96.9163055419922
+18,26kz-4oOf3wpEwU470gp8g,Alicia Kitchen,TX,Arlington,76010,1.0,2.0,1818 E Pioneer Pkwy,filipino,32.7075312860341,-97.0813184604049
+19,0D_uL1EgP4vKf1Ec6BFUIw,La Tapatia Paleteria Y Fruteria,TX,Arlington,76010,38.0,3.5,1000 E Abram St,juicebars icecream desserts,32.7352599,-97.09589
+20,GGk-Fzzpa1ZLpKPZD59KYQ,Pho Palace,TX,Arlington,76010,228.0,4.0,2126 S Collins St,vietnamese noodles,32.7090072,-97.0977231
+0,IACCPiIyPDeFPQCoB3dT7Q,Gong Cha,TX,Grand Prairie,75051,80.0,4.0,2625 W Pioneer Pkwy,bubbletea,32.710345,-97.046546
+1,Jp4POtQiqNq2_VB3ieYjBg,Zero Degrees,TX,Arlington,76011,410.0,4.0,1807 N Collins St,bubbletea coffee chicken_wings,32.7631286658787,-97.0962543813739
+3,uAIK063X7j_dQQObNFsCWA,Take a Bao,TX,Arlington,76006,86.0,4.0,2390 E Lamar Blvd,sportsbars breakfast_brunch asianfusion,32.7608389616169,-97.068251
+4,98tiKv96CqxHCynJoTavMQ,Zero Degrees - Grand Prairie,TX,Grand Prairie,75052,76.0,3.5,3166 State Hwy 161,bubbletea coffee chicken_wings,32.69447,-97.027384
+6,XXmB-hZyq1BNU4vuQRODkQ,Tea Cup,TX,Arlington,76010,63.0,3.5,1700 E Pioneer Pkwy,coffee bubbletea juicebars,32.7084297193946,-97.0848620936326
+7,bXK0WgWRNKKuBhgvjYVsxg,Yen's Cafe,TX,Arlington,76010,47.0,4.5,2202 New York Ave,vietnamese cafes,32.7089696892695,-97.0808826915528
+8,ZCold1-eiuMwotqXynsvVg,CoolBerry Frozen Yogurt,TX,Arlington,76011,98.0,4.0,312 Lincoln Sq,icecream juicebars,32.758105,-97.098296
+11,w2p9OfO1dkJ0C1llADXw-A,Sprout's Springroll & Pho,TX,Arlington,76011,413.0,4.0,780 E Rd To Six Flags,vietnamese,32.75492873430636,-97.09965621165665
+12,unelCCd1suyNzpJRh-Y5jA,Banh Mi Number 1,TX,Grand Prairie,75051,118.0,2.5,2625 W Pioneer Pkwy,vietnamese coffee icecream,32.71022563972563,-97.04592453922577
+14,jvtjWdbQi43kcvsEG2RC2g,Phở95 Asian Fusion and Vietnamese,TX,Arlington,76010,357.0,3.5,2525 E Arkansas Ln,vietnamese,32.707965,-97.065369
+16,3tDiwzXQ5u0MlSI8Sbf7zg,Thai Papaya Garden,TX,Euless,76040,429.0,4.0,1201 W Airport Fwy,thai,32.83640014437187,-97.10036487293854
+2,mlcAdSXjYgShgLf_aFuuxw,Kool Kones,TX,Duncanville,75116,1.0,5.0,325 S Cedar Ridge Dr,shavedice,32.648566,-96.926544
+8,-Jj7T0IuHh-ixKXjZFfYFA,La Tapatia Ice Cream& Fruteria,TX,Grand Prairie,75052,5.0,4.0,3824 S Carrier Pkwy,gourmet juicebars icecream,32.680164,-97.007704
+14,_F-cDyXDkN8BIRxjTorp5g,Fruta Zone,TX,Dallas,75211,4.0,3.5,4444 W Illinois Ave,shavedice juicebars,32.7200128827653,-96.8928344171634
+15,9vC2CnT8uKK78hKlk8HgkA,Mi Casa Taqueria & Fruteria,TX,Dallas,75211,17.0,3.5,1515 N Cockrell Hill Rd,mexican,32.76267,-96.89563
+0,EwmH8hOAICZOCMquIPM6iQ,Ding Tea Arlington,TX,Arlington,76018,191.0,4.5,2425 SE Green Oaks Blvd,coffee bubbletea juicebars,32.661458,-97.065458
+2,BpzmmJR2Fj9HZvU1je_UdQ,Kung Fu Tea,TX,Grand Prairie,75052,193.0,3.5,5220 S State Hwy 360,bubbletea coffee juicebars,32.646529,-97.060607
+6,jZUZtuZzaRRke-dWWGMbig,Savor Coffee Bar and Eatery,TX,Arlington,76018,385.0,4.0,1101 E Bardin Rd,creperies coffee vietnamese,32.6732326,-97.09072
+8,BSGQZuor-brP2t_E9s4lUw,Orchid City Fusion Cafe,TX,Arlington,76018,451.0,4.0,2135 Se Pkwy,newamerican asianfusion cajun,32.6416331520949,-97.0726445423975
+10,4FjyUc4Z92TSpFonQqtH3g,Sugar Crush Boba & Ice Cream,TX,Grand Prairie,75052,33.0,5.0,3050 W Camp Wisdom Rd,desserts icecream bubbletea,32.649217426989,-97.05936722568234
+11,5qlOHc3wyEK0cGE7yP9pvQ,Ly Foods Market,TX,Dallas,75211,162.0,4.5,4440 W Illinois Ave,thai laotian,32.7190093994141,-96.8923034667969
+4,AQBSq6Q1NKQ02bUEUCtj7Q,Bahama Bucks,TX,Mansfield,76063,56.0,3.5,1571 E Debbie Ln,shavedice juicebars acaibowls,32.60855679219851,-97.11233146414008
+5,w4ow3ze3W_koJMSyP5y7cA,MC Snow Cones,TX,Arlington,76011,40.0,4.5,931 N Cooper St,shavedice,32.7485982,-97.1137566
+12,G2L7IRV_NrfPWx8vPpYLzA,Pho Pasteur,TX,Arlington,76010,434.0,4.0,100 W Pioneer Pkwy,vietnamese,32.7069324809932,-97.10876316237656
+3,YUYtW2hB2Xln7aLWuf1f3w,Unitea Bubble Tea,TX,Arlington,76010,100.0,4.5,614 W Park Row Dr,coffee juicebars bubbletea,32.7197915378271,-97.1137769122684
+4,QXOIJVTUcXPN_2LOvevSxg,Bethany Boba Tea & Cafe,TX,Arlington,76013,621.0,4.0,705 W Park Row Dr,chinese juicebars bubbletea,32.7213249,-97.1155227
+11,NIseoC6YuDknOZYSCpCRUw,Kung Fu Tea,TX,Arlington,76010,16.0,4.5,101 E Abram St,bubbletea coffee juicebars,32.73578238592691,-97.1062795843374
+13,d_X0xiCeEiuJWHwamlmUaA,America's Best Coffee and Donuts,TX,Mansfield,76063,99.0,4.0,1211 E Debbie Ln,coffee bakeries donuts,32.60521,-97.11966
+14,3qw4agjTUFzIzQmsuJGt1Q,Ding Tea,TX,Arlington,76013,7.0,5.0,1302 S Cooper St,bubbletea coffee juicebars,32.72394,-97.11521
+15,X6UYWcbBjO8WnrfdGBVx5g,Sumo Ramen,TX,Arlington,76013,75.0,4.5,1030 W Arkansas Ln,ramen,32.70561,-97.11947
+17,cdLiu8C6OOjyRY9UqWWJqA,Vina Lẩu Và Ốc Restaurant,TX,Arlington,76010,48.0,4.0,100 W Pioneer Pkwy,vietnamese bubbletea juicebars,32.7070432053836,-97.1089611087343
+20,X51youZEUwbCZR7btiMlgA,Kokee Tea,TX,Arlington,76015,13.0,3.0,3811 S Cooper St,bubbletea coffee,32.679847,-97.129353
+21,mW8sFgVf7uvoyis3JNJU-Q,Pho One Sushi,TX,Cedar Hill,75104,3.0,4.0,223 E Fm 1382,vietnamese sushi bubbletea,32.5998305,-96.9416504
+22,ujL6Roo9ME8Iz1gRUJAZXA,Vietalia Kitchen,TX,Arlington,76013,171.0,4.0,1220 S Cooper St,vietnamese italian,32.7247622,-97.1150906
+3,Yt-aIgQJkYA92oe_E3TBpg,Shivers Snowcones,TX,Mansfield,76063,5.0,4.5,138 Main St,shavedice,32.5648482,-97.141604220766
+4,Qid9483kLnC6vePTUBLk9g,Crone's Cones,TX,Mansfield,76063,5.0,4.0,2056 S Cooper,shavedice,32.6040496826172,-97.1438674926758
+5,Tqr-Y5G2PdtkjtTxfoJwkA,Royal Tea,TX,Arlington,76017,166.0,4.0,4654 S Cooper St,coffee cafes,32.67160048,-97.135225
+6,6-ZI4ioAs_tJKghFh0jWUQ,Snow Shack Heritage House,TX,Midlothian,76065,13.0,4.5,6881 Fm 1387,shavedice catering,32.48922,-96.90526
+7,QuWojyX61LKYbG3UHbPZZQ,Hawaiian Shaved Ice,TX,Cleburne,76033,1.0,4.0,1587 West Henderson St,shavedice,32.3383931616966,-97.4129568857967
+8,AnVFpa5tSIqynWPIYfmn8w,Mamma's Ice Box,TX,Midlothian,76065,1.0,5.0,,shavedice foodtrucks,32.4671516418457,-96.9768295288086
+9,eduVwMhXbwd8EQJnbfc7vA,Bodacious Cones - Mansfield,TX,Mansfield,76063,1.0,5.0,1275 N Main St,shavedice,32.581636,-97.153767
+11,4IktYCbc2gp5PZQ0zzv9jQ,Tiki Treats Shaved Ice,TX,Burleson,76028,3.0,4.5,352 SW Wilshire Blvd,shavedice,32.5399084589674,-97.3329197242856
+12,OnFRwDtmosFtCDFqAeHQxQ,Hawaiian Snow,TX,Fort Worth,76134,6.0,5.0,1316 Sycamore School Rd,shavedice foodstands,32.6355500677068,-97.3391270264983
+13,NhIzW7ZGnBF-yr4zmkF7iw,Bedford Snoball,TX,Bedford,76022,116.0,5.0,2201 Pipeline Rd,icecream shavedice,32.822377,-97.131187
+16,HW_5MbRYS59E5kYH50rhOA,Polar Bear Slick's Snow Cones,TX,Burleson,76028,1.0,5.0,2475 E Renfro St,shavedice,32.5167,-97.26019
+17,2KOH-frJzutUGqm38p-B8w,Sno Cone Shack,TX,Duncanville,75137,6.0,2.5,469 E Danieldale Rd,shavedice,32.6330449,-96.9011227
+20,xW1Nt7EtpJ4NMvQ9bcC_CQ,Cocki Cones,TX,Alvarado,76009,1.0,5.0,113-399 County Road 810 N,desserts shavedice,32.408344070681,-97.2624778747559
+21,EIGRXOpKEvZY6RV7s0USDw,Mr Jon's Shaved Ice,TX,Fort Worth,76107,4.0,5.0,5200 Camp Bowie Blvd,shavedice,32.7357,-97.39948
+23,vbB3Qa2d5TXpVSnv6tEegA,Daesy's Tropical Sno,TX,Arlington,76016,19.0,5.0,3814 Little Rd,shavedice,32.6850256,-97.1906954
+25,1gaZs_utJnH_QN02EeKLsA,Sno Biz,TX,Waxahachie,75165,11.0,4.5,123 N Hwy 77,icecream shavedice,32.4025535583496,-96.8439331054688
+27,IflygSplUWWLGRMyuYHuhA,Annie's Freeze Shaved Ice Stand,TX,Pantego,76013,12.0,4.5,2382 W Park Row Dr,shavedice,32.7212889572875,-97.1460830792785
+30,GvHmndbBbioeq1jK-aQF7w,Ice N Easy Shaved Ice,TX,Burleson,76028,5.0,5.0,239 NW Newton Dr,shavedice,32.542036,-97.331674
+34,qgFE4UIDNCppML64v1jvbQ,Polar Ice,TX,Arlington,76017,9.0,3.5,5702 SW Green Oaks Blvd,icecream desserts shavedice,32.673217,-97.193519
+35,po4NbYLoT3Y38DqLwKm4hg,Jafan Snowcones,TX,Dallas,75233,12.0,4.0,2460 W Keist Blvd,shavedice,32.7055196885416,-96.8584494451528
+37,lFDxpex7X-UnnYCTdJPCEQ,Sol y Luna Snowball,TX,Fort Worth,76107,29.0,5.0,3319 Hulen St,shavedice icecream foodtrucks,32.727246070193,-97.3875960466054
+40,5Q3_2vpuJRi-msmEyUIJMA,Bahama Buck’s,TX,Waxahachie,75165,16.0,3.5,2761 Hwy 77 N,shavedice,32.451119,-96.835684
+41,7RczMoFISnCYZKnGzfGiJQ,Ice Me Out Snow Cones,TX,Fort Worth,76133,3.0,5.0,4001 Sycamore School Rd,shavedice shavedsnow,32.634683,-97.380274
+42,i_XycSAqFoDpu7l1xCDhjg,Goody Good Sno Cones & More,TX,Dallas,75224,1.0,5.0,3080 Hampton,eventplanning shavedice,32.70853,-96.85686
+45,KPYx97Yt-DBdXo-ywvsnfQ,Polar Penguin's Snowcones,TX,North Richland Hills,76182,17.0,5.0,6714 Smithfield Rd,shavedice,32.8688212780081,-97.2118598967791
+46,nFcfHVFlwmGFSRdacqMijQ,Pineapple Grill Texas,TX,Hurst,76054,222.0,4.5,121 E Harwood Rd,hawaiian asianfusion comfortfood,32.851589,-97.169112
+1,aNp33XqKoGDS0lg7yD4STg,Waterboy,TX,Dallas,75224,15.0,4.5,2645 S Hampton Rd,juicebars icecream shavedice,32.718802,-96.8572549
+2,mKkzKEhKC09t_25yBtCsug,Shiver Shack,TX,Watauga,76148,28.0,4.5,5929 Watauga Rd,desserts shavedice,32.8608436584473,-97.2529525756836
+3,LbUdHhr2B_X3379hf0csXA,La Feria,TX,Waxahachie,75165,1.0,5.0,401 N Hwy 77,desserts shavedice mexican,32.4071385338385,-96.8445449692689
+4,K0ZGMg19LvUJbedLGTwD9w,It’s Sno Worth It,TX,Fort Worth,76131,3.0,5.0,1601 Western Ctr,desserts streetvendors shavedice,32.864216,-97.341783
+5,tnfqfswn3-62zaRIBWRedA,Snow Place Like Home,TX,Ovilla,75154,9.0,5.0,713 W Main St,shavedice,32.5277900602572,-96.887888332748
+6,Dk_oydsUX7KOjnUFTEhGpw,Bahama Buck's,TX,Burleson,76028,34.0,3.5,765 NW Summercrest Blvd,shavedice desserts juicebars,32.5444965,-97.3481119
+8,m606kExlEBcJ1XrRalTAvQ,IceTastic Snowballs,TX,Fort Worth,76104,1.0,5.0,,shavedice foodtrucks,32.7286976820294,-97.31776556498689
+9,BWWRVw3Xs7wzazzfG4cb1g,Funky Munky - Cowtown,TX,Fort Worth,76107,4.0,5.0,4449 Camp Bowie Blvd,shavedice,32.741198,-97.384711
+10,GUZx4xWy5NgiT-48MhJEkw,Britt's Sno-House,TX,Colleyville,76034,15.0,4.5,5105 Colleyville Blvd,shavedice,32.8839509219179,-97.1539582555533
+12,xjCdrmtPx7jUsbRFXMUD9Q,Ice N Easy Shaved Ice,TX,Cleburne,76033,1.0,1.0,1113 Granbury St,shavedice,32.357225847535986,-97.40036937283406
+13,fup6CksSqhMeykS5JBmbJw,PK's Igloo Shave Ice,TX,Fort Worth,76244,4.0,5.0,4536 Heritage Trace Pkwy,shavedice foodtrucks,32.91356,-97.288286
+14,WvKO4XfGSvbyxZ0wOsLgfg,Texas Snow,TX,Burleson,76058,3.0,5.0,1490 SW Wilshire Blvd,shavedice shavedsnow,32.51935467,-97.3504785
+20,G63Krg5WZC5--uPRa4Nt7w,Cloudy With A Chance of Snowballs & Treats,TX,DeSoto,75115,1.0,1.0,719 N Hampton Rd,foodtrucks shavedice desserts,32.6020177,-96.85821829999999
+21,YEzxVgrpGSwAx-7g_AmhdA,Coco Shrimp,TX,Watauga,76148,676.0,5.0,7300 Denton Hwy,foodtrucks seafood hawaiian,32.8776753,-97.2608396
+22,Zyh7DJiFxDLOJBADItwvZQ,Jamaica Me Crazy Snow,TX,Fort Worth,76133,4.0,5.0,5693 Westcreek Dr,shavedice,32.6611929308622,-97.3618768528104
+26,fTbbZQSU2lwn2ZNEA5i3KA,Snow Place Like Home,TX,Fort Worth,76107,3.0,4.0,1509 S University Dr,shavedice,32.73019,-97.360497
+27,3Ls1GiZvOwmy_mIhfvmUQA,Snow Exciting,TX,Fort Worth,76179,18.0,4.0,6500 Boat Club Rd,shavedice icecream foodtrucks,32.85153902866914,-97.42424060386823
+29,PjrEJFO1pESRfXTLVizrHQ,SnoCone Love,TX,Fort Worth,76134,3.0,5.0,5721 Crowley Rd,shavedice,32.662908,-97.347268
+30,DiZRSgYqY2yUsfLMSYnyJw,Chamoy Locos,TX,Dallas,75211,12.0,3.0,2605 Ft Worth Ave,diyfood shavedice icecream,32.7584057410727,-96.864927560091
+34,bPoWaB_2cScPPi-AlAM1bA,Pelican's SnoBalls,TX,Fort Worth,76116,18.0,5.0,6517 Camp Bowie Blvd,shavedice icecream,32.72297,-97.42805
+35,sz18xd7vt30D-ItrRjIn2w,Kokitos,TX,Fort Worth,76116,44.0,3.5,6708 Camp Bowie Blvd,desserts shavedice juicebars,32.7223561164291,-97.4325586495987
+36,rmJTmBMeI6fG1r6nFkm0JA,Texas Snow Store Shaved Ice,TX,Watauga,76148,18.0,4.5,6016 Denton Hwy,shavedice,32.85716,-97.26356
+39,QucuFeV6-FD-_uATSi0_Cw,Sol Dias,TX,Haltom City,76117,65.0,4.5,2812 Denton Hwy,mexican icecream desserts,32.803164,-97.26428
+41,pjcDManFmj20FIDzme0LbA,Van Tran Oriental Market,TX,Fort Worth,76137,62.0,4.5,8201 N Beach St,shavedice intlgrocery,32.8910153660221,-97.2903501373562
+42,99gzhKkc5uesPuoT9umZIw,Funky Town Snow Cones,TX,Lake Worth,76135,1.0,1.0,6060 Rocky Point Trl,shavedice foodtrucks,32.817794,-97.418515
+46,VuFH7sAISVbyMliYKjBXIw,Tutti-frutti Ice Cream Shop & Paleteria,TX,Hurst,76053,19.0,5.0,394 E Pipeline Rd,gelato juicebars shavedice,32.8234051,-97.162662
+47,ITVbQXVRVCupuKRjn15xFQ,SnoBiz Shave Ice,TX,Fort Worth,76137,15.0,4.0,4466-4498 Basswood Blvd,shavedice,32.8718737988554,-97.288682785056
+48,UsE3N9nsiZit18B-VHgtgw,Chamoy #5,TX,Dallas,75211,12.0,3.5,3225 Dawes Dr,desserts shavedice,32.727278,-96.8732767
+2,2cZvv7wsH1X-icAL4FzY6Q,Al's Snowball,TX,Bedford,76021,31.0,3.5,2805 Central Dr,icecream desserts shavedice,32.8501007,-97.1323855
+4,II73vh5mTJ5bzcrDG3ZKUw,Sno Biz of Fort Worth Shiver's Shaved Ice,TX,Fort Worth,76137,1.0,5.0,4440 Basswood Blvd,shavedice,32.87125,-97.28882
+7,dHbGaUFa-3SWIg--MHj07g,Coyote Drive-In,TX,Fort Worth,76164,281.0,4.0,223 NE 4th St,movietheaters tradamerican,32.764977,-97.335565
+8,0I1Hzxo_Q_4pwzvUZ1U-zQ,Sila's Snow Cone,TX,Fort Worth,76112,1.0,5.0,Meadowbrook Dr,shavedice,32.746063,-97.2133
+13,W6zP0p83qC4_3QWxFpgcsQ,Island's shaved ice,TX,Fort Worth,76133,1.0,5.0,4501 Trail Lake Dr,shavedice foodtrucks,32.68191,-97.37295
+14,Bl65JyxnEP3y0X-mAxTpYg,Bahama Buck's,TX,Fort Worth,76107,69.0,3.5,2600 West 7th St,shavedice juicebars acaibowls,32.75174211566964,-97.35345962327925
+15,oFHF4bvxFEUjXPjLw1J6YA,DelCiano Pinoy Cuisine,TX,Arlington,76001,162.0,4.0,6320 US HWY 287,filipino,32.64397341588497,-97.18626757633514
+18,gu-YfM1yteV6PLs8LFD7yA,Chamoy,TX,Fort Worth,76115,22.0,3.5,707 W Seminary Dr,shavedice,32.6846751,-97.3319722
+19,Y4dOgeLencg-44XD19Ki7A,Arctic Snow,TX,Arlington,76013,1.0,5.0,2382 W Park Row Dr,shavedice foodtrucks,32.721104,-97.147074
+20,J_yI9c3emAlW_tZwXOZxUg,Bobaddiction North Richland Hills,TX,North Richland Hills,76180,52.0,3.5,9127 TX-26,bubbletea coffee foodtrucks,32.8537260428683,-97.1905406937003
+22,xLFprrHGzZ7uO-PSSEHjzg,MC Snow Cones,TX,Hurst,76053,7.0,4.0,145 W Pipeline Rd,shavedice,32.82338,-97.17028
+23,QkmXTuKW2hDY2vqFxQ1rzw,Diamond Hill Sno,TX,Fort Worth,76106,3.0,5.0,1301 NE 35th St,shavedice,32.8093096488067,-97.3393358781128
+25,olHM0r4PhAx3qnEPSF2bLA,The Water Fountain,TX,North Richland Hills,76180,5.0,4.5,7239 Boulevard 26,shavedice waterdelivery waterstores,32.8250838,-97.2263616
+26,J5OEfl7O3oKJsEDGk4WRYA,Bud's Sno-Balls,TX,Bedford,76022,24.0,3.5,1401 W Pipleline Rd,shavedice,32.82229,-97.14643
+28,05hQzPvT3TZI4uJzxAbxwA,Bahama Buck's,TX,Fort Worth,76137,94.0,3.5,5636 N Tarrant Pkwy,shavedice juicebars desserts,32.8945028807162,-97.2639482326233
+29,o_BVW_R0tCbnoQRsdj95zA,Chamoy,TX,Haltom City,76117,10.0,4.0,4601 Broadway Ave,desserts shavedice mexican,32.809878625323,-97.27870283263
+30,XJvk58cPcBaax4uMp8uOJQ,Antojitos Azteza Fruiteria,TX,Dallas,75211,2.0,5.0,2838 W Clarendon Dr,shavedice juicebars,32.73431833,-96.868215
+31,qoZx_CAe_mkgC9F_-lBajg,SnoCo,TX,Hurst,76053,1.0,3.0,145 W Pipeline Rd,shavedice,32.8235001184569,-97.170227746298
+38,qdMYm7b58tCZK2zf4_SLPQ,Llamalicious Paleteria,TX,Fort Worth,76106,3.0,5.0,3511 Decatur Ave,icecream hotdog shavedice,32.80735,-97.33947
+40,nT-Too3vPRJop1d-TTvalw,Jim's Java,TX,Fort Worth,76105,1.0,1.0,3220 Mitchell Blvd,foodtrucks shavedice coffee,32.71355,-97.28952
+0,CV9b6Tnt447ET7sy7PNrFw,Sharetea,TX,Mansfield,76063,55.0,4.5,3141 E Broad St,bubbletea coffee juicebars,32.5738625,-97.0882158
+3,RB5V9PtQLT3vy_xBoXNwKA,1102 Bubble Tea & Bites,TX,Arlington,76015,351.0,4.0,3610 S Cooper St,desserts bubbletea coffee,32.68741,-97.13204
+4,qAM_r6o_JJ7CalLf642DTQ,Tea Scoop Boba Tea & Smoothie,TX,Arlington,76015,65.0,4.5,4133 South Cooper St,desserts bubbletea juicebars,32.67941895084923,-97.13280138220819
+5,hA0NpTi-1Qx6lwZI-hbwdQ,Feng Cha - Arlington,TX,Arlington,76015,121.0,4.5,3701 S Cooper St,bubbletea desserts coffee,32.68589064077153,-97.13035168162577
+9,vzM-VYdr1xx4weaDZpy_sQ,Sharetea,TX,Arlington,76015,172.0,4.0,3810 S Cooper St,coffee bubbletea juicebars,32.682647630721355,-97.13426985569009
+13,nInxfUiZ2fLiC6flO85V0Q,BobaLāb,TX,Arlington,76017,4.0,4.5,5001 S Cooper St,bubbletea,32.66492,-97.13352
+14,aCAwfYsZf5qlcfCbPjclCw,Frieddaze,TX,Arlington,76017,139.0,4.0,5005 S Cooper St,seafood hotdogs sandwiches,32.664262,-97.133468
+16,bQNp33h30ICf4q_vD-t1Sg,Ninja Ramen,TX,Arlington,76017,432.0,4.0,4654 S Cooper St,ramen,32.6714921,-97.1352248153443
+25,-geoiMqkquqEGMYVy67fJQ,Pelicans Snoballs- Roanoke,TX,Roanoke,76262,16.0,4.5,409 Byron Nelson Blvd,shavedice desserts shavedsnow,33.0032917,-97.222352
+7,L5FWCL4__q1NjHd_tNW4PA,Sugar Rush Shaved Ice,TX,Haslet,76052,4.0,5.0,1395 Blue Mound Rd,shavedice,32.9558804,-97.34839559999999
+16,SB2QJozODpZAMviFeO30GQ,Jo's Sno-Balls,TX,Roanoke,76262,2.0,3.0,,shavedice,33.0040126,-97.2258483
+8,YGa4wPnUoe9L5xQYWzld3g,Champ Donut,TX,Fort Worth,76177,43.0,4.0,3556 Highway 114,donuts bubbletea coffee,33.0260173,-97.2798571
+43,JXtdnMBuv91cgUabfvQPSw,Keller Donuts & Munchies,TX,Keller,76244,29.0,4.5,11477 Woodland Springs Dr,donuts desserts,32.9390605141373,-97.2671547502757
+39,hpPHtfmFzBfkFG30fJ2YdA,Roki's Pho & Boba,TX,Southlake,76092,2.0,5.0,206 N Oak St,vietnamese bubbletea coffee,33.000105504624585,-97.22799958524813
+0,8lmX5-Vn9pYlN48kkFk4FQ,Pho Noodle and Asian Cusine,TX,Waxahachie,75165,105.0,4.0,1035 N Hwy 77,vietnamese noodles,32.415018870025,-96.8415316566825
+3,lGvPuS321tA0VOaH1cGZUg,UniverseTea,TX,Keene,76059,4.0,5.0,101 S Old Betsy Rd,bubbletea,32.3958973133721,-97.3312461270848
+6,FJoH2gkwGEM2VgRlOn51Sw,iTea Lounge,TX,Euless,76039,139.0,4.0,1301 W Glade Rd,coffee juicebars,32.8806157399706,-97.1016180887818
+7,BHztMj29byW4mPPmDe0Sbg,Fruitealicious Bubble Tea & Smoothies,TX,Fort Worth,76109,181.0,4.0,3043 Greene Ave,bubbletea coffee juicebars,32.7069528,-97.3582633
+10,gYrRp2GLIvf8yXOE1UsW0g,Feng Cha Fort Worth,TX,Fort Worth,76132,91.0,4.5,6235 Oakmont Blvd,bubbletea desserts coffee,32.66198933,-97.40399017
+11,QnDkFAL4lUPhli99HargKA,Gong cha North Fort Worth,TX,Fort Worth,76177,7.0,4.5,9615 N Fwy,bubbletea coffee,32.91539352041306,-97.31856891344547
+16,0S3PkaHB8c4TBXx8LUMCoQ,1102 Express Bubble Tea & Coffee,TX,Fort Worth,76116,59.0,4.0,3204 Winthrop Ave,bubbletea coffee juicebars,32.729244141131,-97.4152630000006
+20,CG1rphytQvRbyDJrnl5fkQ,Boba Freeze Dallas,TX,Dallas,75201,4.0,4.0,,foodtrucks bubbletea,32.7897935926293,-96.8024326095703
+27,4z7D1jeLN_YsbS-76B9wPA,Go Coffee Company,TX,Fort Worth,76104,5.0,5.0,1275 W Terrell Ave,coffee juicebars foodtrucks,32.735429423568526,-97.33924251398408
+28,NcTsyjFNFG7g8Fl9yHjOqA,Happy Lemon,TX,Hurst,76053,9.0,5.0,1101 Melbourne Rd,bubbletea coffee tea,32.83076,-97.19943
+29,bUL0cZfmlGsgQ3yZ2Pbz6w,Sphere Boba & Tea,TX,Bedford,76021,42.0,4.0,217 Harwood Rd,bubbletea coffee juicebars,32.8524885856798,-97.1665904478851
+32,AR8a0OQ6i1Tfp5aiTLZzDw,Ding Tea - Fort Worth,TX,Fort Worth,76244,40.0,4.5,3529 Heritage Trace Pkwy,coffee bubbletea juicebars,32.915004,-97.305196
+33,2IrS2ozF0rhN6WjhViDxXw,Hole-y Boba & Donuts,TX,Bedford,76021,87.0,3.5,2816 Central Dr,donuts bubbletea desserts,32.851657,-97.129812
+35,2MunNg3nF-7SOGNqquI-Qg,Boba Tea House,TX,Haltom City,76111,75.0,3.5,4025 E Belknap St,coffee,32.7832111079996,-97.2893697023392
+37,r6WF1-zGFptB455tGrFDaw,Craft Boba Tea,TX,Dallas,75212,6.0,4.5,320 Singleton Blvd,juicebars coffee bubbletea,32.77837688403445,-96.82904795516583
+39,LVQpEGg2py05MPa2lhRA3w,Tea2Go,TX,Fort Worth,76107,109.0,4.0,2600 W 7th St,coffee bubbletea,32.75246,-97.353114
+41,sMe1bGAWMqZR9jmzBiya5Q,Mightea Bubbles,TX,Crowley,76036,3.0,2.5,828 N Crowley Rd,bubbletea,32.58854,-97.3505
+42,WOILUuAApdqb1dysTzzYtw,Boba Tea And Flavor Of Asia,TX,Hurst,76054,40.0,4.0,737 Grapevine Hwy,bubbletea cafes,32.858848,-97.181536
+45,wqEn0xEsCKpM8kIH59Nqug,Kung Fu Tea,TX,Dallas,75205,78.0,4.5,3001 Knox St,bubbletea coffee juicebars,32.82143,-96.78701
+46,hj3XtVNCf4EoLwrjzqzgXg,Feng Cha,TX,Dallas,75206,18.0,4.5,1917 Greenville Ave,bubbletea,32.81404,-96.77037
+1,5R0-TbT_5RCASC4UiuhKWw,Love Donuts,TX,White Settlement,76108,4.0,5.0,8600 West Fwy,donuts bubbletea,32.73885,-97.46733
+4,Fhagk1nm-2wyswNC7S4PeA,Feng Cha north forthworth,TX,Fort Worth,76137,56.0,5.0,7451 N Beach St,bubbletea coffee desserts,32.87501,-97.290317
+5,FwLs_fnvETPpZjIVhDt7nA,Craft Boba Tea,TX,Dallas,75208,36.0,4.0,408 N Bishop Ave,bubbletea icecream,32.748246,-96.828177
+6,R80oLvyeiOuryjZ4ZjawaA,FENG CHA - Forney,TX,Forney,75126,3.0,2.5,325 N Fm 548,bubbletea coffee desserts,32.7439216,-96.4481865
+10,W_nBRjFQF_AyFKABvvTPPQ,Sharetea,TX,Fort Worth,76177,118.0,4.0,8949 Tehama Ridge Pkwy,bubbletea coffee juicebars,32.9029956115645,-97.3223775510776
+11,CLg1IKqwK4JdKk_r5HRPyg,Kokee Tea,TX,Forth worth,76132,7.0,2.5,4800 S Hulen St,bubbletea coffee,32.678517,-97.398537
+16,RYmao8Wn-TqwAQRV2tPtnw,Gong Cha Fort Worth,TX,Fort Worth,76137,42.0,4.5,6650 N Beach St,bubbletea,32.8622592,-97.2892064
+17,lhCHITXcguighV43dZXXNg,House Of Pho,TX,Burleson,76028,145.0,3.5,12848 S Fwy,vietnamese,32.5713018124755,-97.322783594135
+20,Ez_tQj7gObSgVlT9cbTD8A,Kung Fu Tea,TX,Fort Worth,76132,107.0,3.5,4946 Overton Ridge Blvd,bubbletea coffee juicebars,32.6771833214708,-97.4018102220703
+23,UxKyDqKdnxWcMEASSP1ZWw,Melby’s Cafe,TX,Watauga,76148,5.0,5.0,8420 Denton Hwy,macarons coffee bubbletea,32.89295,-97.25891
+24,RSNFcJ5gr0W4L_XdHsRACA,Yumilicious,TX,Dallas,75204,305.0,4.0,3800 McKinney Ave,icecream desserts gelato,32.8090587,-96.7951039
+25,2k34QdEuIlTNTpSYRYVZVQ,Kahunas,TX,North Richland Hills,76182,116.0,4.5,8509 Davis Blvd,ramen bubbletea poke,32.906703,-97.19259
+31,vIRLC6M8wEDgVAXzHFPiqg,Thai.pho,TX,Forney,75126,127.0,4.0,426 Fm 548,thai vietnamese,32.74568,-96.449129
+34,UbjiNPxaev_kQiwtU2L57w,My Boba Shop,TX,Pantego,76013,6.0,5.0,1509 S Bowen Rd,bubbletea,32.72093,-97.1489851
+41,q4TlmJVYnxPVtOkztJJAjg,Noodles At Boba Tea House,TX,Fort Worth,76137,398.0,3.5,7355 North Beach St,vietnamese bubbletea,32.87218,-97.29178
+42,ajL3JEgwC5qfnU9KiHLxRw,Lotus Cafe,TX,Arlington,76016,240.0,4.0,4261 W Green Oaks,vietnamese coffee,32.68018,-97.19572
+48,CEuMYC6vaY5FepJ5zQNgPA,Zero Degrees,TX,Dallas,75235,99.0,3.0,2515 Inwood Rd,hotdogs mexican asianfusion,32.822012,-96.836554
+49,FIUdXYTZ8zz89zbzIVleqg,KEEKS Eggrolls & Wings,TX,Keller,76244,343.0,4.5,3529 Heritage Trace Pkwy,asianfusion chicken_wings bubbletea,32.91479,-97.30568
+2,tklH4ynDsG2r4Bos67k4-Q,Pho & Grill,TX,Fort Worth,76132,391.0,4.0,4954 Overton Ridge Blvd,vietnamese,32.6771845514189,-97.4022734926424
+3,dJSAYUjU7aWGL0u0naLTGg,Chopsticks,TX,Fort Worth,76116,10.0,3.5,6728 W Vickery Blvd,asianfusion bubbletea sushi,32.703638,-97.42677
+4,nxHwdz0av5FXZvyyE3c57g,Panda Express,TX,Cleburne,76033,31.0,2.5,1304 West Henderson St,chinese hotdogs bubbletea,32.34199,-97.40553
+6,_Z-gYvuSIKm3pZZDa4jyeQ,Miss Saigon Cafe,TX,Hurst,76053,168.0,4.0,932 Melbourne Rd,vietnamese,32.82597,-97.19786
+10,eDf8nDPAUkTeCUfIBsuHVg,Thai Rice N Noodle,TX,Keller,76244,245.0,4.0,8577 N Beach St,thai noodles,32.895486,-97.290254
+11,uk_8THIWrmDZHEpmpSxKEg,Pho Bowl,TX,Dallas,75226,144.0,3.5,2807 Commerce St,vietnamese asianfusion chinese,32.783407,-96.7828896
+13,EhDlSTJSv6_6RfJHsGiwXQ,Hongthong Café,TX,Haltom City,76117,21.0,4.5,5302 E Belknap St,laotian thai bubbletea,32.79529259431942,-97.26906486543659
+14,LQwT0fKFiTMQtyjbj66_fA,Thai Rice 'N' Noodles,TX,Fort Worth,76116,137.0,4.0,9094 Camp Bowie W Blvd,thai noodles,32.7246849,-97.47552
+17,2XZJzKYd061VRB84BE7xtA,Nammi,TX,Dallas,75201,83.0,4.0,920 S Harwood St,vietnamese noodles asianfusion,32.7774767375935,-96.7902481555939
+19,CjejSsmSupG1YisQmLAKhg,Pho Hung,TX,Fort Worth,76116,179.0,4.5,6399 Camp Bowie Blvd,vietnamese soup,32.724480966272,-97.4215489838532
+20,hvZchd9KGTdQXHhGqN7YJA,Beto & Son,TX,Dallas,75212,1074.0,4.0,3011 Gulden Ln 108,mexican,32.77917629703164,-96.82851978157996
+22,ak2s9TorxUQjiXkotnk6WA,Pho House,TX,Fort Worth,76108,132.0,4.0,9440 Clifford Rd,vietnamese soup,32.7650816637278,-97.4807671485356
+23,WiBQsdmjrAIOh3EQgWlaQQ,Bobaland,TX,Dallas,75209,3.0,1.0,5450 W Lovers Ln,bubbletea coffee juicebars,32.850625,-96.81934
+24,cfnT6508uGjkUf3xH37C3A,Sikhay Thai Lao Cuisine,TX,Fort Worth,76111,537.0,4.5,3301 NE 28th St,thai bubbletea laotian,32.79551,-97.29921
+28,OsSbTCLEQN0VSk-SshFApA,Banh Mi Viet,TX,Fort Worth,76137,224.0,4.0,7630 N Beach St,vietnamese sandwiches bubbletea,32.878177,-97.288995
+30,8aJ5BivamBoI7aCwoo8iyg,Not Just Pho,TX,Hurst,76053,139.0,4.5,316 E Pipeline Rd,vietnamese,32.8232911989571,-97.1638262271881
+33,zGAmaRraRwxYsshjqymAoQ,My Lan Vietnamese Kitchen,TX,Colleyville,76034,211.0,4.5,5307 Colleyville Blvd,vietnamese coffee bubbletea,32.8867486759365,-97.150786
+40,Yt9fKw-AX-01JKxj1pQQ9A,Pho Duy,TX,Colleyville,76034,218.0,4.0,3930 Glade Rd,vietnamese,32.882502,-97.1035
+45,1AGIMBjkU3BNYPg7ZD74MA,Ono Poke,TX,Hurst,76054,137.0,4.5,775 Grapevine Hwy,salad poke,32.857045,-97.183622
+48,UOLvbVbrl0X2DmD11zmR3A,Manna Donuts Tcu,TX,Fort Worth,76110,3.0,4.5,2211 W Berry S,cafes bakeries bubbletea,32.7058318850939,-97.3510176472198
+0,X6LNpKlXnXOyiQy6R8fnvg,Pho V Noodle House & Sushi,TX,Bedford,76021,511.0,4.0,3504 Harwood Rd,vietnamese noodles,32.851644,-97.1092262
+2,xXfSZIEu72Ywr6U8T0c4sg,Family Thais Asian Bistro,TX,Dallas,75202,176.0,4.5,208 N Market,asianfusion thai bubbletea,32.780632,-96.806262
+4,xtXh-y0PpQEU315nyE0z_g,Sandwich Hag,TX,Dallas,75215,174.0,4.5,1902 Botham Jean Blvd,vietnamese coffee beerbar,32.7656365,-96.7906244
+6,W3myfstK8ZIZokJZqV60yA,Poke' Bop,TX,Dallas,75219,252.0,4.0,4103 Lemmon Ave,poke sushi bubbletea,32.8148119,-96.8092891
+7,uPE4o2Pd1gjC1bNHKFj97g,Bun Dong Ba - Vietnamese Noodle House,TX,Haltom City,76111,156.0,4.5,4023 E Belknap St,vietnamese noodles bubbletea,32.7831,-97.289714
+16,8X0NOICqEfDc4XiNfVxjvA,Thai 2 Go,TX,Dallas,75235,286.0,3.0,2222 Medical District Dr,thai,32.8128,-96.83046
+18,Pf5FC1kW5xzr7O4yFt8n5w,Hong Kong Express,TX,North Richland Hills,76180,96.0,4.0,9147 Grapevine Hwy,chinese bubbletea,32.855521,-97.188644
+21,W_Mha3paK7b0KHXVTs3IDA,Pho Crimson Cafe,TX,Dallas,75204,455.0,3.5,3000 Blackburn St,vietnamese asianfusion,32.8087125407658,-96.7955411970462
+23,vEL0VJOuBPa64eTe3FYsDQ,Vietnam Restaurant,TX,Dallas,75204,442.0,4.0,4302 Bryan St,vietnamese noodles seafood,32.79877,-96.778907
+30,UyIojlpog5MxFB_TishRHQ,Mr. Bakery Donuts,TX,Fort Worth,76116,10.0,3.5,4400 Benbrook Hwy,donuts bakeries breakfast_brunch,32.70805,-97.44882
+35,54g6ONclwPLBFh8BMvLJJQ,Pho Hung Restaurant,TX,Haltom City,76111,80.0,3.5,4125 E Belknap St,vietnamese,32.78459039408818,-97.28625052062127
+39,K2mSDr4_HeoGIE1sIXfPkw,1102 Bubble Tea & Coffee,TX,Fort Worth,76116,1.0,1.0,3204 Winthrop Ave,bubbletea coffee,32.7295270289436,-97.4153614416718
+40,Kre9WqDO09_e3sOJZqNnnQ,Serious Salads,TX,dallas,75201,4.0,4.0,2012 Woodall Rogers Blvd,foodtrucks salad bubbletea,32.7888687,-96.8014012
+43,RB3ek76mkljn6Ra20egDAA,I Heart Yogurt,TX,Dallas,75205,27.0,3.0,6305 Hillcrest Ave,icecream juicebars,32.8431236,-96.7874022
+48,1ywtp6xtb1WTjlwU0ftXmg,The Standard Pour,TX,Dallas,75204,498.0,4.0,2900 McKinney Ave,newamerican cocktailbars gastropubs,32.7998705434094,-96.8006857103504
+3,V0Uu0M7t9ZMRHI7VplXVgg,Banana's Shaved Ice,TX,Waco,76711,2.0,5.0,1709 S Valley Mills Dr,shavedice hotdogs icecream,31.5245463997154,-97.1389205167279
+7,sfQKM5RRY0BJRG4BcSp2kA,Coco's Shaved Ice,TX,Waco,76710,26.0,4.0,3824 Bosque Blvd,icecream shavedice,31.541185559921054,-97.17671764654932
+22,e1KFsH8yCrec-kTdFJU0ig,Bahama Buck's,TX,Waco,76710,29.0,3.0,5201 Bosque Blvd,juicebars shavedice acaibowls,31.53503,-97.19166
+24,KXohzul2x7Cgvh5FJ17z2A,Mr Snow,TX,Waco,76711,21.0,3.5,817 Tulane St,shavedice icecream,31.5163121354167,-97.1643994270725
+29,4tHXxAHHW_FWiIWksIybfg,Ice Ice Baby Shaved Ice,TX,West,76691,1.0,1.0,108 S College St,shavedice foodtrucks,31.8023,-97.09987
+0,XCMheol770TSGlQPq1SY3g,Cha Community,TX,Waco,76701,27.0,4.5,1001 Franklin Ave,bubbletea catering taiwanese,31.5520626685515,-97.1358474344015
+1,oScIZ6K6JRXrj58hRm-DcA,1102 Bubble Tea & Coffee,TX,Waco,76706,109.0,3.5,804 S 7th St,bubbletea coffee juicebars,31.54983,-97.1266
+2,ZYTlQGGiurZfOZ7RZ81ijg,Twisted Bubble Station,TX,Hewitt,76643,7.0,4.5,1213 S Hewitt Dr,bubbletea,31.4372,-97.20819
+5,hVaAgRIS14gu5sDj8OZXWg,Clay Pot Restaurant,TX,Waco,76701,302.0,3.5,416 Franklin Ave,vietnamese bubbletea bars,31.556137,-97.130344
+6,ySVwAUlvmh1h5AnTxClSnQ,Sugar Spice,TX,Hewitt,76712,8.0,4.5,907 Hewitt Dr,vietnamese bubbletea coffee,31.48917141466818,-97.21287837957959
+16,TJzh1622pi7zuJX99XLHTQ,Teriyaki Park,TX,Waco,76701,115.0,3.5,220 S 2nd St,sushi korean,31.558184242755,-97.12701586194
+25,7XBsWy5wV_9XdiMDQa4xXg,Wako Roll,TX,Waco,76711,169.0,3.0,2804 W Lp 340,korean japanese sushi,31.4961750383937,-97.1538892474971
+1,mj9GQiJnWdwezSrvXSIbYw,Cathay House,TX,Waco,76710,90.0,3.0,825 Wooded Acres Dr,chinese,31.52837,-97.19091
+0,wvzqCBwpqfMdmxmRqAPtJQ,Super Sno,TX,Jacksonville,75766,1.0,5.0,4029 N Jackson St Hwy 69,foodtrucks shavedice coffee,32.0071555128544,-95.2693277711636
+8,IOBiacOVFG-_jhHOSKUqPA,Miss Houston's,TX,Tyler,75709,2.0,5.0,11474 County Rd 1113,shavedice hotdog foodstands,32.29277,-95.35731
+9,GGiJS-mROK6avXwA-5v2WQ,Bahama Buck's,TX,Tyler,75703,28.0,3.5,6621 South Broadway Ave,shavedice juicebars desserts,32.2772761,-95.3068194
+14,dU_3GYPGN10Qvm2stw-vyA,Van Snow Cone Shop,TX,Van,75790,1.0,5.0,222 S Maple St,shavedice,32.52392090020088,-95.63730928998058
+15,285uCSYShwhXY2EMIxt_dg,Tyler Snow kone factory,TX,Tyler,75701,1.0,5.0,1620 Belmont Dr,shavedice foodtrucks,32.33124,-95.29344
+18,xydLQj2LkUHzmRc4d6jBFw,Shee bee,TX,Whitehouse,75791,1.0,5.0,1208 TX-110,coffee shavedice juicebars,32.2477162,-95.2344447
+25,WFAg1IflMOV-22gi__ayCg,1948 Coffee And Juice,TX,Tyler,75702,42.0,4.5,110 N College Ave,coffee breakfast_brunch juicebars,32.351403,-95.302025
+28,DpEsjwqBaJgHTzDeMDJtYg,Bobaloompia,TX,Tyler,75703,84.0,4.0,4601 South Broadway Ave,bubbletea filipino asianfusion,32.2994491,-95.3020653
+1,kD2NrJtSJ_xIp5_NN7SSfw,Chiangmai Thai Kitchen,TX,Tyler,75703,135.0,3.5,8934 S Broadway Ave,thai,32.24938908136229,-95.30637305016788
+4,nfCLQaYgB-v5ax8itALznA,Cup O' Joy Teahouse,TX,Tyler,75701,10.0,3.5,105 E 8th St,bubbletea desserts coffee,32.327808,-95.300366
+8,sXGcHvYnzHHxcRCaE6QsaQ,Thai Bowl Cuisine,TX,Tyler,75703,22.0,4.0,2210 Three Lake Pkwy,thai hotpot noodles,32.270060473448396,-95.34181639147847
+9,DNKwmYfncy3wZDOWCondrg,It's The Bee's Knees Bubble Tea And Pizza,TX,Tyler,75701,2.0,1.0,,foodtrucks pizza bubbletea,32.32064,-95.29201
+31,YxFsasXNx4vkXd4Gj96hYg,Sips - Drinks & Energy,TX,Palestine,75801,1.0,4.0,208 Village St,bubbletea,31.739595,-95.615531
+7,taY0yHNwhwmz03LKOp5ByQ,Charlie's Sno-Balls & Seasonal Tanning,TX,Kilgore,75662,1.0,5.0,1019 Kilgore Plz,tanning shavedice,32.3905698645735,-94.8689452930469
+8,G8zp2TNxy6FRXRWICreFZw,The Snow Hut,TX,Longview,75604,1.0,5.0,6111 TX-300,desserts shavedice,32.5904015091003,-94.8201166838408
+3,GyKEQmnkoPlqzrgY9M_Wbg,Shivers Natural Snow,TX,Longview,75605,20.0,5.0,5651 US-259,shavedice catering,32.5900821522786,-94.7406549346057
+7,HTurb4B4Q__lm4i9EFoSQw,The Tahiti Blue Snoball Factory,TX,Longview,75604,7.0,4.0,1706 Pine Tree Rd,shavedice desserts,32.52409,-94.803861
+9,dhvaNhbfgno9GsvsuRdRyw,Quenchies,TX,Longview,75604,1.0,1.0,1905 W Loop 281,shavedice,32.5231851490669,-94.7860462591052
+3,kTpmIYwolUve8hVCeYzO_A,Chiangmai Thai Kitchen,TX,Longview,75604,146.0,4.5,103 W Loop 281,thai,32.5437431054981,-94.7494551576565
+5,kcAeEF7dom2Q5MZhyiJiTg,Evergreen Coffee & Dessert,TX,Longview,75604,22.0,4.5,1111 Evergreen St,coffee desserts,32.5335520526723,-94.7901056359958
+6,doNpvhIpkFYaFjEaAQGXvA,H2O Nail Spa,TX,Longview,75604,2.0,3.0,901 Pine Tree Rd,othersalons bubbletea waxing,32.51488,-94.79888
+4,nmQEpLVuWpTD9dWYB2cQug,snowcone,LA,Vivian,71082,1.0,5.0,409 S Pine St,shavedice icecream,32.8698766,-93.9879984
+4,-UINhdgI8pWyQB58BiPTzg,Two Stones Eatery,AR,Murfreesboro,71958,2.0,5.0,318 N Washington Ave,shavedice sandwiches,34.06416,-93.69028
+3,mwxOL5DIt5Xf1qL_2oT3UQ,Frosty's Sno Shak,LA,Bossier City,71112,12.0,4.5,1150 Airline Dr,shavedice,32.5059067,-93.6965195
+4,XwcXx1jgzI2mmvCsqOyKAQ,Kalona Kones,LA,Shreveport,71105,12.0,4.0,1325 1/2 Captain Shreve Dr,desserts shavedice,32.470724,-93.707002
+8,eFLfOrJAYDM60pwlAFJ4xQ,Serena’s Sno Shack,LA,Bossier City,71112,1.0,1.0,3000 Old Minden Rd,shavedice foodstands,32.5221309820436,-93.6949558924909
+3,tpYIg3C9wHBcqlia7uGB6A,Boba Xpress,LA,Bossier City,71112,45.0,4.5,3210 Barksdale Blvd,coffee juicebars bubbletea,32.49426,-93.68902
+5,Il1ZKuiUkuY4aK0suUzUqQ,Pho L'amour,LA,Shreveport,71105,129.0,3.5,530 E Kings Hwy,vietnamese noodles soup,32.480353580745025,-93.7234368547797
+6,g9lCF_Frl9J3r7UNd1LFCw,Bestea,LA,Shreveport,71105,2.0,4.0,3950 Youree Dr,bubbletea coffee,32.46756,-93.72229
+7,Ce8VopeL9uL39ExK_-Pc1w,Southern Pho - Taste of Vietnam,LA,Bossier City,71111,52.0,3.5,2100 Benton Rd,vietnamese southern,32.5395311291388,-93.7211599946022
+9,qCfPaQIR4_zpnK61zic_Kw,Danh's Garden,LA,Shreveport,71105,93.0,4.0,3312 Youree Dr,vietnamese thai asianfusion,32.4789643,-93.7223149
+6,L0X4f7WG1c4qWe88b78WPA,The Cajun Asian,LA,Shreveport ,71115,127.0,4.0,10281 LA-1,cajun asianfusion,32.3793169,-93.6598163
+5,fbP_DRtKiSr9wVyzASkisw,Snow Shack,TX,Henderson,75652,1.0,1.0,707 US Highway 79 N,desserts shavedice foodstands,32.1603964000945,-94.785010595263
+6,7z9_Shd1_Q0cVfuxCc3Xsw,Snow Shack,TX,Henderson,75652,1.0,3.0,308 Kilgore Dr,shavedice,32.1735878,-94.7893143
+0,4Zdq63yBdQ4qAmMMc-jiOg,Everything's Sweet,TX,Carthage,75633,2.0,5.0,4883 FM-1970,shavedice,32.045987893586,-94.4169156253338
+5,zl5AN09Z1O-_G2pjTcRbgw,Beans & Ice,TX,Timpson,75975,1.0,5.0,588 N 1st St,coffee bakeries shavedice,31.905416,-94.4003694
+1,kG6iTixMLi8yAd8lffvzsw,T Sandwiches,TX,Nacogdoches,75961,39.0,4.5,1122 N University Dr,sandwiches,31.6130161,-94.6391974
+2,gNWWSNyB3695XtgSpPruHA,Sno-Bros,TX,Lufkin,75901,2.0,5.0,740 S Timberland Dr,shavedice,31.3300549965089,-94.7242467316668
+5,sigunf5LigZRmsaEzqJUVg,Lia's Kitchen,TX,Lufkin,75901,33.0,4.0,208 E Lufkin Ave,bubbletea asianfusion sushi,31.3385233187275,-94.7272123133834
+3,94855-EmdoB5nhQztKUvzw,Sweet Stop,TX,Crockett,75835,2.0,5.0,1300 E Loop 304,shavedice,31.314698,-95.437165
+2,Gka7PoioPpKY2XhHDAKPYA,Shell Shack,TX,Huntsville,77320,2.0,3.5,3748 TX 19,seafood cajun shavedice,30.84906,-95.40593
+0,tAz08zdTBvP4wZVyIIbEZw,Chill Out Shaved Ice Hville,TX,Huntsville,77340,6.0,4.5,402 11th St,shavedice,30.72413,-95.54129
+2,kI3KffbTgBHgt1Kmiuy6XA,Swinter Snowcones,TX,Huntsville,77340,1.0,5.0,1110 Ave M,tradamerican shavedice,30.722839171199137,-95.55306899801221
+3,upnrhZAU-udDVq4nlt1VeQ,Noemi's Sno Cones,TX,Huntsville,77340,9.0,4.0,Palm St,desserts,30.7058616675595,-95.5422377586365
+4,k2KbByZ_4O6IXrBBWMTA-g,Bahama Buck's,TX,Huntsville,77340,6.0,3.0,193 I-45 S,juicebars shavedice desserts,30.711798,-95.567146
+5,HcGYCXA-TpL125Hpr6HUcw,Sno Monkey,TX,Bryan,77801,14.0,5.0,29TH St,shavedice,30.6530194675383,-96.3386348156993
+6,M5KtnVtttrxR5GidXaxSAw,Fire and Ice Snow Cones,TX,Bryan,77803,17.0,4.0,2300 E Hwy 21,icecream desserts shavedice,30.691965302640806,-96.36759588714627
+7,4LbSSwY2TvunZcKocmKF2A,Jj's Snowcones,TX,Bryan,77802,22.0,4.5,1112 Briarcrest Dr,shavedice desserts,30.6499451,-96.3471176
+8,74gRjCt09QyrbgnehCk_yA,Poke Stop,TX,College Station,77845,102.0,5.0,1734 Rock Prairie Rd,poke seafood hawaiian,30.583267,-96.2879168
+9,JGl4rUuQOfmRLfCWcswUVw,Krazy Q & Dr. Sno Kone,TX,Bryan,77803,2.0,4.0,North Texas Ave,shavedice bbq,30.7013267,-96.3898316
+10,s6loPpAKrPGcBRrDiLJs5w,Rico's Shaved Ice and Fruit Cups,TX,Bryan,77802,1.0,4.0,E 29th St,shavedice,30.6561692,-96.343473
+12,rqD3mOWv7gJ2eqYvLOZx8w,Raspas El Payasito,TX,Bryan,77803,65.0,4.5,1005 S Coulter Ave,mexican,30.65956,-96.36763
+13,Hz1zDerNSYsPJUBk-_Xuzw,Bahama Buck's,TX,College Station,77840,46.0,3.5,201 Holleman Parkway Dr E,shavedice juicebars acaibowls,30.6137044375583,-96.3152385426324
+14,eUvYk4kTfaxn2hzOGZPFlw,JJ's Snowcones Trailer,TX,College Station,77840,1.0,2.0,711 University Dr,streetvendors shavedice,30.6211052,-96.342762
+15,U5-yezAp_-GX-jsDJzj2Fg,Bon AppeTea,TX,College Station,77840,139.0,4.5,112 Nagle St,bubbletea sandwiches desserts,30.6204218,-96.3435324
+16,dt2zvLC8CzSCywjCLrxm0Q,Snowie Shaved Ice,TX,College Station,77840,1.0,4.0,161 Wellborn Rd,shavedice,30.6069927,-96.3404312
+0,tI8-NsOZoRZs62IUTfylJQ,Deluxe Tapioca,TX,Huntsville,77340,94.0,4.5,2038 Sam Houston Ave,bubbletea sandwiches vietnamese,30.7114777,-95.5514437
+1,rBTU9XlpCBMgZBvjDAuW3w,The Buzzed Cup,TX,Huntsville,77320,2.0,4.5,1012 University Ave,coffee cupcakes sandwiches,30.72448310205592,-95.5507153
+3,wI24I7E4Z332JOe_O8RfYw,H&J's Tea House,TX,Bryan,77802,4.0,4.0,3700 S Texas Ave,bubbletea coffee,30.637600736225796,-96.34781981393787
+4,foW6w58N_XaOvjAGt1bU_A,Kung Fu Tea,TX,College Station,77840,54.0,3.5,723 S Texas Ave,bubbletea coffee juicebars,30.6261326016662,-96.3302836776394
+6,JMUuq_YSQpanzM-hg5yQFQ,Sharetea,TX,College Station,77845,37.0,3.5,1025 University Dr,bubbletea coffee juicebars,30.624024,-96.339865
+7,XJHfAAwHXPu7AOXL_1323Q,Twisted Noodle Cafe,TX,College Station,77840,189.0,4.0,2418 Texas Ave S,ramen bubbletea desserts,30.6060731903856,-96.3109062899353
+8,mReco_sZ6PFGsV00iWdneQ,Zero Degrees,TX,College Station,77845,68.0,3.5,11671 Fm 2154,bubbletea coffee,30.585039,-96.322838
+9,U8gzIdnnK-sfba_H617GCA,I Pho,TX,College Station,77840,42.0,4.0,2501 Texas Ave S,vietnamese bubbletea noodles,30.606967,-96.308408
+10,06fULC6vw_n_gxdLMkCGCA,Imperial Chinese & Sushi,TX,Bryan,77808,125.0,4.0,980 N Earl Rudder Fwy,chinese sushi japanese,30.6754494,-96.3390198
+11,YjZBizyN_sVORez2PzckIg,Nam Cafe,TX,College Station,77840,161.0,4.0,110 Nagle St,vietnamese noodles,30.62066,-96.34369
+12,19cvH9rEahdAEu0jhLojAQ,Panda Express,TX,Bryan,77803,30.0,2.0,639 N Harvey Mitchell Pkwy,chinese hotdogs bubbletea,30.6339171681597,-96.3791265338659
+13,QYjuX1ePsq8v7DSXcEPgfQ,Ohana Korean Grill,TX,College Station,77840,225.0,4.5,2501 S Texas Ave,korean bbq,30.606893,-96.306436
+14,U_yDdoxxVL7IQ_B-boIdZA,Babylon Cafe & Mediterranean Grill,TX,Bryan,77802,114.0,3.5,3700 S Texas Ave,mediterranean hookah_bars,30.63770198441663,-96.34795216441856
+15,lS_Sc5ymCg_1yuWT_nVEiA,Hometown Chinese Restaurant,TX,Bryan,77802,33.0,3.5,3105 S Texas Ave,chinese,30.643204226267766,-96.34996454400856
+3,0-zzcVAuj4pwF0iOKtmBTA,InTown Bakery,TX,Livingston,77351,1.0,5.0,109 E Church St,bubbletea bakeries sandwiches,30.711297433937514,-94.93235925743576
+5,v8AZidvLSCkvQSvek84HXQ,Montgomery Original Snoballs,TX,Montgomery,77356,6.0,5.0,14460 A Liberty St,shavedice,30.3925123,-95.6963834
+6,XvaXHEIn0V9U0oXvPCcGkQ,Willis Sno-Cone Shop,TX,Willis,77378,8.0,5.0,308 S Danville St,shavedice,30.4213062219174,-95.4789815470576
+8,IQt40LUn0StJlfIdnw4c1g,Shaved Ice,TX,Willis,77318,1.0,5.0,13988 Calvary Rd,shavedice,30.47341,-95.56721
+15,Qd6nC8QuegfloBLIHoTGJA,Bahama Buck's,TX,College Station,77845,16.0,2.5,901 William D Fitch Pkwy,juicebars shavedice acaibowls,30.555091,-96.264471
+8,LwNDXmGQ2-_uNbqMyqhBMA,Epic Nutrition,TX,Conroe,77304,5.0,3.0,1418 N Loop 336 W,juicebars bubbletea,30.33404505853181,-95.48083553991171
+10,8zXAumvHiV_YSEy9Rny68w,Fuya Kitchen,TX,Conroe,77301,25.0,4.5,2200B I 45 N,asianfusion bubbletea,30.3351574,-95.4763968
+9,hGgo3ove5t2gZsq-yMqByA,Frosty's Frozen Drinks,TX,Montgomery,77356,4.0,4.0,14626 Hwy 105 W,shavedice drivethrubars,30.354233,-95.583342
+0,gVu5hhZt9m7iaxRQj2F9YQ,Ozan's Shaved Ice,LA,Leesville,71446,6.0,4.5,400 Entrance Rd,shavedice,31.059693,-93.264053
+1,hON-H-MfYF_jZ8-ZWu6ZKw,Mahalo Shaved Ice,TX,Lumberton,77657,1.0,5.0,,shavedice foodtrucks,30.25118,-94.20035
+2,XmaqITvgd8_nDLoHOIdQnQ,Mama Shines Shaved Ice And More,LA,Lake Charles,70607,10.0,4.5,2514 Smith Rd,shavedice foodstands,30.1686950684246,-93.1809043555807
+3,8KlpPegIgGPtR2HuGR_ZGg,quenchies,TX,Beaumont,77706,6.0,5.0,622 W Lucas Dr,shavedice candy popcorn,30.0868763,-94.1474074
+4,ttl_sAm86GuyThEV3b4sKg,Texas Snostorms,TX,Orange,77630,4.0,4.5,2202 MacArthur Dr,shavedice,30.0941835721862,-93.7520629662558
+5,LOb0235ohjzrs6ZMX7foPA,Frosty Fountain,TX,Lumberton,77657,1.0,5.0,422 N Lhs Dr,shavedice,30.2727548,-94.2264491
+6,AvyXabxwi80cZCd2TRUbgw,Mabel’s Snow Cones & Mexican Treats,TX,Beaumont,77703,8.0,3.5,3495 Concord,desserts shavedice icecream,30.1123404875,-94.129282008
+7,3AC6Uq6ZXfRmja2CUh61eQ,Bahama Buck's - Lake Charles,LA,Lake Charles,70605,3.0,2.5,4740 Nelson Rd,desserts shavedice juicebars,30.1710595,-93.2493049
+8,4Oe471JCdZK557Oyfh4lCw,Mom and Pops Snowballs,LA,Westlake,70669,3.0,2.5,1302 Sampson St,shavedice,30.2497731165585,-93.2579208504457
+9,xg1sM5Mqhq2cq-at6g3EaQ,PT's Snowballs and Coffee,LA,Sulphur,70663,4.0,4.5,2405 Maplewood Dr,icecream shavedice coffee,30.2273498,-93.3495018
+10,g1U4F9Dcn6rpU1a6hnw8JQ,Mr. Bubble's Snow Cones,TX,Lumberton,77657,3.0,3.5,839 N Main St,shavedice,30.2671529,-94.1998304
+11,RfqnaB85huN61z3nbk1_pQ,Miller’s Drive Thru Concession,TX,Buna,77612,1.0,5.0,35034 US Hwy 96 S,shavedice hotdogs,30.44209,-93.96942
+12,t604nNXNYR_Bbx0eH1h-2w,Mud Bugs of Leesville,LA,Leesville,71446,30.0,3.5,1201 N 5th St,seafoodmarkets cajun,31.154671533084393,-93.26326317332114
+13,iAuVf36_LJUlg537ONekqA,K's Frozen Delights and More,LA,Sulphur,70663,3.0,3.5,1842 Ruth St,icecream tradamerican shavedice,30.222529059000994,-93.37598462086923
+0,Pse2EjTqW17wvCQDXyxuUg,Ailene’s Asian Grill,LA,Lake Charles,70601,2.0,5.0,2203 US-171,catering foodtrucks filipino,30.26573,-93.18145
+1,Z0ht8rh9-zcrdHdTbKO5BA,Samburgers,LA,Leesville,71446,16.0,5.0,11868 Lake Charles Hwy,burgers bubbletea juicebars,31.090929,-93.271221
+2,ls4op2ZRuQmBojrCKV-Ijg,Happy Time Tea Lounge,TX,Beaumont,77706,2.0,4.5,5925 Phelan Blvd,bubbletea tea,30.07940364694036,-94.1644101056718
+3,lgN4c1WYg8oEKPn4J5WRXw,Cuore Coffe Bar,LA,Leesville,71446,8.0,4.5,810 S. 3rd St.,coffee bubbletea tacos,31.135558,-93.26257
+4,uv14J9ho9gKUmPY5wju3ug,Cuore Coffee,LA,Leesville,71446,36.0,4.5,810 S 3rd St,coffee,31.1355543103534,-93.2625722545641
+5,JXmUEoxUhxCordE7c3oq8Q,Pho Four Seasons,TX,Beaumont,77701,100.0,4.0,3690 College St,vietnamese,30.0685482025146,-94.1311645507812
+6,iQkQBdsxF5mqXn8_4wICBg,Kikko Ramen Poke,TX,Beaumont,77706,11.0,4.0,3050 Dowlen Rd,ramen bubbletea desserts,30.106853478879994,-94.167774
+1,JEPBzTgndq7w1SxFXCnMNw,Sno To Geaux,LA,Natchitoches,71457,1.0,5.0,929 Keyser Ave,shavedice,31.7514992,-93.0646973
+3,OIFFadcnQV6-3T7t763ofQ,Nannie & Pawpaws Sno Biz,TX,Groves,77619,2.0,5.0,6050 39th St,shavedice,29.9443649872041,-93.9205386994062
+1,_UKkQPbao6BZZRTgr3jgaw,Kung Fu Tea,TX,Nederland,77627,13.0,4.0,2828 Fm 365,bubbletea,29.953589,-93.98802
+4,9Yp-nzQehsHF2a2zt9V7vw,Cali Kitchen,TX,Nederland,77627,49.0,4.0,1513 S US 69,vietnamese,29.947597089966553,-93.99465500412083
+6,rwzTVOB0-oj_PG1O6zmziA,Kung Fu Tea,TX,Nederland,77627,3.0,3.5,2828 Highway 365,bubbletea coffee juicebars,29.953589,-93.98802
+9,NN-Z6a6L8AqluS2dO56ZxQ,Koko Ramen Poke Bowl,TX,Port Arthur,77640,36.0,4.0,7675 Memorial Blvd,poke ramen,29.937442,-93.983992
+2,-h0eeWmBvAvbjWojB8-c8A,Sweet Blessings,TX,Cleveland,77327,1.0,5.0,22360 Hwy 321,shavedice juicebars icecream,30.3123764088228,-94.9892287883138
+4,jYJ0b13jJC2KGcdxrNc2fg,Lottie's Shivers Shaved Ice,TX,Conroe,77304,17.0,5.0,2101 Maurel Dr,shavedice,30.3290293850895,-95.4897485972523
+10,2ekOjMeR9UUIvji9t_tEgQ,El Tucan,TX,Conroe,77301,16.0,4.0,516 Mill Ave,shavedice markets,30.3033268350429,-95.4614954346656
+11,-Whz-HB6xdU1PEbROdZ78A,Mojo Snoballs,TX,Magnolia,77354,3.0,4.0,5428 FM1488 Rd,shavedice,30.2254346756755,-95.5503996671647
+15,qWGZgVbCaQoYqNwVqHAaoQ,Suzie Q's Snow Cones - Shaved Ice,TX,Conroe,77384,2.0,5.0,2655 Fm 1488 Rd,foodtrucks shavedice,30.229864,-95.50416
+18,LzM_xQU67opFywVsZrtfug,Bahama Bucks,TX,Magnolia,77354,14.0,3.5,"6103, Farm To Market Rd 1488",desserts,30.2230095649518,-95.5608995631337
+4,ZkyfMl47vYyKoet-bBmVsQ,Kung Fu Tea,TX,The Woodlands,77384,31.0,4.5,3091 College Park Dr,bubbletea coffee juicebars,30.20508292006829,-95.46363159755833
+5,26I0hodFdmzq6GXuBBCjQg,Tea Hive Boba & Sandwiches,TX,The Woodlands,77384,11.0,4.5,3335 College Park Dr,bubbletea vietnamese sandwiches,30.20596,-95.46984
+7,ZWCKh6vjmhcF6ILRFEJ9Ug,Tea Bear Teahouse,TX,Magnolia,77354,17.0,4.0,6622 Durango Creek Dr,bubbletea,30.23154,-95.56822
+8,v1OD9E4Ha639DtONsRtC2Q,Noe's Crepe Coffee & Tea,TX,Conroe,77384,87.0,4.0,295 Enclave Dr,creperies coffee bubbletea,30.225453,-95.5415194
+9,qzLkSLSim084PinAP8dvTg,Sharetea,TX,Shenandoah,77385,23.0,3.5,8880 Metropark Dr,bubbletea coffee juicebars,30.194806,-95.4511387
+10,q6FTokfZCVnsmB25NajYMA,Poke Man,TX,Conroe,77385,82.0,4.0,8000 TX-242,poke bubbletea sushi,30.206978,-95.453931
+11,8q2a--u3ydWWwE0og8Op8w,Yummy Pho House,TX,Magnolia,77354,95.0,4.0,32823 FM2978,vietnamese,30.21769,-95.56867
+6,yku55wJCSsBtmOFuYwx53Q,Sabor Xtremo refresqueria,TX,New Caney,77357,4.0,4.5,20185 Highway 59,shavedice juicebars icecream,30.15309,-95.21588
+14,47heeYIUfnWx1x-ad-CQng,Kona Ice North Houston,TX,The Woodlands,77354,10.0,4.5,,foodtrucks shavedice,30.216,-95.74846
+12,4m1jB-7G9yDyypgznKib5g,Tea2go TeaN’ergy Magnolia,TX,Magnolia,77354,2.0,3.5,10584 FM 1488,tea bubbletea,30.2224384,-95.6344036
+4,HHRjaAtQI_xiacyGKIRx_Q,Liberty Snoball,TX,Liberty,77575,7.0,5.0,2325 N Main St,desserts shavedice,30.07356,-94.784703
+0,b2qV3hQHLNTyqpxkvPJyzA,Sno-Asis,TX,Weatherford,76086,1.0,5.0,601-699 US 180,shavedice,32.758937,-97.78882
+1,ucgm29UNax3zgZzxuC9bDA,Funky Munky Shaved Ice,TX,Weatherford,76086,14.0,5.0,134 College Park Dr,shavedsnow shavedice salad,32.7376620733018,-97.7939058333493
+2,u495O9N205eucaVsvkd4rg,LoneStar Sno,TX,Aledo,76008,1.0,5.0,401 S Farm To Market 1187,shavedice,32.69142526495777,-97.60241168289816
+4,OovnFcnW5CWxmoJw8XLHVA,Sno Biz of Weatherford,TX,Weatherford,76086,1.0,5.0,128 College Park,shavedice desserts shavedsnow,32.7386446893101,-97.7958721723526
+6,tXFyHiXsfyoBRrZ_57WRpg,Sno Cone,TX,Fort Worth,76108,6.0,5.0,9906 White Settlement Rd,shavedice,32.7595136581234,-97.4914107355626
+7,b6JjsEe_1XIAI23zfER76w,Funky Munky Shaved Ice,TX,Granbury,76049,2.0,5.0,2420 E US Hwy 377,shavedice,32.44878,-97.7437
+10,jJUvflg4OCzZwFX4a5piAQ,Natalie's Snow Shack,TX,Azle,76020,4.0,5.0,404 W Main St,shavedice,32.8973459238549,-97.5470902930734
+11,FXvNlsgoVypV1UC5JfA-Zg,Cowtown Sno Balls,TX,White Settlement,76108,4.0,5.0,105 N Las Vegas Trl,shavedice,32.7599876373714,-97.4690232468641
+12,em2O23QH345UUxFVcclBAA,Frigid Frog Shaved Ice,TX,Granbury,76048,4.0,3.5,911 E Hwy 377,desserts,32.434039,-97.776934
+14,tCXdY_uAG6sivvLasU9K2w,Vintage Ice,TX,Azle,76020,3.0,5.0,412 Commerce St,shavedice foodtrucks,32.90556,-97.54919
+16,QcyJREah6TslDjrThadhUg,KRC Shaved ICE,TX,Springtown,76082,5.0,5.0,925 E 199th Hwy,shavedice,32.9611559923863,-97.6758793741465
+18,XJcS7mlfbuLAl-BX8N4QSA,Snowdrifters Shaved Ice,TX,Granbury,76048,3.0,4.5,205 E Pearl St,shavedice,32.4416687,-97.7862442
+23,ExalCWyp0cUtdvZ08K8PZw,SnoBurgers,TX,Azle,76020,1.0,5.0,11189 Fm 730N,shavedice hotdog icecream,32.93114662293913,-97.54436575838842
+44,Y9sJ37pBf48aLroVMmfUog,Toadally Ice,TX,Fort Worth,76071,1.0,5.0,14333 Meadowland Cir,shavedice juicebars foodtrucks,33.0062272,-97.4868283
+47,SwHCPcbIitnukwnGV2B4og,Bodacious Cones - Fort Worth,TX,Fort Worth,76116,2.0,3.0,3425 Cimmaron Trl,shavedice,32.7234973,-97.4658309
+7,GpnkoXQz0DT-pYahBkZ8uQ,Eagles Paleteria & Shaved Ice,TX,Decatur,76234,4.0,5.0,200 N Cates St,juicebars shavedice icecream,33.235140921722085,-97.58286974108933
+0,ACy9VbyDCJcjN_TNh2Fyzg,Yogurt Delicious,TX,Stephenville,76401,11.0,3.5,100 Wolfe Nursery Rd,icecream bubbletea juicebars,32.2049102783203,-98.239990234375
+3,XJ1dKBHgapn4SY1yir6n2w,Funky Munky Shaved Ice,TX,Mineral Wells,76067,5.0,5.0,1301 SE 1st St,shavedice,32.8086739,-98.1020943
+26,7D_5VuanRMU6qMUGljLDVQ,Dairy Queen,TX,Henrietta,76365,14.0,2.0,927 E Omega,icecream hotdogs burgers,33.8153,-98.185373
+2,KuLy3PVQnN8fYj6zuhAAcA,Bahama Buck's,TX,Wichita Falls,76308,15.0,3.5,3203 Kemp Blvd,desserts juicebars shavedice,33.88023,-98.528589
+0,OjPm6ZYV_C2eK8nwwH8Oww,Kung Fu Tea,TX,Wichita Falls,76308,26.0,4.5,3910 Wayne Ave,coffee bubbletea juicebars,33.870963,-98.5341518
+0,h8VVFkeuRY31WUd3Wv04Ug,Carnival of Ice,OK,Lawton,73505,8.0,4.5,2412 NW Cache Rd,shavedice,34.622398,-98.424561
+1,fBZu7dzfBhET05nXnG03KA,Frozen Monkey,OK,Lawton,73507,22.0,4.5,1132 NW Cache Rd,icecream desserts shavedice,34.623185,-98.407595
+3,9P5mlgS0rTenMo3RKXja7Q,Mac's American Ice,OK,Lawton,73505,8.0,4.0,"301 NW 67th St,",shavedice foodtrucks,34.61155,-98.47376
+1,Og7UideLaadyZkWeG5naiA,Pho Paradize,OK,Lawton,73501,19.0,4.5,810 SW D Ave,juicebars bubbletea vietnamese,34.603701,-98.4008191
+2,tcsjkgPbP_Ul_1CGCEtstA,Yummy Yummy Korean Bar Be Que,OK,Lawton,73505,51.0,3.0,6508 NW Cache Rd,korean asianfusion,34.6233051,-98.4737983
+3,4HZ0igOIuJOc5ZkwFsEsFw,PT’s Kitchen ,OK,Altus,73521,6.0,4.5,121 S Hudson St,bubbletea vietnamese,34.63701,-99.33552
+3,7M0YFTBN0zlo4Az7OwdIuQ,Pink Elephant Coffee and Snowcones,OK,Elgin,73538,2.0,5.0,7641 State Hwy 277,shavedice coffee breakfast_brunch,34.78227850712077,-98.29779045511721
+1,4IjfmyIASaQ_NJHQW9HNzQ,Clear Fork Coffee,TX,Albany,76430,3.0,5.0,301 N Main St,shavedice coffee juicebars,32.7279740751,-99.2950498313
+3,rYWby2-reBPZUXe-LuGqgQ,Show Cones,TX,Brownwood,76801,4.0,4.5,1115 Belle Plain St,shavedice,31.72883,-98.98758
+1,TE196CiOyuOmSDzPAMs2Kw,Phoenix Pho,TX,Abilene,79601,38.0,3.5,2449 N Judge Ely Blvd,vietnamese bubbletea,32.47629407511907,-99.70663011476312
+0,dtWxQxz3OJQXW0bZH0EuTQ,Chill out Shaved Ice,TX,Abilene,79605,2.0,5.0,3110 S 27th,shavedice,32.4174672947229,-99.7610271818714
+1,_dPuS9iAp-1KJrhRfVMNUQ,Shaved Ice Shack,TX,Abilene,79606,9.0,5.0,4401 Ridgemont Dr,shavedice,32.397526,-99.763702
+2,VaHDC9VHGy4KrD8Jw5qh2w,M&M’s Shaved Ice,TX,Abilene,79606,1.0,5.0,5233 Buffalo Gap Rd,shavedice foodstands,32.3860437248,-99.7660422701
+4,Lzl8_svUdEFn78gKXMymdg,Show Cones,TX,Abilene,79603,4.0,2.5,3375 Ambler Ave,shavedice,32.473749,-99.764057
+5,o7W4GZhocp9ic0_3mLlrFw,Pink Flamingo Shaved Ice,TX,Clyde,79510,1.0,1.0,1725 S Access Rd,shavedice foodtrucks,32.4590563,-99.8727864
+0,9TeM0nSHutrdlKYJwrYZRw,AM Donuts and Croissants,TX,Abilene,79601,25.0,5.0,1902 Grape St,donuts bakeries bubbletea,32.471182546448894,-99.73989267292414
+1,seOEMU_0WDNZwtuIY3s9Vg,Little Ninja,TX,Abilene,79605,79.0,4.0,4102 Buffalo Gap Rd,asianfusion sushi salad,32.4036669726682,-99.758271597885
+1,wLB247S6PRvLuf0qaJw6Dw,Sno Bucks,TX,Gatesville,76528,1.0,5.0,1401 E Main St,shavedice icecream,31.435082387667,-97.7421931189632
+1,R0034pZgG9XlOso0P_r5yA,Polar Bear Sweet Treats & Eatery,TX,Killeen,76543,1.0,5.0,3106 E Veterams Memorial Blvd,shavedice comfortfood pretzels,31.10453,-97.7061
+4,q5ze6YD787y6FUEnEkzXag,Bahama Buck's,TX,Harker Heights,76548,51.0,4.0,200 Commercial Dr,shavedice juicebars acaibowls,31.06847,-97.671102
+7,GK1BbNwo-PI9hUeUo0X09w,Frigid Frog,TX,Copperas Cove,76522,3.0,2.5,1525 E Hwy 190,shavedice,31.120197,-97.887083
+8,m4hISy-elqljxFnQaynPJw,Lily's Seoul Cafe,TX,Killeen,76541,12.0,5.0,310 North Fort Hood St,korean noodles tradamerican,31.12399722966007,-97.74149377287586
+9,e-X0dY9xtrKAuKjOKlWy2A,The Bloom Coffee Roasters,TX,Killeen,76543,84.0,4.5,2300 E Rancier Ave,coffeeroasteries bubbletea icecream,31.12017,-97.7088
+10,ry7O6CKwkHrSNH_HKePF5g,The Bloom Coffee Roasters,TX,Copperas Cove,76522,20.0,4.5,211 Liberty Bell Ln,coffee bubbletea waffles,31.1199980550199,-97.8673763069352
+1,3TX5JRUtVSN5O6w1TCSeQQ,Freezing Milk rolling ice cream &boba tea,TX,Killeen,76542,71.0,4.5,3810 Trimmier Rd,icecream juicebars bubbletea,31.08271,-97.73654
+2,FpygIs0FGDSprJ1NbTIToQ,Lazy Boba,TX,Killeen,76549,12.0,4.5,2901 W Stan Schlueter Lp,bubbletea juicebars waffles,31.084969,-97.78127
+3,nAvHfBqY_VZtBh2i3Q0KfQ,Wabah Cafe,TX,Killeen,76541,1.0,5.0,714 S Fort Hood St,bubbletea coffee juicebars,31.114759,-97.7436907
+5,sOmevxApdq8P800uqvgL2A,Chau's Cafe,TX,Killeen,76541,178.0,4.0,814 S Fort Hood St,coffee vietnamese bubbletea,31.113364430437,-97.744397852016
+7,vI2N3Gs3YcyXTsHealTugg,Pho Saigon,TX,Killeen,76541,155.0,3.5,710 W Rancier Ave,vietnamese,31.127968,-97.73449056213013
+8,F3wNM7EHvi7arPtjb7344A,Pho 9,TX,Killeen,76541,168.0,3.5,921 W Veteran's Memorial Blvd,vietnamese,31.12012,-97.73993
+0,QhYOje9S-mLmoggioWThbg,Frosti Cones,TX,Belton,76513,11.0,4.5,1402 Waco Rd,shavedsnow desserts icecream,31.0660500825096,-97.4453062691586
+1,UtP3MYGs35J2RSlYjvp7mg,Tamarindos Ice Cream and Snacks,TX,Temple,76504,9.0,5.0,2510 S 5th St,shavedice juicebars hotdogs,31.07313,-97.35315
+2,WEMJyEZiwzBzvMES2Yd5Xg,Granny’s Shaved Ice,TX,Temple,76502,4.0,4.0,8307 W Adams Ave,desserts shavedice,31.118932,-97.430971
+3,bBF5A8ur-qHgAROwvnoNIA,Polar Extreme Shaved Ice,TX,Jarrell,76537,1.0,5.0,101 W Avenue J,shavedice,30.8237298902269,-97.6065700873733
+4,aW5En8myfpk0-U13l35_jw,Tea Luck,TX,Belton,76513,59.0,4.0,320 E Central Ave,shavedice bubbletea,31.05593,-97.46084
+0,72RHWB_ZXaDKwep3QHbnyg,Cha Community,TX,Temple,76501,6.0,5.0,7 N Main St,bubbletea catering,31.0969395,-97.3409394
+4,3sU1ctKjLZCw9_azCW31Iw,Tuk Tuk Thai Express & Boba Tea,TX,Temple,76502,16.0,3.0,7425 W Adams Ave,bubbletea thai,31.118493301998,-97.4211597070098
+9,HZ8BN4-Wx_S-xfCvfkhzgA,Teapioca Lounge,TX,Georgetown,78626,5.0,5.0,940 W University Ave,coffee bubbletea juicebars,30.630896127698517,-97.68945374349312
+13,t1EsPg-Q-NO4TRaXSMpoKg,Truboba Cafe,TX,Round Rock,78665,123.0,4.5,1900 University Blvd,bubbletea juicebars sandwiches,30.57234,-97.653259
+14,OoaesB6J6NtnRjfVGX9XSw,Sweet Rolled Tacos Belton,TX,Belton,76513,17.0,4.0,2511 N Main St,icecream coffee bubbletea,31.081485,-97.454898
+16,D3biBNIn0bPro_DPA4dpyA,Sunrise Teahouse,TX,Round Rock,78664,90.0,4.0,1400 E Old Settlers Blvd,bubbletea coffee,30.5393218438188,-97.6705445466688
+18,qXRamoAjXJAHLrjZiBGscA,DingTea - Round Rock,TX,Round Rock,78681,96.0,4.0,2800 S Ih 35,bubbletea coffee juicebars,30.481148,-97.677716
+19,xMmA2vYB0kj9KtVRqqSzzA,Teapioca Lounge,TX,Round Rock,78681,117.0,4.0,2000 S Interstate 35,bubbletea tea juicebars,30.490325390915,-97.6793954716888
+20,4dH8EaEyeJcqVaf6vfIIAg,Ding tea,TX,Pflugerville,78660,87.0,4.5,1608 Town Center Dr,coffee,30.46379,-97.59784
+21,b42o3vOZomX-dBACDb5gyw,Long Tea Austin,TX,Cedar Park,78613,56.0,5.0,1821 S Lakeline Blvd,bubbletea,30.4799694731513,-97.8317892675285
+22,vC9QiQMSpnH060qc3qGziA,Adelyn Bakery Boutique,TX,Round Rock,78665,57.0,4.5,201 University Oaks,bubbletea bakeries coffee,30.55563,-97.68722
+23,5iegjKg7fDeF9nbIEn7PUQ,Teapioca Lounge,TX,Pflugerville,78660,82.0,4.0,1713 Fm 685,bubbletea juicebars coffee,30.4545,-97.60236
+24,7vD4a18N7AZ4ztw0ylf4wA,Black Sugar Caffe,TX,Georgetown,78626,29.0,4.0,109 W 7th St,tapasmallplates coffee bubbletea,30.63761,-97.67758
+26,y0FsRNto7ewuIHXt1Gpu3A,Sharetea,TX,Austin,78750,150.0,4.0,13343 N Hwy 183,bubbletea coffee juicebars,30.446275,-97.786463
+27,hosMQc3cYeeODatdfO0YLQ,Kung Fu Tea,TX,Cedar Park,78613,57.0,4.5,905 E Whitestone Blvd,bubbletea coffee juicebars,30.525262,-97.820429
+28,tqK4dS89LUFIb_pe-iCscA,Tea Pillar,TX,Cedar Park,78613,15.0,4.5,251 N Bell Blvd,bubbletea,30.51094,-97.82454
+30,4ssxUxP_KQA5o-vuR6RWIg,Teapioca Lounge,TX,Austin,78727,555.0,4.0,1700 W Parmer Ln,coffee bubbletea juicebars,30.41305,-97.68784
+32,6OM7JW0JmsDlSMwkFvcGGA,Mr. Boba,TX,Cedar Park,78613,73.0,4.0,2051 Cypress Creek Rd,bubbletea shavedice coffee,30.475532666062,-97.841062137027
+33,Wp2FP2e9l-6ZnPdXSzcHxg,Kung Fu Tea,TX,Austin,78758,253.0,4.5,9070 Research Blvd,bubbletea coffee juicebars,30.3731951160699,-97.7284159018027
+35,F3_tbg-i0BDh1mIdzcLDsA,Teapioca Lounge,TX,Austin,78717,62.0,4.0,11301 Lakeline Blvd,bubbletea juicebars coffee,30.478409,-97.800438
+36,DxrwjK7kuof0pQdL9tgIDw,Tsaocaa - Austin,TX,Austin,78750,48.0,4.0,13776 US-183,bubbletea juicebars,30.462277,-97.796934
+37,CzpZ9RJ45HSZzkPWKLTrzw,Mango Tango Asian Restaurant,TX,Georgetown,78626,77.0,4.0,114 E 7th St,bubbletea cambodian asianfusion,30.637235,-97.676198
+38,je2gVgNpu6YuwhQF_WepOg,Gangnam Zip,TX,Cedar Park,78613,280.0,4.5,202 Walton Way,korean bubbletea ramen,30.5218976400285,-97.832085378873
+39,AIRPhvvAhMFinbc5c06h0A,No. 1 Boba Tea,TX,Cedar Park,78613,39.0,4.0,1335 E Whitestone Blvd,bubbletea,30.529562023175846,-97.81537406006683
+40,ndNg7Iej1MTij_fR44QREw,Local Slice Pizza & Juju's Boba Tea,TX,Cedar Park,78613,157.0,4.5,111 N Vista Ridge Blvd,pizza coffee chicken_wings,30.5177592563951,-97.7900898890676
+41,FanEYXYDnz2KqoMFZ_xA0Q,Gen bobabee & coffee house,TX,Austin,78753,65.0,4.5,10901 N Lamar Blvd,coffee bubbletea,30.3781625741345,-97.6875973461021
+42,YEz2kmzSS_B7ymHMrXcIdw,BAMBU,TX,Austin,78753,241.0,4.0,10901 N Lamar Blvd,juicebars bubbletea vietnamese,30.3773697955382,-97.6872049829422
+43,3B8x3mHsZYg5Lyh4rj6x0A,Boba Tea,TX,Austin,78729,47.0,4.5,9308 Anderson Mill Rd,bubbletea vietnamese sandwiches,30.451121,-97.784126
+44,S_Hza66smVOAyxk0rdVgjQ,Cuppa Austin,TX,Austin,78717,335.0,4.5,9225 W Parmer Ln,coffee,30.478224,-97.766481
+45,6kmwE5Wha4Lw5tfq6LJTDA,Smiling Donuts,TX,Lago Vista,78645,13.0,4.5,4712 Lohman Ford Rd,donuts juicebars coffee,30.43347,-97.97864
+46,ynX5Y9gPty_dh39_uKbMdw,Boba Tea Time,TX,Cedar Park,78613,2.0,4.5,11200 Lakeline Mall Dr,coffee bubbletea,30.47092311620337,-97.8063212
+47,15DuMw3_D-qiyX3OS3gSxg,Ding Tea,TX,Austin,78727,83.0,4.0,1700 W Parmer Ln,bubbletea,30.414322903429746,-97.68893197889233
+48,hrDUqL02tA-6lnnopguEyg,Teapioca Lounge,TX,Austin,78759,89.0,3.5,10000 Research Blvd,coffee juicebars bubbletea,30.391071,-97.7487887
+49,KUdKGQ8BeDuD9knVqiXdmg,Fortune House,TX,Hutto,78634,132.0,4.0,2098 Muirfield Bend Dr,chinese vietnamese,30.50097,-97.58412
+0,q6ltnjtF-EUh9IMIATOoDg,Boba Boyz,TX,Austin,78758,12.0,2.5,11501 Rock Rose Ave,bubbletea,30.40101,-97.72247
+1,bkIi_E2BpFDq3IuldiYraw,Blue Water Tea Shop,TX,Austin,78727,23.0,4.0,1701 W Parmer Ln,bubbletea coffee,30.41216,-97.68902
+2,IfK8p0rEkt4_DfelHfJdRQ,Gong Cha,TX,Austin,78758,53.0,3.5,3210 Esperanza Crossing,bubbletea,30.400224,-97.723241
+3,vEwIGfOTc8j5hdMUNjMjkw,Gong Cha,TX,Austin,78758,25.0,4.5,11821 Rock Rose Ave,coffee bubbletea juicebars,30.4003792102822,-97.7232980612212
+4,xyVO973jt1bRk_3IpnYzzA,SnoMo,TX,Austin,78753,507.0,4.5,11220 N Lamar Blvd,bubbletea icecream shavedsnow,30.3823114202971,-97.6880223761269
+5,Vd0aSlVIk-PhAHfYwF_ubQ,Happy Wok,TX,Liberty Hill,78642,135.0,4.0,13750 W State Hwy 29,asianfusion,30.66875,-97.91188
+7,t1gRVkKtWlTig82FhYITVA,Cafe eden,TX,Austin,78727,70.0,5.0,12221 Riata Trace Pkwy,asianfusion korean bubbletea,30.42877,-97.75067
+8,PTE1rJeexWTBl88WAQI5Qw,Rollie Rolls Ice Cream,TX,Pflugerville,78660,73.0,5.0,1101 W Pecan St,thai coffee icecream,30.4434668455701,-97.6294268667698
+9,PgcB9iS3YFOZ1Evm3ResAw,Pho Thanh Nhi,TX,Cedar Park,78613,245.0,4.0,1335 E Whitestone Blvd,vietnamese asianfusion sandwiches,30.5299005202406,-97.81428422122922
+10,OiNW2qMey0gezQDhudYXDg,Black Sugar Caffe,TX,Cedar Park,78613,161.0,4.0,1310 Cypress Creek Rd,cafes juicebars tapasmallplates,30.4848334,-97.830571
+11,HoUBlg7kWjnNnHXlfA75-Q,Fresh Cup Frozen Yogurt,TX,Austin,78753,82.0,3.0,13000 N Ih 35,icecream bubbletea juicebars,30.4108435768782,-97.676623
+12,soMIgOZXuD5oJ-ZPbVhz_w,Famous Wok,TX,Round Rock,78664,11.0,3.0,4401 South Interstate Highway 35,chinese,30.5664843049967,-97.6893362515616
+13,2Rn-GxL3En6e3XmJmlpgxQ,Gong Cha,TX,Austin,78717,71.0,3.0,13201 Ranch Rd 620 N,bubbletea,30.4673432310668,-97.7947400794687
+14,zjPs_GgxuiKq3BEB-wTOtA,Angel Donuts & Treats,TX,Austin,78726,239.0,4.0,8300 N Fm 620,bakeries bubbletea donuts,30.4236023638099,-97.8452807415252
+15,dH09W3PGm6DAAVB8MpWa3w,85°C Bakery Cafe,TX,Austin,78717,111.0,4.0,11301 Lakeline Blvd,coffee bakeries cakeshop,30.4796492173836,-97.7999194775817
+16,uy80HpbMNuVf7mpAbaQuYA,H Mart - Austin,TX,Austin,78717,453.0,4.0,11301 Lakeline Blvd,korean food_court intlgrocery,30.479582,-97.798755
+17,pENVEVg27X87YPOqeEdiDg,Yummi Tacos & More,TX,Austin,78759,258.0,4.0,12518 Research Blvd,mexican asianfusion breakfast_brunch,30.4284613770554,-97.7603761564624
+18,Z_H0pY1cU5A1YIiBZ963kg,Baguette House,TX,Austin,78753,414.0,4.0,10901 N Lamar Blvd,vietnamese sandwiches,30.3771243408178,-97.6868110876968
+19,CFCBYIvmuGpizyEKAq91IQ,Snowy Village - West Parmer Ln,TX,Austin,78727,102.0,4.5,1700 W Parmer Ln,desserts shavedsnow,30.413184019660367,-97.68810486552626
+20,aUWloSmN8BcPhrp_FUY_Tw,Basil Thai,TX,Austin,78727,252.0,4.0,2501 W Parmer Ln,thai hotpot,30.41815,-97.70212
+21,1JNEiKSh5B1w-UMOJyG96w,LOTUS CHINESE,TX,Austin,78758,201.0,4.0,11501 Rock Rose Ave,asianfusion chinese noodles,30.401074,-97.722614
+22,fLFcfxIIr4TowjBem3n8Lg,Market Eatery,TX,Austin,78717,37.0,4.5,11301 Lakeline Blvd,food_court korean asianfusion,30.47935,-97.799347
+23,orqU39UfM7Tqsn3FRuBGEQ,Simon's Sushi,TX,Cedar Park,78613,5.0,3.0,11200 Lakeline Mall Dr,sushi,30.470595,-97.80708
+24,WstMx2Utm7-fFtWvlMXrNA,Joi,TX,Austin,78758,122.0,3.5,3120 Palm Way,asianfusion sushi,30.40301526685455,-97.72161307423309
+25,4ksUZLtZW05zIaNKzAxi4g,Asia Cafe,TX,Austin,78759,895.0,4.0,8650 Spicewood Springs Rd,chinese seafood soup,30.43327,-97.77172
+26,uPoSSk0tzYWFwUqGZAgdpg,Ola Poke,TX,Austin,78750,87.0,4.0,13343 US Hwy 183 N,hawaiian poke sushi,30.4461333,-97.78626290555725
+27,BCoVE-SCPwbcA88BVxjuFg,First Chinese Barbecue,TX,Austin,78753,506.0,4.0,10901 N Lamar Blvd,bbq cantonese noodles,30.3788135342932,-97.6864677649429
+28,JsLNrREvGdPPyP8TWw9-qA,Hunan Chef,TX,Cedar Park,78613,99.0,3.0,251 N Bell Blvd,chinese seafood,30.51094,-97.824546
+29,Mff1wOdZicJYPLDjMeltTA,A+A Sichuan China,TX,Austin,78759,314.0,3.5,8650 Spicewood Springs Rd,szechuan,30.432447472278117,-97.77027180962618
+30,S8vivuqdKw7gRUqaDpZVFA,Hana World Market,TX,Austin,78727,178.0,3.5,1700 W Parmer Ln,food_court intlgrocery,30.4129542364351,-97.68674890552067
+31,tzDF3otfex5z7SWwFsY-XQ,Lily's Sandwich,TX,Austin,78753,147.0,3.5,10901 N Lamar Blvd,vietnamese sandwiches,30.378044,-97.687488
+32,wa6WnodsnwJ99xDy81vkGQ,Simon's Sushi,TX,Cedar Park,78613,28.0,3.5,11200 Lakeline Mall Dr,sushi,30.47061,-97.80648
+1,zhH34_pn1AcziTaUUjwL7g,Hola Aloha,TX,Taylor,76574,1.0,5.0,118 W 2nd St,shavedice icecream,30.56881,-97.41019
+2,CG4F43WEXYOz9l5kqrypSA,Hula Cowgirl Shaved Ice,TX,Georgetown,78626,140.0,4.5,103 N Austin Ave,shavedice icecream desserts,30.644391,-97.677018
+3,6HOIDqtT3Xabtn8EArqY9Q,Summer Crush Shaved Ice,TX,Hutto,78634,1.0,5.0,13000 N I35,shavedice,30.541808,-97.5449589
+6,NwaMiVMT5TitjXzBfDCHVQ,Zydeco Ice,TX,Georgetown,78626,31.0,4.0,915 N Austin Ave,shavedice,30.6493673,-97.6766458
+7,wl3hkL7axkF3ZYDhJ-ZSig,JTs Shaved Ice,TX,Pflugerville,78660,1.0,5.0,15803 Windermere Dr,shavedice,30.4471187591553,-97.6476135253906
+11,f4YlC8jy-hJQ4djsDzIEhQ,Bahama Buck’s,TX,Round Rock,78664,54.0,4.0,2051 Gattis School Rd,shavedice desserts,30.493929,-97.654472
+12,2by3q0OaKarpbWoRY42EuA,Flave Rave,TX,Round Rock,78681,6.0,5.0,3905 Sam Bass Rd,shavedice foodtrucks,30.532454,-97.7374339
+13,hUVi9b69HH6fppichF1p4A,Kawaii Shaved Ice,TX,Round Rock,78664,206.0,3.5,113 N Mays St,shavedice,30.50933,-97.67881
+14,JS_mZ_tyOd_yiRJaFgWgnQ,Frost Bites,TX,Pflugerville,78660,58.0,4.0,110 W Pflugerville Pkwy,shavedice,30.4651935,-97.6267001
+16,OllU4vPR3A24feKCA8l9BQ,Frozen Flamingo,TX,Georgetown,78628,63.0,4.0,1208 Williams Dr,desserts shavedice drivethrubars,30.65162,-97.68217
+17,D5AeHg6_-TgIOcSK2cR9Uw,SnoCool SnoBalls,TX,Pflugerville,78660,7.0,5.0,15630 Vision Dr,shavedice foodtrucks,30.450331,-97.66232
+19,HC6t7byV1TTgbvljITLO6g,Kona Ice of Lake Travis,TX,Cedar Park,78613,12.0,4.5,,shavedice,30.5043907165527,-97.821403503418
+20,HcvneaagWHQTnvtZNX_Egg,Snow Bros Shaved Ice,TX,Round Rock,78664,2.0,5.0,5430 W US-79,shavedice desserts,30.533386,-97.605793
+22,t0I7jdcjCtq5CdR-ycFEEg,Sweet Caroline's Snow Shack,TX,Austin,78750,76.0,4.5,13497 Hwy 183 N,foodstands icecream shavedice,30.4494283183605,-97.7892792624268
+24,Q4cFfj2JjnEH6mrPWV18rQ,Sips,TX,Round Rock,78681,60.0,4.5,601 Great Oaks Dr,shavedice coffee juicebars,30.51395,-97.73531
+25,SlQvqHLvv8oEnyInJqZfnA,Taco Sweets - Ice Cream Tacos,TX,Cedar Park,78613,52.0,4.0,11200 Lakeline Mall Dr,desserts icecream foodtrucks,30.470917517699572,-97.80632105323332
+26,KuPSf4E4pi0R227LLdwpLg,Pepe's Fruit Cup,TX,Round Rock,78664,80.0,4.0,320 Mays Crossing Dr,desserts mexican,30.5003048829553,-97.6777291288983
+27,hZNiq0xmywixSxe-4fGKiw,Unity Gourmet Treats,TX,Austin,78717,1.0,3.0,15518 Ranch Rd 620 N,streetvendors shavedice icecream,30.4840028,-97.7362868
+29,TrSw32qt-L-Pc_--J0qqvw,Hands Off My Funnel Cake,TX,Round Rock,78664,13.0,4.0,4401 N Ih 35,foodtrucks desserts icecream,30.56665,-97.68907
+32,G4IpQprLbc9pxcaslAoYpg,El Monumento,TX,Georgetown,78626,849.0,3.5,205 W 2nd St,mexican cocktailbars,30.6427405805118,-97.6794043202845
+34,zLWDsXZq9bp3yqd_dY0YQw,Frost Bites,TX,Pflugerville,78660,4.0,3.5,2205 W Pecan,foodtrucks shavedice,30.4461561888456,-97.6505526155233
+35,tC1n8q6Yhnu17D9mStXLIg,Hello Sweetie BBQ & More,TX,Georgetown,78626,319.0,4.5,2200 S Austin Ave,bbq sandwiches soulfood,30.62338,-97.67997
+23,F3_YVfEolXhqRLX9OEYvpw,Fortune Tea,TX,Brenham,77833,5.0,4.0,2670 State Hwy 36 S,bubbletea shavedice tea,30.14018,-96.39597
+24,Lz18keSlsPJOohBOn38t6Q,Fruitealicious Bubble Tea & Smoothies,TX,Austin,78752,97.0,4.5,6929 Airport Blvd,bubbletea juicebars coffee,30.337716,-97.717469
+30,JIm8jzuOaGDltHZ2rpFaew,Feng Cha Austin,TX,Austin,78757,164.0,4.0,2525 W Anderson Ln,coffee bubbletea desserts,30.35554,-97.73366192734217
+37,wlRI4HwoHebrncaSt-aWtg,Bao'd Up - Sunset Valley,TX,Sunset Valley,78745,169.0,4.0,5207 Brodie Ln,asianfusion bubbletea noodles,30.230846,-97.817659
+43,NEKrf20GcociSSXVIqgCpA,Teapioca Lounge,TX,Austin,78748,328.0,4.0,9600 S IH-35,coffee bubbletea juicebars,30.1605380989337,-97.7914205629453
+48,jrWoj0FyPvK5D6L8W1pGcg,Tea Cup,TX,Austin,78741,127.0,4.0,1725 E Riverside Dr,bubbletea,30.2433378762654,-97.730234361615
+0,UqbQ3OELz7Kxq1FygBVP-A,Hong Kong Restaurant,TX,Elgin,78621,52.0,3.5,206 Hwy 290 W,chinese vietnamese,30.336506,-97.371657
+1,hug4QV-cEB6grXlPY2SBCA,CoCo's Cafe,TX,Austin,78758,544.0,4.0,8557 Research Blvd,taiwanese coffee bubbletea,30.3612785778592,-97.7156337500247
+3,OBmMXqTiKWwOOFNeOdOWLA,MÖGE TEE Austin,TX,Austin,78705,25.0,4.0,2000 Guadalupe St,bubbletea coffee desserts,30.28282309999999,-97.74241289999999
+5,PrZrXXWyZ95jVu53v9sN2w,Pearl's Tea,TX,Austin,78704,26.0,4.5,1311 S 1st St,bubbletea foodtrucks desserts,30.25096,-97.75421
+14,tUcTrbsYcvG3C8cHZ37oMQ,Bao’d Up - Mueller Aldrich,TX,Austin,78723,388.0,4.0,1911 Aldrich St,bubbletea asianfusion noodles,30.2986505538655,-97.7043759638237
+16,1IzMJD6s5pbretDN602H9g,Feng Cha Highland,TX,Austin,78752,15.0,3.5,609 Clayton Ln,bubbletea juicebars,30.323927360597143,-97.71339844912289
+18,_VuS3owUXYOZosCbM-w9fw,Simply Pho House,TX,Bee Cave,78738,294.0,3.5,12913 Galleria Cir,vietnamese bubbletea asianfusion,30.30855953211257,-97.94295426017064
+19,M-i5g-P9GKv4JvmBRPaiwQ,SnowBall RiceBall,TX,Austin,78752,197.0,4.0,6929 Airport Blvd,desserts,30.3369242094183,-97.7166612687497
+21,v_FQkBIJUamTwg7uP704bg,Omg Squee,TX,Austin,78702,103.0,4.0,4607 Bolm Rd,desserts icecream gluten_free,30.26115,-97.69784
+22,_EazH4D4XVYBGIEzQ4i4RQ,SnoMo,TX,Austin,78746,9.0,4.0,2200 Lou Neff Rd,shavedsnow bubbletea foodtrucks,30.26870188755236,-97.7659742759363
+27,MYmjlLFFhlybZF5mU17Cjw,Osio,TX,Austin,78746,92.0,4.0,2901 S Capital Of Texas Hwy,korean bubbletea sushi,30.2574765541101,-97.8075747663392
+28,mckGTGd1K-k99PzlQXB4eA,Bubble Egg,TX,Austin,78705,14.0,3.5,2222 Rio Grande St,desserts bubbletea waffles,30.286310572471308,-97.74562609264612
+29,XjmyY5Gx55FiXYAxbj84gQ,Filipino Asian Mart,TX,Austin,78748,104.0,4.5,615 W Slaughter Ln,filipino intlgrocery,30.1722120735828,-97.801083089978
+30,a5LPkhAXI9B9lEDCnNwZMA,Bao'd Up - Riverside,TX,Austin,78741,28.0,3.5,1920 E Riverside Dr,asianfusion bubbletea noodles,30.242302,-97.72741031627912
+32,PowLaNpiJHUmaehpf638uw,Pho Thai Son - Southwest Austin,TX,Austin,78749,285.0,3.5,3601 W William Cannon Dr,vietnamese sushi sandwiches,30.214843,-97.833083
+33,2SbmgX5eHK4EMaIJmO1qbw,Song La,TX,Austin,78745,157.0,4.5,7800 S 1st St,foodtrucks taiwanese,30.18526,-97.79213
+34,Wn8j-1-ity6hdjP4bC_wkw,Sip Pho,TX,Austin,78705,229.0,4.5,512 W 29th St,vietnamese tapasmallplates noodles,30.295421,-97.742327
+40,nyDs0CD-lFysI3oIG9T5bw,Wu Chow,TX,Austin,78701,895.0,4.0,500 W 5th St,dimsum seafood asianfusion,30.2685154974461,-97.7478443831205
+42,XNrAtQFU4vl9NA8GTlNonA,888 Pan Asian Restaurant,TX,Austin,78741,1829.0,4.0,2400 E Oltorf St,vietnamese thai chinese,30.2296193570823,-97.7299686863661
+45,wSG9k886NVuXddtiSXVOrw,Bà Nà Hill Vietnamese Cuisine,TX,Brenham,77833,28.0,4.5,2672 State Hwy 36 S,vietnamese,30.1416264757707,-96.3960318367083
+46,oHLGAKQhUDYPO1hrNLWV-g,Kung Fu Tea,TX,Austin,78705,40.0,4.0,2001 Guadalupe St,bubbletea coffee juicebars,30.282904,-97.741738
+47,xrknhNNYNNSLfsHk5iX69g,Tapioca House,TX,Austin,78705,246.0,3.0,1906 Guadalupe St,taiwanese bubbletea,30.28253,-97.74242
+49,nXtn29mTWlYeHxvHSz4dfA,Koriente,TX,Austin,78701,1790.0,4.5,621 E 7th St,asianfusion gluten_free salad,30.267,-97.73597
+0,sMH9EtsDzE9tTyVZC2KEEw,Dong Nai,TX,Austin,78704,352.0,3.5,4211 S Lamar Blvd,vietnamese chinese,30.234289,-97.792953
+1,2WEp9uJef3bO9osNNInLCA,K-Bop,TX,Austin,78705,224.0,4.0,2002 Guadalupe St,korean bubbletea juicebars,30.2829,-97.74238
+2,iYGaz8ezrhxq5tXlTMBcDQ,Ararat ToGo + Coffee Window,TX,Austin,78702,18.0,5.0,2401 East 6th St,coffee mideastern,30.25919,-97.71618
+3,NYTxZDV_G3AdC3INltgTpA,85°C Bakery Cafe,TX,Austin,78752,222.0,4.0,6929 Airport Blvd,coffee bakeries cakeshop,30.33662657803761,-97.71770483107828
+6,mE2p5szddhtzbgbwlF26Mg,Gong Cha,TX,Austin,78705,71.0,3.5,2021 Guadalupe St,bubbletea,30.283403280006105,-97.74128640406809
+7,G6_o1h3cm7ocJK-To1HWew,Pho Please,TX,Austin,78741,1035.0,4.5,1920 East Riverside Dr,vietnamese noodles soup,30.243163,-97.72809
+10,Phqwjk7x11WMAd-rVGbY0A,CoCo's Cafe,TX,Austin,78705,431.0,3.5,1910 Guadalupe St,coffee taiwanese bubbletea,30.2825503330558,-97.7422962817638
+12,pKagla3IhdLR11L1bb1PFw,Bao'd Up - UT West Campus,TX,Austin,78705,83.0,4.0,2222 Rio Grande St,bubbletea asianfusion noodles,30.287086476934967,-97.74489745514224
+13,MFr9Wsasx6l1ENKJYMQSbw,Tous Les Jours,TX,Austin,78752,355.0,4.0,6808 N Larmar Blvd,bakeries coffee desserts,30.3360919952393,-97.7201538085938
+14,F6JdjM5d_Eok5tVnq1fmJg,Sweet Chive,TX,Austin,78702,204.0,4.0,2515 E Cesar Chavez St,sushi chinese japanese,30.2538770926394,-97.7156530217538
+16,KGsP7-v21mMcJyQatQsKhg,Pho MPH,TX,Austin,78751,102.0,4.0,4616 Triangle Ave,vietnamese noodles chicken_wings,30.314936,-97.733784
+19,y0TYw6j_-91OGXnDVYZ6ew,Dawa Sushi,TX,Austin,78756,194.0,4.5,5000 Burnet Rd,foodtrucks sushi korean,30.321159,-97.739539
+21,b3bx_ot0LcmNEJf9Lu_b4A,Sichuan River,TX,Austin,78745,360.0,3.5,4534 W Gate Blvd,szechuan,30.2309207447597,-97.8024514764547
+22,oWq7Nag1wdPt33UdCFKSNA,Bao'd Up - Burnet Road,TX,Austin,78757,34.0,3.5,8023 Burnet Rd,noodles asianfusion bubbletea,30.359125,-97.729505
+23,9fOJxRpRgObO_hsaySDc2w,Yaya Cafe,TX,Austin,78705,258.0,3.5,3706 Guadalupe St,vietnamese creperies shavedice,30.302583,-97.738528
+24,1bSba0Q9YRSlZY0QUoAYoQ,Pho Thai Son - Southpark,TX,Austin,78748,182.0,3.0,161 W Slaughter Ln,vietnamese,30.166782,-97.792427
+25,DrfvW9_9pytbYzqRgNTeYw,Haiku Japanese Restaurant,TX,Austin,78748,389.0,3.5,9600 S Interstate 35,japanese sushi,30.161115,-97.791604
+26,ntPv_ZzGwz64DF9P5CS_9A,Kim Phung Restaurant  Riverside,TX,Austin,78741,155.0,3.0,2237 E Riverside Dr,chinese vietnamese thai,30.2384693,-97.7271106509262
+30,OD2IZRD5qopWWHHR-blN8Q,Ramen Tatsu-Ya,TX,Austin,78758,2703.0,4.0,8557 Research Blvd,ramen,30.361239468932,-97.715247647945
+33,fIkxEAcQoEUrLOh1jOfF7A,The Pho,TX,Austin,78752,68.0,3.5,609 Clayton Ln,vietnamese bubbletea,30.323830058002965,-97.7139505256388
+34,kvZp1t3Dauqzp5SJ-pKe1g,Shanghai Restaurant,TX,Austin,78752,577.0,3.5,6718 Middle Fiskville Rd,dimsum asianfusion szechuan,30.3294153,-97.7066257
+35,Eqf-q9iuEfGXkb4g-bmdPQ,Bliss,TX,Austin,78705,1.0,3.0,201 E 21st St,bubbletea coffee,30.28281,-97.73695
+36,mOnesB4IF9j6-ZmHoOHOig,Pho Van,TX,Austin,78758,395.0,4.0,8557 Research Blvd,vietnamese,30.361322,-97.715629
+41,i61ob7-OiiynnH2dsrpN1Q,Din Ho Chinese BBQ,TX,Austin,78758,873.0,3.5,8557 Research Blvd,bbq noodles cantonese,30.361341,-97.715612
+43,HSpFgxTcf9lihq1R-pcytQ,Kim Phung Restaurant - North Lamar,TX,Austin,78752,327.0,3.5,7601 N Lamar Blvd,vietnamese chinese,30.34414,-97.71395

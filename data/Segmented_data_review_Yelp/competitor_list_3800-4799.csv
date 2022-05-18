@@ -1,0 +1,790 @@
+,id,name,state,city,zip code,review count,rating,address,categories,latitude,longitude
+0,E7nri9iT3VoRi-aHlkuW4w,Flavors of The Philippines,NY,Watertown,13601,11.0,4.5,568 Bradley St,filipino,43.9859,-75.91614
+0,M-zv_99NwA7y98FfHcAOPQ,Juju66,NY,Watertown,13601,8.0,3.5,21182 Salmon Run Mall Lp W,bubbletea juicebars,43.977443,-75.952637
+1,acLe3P0gKyaAxwrjxdX_sQ,Pho Vietnam,NY,New Hartford,13413,76.0,4.0,8469 Seneca Tpke,vietnamese noodles,43.082106689006864,-75.32312226860772
+2,lAFWhSAMXhYgWg4DH04GvA,Juju66,NY,Watertown,13601,1.0,4.0,1283 Arsenal St,juicebars bubbletea,43.977671086447515,-75.95241980723439
+3,ihcSXwYfS9iobAwpNo6iLA,Mitsuba Ramen,NY,New Hartford,13413,8.0,3.0,4759 Commercial Dr,ramen bubbletea poke,43.093846,-75.307592
+4,tAZjgGLLNjUnnVmSL3hSxg,Pho Mekong House of Noodles,NY,Utica,13501,109.0,4.0,601 John St,vietnamese noodles,43.09971,-75.22718
+5,sPWbf8gqUrIhN-rCyb9v-A,The Java Shop by Cucina Berto,NY,Herkimer,13350,6.0,4.5,209 N Main St,coffee sandwiches juicebars,43.0268192,-74.9875064
+6,VVUC2_ceLkjr-zv4yAMdLg,Heart of Cambodia,NY,Utica,13501,41.0,5.0,32 Bank Pl,cambodian thai,43.09956,-75.23297
+7,w6JCByDvfi9tJqMIChs5Ag,Lotus Restaurant,NY,Watertown,13601,170.0,4.0,1283 Arsenal St,vietnamese,43.974173082518675,-75.94498813455387
+8,5RMFYGpXnDV_gCJy9zXwQQ,HJP Cafe / Vietnamese Restaurant,NY,Herkimer,13350,4.0,3.0,268 N Main St,vietnamese,43.02815,-74.98827
+9,srIxE1DcyDUMgBXk1QT8PA,Apsa Restaurant,NY,New Hartford,13413,5.0,4.5,103 New Hartford Shopping Ctr,cambodian thai vietnamese,43.07836966949343,-75.29253998551134
+10,OPbzht4VTIJ6ZRULKdJyDA,1025 Ruyi Japanese Steak House,NY,Watertown,13601,122.0,3.5,1025 Arsenal St,sushi japanese steak,43.9763,-75.93519
+11,7hzPaIIlVunixEUO-X1Y-A,PieZano's Pizza,NY,Watertown,13601,68.0,4.0,1322 Washington St,chicken_wings pizza sandwiches,43.958,-75.91504
+12,94SKTg4402NpUa964OTbQQ,Ruyi Sushi,NY,Evans Mills,13637,92.0,4.0,26121 US Rt 11,japanese sushi,44.04503745491766,-75.83864146159576
+0,YizdiiVetgRIdJY9W1mcKA,Tous Les Jours,NY,Syracuse,13224,147.0,4.5,2743 Erie Blvd E,coffee bakeries desserts,43.05507,-76.09458
+1,vJ-7J-iwqafTUMsKUHl_hA,Popcorn Supply Company,NY,Syracuse,13204,3.0,2.5,842 W Belden Ave,popcorn shavedice partyequipmentrentals,43.0552,-76.16575
+2,5NoPmtnE_6S6k0bYFTyBqw,Hi Tea,NY,Syracuse,13210,49.0,4.0,113 Marshall St,bubbletea chinese,43.04177,-76.13625
+3,Y1v8WFHyNARyCNacnf0PNA,Unique Tea House,NY,Syracuse,13210,78.0,4.0,171 Marshall St,coffee tea,43.0418068,-76.1349079
+6,qAibfFHVip3Brr93fb6oDA,Kung Fu Tea,NY,Syracuse,13204,60.0,4.0,306 Hiawatha Blvd W,coffee bubbletea juicebars,43.06764,-76.171523
+8,0xmYIkRKhyzyNA2fNBwA3A,Luna Cafe,NY,Syracuse,13210,14.0,4.5,1001 E Fayette St,japanese newamerican coffee,43.04856681376726,-76.1362987
+11,HiUzHxZ5ApqxoAn0oCY9mg,U Tea,NY,Syracuse,13204,10.0,3.0,3 Destiny Usa Dr,bubbletea,43.06843,-76.171018
+12,1YzNDIjiVJl7oB2MSg9qLQ,Vietnamese Noodle House,NY,North Syracuse,13212,295.0,4.5,709 N Main St,vietnamese soup noodles,43.14412,-76.128
+15,xk-ZCpvs3Jkl1Mo27JP1LA,Vietnamese Noodle House,NY,Camillus,13031,90.0,4.5,3801 Milton Ave,vietnamese,43.05195,-76.26678
+16,nku1JX4J_qVmGfj-MsjtiA,Kung Fu Tea,NY,Syracuse,13210,2.0,4.0,727 S Crouse Ave,coffee juicebars bubbletea,43.042109,-76.136108
+17,JVa9u01XcGbsEY0tKixu2Q,Mitsuba Ramen Noodle,NY,Syracuse,13214,151.0,4.0,3206 Erie Blvd E,ramen poke,43.0515862053891,-76.0733555809806
+19,qIa9UIPe-QI5tjBupPXUyg,Spoon & Chopsticks Korean cuisine,NY,Syracuse,13203,71.0,4.5,753 James St,korean asianfusion noodles,43.0561981,-76.141372
+20,P-OkskIROj5Zzwrp_I6MVw,Dang's Cafe,NY,Syracuse,13208,62.0,4.5,1828 Butternut St,vietnamese,43.0766599,-76.14249
+21,SoKyXbHKQSPCeDeMKqcKWw,Zhou's Restaurant,NY,Syracuse,13210,13.0,3.5,1449 Erie Blvd E,chinese,43.050181,-76.125423
+22,wm1KozGnm63U6tUI41bMEw,Red Chili,NY,Syracuse,13224,223.0,4.0,2740 Erie Blvd E,szechuan hotpot asianfusion,43.05417939596975,-76.09622301303737
+23,pOnIMonL4UcS_BEtBE_hKw,China Cafe,NY,Syracuse,13202,47.0,3.5,227 W Fayette St,chinese,43.0485878,-76.1546402
+24,It6-y5hxX479Sf9J4PgnZQ,Asian Wok,NY,Syracuse,13219,59.0,4.0,4114 W Genesee St,chinese,43.0461696391392,-76.243333895574
+27,WoGciyU_qwFNCttduxUOwA,Sakana-Ya Sushi Bar,NY,Syracuse,13202,167.0,3.5,215 Walton St,sushi japanese,43.047786,-76.156219
+0,bTcC_lueSJE7rwsuBASdqA,Boba Yaga,NY,Oneonta,13820,1.0,5.0,156 Main St,bubbletea creperies,42.45321,-75.06247
+1,J0bGcv58s_yguWxkAEp04A,Tiger Asian Cuisine,NY,Oneonta,13820,57.0,4.5,195 Main St,japanese asianfusion sushi,42.4541171661347,-75.06212938496842
+8,ikoAw2_xOblu3vkxiwYo6w,China 19,NY,Oneonta,13820,77.0,2.5,100 Main St,chinese,42.45216,-75.06331
+0,_Iox57jTitGc86IlIv4P4Q,Kona Ice,NY,Rexford,12065,1.0,5.0,,shavedice icecream foodtrucks,42.8540802001953,-73.8879623413086
+1,66ZFCfUfUIrxvJTxj_pteQ,Berry & Berry,NY,Albany,12203,30.0,3.5,1 Crossgates Mall Rd,shavedice bubbletea icecream,42.6896402716074,-73.8501607990148
+2,S0KqImldejQ6P9smvSD3Mw,Namu,NY,Albany,12205,156.0,4.0,1770 Central Ave,korean,42.7282710683347,-73.8466234104508
+3,Y3OBlkjRhfxk4KQwd7XBdg,Short and Stout Tea,NY,Albany,12203,144.0,4.5,1736A Western Ave,bubbletea tea gourmet,42.68836,-73.86179
+7,qsha7smyX33QntHhQha8zw,Storied Coffee,NY,Scotia,12302,32.0,4.5,143 Mohawk Ave,bubbletea coffee,42.82635213761104,-73.96405460268896
+10,OjlmczHpKcDsH_Onm5nv6Q,M Cafe,NY,Schenectady,12304,11.0,3.5,1754 State St,breakfast_brunch bubbletea,42.78136,-73.90573
+13,dqc30TddsbGhZd8nP1mXlg,Union Cajun Seafood & Wings,NY,Schenectady,12309,12.0,4.0,1638 Union St,chicken_wings seafood bubbletea,42.80409376722356,-73.90362471102247
+14,8LDNhjNZfCi4aG07LLIUbQ,Hong Kong Bakery & Bistro,NY,Albany,12205,335.0,4.0,8 Wolf Rd,dimsum cantonese bakeries,42.7094263,-73.8217696
+15,jgOjxfAyNNKQsuvJZZpMdw,Galleria 7 Market,NY,Latham,12110,61.0,4.0,1214 Troy Schenectady Rd,food_court pizza seafoodmarkets,42.770814,-73.824334
+16,Piq8Zn-eGfguMVGFYa6T5w,Pho Queen,NY,Schenectady,12305,83.0,4.0,96 Jay St,thai,42.81451,-73.93998
+17,iR6uSw-pW2-bqZ0sO3Z1lw,Storied Coffee,NY,Schenectady,12309,2.0,5.0,1671 Union St,coffee bubbletea breakfast_brunch,42.80479,-73.90374
+19,lhtfn2bfrEi_Xsg_QUYf3w,Jade Bistro,NY,Scotia,12302,132.0,4.0,120 Mohawk Ave,asianfusion,42.82603,-73.96257
+20,M-4XBB8q15xBAYdWCNSq3A,Thai Thai Bistro,NY,Niskayuna,12309,58.0,3.0,2309 Nott St E,thai sushi bars,42.8163,-73.89133
+21,0Skr6NDOTqP5Sf0boFOa0g,Pho Yum,NY,Colonie,12205,228.0,3.0,1558 Central Ave,vietnamese,42.7150770586368,-73.8306149944062
+4,b1M9TB5zywo6DIVO9X6kfA,Seoul Korean Restaurant,NY,Latham,12110,169.0,4.0,952 Troy Schenectady Rd,korean,42.76221,-73.797639
+5,aMjxfXsOyOicoSkE6FlMmw,Druthers Brewing,NY,Saratoga Springs,12866,725.0,4.0,381 Broadway,breweries comfortfood pizza,43.0812670750066,-73.7866056270523
+6,rZeLQKi3s-65i7GYbdccHQ,Jacob & Anthony's American Grille,NY,Saratoga Springs,12866,75.0,3.5,38 High Rock,tradamerican,43.0837945,-73.7823469
+1,7Gq4yPbukngoBx1Slx7ujQ,Dr. Milk,NY,Delmar,12054,2.0,4.5,159 Delaware Ave,bubbletea desserts juicebars,42.62999,-73.81098
+5,dTSxcejIh_5ZgGWPtobP6w,Romanteac Bubble Tea,NY,Albany,12211,9.0,3.0,260 Osborne Rd,cafes bubbletea tea,42.706439,-73.77467
+11,cAsdA0WLIsVssfO6cdn9yw,Kcaffe,NY,Clifton Park,12065,56.0,4.0,200 Clifton Corporate Pkwy,juicebars chinese bubbletea,42.8637766794651,-73.7882614041938
+24,q5TJY8c7GsDUToYJ-3crZw,Mosu,NY,Albany,12205,70.0,4.0,111 Wolf Rd,asianfusion hotpot seafood,42.716912,-73.80845
+25,fvFMCbnNFNfPxbAY1KPHRA,Bard & Baker Albany,NY,Albany,12208,1.0,5.0,1034 Madison Ave,cafes bakeries bubbletea,42.66480956851255,-73.78954056654284
+26,P6Dvl2gVYzdNJmsZSZ6ztQ,Ruby Asian Bistro,NY,Albany,12208,76.0,3.5,875 Madison Ave,asianfusion,42.661548614502,-73.782829284668
+28,WYpLBT8AlN0ZmxPfc2c-4Q,Union Seafood,NY,Albany,12206,6.0,4.0,820 Central Ave,seafood cajun chicken_wings,42.6797,-73.79004
+29,acfmsV4kxzNoyOvkUixaGw,Northeast Chinese Restaurant II,NY,Albany,12206,91.0,4.0,900 Central Ave,szechuan,42.6796904080278,-73.7913662440415
+30,-_R9BgoK-tgSjT7LSOUSMw,Kuma Ani,NY,Albany,12208,142.0,4.0,287 New Scotland Ave,ramen,42.6533,-73.78833
+2,pGY9VNMpJzdw4GrmTPSP-Q,Nihao Cafe and Tea House,NY,Johnson City,13790,42.0,4.5,130 Main St,bubbletea,42.113017,-75.950521
+3,SO-brcBqmr8yjzaSGTNWZQ,K&K's The Old Teahouse,NY,Vestal,13850,70.0,3.5,1101 Bunn Hill Rd,coffee,42.0946095,-75.9755049
+5,abUxFI99BPRGsaEfrmtbKw,2nd Heaven,NY,Binghamton,13905,1.0,5.0,4400 Vestal Pkwy E,bubbletea,42.09195,-75.94698
+6,NukRvsDkccnCnrt4-4SU6g,We Tea,NY,Vestal,13850,44.0,4.0,4700 Vestal Pkwy E,bubbletea sushi,42.091535,-75.951315
+8,-6J91GUGHk3KsQo0-XCckQ,Confection Connection,NY,Owego,13827,7.0,4.5,59 North Ave,bubbletea desserts gluten_free,42.1039538594373,-76.2630096
+15,zlMExN9aUxc89USRAgXl5A,Kung Fu Tea,NY,Vestal,13850,48.0,2.0,3701 Vestal Pkwy E,bubbletea juicebars coffee,42.097687,-75.983267
+20,NoxSL10vHwq-ORvU4WwQQQ,Red Chili,NY,Vestal,13850,29.0,4.0,4700 Vestal Pkwy E,chinese,42.091883,-75.952547
+21,fuGRjjWWN-2fZXjlbhiuLw,Strange Brew Cafe,NY,Binghamton,13901,137.0,4.5,137 Washington St,cafes,42.09838,-75.91369
+27,ytvrAtjeRT7hUwTtCPtdVw,Strange Brew Grab & Go,NY,Binghamton,13901,10.0,4.5,101 Court St,cafes coffee,42.0992,-75.91028
+28,sBvddN6qz7kKbcrkpT20gg,Moon Star,NY,Endicott,13760,108.0,4.5,3218 E Main St,chinese,42.1063423156738,-76.0214233398438
+32,yn37NmSCTT0ijKMxhvp7Ug,Wok's,NY,Vestal,13850,20.0,4.0,100 Rano Blvd,chinese,42.09386,-76.00475
+33,M1qcjbImnu5beUdo5pSKgA,Kam Fung,NY,Owego,13827,12.0,3.0,42 W Main St,chinese,42.098561,-76.269586
+36,O_0XVEK4QjhqcRwTiwJhLA,Man Nam Korean Restaurant,NY,Vestal,13850,96.0,3.0,4010 Vestal Pkwy E,korean japanese vegan,42.0952932524002,-75.9765280691072
+37,gmGvajD9qxUMGABUemcKDg,A Plus Sushi,NY,Binghamton,13905,40.0,4.5,141 1/2 Clinton St,chinese sushi asianfusion,42.1055580205117,-75.9248755743504
+40,g11w4kXNWR7FdLXisjjnUw,Vestal Coal House Cafe,NY,Vestal,13850,2.0,3.0,204 Stage Rd,cafes,42.0883695781231,-76.0509970039129
+42,XWgSggyG1VSBzlBTL58vGA,Red House Restaurant,NY,Binghamton,13905,24.0,3.0,200 Main St,chinese chickenshop soup,42.10484,-75.93261
+0,WVtp3x8T1ZZ90zIVNszoUQ,i-tea,ON,Kingston,K7L 1B5,14.0,4.0,296 Princess Street,bubbletea,44.232398,-76.488782
+0,-tpAFgB0HDHa7j8aneOtMg,Sharetea,ON,Kingston,K7L 1B6,8.0,5.0,318 Princess St,bubbletea coffee juicebars,44.23249,-76.48941
+5,fwWp41K2zq_WanO9Zq43cQ,Classics Tea Lounge,ON,Kingston,K7M 3E1,5.0,3.0,399 Princess St,cafes tea,44.2333488,-76.492218
+6,ijsxLMZWS3_-sTFwhVwnaA,Pho Kingston,ON,Kingston,K7P 0L5,18.0,4.0,627 Fortune Crescent,vietnamese,44.2719942,-76.567067
+0,IvBN-qo_4J0G-NxYw8ZbCw,Sip & Scoop,ON,Cornwall,K6J 5T9,4.0,4.5,720 14th Street W,juicebars,45.0307549340611,-74.7559976470184
+1,DS68sPeDzDx87Scbd3SOYQ,Lee's Hawaiian Grill,NY,Potsdam,13676,32.0,4.5,3 Market St,hawaiian,44.66864,-74.98717
+2,ZVS_yrhf7mRJ228a3Dlpkw,Goodiez,QC,L'Île-Perrot,J7V 4W7,1.0,5.0,101 Grand Boulevard,bubbletea hotdogs,45.394974570872236,-73.95764395276117
+3,8h9aBjBM2h_f1YgQizJvGQ,L2,QC,Vaudreuil-Dorion,J7V 8W5,2.0,5.0,3126 Boulevard de la Gare,bubbletea,45.4009093,-74.0519654
+4,iePY_-lfuxhwL93fwizQ0g,Panda Donuts,QC,Sainte-Anne-de-Bellevue,H9X 1L9,5.0,4.0,89 Rue Sainte-Anne,donuts bubbletea coffee,45.4035064527229,-73.95125077546187
+0,VJWyjawkh4_ZaDvnO03IHw,Hangout,ON,Ottawa,K1R 6R6,37.0,4.0,839 Somerset Street W,desserts coffee icecream,45.4091,-75.71244
+1,VUIPSukOQt6_xhyepV9jGQ,Meet Fresh,ON,Ottawa,K2G 3J4,6.0,4.0,1547 Merivale Rd,desserts bubbletea waffles,45.3545246662916,-75.733593441546
+2,sT2JJfa2AQhKhK-QkrBYbw,Kung Fu Tea,ON,Ottawa,K1S 3X7,5.0,5.0,1167 Bank Street,bubbletea,45.3924877,-75.6818809
+3,D37U4cen7WeYQJlOYAmFcQ,Presotea,ON,Ottawa,K2J 5G3,2.0,4.5,129 Riocan Avenue,bubbletea,45.269278125650715,-75.73880199682004
+4,VRaLmvnoV-gEdqAIuFnpRQ,Bubblicity Tea Shop,ON,Ottawa,K1R 6P8,14.0,4.0,730 Somerset St W,coffee,45.41034,-75.70784
+5,m1RCAqdqPm0DHLXg-nG1xA,Presotea,ON,Ottawa,K1P 5H8,14.0,3.5,212 Slater Street,bubbletea,45.41926,-75.69906
+6,Py58PNZ7CAUD3r9aK4poiw,Tiger Sugar,ON,Ottawa,K2G 3J9,3.0,4.5,1558 Merivale Road,bubbletea,45.35285208482629,-75.73543108999729
+7,ULFCIuxLCSkDQbrUrTcFQQ,Y-Not Go For Tea,ON,Ottawa,K1V 1C1,6.0,3.5,224 Hunt Club Rd,bubbletea,45.3352868,-75.6907283
+9,VCfhhszTRI0YUinEd5kKzg,CoCo Fresh Tea & Juice,ON,Ottawa,K2G 5Y7,2.0,4.5,1568 Merivale Rd,bubbletea juicebars,45.35169,-75.73471
+10,rfkKtndqDsfkhPTJVTGEYg,My Sweet Tea,ON,Ottawa,K1R 6R5,36.0,3.5,824 Somerset Street W,juicebars coffee,45.4090629,-75.7114486
+11,rTJU7FUnyDLEFWZ1L4HyDA,CoCo Fresh Tea & Juice,ON,Ottawa,K1V 1C1,2.0,3.0,2-222 Hunt Club Road,bubbletea juicebars,45.3352848,-75.6907323
+12,NrSjl5RzRaLZLFdxv9FXoQ,iCook Pho You,ON,Ottawa,K2H 1A5,14.0,4.0,2006 Robertson Road,vietnamese noodles soup,45.32382,-75.8269
+13,mh7nbX1ia209-zGI51HOOg,Art Haven,ON,Ottawa,K2J 6B6,4.0,4.5,200 Kennevale Drive,arts cafes eventplanning,45.26505,-75.77686
+14,DWfbbXPAmV4zF9SXgNQLQA,Populari Tea,ON,Ottawa,K1V 7T4,1.0,4.0,2690 Alta Vista Drive,bubbletea,45.37339,-75.66389
+15,GsbGAIrTF9hczX183LPEFw,Meow Tea,ON,Ottawa,K2P 1M1,12.0,4.0,279 Elgin Street,bubbletea bakeries coffee,45.4176844,-75.6900092
+16,lt6HXMJ69OiWKEOdjqLZIA,Chatime,ON,Ottawa,K2G 3J4,7.0,3.5,7-1547 Merivale Road,bubbletea,45.3540174074073,-75.7342495769262
+17,6rzg2TgGb6fqdqa804CpWw,Sip Tea,ON,Ottawa,K2G 5W1,14.0,3.5,1541 Merivale Road,bubbletea,45.35562,-75.7352
+18,25JjWgcAH75RDeTc_G2dsg,Ichiban Bakery,ON,Ottawa,K1S 3V9,10.0,2.5,825 Bank Street,bakeries coffee,45.4021737526869,-75.6877776235342
+19,ePYgOX8QU0fveYmf72ZENg,Freshly Squeezed,ON,Ottawa,K1K 3B8,2.0,3.0,1200 St. Laurent Boulevad,icecream juicebars,45.4237535,-75.6373556
+20,zIQq_AwKbdzPlIpDBQiuDg,CoCo Fresh Tea & Juice,ON,Ottawa,K2P 1X6,18.0,4.0,290 Bank Street,bubbletea juicebars,45.41538,-75.69672
+21,SBnsxaNVzLkUq3UAMwYHwA,Teriyaki Experience,ON,Nepean,K2B 8S8,7.0,2.0,100 Bayshore Road,japanese hotdogs,45.3489851,-75.8049824
+22,VD5KhQktBd-oW8hhjJf7Kw,Shake Shake Fresh Tea,ON,Ottawa,K2G 5X3,1.0,4.0,117 Centrepointe Drive,bubbletea,45.3429402184056,-75.7624942436814
+23,Ex8bMBmT7-F_EbC2r0iCRA,Dumpling Dumpling,ON,Ottawa,K2G 6E8,26.0,4.0,261 Centrepointe Drive,chinese,45.33896,-75.77124
+24,fd1sba1wX5u3AJWzRkFe2A,Coco’s Café & Creamery,ON,Ottawa,K2B 7G3,2.0,4.0,2293 Carling Avenue,icecream bubbletea,45.36842,-75.7756
+25,_79v8JxBdEMhJsBqL7IKhA,Gong Cha,ON,Ottawa,K1S 3W3,4.0,4.0,856 Bank Street,bubbletea coffee juicebars,45.40113,-75.68757
+26,Edvy80w_HG1jNXN333UMUQ,Juice Dudez,ON,Ottawa,K1Z 6V9,4.0,4.5,91 Richmond Road,desserts juicebars bubbletea,45.3966806,-75.7437821
+28,qT4OuJD2a85QOI1b3CVPZA,Asian Stars Restaurant,ON,Ottawa,K2G 3H9,31.0,4.0,1380 Clyde Avenue,asianfusion,45.3585909,-75.7380212
+29,tXXMq5V_qlQexzScTZnErg,Sip Tea,ON,Ottawa,K2P 1W9,2.0,4.5,203 Bank Street,bubbletea desserts,45.41758,-75.69786
+30,gBZRGBMRy0EUjfh5jJIUzg,Real Fruit Bubble Tea,ON,Nepean,K2B 8C1,4.0,2.5,100 Bayshore Drive,bubbletea juicebars,45.3482612437817,-75.8050947636366
+31,NOLllZ8Mcz8oDBDMsVz8Fg,Real Fruit Bubble Tea,ON,Ottawa,K1K 3B8,2.0,3.0,1200 St Laurent Boulevard,bubbletea juicebars,45.4216518963818,-75.6389168277383
+32,IhhiCA1lESptccbAWmzqzA,Pomelo Hat,ON,Ottawa,K1S 3Y1,3.0,4.5,1196 Bank Street,bubbletea juicebars breakfast_brunch,45.3916297,-75.6813734
+33,hv5fWff5EGGvnzoF06BzFw,Bambu Restaurant,ON,Ottawa,K1V 1E5,39.0,3.0,3993 Riverside Drive,sushi japanese chinese,45.3337721,-75.691966
+34,zkNzB7ewUK8F2CnyTFi4bA,Real Fruit Bubble Tea,ON,Ottawa,K1H 7X6,1.0,2.0,2277 Riverside Drive,bubbletea coffee juicebars,45.3865978,-75.6799004
+35,gy9Ae3t02v3z9WZY4cCseg,Express Asian Food,ON,Ottawa,K2P 2H6,8.0,2.0,202 Bank Street,asianfusion,45.4174652,-75.6983795
+36,P5c6TrXjoynjbVWC2ZMouA,Chungchun Rice Dog,ON,Nepean,K2G 1V7,2.0,4.5,1379 Woodroffe Avenue,korean,45.35048122844921,-75.76165463161925
+37,lK0qRodJG4OcrSBgVVS4hQ,Real Fruit,ON,Ottawa,K1N 5W8,1.0,3.0,50 Rideau St,bubbletea juicebars,45.42516750092589,-75.69215088887213
+38,Gq8gWAmmRLRLSms9_BC3cw,Ching's Kitchen,ON,Ottawa,K1R 5K3,13.0,4.0,641 Somerset Street W,asianfusion japanese taiwanese,45.4119322,-75.7050718
+39,ZDke7Cl7Fw3ODxhTMSzu9A,Viet Taste Restaurant,ON,Ottawa,K1Y 2X2,17.0,4.0,1395 Wellington Street W,vietnamese,45.3982315,-75.7400665
+40,x7vvuq1Hd3mk0q-7s4tQMw,OpenRice Asian Fusion & Lounge,ON,Ottawa,K1G 3V4,22.0,3.5,1755 Saint Laurent Boulevard,chinese asianfusion,45.4048309326172,-75.6261444091797
+41,FropOmU806sn85BVG8bTCQ,Gong Cha,ON,Ottawa,K2G 1V7,1.0,3.0,1379 Woodroffe Ave,korean hotdogs,45.35047118033522,-75.76164565980436
+42,h46c0PSztEct0fETSSj6lA,Some Coffee & Some Tea,ON,Ottawa,K2P 1W5,2.0,5.0,171 Bank St,coffee breakfast_brunch bubbletea,45.418432794956466,-75.69873679429293
+43,qgaE00JHibFBKpkNswNELw,Pho Bo Ga King,ON,Ottawa,K1R 6R2,22.0,3.5,778 Somerset Street W,vietnamese,45.4099259,-75.7097504
+44,CVeVKjneFHSVT33iHdxVqA,Giant Panda Restaurant,ON,Ottawa,K1S 5G5,11.0,2.0,170 Lees Avenue,chinese seafood,45.41464,-75.67142
+45,R_mtLznPAfzHATWJmalIEg,Saigon Pho,ON,Ottawa,K2P 1X1,42.0,2.5,232 Bank St,vietnamese,45.4167265,-75.6977531
+46,XIxwJaAeM20jkW5X8LiVeg,Wei's Noodle House,ON,Ottawa,K1S 4E6,19.0,3.5,610 Bronson Ave,vietnamese noodles,45.40406,-75.70179
+47,rfJViqdmAk0wK2jGgWwV-Q,Dumpling Bowl,ON,Ottawa,K1R 6P7,40.0,3.5,730 Somerset Street W,chinese dumplings,45.410471208279,-75.7080876454711
+48,Edfe4n07Z4In1sbPj2n9lA,Tea Owners,ON,Ottawa,K1R 6P5,1.0,2.0,695 Somerset Street W,bubbletea,45.4110522,-75.7070444
+49,R9MyLNvd8RPsZ2UocowwJw,Yangtze,ON,Ottawa,K1R 6P6,100.0,3.5,700 Somerset Street W,dimsum,45.41076,-75.70679
+5,R8QaoJvPXMlu3pFyWyFveg,Real Fruit Bubble Tea,ON,Orléans,K1E 2L9,3.0,3.5,110 Place d'Orléans Drive,bubbletea juicebars,45.4781702762577,-75.5155526474118
+6,5usulS45FNnvmHDD_WEsrQ,Freshly Squeezed,ON,Ottawa,K1C 2L9,1.0,4.0,110 Place d'Orléans Dr,bubbletea juicebars,45.477842560908,-75.5159583315253
+5,2uhjrpVnJUnKo9y_jhX3RA,L2,QC,Pointe-Claire,H9R 5J2,3.0,4.0,6801 Route Transcanadienne,bubbletea,45.4644743615436,-73.8320330552192
+3,eVmXMHEVk1WtVDk8qMFf9Q,Real Fruit,ON,Ottawa,K2T 1B7,1.0,4.0,8555 Campeau Drive,bubbletea,45.2993983,-75.9381095
+4,1p4-Ocb8gZ35rdQOo9xwyQ,Coco Fresh Tea & Juice,ON,Ottawa,K2T 1B6,3.0,3.5,120B Earl Grey Drive,bubbletea juicebars,45.309539,-75.9144085
+5,gWr4Xo_KjuVd67U5nd60Ow,Art Haven - Kanata,ON,Kanata,K2L 2N2,1.0,3.0,150 Katimavik Road,bubbletea paintyourownpottery,45.31281,-75.89562
+5,twn3tcoxGfVcfeKljKXW1w,Presotea,ON,Ottawa,K2K 2M5,1.0,5.0,591 March Rd,bubbletea,45.34729,-75.92376
+0,IRAWDVSS5jUtIPlZX50FYw,Sugar Marmalade,ON,Ottawa,K1N 5X6,49.0,3.0,180 Rideau Street,desserts chinese,45.427330001284,-75.6891723722219
+1,mlIto2CDC54V4y6C6LAc-A,Food Mood: Korean & Japanese Kitchen,ON,Ottawa,K1N 5X6,54.0,4.5,178 Rideau Street,japanese korean,45.4270979937672,-75.6890030577779
+8,SBBQJgD_K5ME3c25cRjb8w,Anson's Tea,ON,Ottawa,K1N 9J9,3.0,3.0,133 Besserer Street,bubbletea,45.42663091691858,-75.68898897618055
+9,xknT05Bowe0bT5QYUHBdrg,The Alley,ON,Ottawa,K1N 5S6,11.0,4.5,513 Sussex Drive,coffee bubbletea,45.4271823523576,-75.6945838098334
+10,E_S19UHKuqE5OXSQQsXH1g,Presotea,ON,Ottawa,K1N 9P1,16.0,4.5,174A Rideau St,bubbletea,45.427079,-75.689369
+11,fuw9YMpedWyBQ-ofVSbYOw,Saigon Pho,ON,Orleans,K1W 0C8,17.0,3.5,3722 Innes Road,vietnamese,45.4491946651822,-75.5237982433317
+14,T4gYOm5QYKD0eGcZZN8slw,Tiger Sugar,ON,Ottawa,K1N 6B1,2.0,4.5,238 Besserer Street,bubbletea,45.42768,-75.68564
+20,u4_JiFRkeTqM2KHx03Z7SQ,Pho-V,ON,Ottawa,K1J,12.0,4.0,2181 Ogilvie Road,vietnamese,45.44624,-75.59449
+22,WiRYHL9QJ-OrUav-abZkvw,Wang's Noodle House,ON,Ottawa,K1N 9C3,34.0,3.5,55 Byward Market Square,taiwanese noodles,45.4277696,-75.6924445
+23,QecUE9eKkt7W0woKGHi7Ew,CoCo Fresh Tea & Juice,ON,Ottawa,K1N 6P2,1.0,4.0,218A Laurier Avenue E,bubbletea juicebars,45.42559,-75.68154
+25,zXSPTkOmeLM6hzLWDzMB2g,Okey Dokey Tea House,ON,Ottawa,K1N 5Z5,1.0,4.0,507 Rideau Street,bubbletea,45.43185,-75.67866
+27,qucnh8jGmr91nbpqRvZEHQ,Chatime,ON,Ottawa,K1N 9N8,11.0,3.5,375 Dalhousie Street,bubbletea,45.4275709492576,-75.6898402422667
+29,9kwsKaNS3KtU5l8RgF6MRw,Sushiman,ON,Ottawa,K1N 6P7,5.0,4.0,275 Laurier Ave. E,sushi japanese bubbletea,45.42665327081049,-75.68015512079
+33,HOC-5G5eZ_4lG2npWJWT1Q,Umi Sushi Express,ON,Ottawa,K1N 9J7,6.0,1.5,Rideau Centre,japanese sushi,45.4255824,-75.692568
+34,LmxSbDXdIr0lMOv1NqC2hA,Yi Fang Taiwan Fruit Tea,ON,Ottawa,K1N 1G8,4.0,4.0,399 Dalhousie St,bubbletea juicebars,45.4270368,-75.6894086
+38,9HavNePhe-2_WuwFMXwXUA,Hong Kong Express,ON,Ottawa,K1N 5Y3,14.0,3.5,242 Rideau Street,chinese,45.42781,-75.6871
+42,2kekMqnkPFWIC9cMSxraTQ,Freshly Squeezed,ON,Ottawa,K1N 5W8,1.0,3.0,50 Rideau St,bubbletea juicebars,45.4257664027715,-75.6920279189944
+47,eYZUESJhTg5-ePJd9DpSpQ,Shuyi Tealicious,ON,Ottawa,K1N 5W2,2.0,2.0,366 Dalhousie St,bubbletea icecream,45.4275748,-75.6902576
+0,j8akL2fKscgbYfmxHF1H9A,IPho,ON,Ottawa,K1N 5M6,42.0,3.5,115 Parent Avenue,vietnamese,45.4293847239629,-75.6937738175588
+1,wipkYXu2UB7724VUQ0sWrQ,Green Shack,NY,Monticello,12701,4.0,5.0,422 Broadway,salad wraps juicebars,41.655279,-74.686728
+3,eyszQnWjKI-WZn0pzP0FAg,Crazy Bowlz,NY,Kingston,12401,213.0,4.5,301 Frank Sottile Blvd,mexican asianfusion,41.9717235528669,-73.9877026521156
+5,YAM7oE7VoSbLRmiht2gM8g,Delish Frozen Yogurt Cafe,NY,New Paltz,12561,20.0,2.5,188 Main St,desserts icecream coffee,41.7457,-74.078544
+6,yyPjyL3r60FgKWozOjQKww,Miso,NY,Kingston,12401,42.0,4.0,478 Albany Ave,sushi asianfusion bubbletea,41.94186274733435,-73.99897602698144
+7,G1ub6oGNKpktEHiLZbE1Xw,IPho,NY,New Paltz,12561,140.0,4.0,154 Main St,vietnamese,41.74694,-74.08153
+8,bRxw3H2hqR9TO6ZpjoQelg,Bangkok Cafe New Paltz,NY,New Paltz,12561,130.0,4.5,119 Main St,bars thai,41.74808,-74.08375
+9,t7khUI_hy-IZ29ZNxCfQCQ,Super Bowl Cuisine,NY,Kingston,12401,159.0,4.0,300 Plaza Rd,chinese hotpot,41.93777,-74.01867
+10,GwAmbjm4G-2Q378FUU4xPA,Crazy Bowlz,NY,New Paltz,12561,25.0,3.5,232 Main St,asianfusion mexican,41.74316,-74.0738
+11,BBecYPa7vZN9Hzp1nCCj8w,Seafood Village,NY,Newburgh,12550,62.0,3.5,47 N Plank Rd,sushi poke seafood,41.5229211022623,-74.0297336610453
+12,Uj0p2MVkNhWDdb4X9dtWDw,New Sai Gon Pho,NY,Newburgh,12550,78.0,4.0,202 S Plank Rd,vietnamese,41.5268814977678,-74.0702969580889
+13,302oEQwW2oETOfQNO9g9_w,Yum Yum Noodle Bar - Kingston,NY,Kingston,12401,156.0,3.5,275 Fair St,thai noodles bars,41.93373,-74.0189709
+0,zfeqGvCHz6yYZNl0sBaw_A,Rita's Italian Ice,NY,Horseheads,14845,8.0,5.0,2614 Corning Rd,icecream desserts shavedice,42.15824,-76.83708
+1,gRcRNfuY0n9F_3OcYkzNww,The Sugar Shack,NY,Ithaca,14850,1.0,2.0,408 E State St,streetvendors shavedice foodtrucks,42.439406,-76.492551
+2,KWAgc7_3Vuli1ysjuv_Zpg,Ithaca Mango Mango Dessert,NY,Ithaca,14850,21.0,3.5,159 Dryden Rd,desserts,42.44152333,-76.48570333
+3,ftMDXpZtR-JuM0z1AKfh2Q,Rita's Italian Ice,PA,Scranton,18508,3.0,3.0,534 Scranton-Carbondale Hwy,icecream desserts shavedice,41.4634276273134,-75.6516453373054
+7,WwTU4cfR9ZoEaJqb1c2LDw,Community Cup Coffee & Tea House,PA,Towanda,18848,10.0,5.0,421 Main St,coffee breakfast_brunch sandwiches,41.765742,-76.442961
+0,a0PEA5j3bZBQeOHzkSqnfw,Taichi Bubble Tea,NY,Ithaca,14850,8.0,4.0,740 S Meadow St,poke asianfusion bubbletea,42.43006,-76.50821
+1,BoA2QCC6GXUUYL9XPXjTDA,Panda Tea Lounge,NY,Ithaca,14850,47.0,4.0,407 Eddy St,bubbletea coffee,42.44188,-76.48723
+2,1cUeZjD-KYx6vfcXEWsfRw,U Tea,NY,Ithaca,14580,48.0,4.0,205 Dryden Rd,bubbletea juicebars coffee,42.44142,-76.48484
+6,1FkZoiHDAIQtknbK2G3ZXw,Kung Fu Tea,NY,Ithaca,14850,35.0,3.5,143 Dryden Rd,bubbletea coffee juicebars,42.4414711,-76.4860687
+12,YeV7DS-1YYqC4cWi2w-GQQ,Kimchi,NY,Ithaca,14850,28.0,4.0,124 E State St,korean,42.439802,-76.498079
+14,FJsh0TOIQJWj3aQP4Yg0_A,Saigon Kitchen,NY,Ithaca,14850,639.0,4.0,526 W State St,vietnamese,42.439463,-76.507472
+15,wJvd9PLqiuNtP-DIkxieJw,Spicy Asian,NY,Ithaca,14850,121.0,4.0,335 Elmira Rd,chinese thai,42.42544,-76.51254
+17,ZzA6l46CKDrHp7tQwV30GA,Sushi Osaka,NY,Ithaca,14850,42.0,3.5,113 E State St,japanese sushi,42.43946,-76.49846
+18,ejHduGcJr28ehsdSXaiZXw,Jade Garden Restaurant,NY,Ithaca,14850,37.0,3.0,108 S Meadow St,chinese buffets,42.43891,-76.50858
+1,BgmS8g5miSMORfB6pOd4Ig,Tea Talk Café,NY,Poughkeepsie,12601,67.0,4.0,2600 South Rd,coffee cafes bubbletea,41.667119743708,-73.9283034731181
+2,VI871H1Uxl6Jv70s-bjXGg,Friend's Corner Tea & Snack Bar,NY,Highland,12528,5.0,5.0,6 Main St,bubbletea,41.71935,-73.96456
+13,WxfAL_3XmS3ow-3vWL7-tg,Apple Pie Bakery Cafe,NY,Hyde Park,12538,121.0,4.0,1946 Campus Dr,bakeries cafes,41.745789,-73.933202
+15,ttevEjXR5NVXwkRisbGwaQ,Mizu Sushi,NY,Hyde Park,12538,75.0,4.5,4246 Albany Post Rd,sushi thai japanese,41.781711,-73.9309304
+3,DYLPogZ7ApvbNk-uw8lcHA,Rita's Italian Ice,PA,Dunmore,18512,2.0,3.0,139 S Blakely St,desserts shavedice icecream,41.4205108,-75.6314636
+0,WkI4HbTsAwU9HSGdmKxC8g,Y&E Creations,NY,Middletown,10941,9.0,5.0,1 N Galleria Dr,desserts donuts shavedice,41.452845,-74.368394
+3,T95zd578qx0uT0oRGqindg,AKI Asian Restaurant,PA,Olyphant,18447,19.0,4.5,422 Lackawanna Ave,japanese chinese asianfusion,41.468696275681,-75.6026523037037
+2,y5_nDJJXckgZfWuocFtUUQ,Rita's Italian Ice,PA,Scranton,18505,1.0,2.0,1019 S Washington Ave,icecream desserts shavedice,41.3981439,-75.6743949
+3,XBrAj-qf4jjPo--1TBApHQ,Rita's Italian Ice & Frozen Custard,NY,Middletown,10940,9.0,3.5,92 Dolson Ave,juicebars shavedice icecream,41.43235012619822,-74.42294247361069
+1,gwY6anQtnc5PbZKMZuu0pQ,Kung Fu Tea,NY,Middletown,10940,49.0,4.5,125 Dolson Ave,bubbletea coffee juicebars,41.4272907953458,-74.426985435139
+6,CIPYoR7O_Qbio77ZsASYiQ,Thai Rak Thai,PA,Scranton,18503,231.0,4.0,349 Adams Ave,thai,41.409463,-75.659987
+8,Ztlez--xMHzB7TXBxDh6Xw,Thai Thai Scranton,PA,Scranton,18503,63.0,4.0,309 N Washington Ave,thai,41.4094244,-75.6622215
+10,-BW5C-0-Abk4r83j1XDgsA,Sushi & Thai,PA,Dunmore,18512,70.0,3.5,702 N. Blakely St,sushi thai asianfusion,41.42788,-75.623393
+3,LTB801VOOXfVt4GK7Vmf2A,Nana's Ice Cream & Grill,NY,Hyde Park,12538,12.0,4.5,864 Violet Ave,icecream sandwiches,41.77137,-73.90898
+14,htSM_coplgYxVXKrCl9haQ,Golden Wok,NY,Red Hook,12571,60.0,3.5,7479 S Broadway,dimsum szechuan seafood,41.9946129658042,-73.8762717833423
+0,QjDKZkbPVhjquAspABvsTg,Mango Mango Dessert,NY,Buffalo,14228,24.0,4.5,2055 Niagara Falls Blvd,desserts juicebars bubbletea,43.008662,-78.818636
+1,XMhdnk0iINMTn3MWxZJJAQ,Kona Ice Truck,NY,Buffalo,14201,2.0,5.0,,foodtrucks shavedice,42.89619064331055,-78.88382720947266
+2,Wz7qilx39WEavm8VvoDI2Q,Shanty Shack,NY,Buffalo,14203,2.0,2.5,1111 Fuhrmann Blvd,shavedice foodstands bikerentals,42.8504175784521,-78.8637933880091
+3,5KmP4Hsllqib6ixQ8GK2fA,Toutant,NY,Buffalo,14203,532.0,4.0,437 Ellicott St,southern bbq seafood,42.8901837568908,-78.8704228240093
+0,PRQV0Wuxt6rulARL0aTbXg,Tai Chi Bubble Tea,NY,Tonawanda,14150,246.0,4.5,2309 Eggert Rd,bubbletea sushi juicebars,42.98244760000256,-78.82350383437044
+1,-Q5aAAzNx88zFbggny5UJg,Tea Leaf Cafe,NY,Amherst,14226,252.0,4.0,4224 Maple Rd,coffee bubbletea asianfusion,42.99236,-78.80467
+2,HaFHlKz61k2G26qs_cs1Qg,ICHA cafe,NY,Buffalo,14228,71.0,4.5,1300 Sweet Home Rd,bubbletea,42.997269,-78.800538
+3,fFvyugVKa7PDpnfyaTWgog,Cow Bubble Tea Cafe,NY,Amherst,14226,54.0,4.0,3500 Main St,bubbletea,42.95945582183219,-78.81840685267153
+4,knTg2ibcBXK1RFAap6-g9g,Teaxpresso Cafe,NY,Tonawanda,14150,13.0,5.0,2323 Sheridan Dr,bubbletea coffee,42.980516169853836,-78.8478947466268
+6,EJz6J75ZS4dKLaduGy-i1w,Pulp 716 Coffee & Comics,NY,Lockport,14094,43.0,4.5,45 East Ave,coffee bubbletea comicbooks,43.1712868220638,-78.6871669068933
+7,vQkHE2ni1tYrtfUCJMJ2tA,Tea Leaf Cafe,NY,Blasdell,14219,30.0,4.5,3835 McKinley Pkwy,bubbletea coffee,42.780488,-78.810625
+8,rh_t8puIwZUUeEF7kpnXOA,Boba Stop,NY,Buffalo,14225,27.0,4.5,1 Walden Galleria,bubbletea vietnamese,42.914187,-78.764019
+9,m6_50V9CUiPETKITvg8sFg,Lucky Koi Bubble Tea,NY,Buffalo,14214,67.0,4.0,3216 Main St,coffee bubbletea waffles,42.95178,-78.82553
+10,jorsyolcdcYwiBGtOox1cg,Sweet World Cafe,NY,Cheektowaga,14227,3.0,5.0,1060 Harlem Rd,bubbletea juicebars icecream,42.87236,-78.78705
+11,XTm5T5bzccheBOnLp50-2w,Milk and Tea,NY,Buffalo,14216,44.0,4.0,2312 Delaware Ave,bubbletea tea,42.9470677078895,-78.8689319384257
+12,misgaH2XXnLi1o27_IIjmw,Kung Fu Tea,NY,Amherst,14228,109.0,3.5,520 Lee Entrance,coffee bubbletea juicebars,43.001698,-78.784932
+13,PRK6Ta7KMwrDaz2UMuoL3A,Lancaster Coffee Company & Cafe,NY,Lancaster,14086,67.0,4.5,24 Central Ave,tradamerican coffee juicebars,42.901471,-78.670598
+14,BRo1XC4V15SMsuq1QJ-YqQ,Teton Kitchen Thai & Japanese Cuisine,NY,Cheektowaga,14043,819.0,4.5,415 Dick Rd,thai japanese sushi,42.9138143,-78.7337717
+15,43pWP5LsgwYmzOYXv2i-xw,Fresh Catch Poke,NY,Williamsville,14221,221.0,4.5,5933 Main St,seafood salad acaibowls,42.964454,-78.732362
+16,ORmyd4_X54s_8gARVmm91g,Wok & Roll,NY,Williamsville,14221,208.0,4.0,5467 Sheridan Dr,gluten_free dimsum cantonese,42.9766287706657,-78.733003529639
+17,xK8je2lZsGufXoDIbeEuhw,Platter's Chocolates,NY,North Tonawanda,14120,116.0,4.5,908 Niagara Falls Blvd,icecream chocolate coffee,43.0615689294661,-78.8420957465576
+18,bkkpP6fzeVaFDo8_LaRr8A,Vertical Cafe,NY,Warsaw,14569,18.0,5.0,18 W Buffalo St,coffee wraps sandwiches,42.74011,-78.13329
+19,AJo0X6r3UU5l-9Vaxg9xvg,Pho Cali,NY,Elma,14059,90.0,4.0,5952 Seneca St,vietnamese,42.8240484,-78.6865202666672
+20,maSduC-htaBWbJocLVg9tQ,Pattaya Street Food,NY,Buffalo,14213,11.0,4.0,25 Grant St,thai burmese streetvendors,42.9148565,-78.8903885
+21,ww9oTjvy5QDzvsoRajkjWg,Pulp 716: Coffee & Comics,NY,North Tonawanda,14120,40.0,5.0,31 Webster St,coffee bubbletea comicbooks,43.02264,-78.87741
+22,NjXqQ4VhEwpFLflUvarNuw,BurgerIM,NY,Buffalo,14216,65.0,3.5,1460 Hertel,halal burgers chicken_wings,42.94797,-78.85401
+23,XDEWn70DSkrLiw__o0uFcw,Lin Restaurant,NY,Buffalo,14207,123.0,4.5,927 Tonawanda St,thai burmese,42.95387,-78.9056
+24,KySatgx5JAA4WK_dSAszaA,Buffalo Sushi Express,NY,Buffalo ,14207,20.0,4.0,1893 Niagara St,sushi bubbletea ramen,42.93565392873572,-78.902629446032
+25,0-EhWj8cE1KXMVzLcPCyfQ,Pho Dollar,NY,Buffalo,14213,242.0,4.0,322 W Ferry St,vietnamese bubbletea,42.9155469,-78.889792
+26,Q5rSPWwdmTnoW0H7ZnJV0A,Captain Jack Pizza,NY,Cheektowaga,14225,5.0,2.5,4923 Genesee St,pizza,42.93624,-78.70486
+27,rbJrlo_mXOEuys6aSdEbug,Phovana,NY,Amherst,14226,131.0,4.0,1574 Eggert Rd,vietnamese hotpot,42.97083,-78.80561
+28,oodGOmOZScBw1styUjeUCA,Taste of Siam,NY,Buffalo,14222,234.0,4.0,810 Elmwood Ave,thai,42.9191538,-78.8772467
+29,INML4slj2v5NV6eDgwaeig,Taste of China,NY,Amherst,14226,24.0,4.0,736 Alberta Dr,chinese bubbletea,42.987179,-78.81963867
+30,bBviQ573muQuiYOuYhJFMg,Man-aung Sushi,NY,Buffalo,14203,12.0,4.5,14 Lafayette Square,sushi,42.8860776306888,-78.8736375064044
+31,Si8N0UWp7DmAJJhInr8j0Q,Poke Factory,NY,Amherst,14228,13.0,2.5,520 Lee Rd,poke poutineries hawaiian,43.0019688808018,-78.7855703856091
+32,2dt0xfp_TXKgZ5dr_2Blrg,SPoT Coffee,NY,Buffalo,14216,106.0,4.0,1406 Hertel Ave,coffee desserts sandwiches,42.9479049388081,-78.8560596681977
+33,wYZGNA6E4SIbIBdXSVFJDg,Family Thai,NY,Buffalo,14207,33.0,4.5,863 Tonawanda St,thai burmese sushi,42.9521874630796,-78.904822
+34,DoxzpRkIjj_5uKCnv7Ekzw,Pho Lantern Restaurant,NY,Buffalo,14213,508.0,4.5,837 Niagara St,seafood vietnamese thai,42.90627,-78.89638
+35,l0-9HNfXCjSVnzWMnbnQEA,99 Fast Food,NY,Buffalo,14215,325.0,4.0,3396 Bailey Ave,vietnamese thai hotdogs,42.947445,-78.81393
+36,egy6yTMbEUBtBSaNg7rLvw,West Side Bazaar,NY,Buffalo,14213,184.0,4.5,25 Grant St,food_court,42.9145878553391,-78.890306353569
+37,VBPPFgIzOOAH_WKzw6mTWQ,UB Commons,NY,Buffalo,14228,4.0,4.5,University Of Buffalo North Campus,food_court,43.0015497,-78.7846597
+38,C4S9Mcs4-HoaZZvKW403Bg,Gin Gin Restaurant,NY,Buffalo,14226,164.0,3.5,3381 Sheridan Dr,chinese,42.979637721032,-78.808308265076
+39,z5p4AlHv78tU2AYJfhsHGw,Dancing Chopsticks,NY,Buffalo,14228,43.0,4.0,520 Lee Rd,japanese bubbletea asianfusion,43.00166736809521,-78.78552902805262
+40,eBXjMwgZ9dKuxEShs8M6ug,China Max,NY,Buffalo,14226,38.0,3.5,681 Niagara Falls Blvd,chinese,42.97258,-78.82285
+41,pkaEtVhNjdrA6i6YqyVVxw,Chan's Wok,NY,Tonawanda,14150,13.0,3.0,796 Young St,chinese,43.0030392309417,-78.8595325128975
+42,DwOI4bBmX0Kj-6l_g_kqYw,Taco Bell,NY,Amherst,14226,77.0,2.0,4258 Maple Road,hotdogs mexican,42.9911326274674,-78.8053881446423
+2,MoVf9Q6q1W8pdyjdYjvVRA,Rita's Italian Ice,NY,Rochester,14618,37.0,4.0,1900 Clinton Ave S,desserts icecream shavedice,43.1198909439232,-77.5935581268731
+4,-xWxzBjItju-6SEp-77hbQ,Coco Garden,NY,Rochester,14623,193.0,4.5,420 Jefferson Rd,malaysian,43.0907209773817,-77.639698095562
+6,VfoOK2rNbhw3yCbRVWE1Pg,Sunny’s Family Diner,NY,Rochester,14623,30.0,4.5,2171 W Henrietta Rd,tradamerican breakfast_brunch diners,43.108114,-77.626249
+0,mEJWyK2WFOrrCAOcmjNrFA,Tai Chi Bubble Tea,NY,Rochester,14623,175.0,4.0,3300 W Henrietta Rd,bubbletea asianfusion sushi,43.086979,-77.63596
+4,T7Y1N9MHeAQSAPjaVY4oVQ,Sweet Arts Bakery,NY,Geneseo,14454,23.0,4.5,95 Main St,coffee bakeries,42.7958312,-77.8166925
+7,IxuVSZHUVvkUCiRhv4PAGA,Tai Chi Bubble Tea,NY,Rochester,14618,49.0,4.0,3300 Monroe Ave,bubbletea,43.10355696665287,-77.53808903081244
+8,8D7biM1ShIgHEJrQjz6mxQ,Boba Tea Cafe,NY,Niagara Falls,14304,61.0,4.5,8201 Niagara Falls Blvd,bubbletea vietnamese thai,43.0894571,-78.9703384
+9,-7Qi7QrgExAitdDOnHpr2g,Tai Chi Bubble Tea,NY,Irondequoit,14622,72.0,4.5,2255 E Ridge Rd,bubbletea sushi asianfusion,43.20397850059703,-77.55655931367541
+11,2su2EyARxlLqhD-C45QRYQ,Kung Fu Tea,NY,Rochester,14623,51.0,4.0,2829 W Henrietta Rd,bubbletea coffee juicebars,43.0953858,-77.632821145998
+13,yUhPg_azKuc4T2LxlsT-IQ,Taichi Bubble Tea,NY,Niagara Falls,14304,36.0,4.0,1606 Military Rd,ramen bubbletea sushi,43.096752249049494,-78.97524505971361
+19,BNMSGfaQZ5ZvL-oXtBe0cg,Tai Chi Bubble Tea,NY,Rochester,14620,164.0,4.0,1367 Mt Hope Ave,bubbletea sushi ramen,43.1230916328091,-77.6185823869166
+20,a-Lh5UfOswRyqJanIn0FjA,crave,NY,Rochester,14620,20.0,5.0,1386 Mt Hope Ave,chinese ramen,43.1228152,-77.618209
+23,U9i9pAOhkqhSMqMJKQWtuw,Sweet Roll’n Yen Cafe,NY,Rochester,14620,19.0,4.5,684 S Ave,icecream laotian bubbletea,43.14216,-77.60422
+24,HOJqjz_lWNKaH_nfMt8RrQ,Shaloka,NY,Victor,14564,20.0,4.5,664 Eastview Mall Food Ct,poke juicebars acaibowls,43.029165,-77.445607
+26,9B8RKVLe5w7xa6BdygP0pg,Tai Chi Bubble Tea,NY,Victor,14564,12.0,2.5,697 Eastview mall,bubbletea sushi ramen,43.028731,-77.44609
+27,ul3aj3zJ5Zwgj5lzJr_6Ag,Pho Cali II,NY,Niagara Falls,14301,15.0,4.5,1915 Pine Ave,thai vietnamese soup,43.094940129014496,-79.03824996203184
+28,n5CNrK00eifo-d6B6UPqag,Jenny’s Bakery,NY,Rochester,14623,26.0,4.5,125 White Spruce Blvd,bakeries desserts coffee,43.10496499143248,-77.61771846682788
+29,okBDrHcIkVN-NfBIxBdLJw,49 Coffee House & Eatery,NY,Springville,14141,20.0,4.5,49 E Main St,coffee breakfast_brunch,42.5085009505351,-78.6657146046486
+30,F3ryY-O5E37gcIMQVK9pcA,Roll'N Deep,NY,Rochester,14609,12.0,4.5,2 Rochester Public Market,bubbletea asianfusion foodstands,43.1657821,-77.5904226
+31,Knn0ydmwstQLXuyCcaBUzQ,Tai Chi Iron BBQ,NY,Rochester,14626,13.0,3.0,271 Greece Ridge Center Dr,ramen bbq bubbletea,43.20242272122911,-77.69554819392019
+39,u61FradAqWXk7HfxF6TaTA,Sogo Japanese Steakhouse,NY,Rochester,14626,62.0,3.5,326 Greece Ridge Center Dr,japanese sushi asianfusion,43.206442,-77.6942737
+40,oyDq3BAYRCe6E7GxbVIQdw,Tai Chi Bubble Tea,NY,Rochester,14626,5.0,2.0,98 Greece Ridge Center Dr,bubbletea asianfusion,43.20772847913907,-77.68779003158609
+41,XmP6UrR_FJ5JljvFPWaRjA,Pho Golden,NY,Niagara Falls,14301,114.0,4.5,3004 Pine Ave,vietnamese,43.09541,-79.02553
+45,_gYezkqT6atIHH7yCdhVTg,Blue Taro,NY,Rochester,14620,44.0,3.5,942 Monroe Ave,vietnamese gluten_free,43.14101,-77.58371
+47,Uf0HAmNom2PsISc38B7N0w,White Swans Asia Cafe,NY,Rochester,14620,169.0,4.0,798 S Clinton Ave,chinese asianfusion thai,43.14212,-77.59828
+48,JiMD0JMu2RnDcyX5DlOdHg,Thai Mii Up,NY,Irondequoit,14622,387.0,4.5,1780 E Ridge Rd,laotian thai,43.201819,-77.569685
+0,FV5AZApHOWq8NengSk9rRQ,Roc City Ramen,NY,Rochester,14608,56.0,4.5,319 Exchange Blvd,japanese,43.149065,-77.612239
+1,WFnfUOV3DbCaT9QLxIK2ig,SPoT Coffee,NY,Rochester,14604,209.0,3.5,200 East Ave,coffee,43.1569137573242,-77.5984573364258
+3,iCTppZTGrhhRrSiK1BF8IQ,Tokyo Japanese Restaurant,NY,Henrietta,14623,136.0,4.5,1000 Hylan Dr,sushi japanese thai,43.080548,-77.627356
+5,uuG3Rz2yKzJWt0OA-E7yqw,Yummy Garden Hot Pot,NY,Rochester,14623,279.0,4.0,2411 W Henrietta Rd,chinese asianfusion hotpot,43.10394,-77.62849
+12,Xpic6LdwjcAVySN1nha1vw,The Wok,NY,Rochester,14611,89.0,3.5,912 Genesee St,chinese noodles vietnamese,43.1319299,-77.6357699
+15,RSAGXrHblHMMoQsudu_98Q,Yummy Garden,NY,Rochester,14607,53.0,2.5,345 Meigs St,chinese asianfusion,43.14764,-77.59474
+16,j6yQ6p7QZKYMfdlNdpvHTw,Tai Chi Lunch Box,NY,Rochester,14607,5.0,3.5,343 Meigs St,asianfusion chinese thai,43.14766,-77.59471
+18,J5unIF_8-3aUgx3QylHJFw,Youkoso Sushi,NY,Rochester,14623,9.0,4.5,1455 E Henrietta Rd,sushi japanese,43.09124013350435,-77.61158137227098
+21,zcMHpgzJIsI5-FyQ2SnXDw,He's Chinese and Japanese Restaurant,NY,Rochester,14614,46.0,3.5,20 Exchange Blvd,chinese japanese,43.1553,-77.61209
+22,dlXjDZZ6_9pwEIONbgxVmg,SEA Restaurant,NY,Rochester,14607,355.0,4.0,741 Monroe Ave,vietnamese asianfusion laotian,43.1434147,-77.5885083
+24,QgsfGdRqIWsPET5s2W4eSQ,SEA Restaurant,NY,Rochester,14620,136.0,4.0,1675 Mt Hope Ave,vietnamese asianfusion noodles,43.11757,-77.6218
+25,EMQRKzNO393dOHyZeYZ4pA,Flavors of Asia,NY,Rochester,14620,156.0,4.0,831 S Clinton Ave,asianfusion chinese thai,43.1414489746094,-77.5979614257812
+26,syDK86j_izfmBrbeF48QLQ,Shui Asian Fusion,NY,Rochester,14607,99.0,3.5,274 North Goodman St,asianfusion,43.1585377,-77.5843293
+27,MWQxT8HlKNepfrdB7OExrA,Ming's,NY,Rochester,14620,103.0,3.5,1038 S Clinton Ave,chinese,43.1381988525391,-77.5944900512695
+28,2I1h9R1Ph8PMrmPynCMS_Q,Ghost Kitchens,NY,Rochester,14624,2.0,3.5,2150 Chili Ave,fooddeliveryservices hotdogs comfortfood,43.13309,-77.68888
+29,nYR5jmZEK2oL2MuNDHQp7g,Szechuan Opera,NY,Rochester,14607,123.0,4.0,630 Park Ave,szechuan,43.14878,-77.57879
+0,Ym8aOpL_Z5CnhIGxcq_ocA,Jojo Asian Cafe,NY,Cassadaga,14718,35.0,4.5,11 S Main St,asianfusion bubbletea,42.343931256045195,-79.30972556862127
+3,zdJwPYT4VcN1GzULxwfCTg,Arctic Bites,NY,Fredonia,14063,16.0,4.5,44 W Main St,sushi icecream juicebars,42.43898,-79.33247
+2,gddN6JRY-rxXT1PHqnU_Ww,Sul & Bean - Korean Dessert Cafe,ON,Richmond Hill,L4C 1V7,24.0,4.5,9737 Yonge St,desserts japanese korean,43.86518,-79.4348
+3,G4pt2q9Tr5SkwCw3Wb43VA,Snow Time,ON,Toronto,M1V 4W8,211.0,4.0,3290 Midland Avenue,desserts shavedsnow,43.8062607389319,-79.2892820565678
+5,9oyYmCv9HuVRa1lZUE86sw,Cups,ON,Markham,L3T,120.0,4.0,5 Glen Cameron Road,desserts,43.8055499,-79.42004
+6,XZnfgB8h2ZzfiL65lhO1tA,Ice Bar Cafe,ON,Oshawa,L1G 4R8,19.0,3.0,10 Simcoe Street N,desserts korean bbq,43.89788,-78.86408
+7,wcpS12gLfPz-z11BVhL6jQ,Soul Cafe,ON,Toronto,M2M 1C9,103.0,4.0,23 Drewy Avenue,desserts coffee,43.7866289533335,-79.4183974340558
+8,TMzGwu5PlFQS7uud_6UNwQ,The Cups Bingsu Cafe,ON,Vaughan,L4J 7Y1,27.0,4.5,100 Steeles Avenue W,desserts icecream,43.7980578629053,-79.4256595149636
+9,cj_9eTPR0JBqk9qt2VmzFw,Hodo Kwaja,ON,Toronto,M6G 1K9,226.0,4.5,656 Bloor Street W,bakeries korean,43.66438,-79.41557
+10,ZCYCNWA98718SZ0A4bHD7A,Dear & Fro,ON,Toronto,M1V,198.0,3.5,3300 Midland Avenue,desserts icecream,43.80669,-79.28878
+11,bzCcwcoTUekYZhhQbBgPaQ,Cafe Daily,ON,North York,M2N 5S3,14.0,4.5,5519 Yonge Street,korean desserts bubbletea,43.77837,-79.41477
+12,NX1281ugzs2navHAX5X9cQ,Cha Me Cha,ON,Markham,L3R 1J5,334.0,3.0,8333 Kennedy Road,taiwanese,43.8563274288593,-79.3038838729262
+13,5G6tkZu1h-M08tip2V_6oA,Sugar Marmalade,ON,Toronto,M5T 2E7,143.0,3.0,280 Spadina Avenue,desserts,43.65252,-79.39854
+14,26wJiKyHEWiXNuCPxQjRZg,Cup O House,ON,Toronto,M6G 1L2,49.0,4.0,682 Bloor Street West,juicebars bakeries coffee,43.66409,-79.4168
+15,jc3p5SFyt9qrrMXt6E13ig,Tsujiri,ON,Toronto,M5G 1P5,573.0,4.0,147 Dundas Street,tea icecream desserts,43.6552918174341,-79.3853147814892
+16,UL73IogsCDYnHf7YEtq9IA,Meet Fresh,ON,Toronto,M5T 2E9,18.0,3.5,333 Spadina Avenue,shavedsnow desserts taiwanese,43.65475,-79.39824
+17,YfeTH4jtz_gpWz0QRYJFnQ,Sugar Marmalade,ON,Markham,L3R 3P9,165.0,3.5,3235 Highway 7 E,desserts,43.8485222,-79.34805829999999
+18,paAtrM1nmdCAgEZMxVcgqg,The Cups,ON,Toronto,M2M 3T2,6.0,3.5,5647 Yonge Street,desserts coffee juicebars,43.7812186,-79.415553
+19,CNLYeWal9pL0Y8GN5LjJDw,Meet Fresh,ON,Toronto,M1V 0E3,15.0,4.5,385 Silver Star Boulevard,desserts bubbletea shavedsnow,43.8151507,-79.2952327
+20,835QWShOwLeieHHR9Y4Lcg,Petit Potato,ON,Toronto,M2N 6Z4,72.0,4.0,5095 Yonge Street,taiwanese japanese,43.76828,-79.41223
+21,cC3yBfllv5CnGzvwzLO4iQ,Meet Fresh Markham,ON,Unionville,L3R 4P9,55.0,3.0,28 South Unionville Avenue,desserts taiwanese shavedsnow,43.8560370773386,-79.3035949202377
+22,Qayz6avNEPNS6Q5UThYHCQ,MABU Generation,ON,Markham,L3R 3P3,415.0,3.5,3235 Highway 7,taiwanese,43.84872,-79.347935
+23,5o-jVJv-nJqTBu1SoiZUUQ,HK Sweets,ON,Toronto,M4P 2C8,32.0,4.0,2375 Yonge Street,desserts bubbletea,43.7093725,-79.3987329
+24,GaUQ63TSssoD_HwCNyL4cQ,The Dessert Kitchen,ON,Toronto,M5S 1G4,99.0,3.5,73 Harbord Street,desserts shavedsnow,43.66276,-79.40273
+25,9r4KEv7WahExaMDIcbZmYg,ZenQ,ON,Markham,L3R 1J5,125.0,3.0,8333 Kennedy Road,desserts taiwanese,43.85661,-79.30407
+27,3fw2X5bZYeW9xCz_zGhOHg,Tracy Dessert,ON,Markham,L3R 3P9,144.0,3.5,3235 Highway 7 E,desserts,43.8489358887261,-79.3478012802399
+28,buMP3nR_-EL2ROE7nKMBUg,Wafflian - Belgian Waffle and Cupcake Bar,ON,Toronto,M5T 3K5,25.0,3.5,109 McCaul Street,waffles,43.6537434,-79.391033
+29,Dpl8d6eXq-YnF5zEV1cwMw,Poop Cafe,ON,Toronto,M6G 1L4,249.0,3.0,706 Bloor Street W,desserts cafes icecream,43.66391,-79.41767
+30,5-7DO7CgcEVbUKAua068rw,Baker's Best Bakery,ON,Scarborough,M1V 4Z4,18.0,4.5,4915 Steeles Avenue E,bakeries desserts filipino,43.82721,-79.2917773227539
+31,dM8i3hklYuGE2xiVsQZ4Yg,Red Bean Waffle House,ON,Vaughan,L4J 7Y1,84.0,4.0,100 Steeles Avenue W,desserts waffles,43.798002,-79.4250259
+32,mymlOeTImIWcvZWFZVvbXQ,Meet You Leisure Restaurant,ON,Toronto,M2N 5S1,28.0,4.0,5437 Yonge Street,chinese seafood,43.776944320744,-79.4144428885916
+33,iLAHzlcLBTF6GOSlRQWBLQ,Taoyuan Neverland,ON,Markham,L3R 4P8,12.0,4.0,1076-8333 Kennedy Rd,hkcafe cafes chinese,43.8565679802903,-79.3041658401489
+34,Zyq9I7MkxfaRLiKeAm0KOw,ZenQ,ON,Toronto,M5G 1C7,46.0,3.0,171 Dundas St W,taiwanese bubbletea,43.655101876129,-79.3861730396748
+35,XnNKFv5xqdPd9K1aAW-uUQ,Hancook Cheese Dakgalbi,ON,Toronto,M6G 1K6,78.0,4.0,605 Bloor Street W,korean,43.66457,-79.41304
+36,lq7dyDNXtg6O7oZLTnOIPQ,Tasty Pot,ON,Richmond Hill,L4B 3Z4,98.0,4.0,550 Hwy 7,taiwanese bubbletea hotpot,43.8441284,-79.384599
+37,Vp8rnPx-hUnu8rDsmbAn4w,Futura Granita + Gelato,ON,Toronto,M6E 1A1,20.0,4.5,964 St Clair Ave W,desserts icecream,43.6796718848054,-79.4364004209638
+38,He_4k_w_8bjWnoepahS2zw,Petit Potato,ON,Toronto,M2H 1S8,294.0,3.5,10 Ravel Road,taiwanese japanese,43.7905798489871,-79.3660936696034
+39,WKOUTdVJS58E178JjhwidQ,Pastel Creperies & Dessert House,ON,North York,M2N 5R6,343.0,4.0,5417 Yonge Street,creperies desserts coffee,43.77605,-79.41424
+40,E7Heu5iT3D1WsfxlFROgEA,Meet Fresh,ON,North York,M2N 5R4,126.0,3.5,5315 Yonge Street,desserts taiwanese tea,43.7733797,-79.4136918
+41,ui3NMjdiIrILl9JFGcLfbg,Daigyo,ON,Toronto,M2N 5N4,203.0,4.0,4909 Yonge Street,desserts tea icecream,43.7642856511625,-79.4115551188588
+42,6n-wxLcnj98rvM7hOXdepw,Honeymoon Dessert,ON,Toronto,M1S 1K6,11.0,3.5,2361 Brimley Rd,desserts,43.79829598732105,-79.27301399409771
+43,GYgkmreQorRd5wJg0Pvnfw,Soban Eatery & Bar,ON,Toronto,M2N 5S2,119.0,3.0,5600 Yonge Street,desserts cafes japanese,43.7794522,-79.4155136
+44,bejxx0XrZ6Ogv-o-3InELA,Sugar Marmalade,ON,Toronto,M2N 2N1,170.0,3.0,5322 Yonge Street,taiwanese desserts,43.7732844729708,-79.4140255082043
+45,2PCz_uVX7GOXtGHNXAPXhw,Sugar Marmalade,ON,Toronto,M1V 0C9,78.0,3.0,3278 Midland Avenue,desserts taiwanese juicebars,43.805342,-79.288783
+46,NF6di6YcQxN0rDAleE7SyQ,Ten Ren's Tea,ON,Thornhill,L3T 0A2,178.0,3.5,111 Times Avenue,tea taiwanese,43.841488,-79.391353
+47,PhEkAyMTP3Hmr8rpG3fBfw,Max's Restaurant,ON,Scarborough,M1H 2A8,28.0,2.5,707 Markham Road,filipino,43.7624667330219,-79.2259868042297
+48,6f2imTsIysASgHh2t91OOQ,AKA-ONI Ramen&izakaya -Scarborough,ON,Toronto,M1V 5N1,300.0,4.0,633 Silver Star Blvd,japanese sushi asianfusion,43.8219855640577,-79.298919766399
+49,RwRNR4z3kY-4OsFqigY5sw,Uncle Tetsu's Japanese Cheesecake,ON,Toronto,M5G 1M5,1026.0,3.5,598 Bay Street,desserts bakeries,43.65584,-79.38403
+0,gESUdHH8ey-JC2fN8shC9w,Zero Zone,ON,Toronto,M1V,4.0,2.5,3290 Midland Avenue,desserts bubbletea juicebars,43.8064577086928,-79.2894747108221
+1,uUq0bMEjt202bMbRHkIcNA,Mabu Station,ON,Toronto,M2N 5S1,169.0,3.0,5455-5457 Yonge Street,taiwanese,43.7774719503833,-79.4147657042992
+2,Eaxf3bmxnMljIylk_2ZW2Q,Pinoy Waffles,ON,Markham,L3R 0Y5,31.0,3.5,4300 Steeles Avenue E,foodstands waffles,43.826214,-79.3063174
+3,VRYeIWCo4JPpEG6-Hm9RKA,ZenQ,ON,Markham,L3R 1A4,39.0,2.5,104-7240 Woodbine Avenue,taiwanese bubbletea desserts,43.8200186584155,-79.3508907004041
+4,nRZjrWIzqKc26KjpBG0fHg,Cafe Princess,ON,Toronto,M2N 5S2,182.0,3.0,5590 Yonge Street,coffee,43.7793326,-79.4156332
+5,nrq5H3LZicjMG0wv7gy08g,Kintaro Izakaya,ON,Toronto,M4Y 4C5,204.0,4.0,459 Church Street,japanese sushi tapasmallplates,43.66417,-79.38006
+6,CgtLpRLRRKpw5nTvWxlRWQ,Islas Filipino BBQ and Bar,ON,Toronto,M6R 1B3,70.0,4.0,1690 Queen Street W,filipino bars,43.6393,-79.4446
+7,Bx3aKLDBOc91UmdQxSnTrw,Destiny,ON,Richmond Hill,L4B 3B4,234.0,2.5,165 York Boulevard,coffee asianfusion taiwanese,43.8486138528841,-79.3743906987088
+8,awbcsO33ZZFBlA-LLAjysA,Uncle Tetsu's Japanese Bake,ON,Toronto,M5G 1M5,94.0,4.0,596 Bay Street,desserts bakeries,43.65581,-79.38401
+9,r_BrIgzYcwo1NAuG9dLbpg,Pai Northern Thai Kitchen,ON,Toronto,M5H 3G8,3021.0,4.5,18 Duncan Street,thai,43.64784,-79.38872
+10,-ICGmF2qUVKdvOehVNgPbg,Lamesa Filipino Kitchen,ON,Toronto,M6C 1A9,356.0,4.0,634 St Clair Avenue W,filipino,43.682297,-79.423948
+11,Yv4P4qUwd7F-qQ4Y4eD1JQ,Han Ba Tang,ON,Toronto,M2N 5N2,293.0,3.5,4862 Yonge Street,korean bars,43.76288,-79.41162
+12,wpQsmMvdhefqIlxvRt_Jbg,DonDon Izakaya,ON,Toronto,M5G 1C3,324.0,3.0,130 Dundas Street West,japanese tapas,43.65571,-79.38459
+13,vTlIUtYXdPxCk6UB746w8w,Utopia Dream Cafe,ON,Markham,L3R 8B4,79.0,2.5,7170  Warden Avenue,coffee cafes tabletopgames,43.82664,-79.32722
+14,qPVqfJAzC8APF8aWGBtFRA,Antler Kitchen & Bar,ON,Toronto,M6J 1Y6,275.0,4.5,1454 Dundas Street West,newcanadian,43.64985,-79.43059
+15,IRd0jvnfJ3tV6AMlYMajzw,Restoran Malaysia,ON,Richmond Hill,L4C 9X2,556.0,3.5,815 Major Mackenzie Drive E,malaysian,43.875849,-79.413679
+16,RcEaxi1h3qMIzQTDQyqNFg,Pinoy Hub,ON,Toronto,M2M 3X4,7.0,3.5,Centrepoint Mall,food_court filipino,43.7956849,-79.4222835
+17,1_rqZz1K5Uoq2RvZlINfgA,Cho Sun Ok,ON,Markham,L3T 2B3,348.0,4.0,7353 Yonge Street,korean,43.8067611,-79.4219167
+18,bqzuW0r9zucfSysSzX7DrQ,Ichiban Asian AYCE,ON,Toronto,M2N 6Z4,40.0,3.5,5095 Yonge St,japanese sushi,43.76828,-79.41223
+19,nktQ_aBRp5CmVOkXR0Mz1g,Arisu Korean BBQ & Sushi,ON,Toronto,M6G 1K4,208.0,3.5,584 Bloor Street W,japanese korean bbq,43.6651,-79.41265
+20,yU5IGuiwQq9QeIHF8M75WQ,Ten Ren's Tea,ON,Markham,L6C 3G5,49.0,2.5,9570 Mccowan Road,taiwanese tea,43.8929692647642,-79.2912033945322
+21,9XcWAcp1dCpcLcHTBENn-Q,Gourmet Malaysia,ON,Scarborough,M1S 1V2,280.0,3.5,4466 Sheppard Avenue E,singaporean malaysian indonesian,43.7885129161,-79.2665494794
+22,6hnRhJv7O0RgvFT-BIo0KA,Ten Ren's Tea,ON,Toronto,M6A 2T9,59.0,3.0,1070 Major Mackenize Drive E,tea coffee taiwanese,43.8765007,-79.411681
+23,R1D4kayUgCvtFyeAC8PBhg,Ten Ren's Tea Time,ON,North York,M2N 6Z6,81.0,3.0,Empress Walk,tea coffee taiwanese,43.7687386,-79.4121421
+24,ydM0qCPG1cTZvAguCi2ucA,Rhum Corner,ON,Toronto,M6J 1W3,124.0,4.0,926 Dundas Street W,caribbean salad cocktailbars,43.6508775,-79.4131316
+25,Mksyt1TZQ-7vzCZjeuzfAg,CASA manila Restaurant,ON,Toronto,M3B 1Y5,347.0,3.5,879 York Mills Road,filipino,43.75504,-79.34863
+26,AakkkTuGZA2KBodKi2_u8A,Pho Phuong Vietnamese Restaurant ,ON,Toronto,M6K 1T9,62.0,3.5,1603 Dundas Street W,vietnamese asianfusion,43.64967,-79.43513
+27,TYEQ38ONpmYMYv378IByhw,Mr Congee Chinese Cuisine,ON,Scarborough,M1W 2S8,86.0,3.0,2900 Warden Avenue,chinese,43.798848,-79.31825
+8,AdC3b5QXcVsxxNbkRDXShQ,CoCo Fresh Tea & Juice,ON,Niagara Falls,L2G 3N5,7.0,4.0,4955 Clifton Hill,bubbletea juicebars,43.09182,-79.07502
+22,zWRBKZ6fyc_TCOn3ftFzYQ,Freshly Squeezed,ON,Niagara-on-the-Lake,L0S 1J0,4.0,3.5,300 Taylor Road,icecream juicebars,43.1589,-79.17201
+23,aye4zUR-rfiMgMftvp1Bkg,Pho My Tan Ky,ON,Niagara Falls,L2E 6N1,9.0,4.5,4025 Dorchester Road,vietnamese thai,43.11435,-79.1125
+24,PRK6Ta7KMwrDaz2UMuoL3A,Lancaster Coffee Company & Cafe,NY,Lancaster,14086,66.0,4.5,24 Central Ave,tradamerican coffee juicebars,42.901471,-78.670598
+26,usCWHL-eFjeGinMjccNIUw,Pho Kha,ON,Niagara Falls,L2E 7B6,17.0,5.0,6865 Dawson Street,vietnamese,43.10035,-79.11063
+32,VUq-m7jFZjh1xd-D1JkrCg,Royal Dragon,NY,Niagara Fall,14303,43.0,4.5,310 Rainbow Blvd,chinese asianfusion,43.08384,-79.05879
+39,Uk5EVHqZQQgt6SKZKhzXkw,Pho Ginger,ON,Niagara Falls,L2G 3L5,1.0,4.0,5695 Victoria Avenue,vietnamese bubbletea chicken_wings,43.09265414402651,-79.07559402287006
+41,ht0zsmithlGEzRXztmGP9g,Pho Xyclo,ON,Niagara Falls,L2G 2P4,366.0,4.0,6175 Dunn Street,vietnamese,43.079303,-79.096441
+45,uZl2iWX53RoljNptts31mA,Lotus Garden,ON,Niagara Falls,L2G,37.0,3.5,5039 Centre Street,chinese,43.0926056,-79.0768433
+0,3sC2HzJz5DlT-5D62JkMYQ,Ice Babo,ON,Ajax,L1S 3K3,1.0,5.0,235 Bayly Street W,bubbletea,43.8411331,-79.0264528
+9,mbt1FzlshEB1WRt5_ViFVA,Real Fruit Bubble Tea,ON,Oshawa,L1J 2K5,1.0,4.0,419 King St W,bubbletea,43.8907471167162,-78.8800686970353
+10,1zezjBcO31Rb7Vs98Zv1Cg,Mr Tea,ON,St. Catharines,L2T 3J9,1.0,5.0,224 Glenridge Avenue,bubbletea,43.14154,-79.23972
+13,l0CfFBtMxMRSoEPIBQvTrQ,Lazy Bugs Bubble Tea Shop,ON,St Catharines,L2T 3Y6,15.0,3.5,210 Glendale Avenue,tea chinese asianfusion,43.1319221660254,-79.226412646606
+14,tNj0JiKkqs-C-VjRmY98PA,Urban Cova,ON,Pickering,L1V 1B8,1.0,5.0,1355 Kingston Rd,bubbletea,43.8340039,-79.0882919
+17,9y_3h8VT8mUnS7_Z5Vtr6Q,CoCo Fresh Tea & Juice St Catharines,ON,St. Catharines,L2T 4E3,6.0,4.0,344 Glendale Ave,juicebars bubbletea,43.13559,-79.21453
+21,L_9XzNeFsS9C8G_aY2Frog,KF Tea Pickering,ON,Pickering,L1V 0J1,2.0,5.0,2460 Brock Rd,bubbletea coffee juicebars,43.87048089115891,-79.08440099266632
+23,W1p8CfvqZKtGF2fBPr6qQg,Coco Fresh Tea & Juice,ON,Pickering,L1V 4G7,7.0,4.5,1794 Liverpool Road,bubbletea juicebars,43.8332186,-79.091684
+24,p3B1RYAu0ACxJU78qJnc6A,TEAliSe,ON,Niagara-on-the-Lake,L0S 1J0,5.0,3.5,1503 Niagara Stone Road,tea bubbletea,43.22159,-79.12235
+26,fbJzViakV5GK5T1LWcFGbQ,Purple Bubble Asian Cuisine,ON,Ajax,L1Z 1E8,30.0,3.5,135 Harwood Avenue N,bubbletea asianfusion,43.863555,-79.02512
+27,eqhjAqeHPggRhk7yx20fmA,Tea Remix,ON,Ajax,L1T 2Z7,3.0,4.0,109 Old Kingston Road,bubbletea sandwiches,43.8540437133706,-79.0603014081717
+29,UtXc3yuhb44RAys6x0YaFA,Spiice,ON,Saint Catharines,L2T 4E6,6.0,4.0,605 Glenridge Avenue,chinese juicebars,43.1172768,-79.2430766
+30,OBW-bRrbRMoKdj-D9OvfMQ,Chatime,ON,Ajax,L1T 0J9,26.0,3.5,1995 Salem Road N,bubbletea,43.8978402,-79.0306332
+36,l8NWjnZfqRM4dF_i0Mm5bQ,YGO Lab Markham,ON,Markham,L6C 1N7,16.0,4.0,24 Nipigon Ave,bubbletea,43.88116412658535,-79.3130250334387
+38,9VURg_2gm1iUNh2ZnNmJOw,CoCo Fresh Tea & Juice,ON,Toronto,M4M 1Z4,3.0,4.5,1021 Gerrard St E,bubbletea juicebars,43.6686651416843,-79.3373565003276
+40,TL0k1WXn9PAF7CTE8Cs6lA,Hai Thai & Vietnamese Cuisine,ON,Whitby,L1N 2N3,24.0,4.0,701 Dundas Street W,thai vietnamese bubbletea,43.87793,-78.94948
+41,wWa4AJ7fkaY9yUg6ls60FA,CoCo Fresh Tea & Juice,ON,Ajax,L1S 7J4,1.0,2.0,145 Kingston Road East,bubbletea juicebars,43.861933,-79.01776
+48,eWMX6aCazu5LolJ9CGysbQ,Kung Fu Tea,ON,Toronto,M4C 1L7,1.0,5.0,2740 Danforth Ave,bubbletea,43.68929,-79.29769
+1,6gE0LCHnyx4EA6Sj7LinSg,ZenQ,ON,St. Catharines,L2T 2K9,1.0,4.0,100A-221 Glendale Avenue,taiwanese bubbletea desserts,43.136272,-79.224427
+4,VEI4Vo2RF0GikPRVuLqZ9A,Cha Miao,ON,Scarborough,M1V 0C8,18.0,4.0,3276 Midland Avenue,bubbletea,43.8051403,-79.2893853
+5,BcHQjLfagJKxc_Yb7IWLuw,Pho Dau Bo Restaurant,ON,St Catherines,L2R 4N1,47.0,4.0,83 Geneva St,vietnamese,43.1644,-79.24066
+6,8mWxMJswZxGF3iazNoLa3w,Kung Fu Tea,ON,Markham,L3S 3K5,3.0,3.5,7700 Markham Rd,bubbletea,43.85342140702836,-79.25693304422754
+9,_17NYUeTSYQrDed0kJm0Bw,Real Fruit Bubble Tea,ON,Pickering,L1V 1B8,2.0,3.0,1355 Kingston Road,bubbletea,43.8380808,-79.0870825
+10,bB9JPvR2d-I1jxSVlqN2DQ,Yum Croissant,ON,Toronto,M4L 1H3,18.0,3.5,1917 Queen Street East,sandwiches bubbletea breakfast_brunch,43.66889,-79.30415
+11,YW6hCjwSIGKRI_GGhJmr2g,ZenQ,ON,North York,M2J 0E9,1.0,4.0,155 Yorkland boulevard,taiwanese bubbletea desserts,43.77085,-79.33223
+12,rLUtA6O-4ors3UreviQ4oA,Mr Tea,ON,St. Catharines,L2T 3J9,2.0,2.5,11C - 224 Glenridge,bubbletea chinese,43.14154,-79.23972
+13,0Ne8FCrcF1C018uihKjq-w,Comebuy,ON,Markham,L6G 0E3,68.0,4.5,4-8110 Birchmount Road,bubbletea,43.8506667901241,-79.3256200220901
+14,wBaL5-qDffilLLadRM2LWw,Sun Tea,ON,Markham,L6E 1A2,3.0,5.0,5990 16th Avenue,bubbletea,43.892010540187904,-79.26543071866035
+17,tfuZ0ZBz2BQUmVmugdrWig,Loocha,ON,Markham,L3R 8X6,7.0,4.5,3623 Highway 7 E,bubbletea,43.8543157,-79.3378417
+18,IuceK1hR5rKdMOT_T4zGkw,Machi Machi,ON,Toronto,M1V 0C9,26.0,4.5,3278 Midland Ave,bubbletea,43.8053349283079,-79.2887002226393
+19,zeQYx3nCPcN-Zn-f96RrmQ,TP Tea,ON,Toronto,M1V 0C9,12.0,4.5,3278 Midland Avenue,bubbletea,43.80550765071031,-79.28848591618546
+20,k6DUKgCjLQ1h6vh8p9EyyQ,Shuyi Canada,ON,Toronto,M2N 2Z8,3.0,4.5,7-55 Nugget Avenue,bubbletea,43.79214,-79.2577699
+21,8RxNSVzFWfBgefQzbAKwQg,Oishi Maki,ON,Whitby,L1N 4H2,40.0,3.0,131 Brock Street N,japanese,43.88065,-78.94221
+22,mErKAPwksVd-C5asTNVdBg,CoCo Fresh Tea & Juice,ON,North York,M3C 1V6,12.0,4.0,890 Don Mills Road,bubbletea juicebars,43.7258278735889,-79.34173436362904
+24,KgWWyejUIqLRQaSFu1KmVg,CoCo Fresh Tea & Juice,ON,Toronto,M1R 4B8,6.0,4.0,85 Ellesmere Road,bubbletea juicebars,43.7582723,-79.3129468
+25,z9v2G-pfNKWA29cSR_wARg,Shuyi Tealicious,ON,Markham,L3R 8X6,8.0,3.5,115 - 3623 Highway 7,bubbletea hotpot,43.8534528246155,-79.3368267640471
+26,ATnEBiAsyGrPYZnIHifYdw,Real Fruit Bubble Tea,ON,Toronto,M4C 1M4,3.0,1.5,3003 Danforth Ave,bubbletea juicebars,43.6903761,-79.2896021
+27,jzr8togQy9xyHR02Rs0vdA,Machi Machi,ON,Markham,L3R 2A2,40.0,4.0,3985 Highway 7,bubbletea,43.85739140829476,-79.32407218962909
+28,1FnwvtISSL0HxIdPLLow1g,Phomono Vietnamese Cuisine,ON,Ajax,L1Z 1G1,41.0,2.5,50 Kingston Road E,vietnamese,43.8620162,-79.023153
+29,2hekiyi_LtQCO2fJcObQkg,Good Pho You,ON,Ajax,L1S 3K3,54.0,4.5,17-235 Bayly Street W,vietnamese thai,43.841392,-79.025986
+30,pawEl7Ejqm9J8KQ7YSPGBA,World Tea House,ON,Toronto,M2H 3B2,17.0,4.5,3608 Victoria Park Ave,bubbletea,43.806605,-79.3385051563382
+32,M_PWtxXN5tE4S8ZcUrT64w,Mora Tea Bar,ON,Scarborough,M1V 0B4,46.0,4.0,122-3700 Midland Avenue,bubbletea juicebars,43.81498,-79.29327
+33,qmBs5OyEblACv5q8bb-eww,PannTea,ON,Toronto,M1V 5P6,75.0,4.0,5651-26 Steeles Avenue E,bubbletea coffee,43.83218,-79.2667
+34,SMyALn-JJuInJQTjy_Ugww,Real Fruit Bubble Tea,ON,North York,M4A 2S8,13.0,3.0,Victoria Terrace Plaza,coffee juicebars,43.742975,-79.3146093
+35,oIML-d7Kbxe75vShHF_uCw,Hi Tea,ON,Scarborough,M1V 4A1,37.0,4.5,37-3300 Midland Avenue,bubbletea,43.80669,-79.28878
+37,qS_VOsZagZ6j4hQjQLzasg,Owl Of Minerva,ON,Pickering,L1V 1B7,11.0,4.0,1284 Kingston Road,korean,43.8352527,-79.091337
+38,FZ_jbuKGGTxP6oAzXIQiVQ,Kin-Kin Bakery and Bubble Tea,ON,Toronto,M4M 1Z3,8.0,4.0,1000 Gerrard Street E,coffee bakeries bubbletea,43.66942,-79.33925
+40,ZPI1t-WcZruILq7OQYnZHg,Real Fruit Bubble Tea,ON,Toronto,M1H 1B2,7.0,4.5,Cedarbrae Mall,juicebars coffee tea,43.7572516980461,-79.2302440097209
+41,jAIeziQkY_JScpBT1tovFg,The Alley,ON,Toronto,M1V 0C7,107.0,4.0,3260 Midland Ave,bubbletea,43.80472,-79.28856
+42,bJ1MNvlC9FyZKuID6pSc_Q,Palgong Tea,ON,Markham,L3R 1K9,1.0,4.0,3636 Steeles Avenue E,bubbletea desserts juicebars,43.81892,-79.33075
+43,QDEXxkQb_D20KACF3LukdQ,M Chá Bar,ON,Markham,L3R 0G9,8.0,3.5,3621 Highway 7,bubbletea coffee juicebars,43.8539179134302,-79.33764749928085
+44,O61xIY1mI0wT-8TE9NjcZg,Ba Cha,ON,Markham,L3R 1J5,21.0,3.5,1065 8321 Kennedy Road,bubbletea,43.85615,-79.3046
+45,RTbUVGPQUACfnqO_FTUaXw,Gong Cha,ON,Scarborough,M1P 0B1,17.0,4.0,60 Town Centre Court,coffee bubbletea juicebars,43.77324,-79.25599
+46,8O0BW4W8RaAyDhjV7zz1-A,Yifang Taiwan Fruit Tea,ON,Toronto,M1S 4R5,3.0,4.0,107-4002 Sheppard Avenue E,bubbletea,43.78372726995549,-79.28740035742521
+49,MwI_po3xC40QUnoak-0Wgw,Gong Cha Tea,ON,Markham,L3R 1K9,133.0,4.0,3636 Steeles Avenue E,coffee juicebars,43.8184917,-79.3331166
+0,K628feRrikWahvwe03P-pA,Sun Tea,ON,Markham,L3R 4P9,19.0,4.5,1021-30 S Unionville Avenue,bubbletea,43.8565546835029,-79.3030145019293
+1,Ohg6ddppAxg6fcOoGjKmTQ,Together Tea,ON,Markham,L6C 1N7,9.0,3.5,6 Nipigon Avenue,bubbletea,43.8810848,-79.3138253
+2,wiyZmUP3e7xS6siqMusdEw,Snow Tea,ON,Scarborough,M1V 0C4,29.0,3.5,G113-3250 Midland Avenue,bubbletea,43.80525,-79.28731
+3,k9gaDDBYOOdVn0dfEMSntw,Crane Express,ON,Scarborough,M6A 1Z4,3.0,4.0,707 Markham Road,foodtrucks catering asianfusion,43.76251,-79.22596
+4,cMjeRxXVcT2ri8lYQElQDg,Sun Tea,ON,Toronto,M1V 0C8,15.0,4.5,3276 Midland Avenue,bubbletea,43.8052011,-79.2896409
+5,d4buwaJL5br7NQbibXtIoA,2045 Spicyspace,ON,Toronto,M1E 5K4,1.0,5.0,790 Military Trail,comfortfood chinese bubbletea,43.7902136,-79.1954629
+6,LQ_F29An_nXTZinXM823sw,Tealeer,ON,Toronto,M1V 3L3,2.0,3.5,3290 Midland Ave,bubbletea,43.8064664193536,-79.2893553525209
+7,TvX9S7N9mreckHmIC2Ixaw,Flowers & Bubble Tea,ON,Toronto,M1P 4X7,3.0,4.5,2301 Brimley Rd,bubbletea florists icecream,43.797885844452,-79.2706140982694
+8,UxpeRfP7DoloVMjctVnnsA,Shuyi Tealicious,ON,Toronto,M2H 2N5,1.0,5.0,3560 Victoria Park Ave,bubbletea,43.80597,-79.33742
+9,70Z0b1aYe_nmSVya7Bfc2Q,Tiger Sugar,ON,Scarborough,M1V 5K5,38.0,4.0,3276 Midland Avenue,bubbletea,43.8048657632541,-79.2895559642038
+13,QosfsJZ03Vuk2nSIMkX9bw,M Chá Bar,ON,Toronto,M1V 0C7,12.0,3.5,24-3280 Midland Avenue,bubbletea,43.80584,-79.28856
+15,5z1cCv4m-_1lXW9o4A9ZiA,Xing Fu Tang,ON,Toronto,M1V 0C9,12.0,4.0,3278 Midland Avenue,bubbletea,43.80547,-79.28842
+16,9t9irBC1zxrCrw1e3xGrDg,Kung Fu Tea,ON,Toronto,M1V 5N3,37.0,4.0,4733 Steeles Avenue E,bubbletea,43.82493,-79.30042
+17,GhCbfTGJtB8Y1ZVjTzx53A,CoCo Fresh Tea & Juice,ON,Toronto,M1V 4A1,99.0,3.5,3300 Midland Avenue,juicebars bubbletea,43.80669,-79.28878
+18,gtQ4rtkOqv8rSwIz4AzEKA,CoCo Fresh Tea & Juice,ON,Markham,L6C 0A2,26.0,4.5,50 Bur Oak Avenue,bubbletea juicebars,43.8892499,-79.3149
+20,lz9oUUVaPJsC5aaU_6nzsQ,Fresh Choice Cafe,ON,Toronto,M1R 0B1,5.0,4.5,520 Ellesmere Road,cafes bubbletea breakfast_brunch,43.76295,-79.29464
+21,8_8JDBFPFU4WwUGRBZjAOQ,Beauty Tea,ON,Toronto,M1V 1V2,3.0,4.5,1571 Sandhurst Cir,bubbletea,43.8096426676771,-79.2694921396915
+22,GFjRvXkf2IH9EiLRMvo3qw,Mr. Sun Tea,ON,Markham,L3R 0Y5,73.0,4.0,4300 Steeles Avenue E,bubbletea,43.826698079115225,-79.30642460190455
+23,quUvt2WC3sEwwS6qXM1OBQ,ChunYang Tea,ON,Markham,L3R 0M3,6.0,4.0,111 - 3601 Highway 7,bubbletea,43.8537672047,-79.3385086626
+24,CsLQ5Gm3-0QjbhE9Ua2lsg,Yi Fang Taiwan Fruit Tea,ON,Markham,L3R 4P9,3.0,4.0,28 South Unionville Avenue,bubbletea,43.8558682,-79.304031
+26,LOErCEfD2nq1MJcXqFgKvQ,Gong Cha,ON,Toronto,M1V 3L3,10.0,4.5,3290 Midland Avenue,bubbletea coffee juicebars,43.806024,-79.2883668
+27,7b7G6ZO46jvLE6Hxa3iPng,Kung Fu Tea,ON,Markham,L3R 9W1,5.0,4.0,8200 Birchmount Rd,bubbletea,43.85654,-79.32442
+29,pI_2xBGm5Jos5SHQkbx3IA,Blossoming Juice Canada,ON,Toronto,M1V 4V3,38.0,4.5,3720 Midland Avenue,juicebars,43.8157,-79.29337
+30,5CSCTpBZYl_uDN7ZjSp5yQ,Real Fruit Bubble Tea,ON,Toronto,M1L 2K1,5.0,2.5,1 Eglinton Square,coffee juicebars,43.723535,-79.299233
+31,DtUxNKrOzRIjtMkw3cf_7g,The Alley,ON,Markham,L3R 2G5,87.0,3.5,142 Main St Unionville,bubbletea tea,43.86553,-79.31105
+32,Tcoxrr7Go-X8DPmQPVZynw,CoCo Fresh Tea & Juice,ON,Toronto,M1P 5J5,1.0,5.0,60 Brian Harrison Way,bubbletea juicebars,43.7727463,-79.2587171
+33,n8Ir8p7gzMvk0rpgAsia1g,OneZo Tapioca,ON,Markham,L3R 0G6,64.0,3.5,3621 Hwy 7,bubbletea,43.8542526022663,-79.3370426818728
+34,x2fMiNLLBnoA7EaY0k0Hsw,Chatime,ON,Markham,L3R 4M9,2.0,3.0,5000 Highway 7,bubbletea,43.8676988137311,-79.28968279465134
+35,XSykEinnF0tOWmop6VO_wQ,The Alley,ON,Toronto,M1P 4P5,21.0,3.5,300 Borough Drive,bubbletea,43.77617382818039,-79.25721879130833
+36,0qk9V2K2xWgcCeiLGmU3Wg,Miss Lin Cafe,ON,Markham,L3R 0M3,45.0,3.0,3601 Hwy 7,cafes,43.8540771508881,-79.3382298173353
+37,Dc4Zpxh1dRPyMlMFeqkDXA,Chatime,ON,Toronto,M1H 2V6,1.0,4.0,2030 Ellesmere Rd,bubbletea coffee juicebars,43.77601603416699,-79.23522777002866
+38,MqLjf8q8d3MumDvax427JA,Pod coffee,ON,Markham,L3R 2G5,15.0,4.0,142 Main St,coffee,43.865663,-79.310969
+39,INHQNT8hdloyOUAyErceUA,YI FANG Taiwan Fruit Tea,ON,Toronto,M1V 5N1,20.0,3.0,633 Silver Star Boulevard,bubbletea,43.822034913558305,-79.29856095033188
+40,nv14hi82FfVR1a-LgMS_BQ,Chatime Scarborough,ON,Toronto,M1V 0C4,90.0,3.5,3250 Midland Avenue,coffee juicebars bubbletea,43.80488,-79.288067
+41,zoIEe7uhsQT2EyiFLIfhrw,Chatime Markham,ON,Markham,L3R 8B5,127.0,3.5,20 Gibson Drive,coffee juicebars,43.8234988960722,-79.3274668604136
+42,6FeAeooUDp5z6PeGqmHz8w,The Alley Bur Oak,ON,Markham,L6C 0A2,48.0,4.0,20 Bur Oak Avenue,bubbletea tea,43.88883,-79.31585
+43,a2riAhHf1i34_ks5TuWOaQ,OneZo Tapioca,ON,Toronto,M1V 3G6,62.0,3.5,3720 Midland Avenue,bubbletea,43.81547,-79.29343
+44,DqNOYSPSlcXy_zFnr0fLhw,Chatime,ON,Toronto,M1P 4P5,3.0,4.0,300 Borough Dr,bubbletea,43.7762968,-79.2580238
+45,22y2S_jSnhBDkBGlN0fqlQ,Bubble Lee,ON,Markham,L3R 0G6,13.0,3.5,117-3621 Highway 7,bubbletea,43.8541102000777,-79.337138235569
+46,XE0-rF1cZaTuScn0XMUi6g,The Milkman Creamery,ON,Markham,L3R 1J5,10.0,4.0,8339 Kennedy Rd,icecream bubbletea,43.85727,-79.30337
+47,7wsE_8oB-XWz5KJurb0O4w,Boba Boy,ON,Toronto,M1V 0C7,153.0,3.0,3250 Midland Avenue,bubbletea,43.8048783965072,-79.2880336940289
+48,l1_S1mfGbEMxfT1f9omhEA,Royaltea,ON,Toronto,M1S 3V1,132.0,2.5,9-4186 Finch Avenue E,tea icecream desserts,43.8044811829715,-79.2877820295429
+0,Y-uoS0S3ss1mAdS5w1mCgw,Encounter Tea,ON,Markham,L3R 0Y5,7.0,3.5,4300 Steeles Avenue E,coffee,43.8250037,-79.3058147
+1,v9DncDynhn7f-RBURtcSFw,Sushi & Tea,ON,Toronto,M1M,28.0,4.0,3027 Kingston Road,sushi,43.7258925,-79.2312184
+2,Jkc3lcghvVD_9ktDN00TcA,Kung Fu Tea,ON,Scarborough,M1K 5J2,4.0,2.5,4 Greystone Walk Drive,bubbletea,43.7245,-79.25271
+3,zY2oRIU6p7Jacdhfp-bI3A,Chatime,ON,Scarborough,M1S 2B4,3.0,4.0,108-2101 Brimley Road,bubbletea,43.7889,-79.26864
+4,wvXlUQebCQVJs3ZLqojrcw,Tiger Sugar,ON,Markham,L3R 5W7,10.0,4.0,32 South Unionville Ave,bubbletea,43.8572374092652,-79.3024800717831
+5,p8LpaWaqSUi8gpMTs_CahA,Chatime,ON,Markham,L6E 2C7,46.0,3.0,9850 Markham Road,bubbletea,43.905648581584,-79.267955881499
+6,8H8hQD80tGMGdFPOS-l_iw,Cuppa Tea,ON,Markham,L3R 1J5,32.0,3.5,28 South Unionville Ave,desserts coffee bubbletea,43.856148226088,-79.3034622617703
+8,P6kKxFN9OrjdXBXLRIr3zw,Gong Cha,ON,Markham,L3R 0W4,4.0,3.0,8380 Kennedy Rd,bubbletea,43.86065,-79.30437
+9,IgqpgEYqzek3pN4osGFAjQ,Real Fruit Bubble Tea,ON,Toronto,M1T 3L4,3.0,4.0,3850 Sheppard Avenue E,bubbletea,43.782483,-79.292371
+10,bNQVXqWpsToBDcJg_4aWYA,Green Grotto,ON,Markham,L3R 5Y3,171.0,3.5,7040 Warden Avenue,taiwanese tea,43.821018,-79.325576
+11,dC60NKVSKNMaymlp_5wuyw,Komeya Cafe,ON,Markham,L6E 0S5,206.0,4.0,9506 Markham Road,japanese coffee,43.897287199878,-79.265688881278
+12,sDGs7bPWB0CzR80EebchIQ,Presotea,ON,Markham,L3R 0Y5,45.0,3.5,4300 Steeles Avenue E,bubbletea,43.82606,-79.3058147281408
+13,bCY-B0i9_7Mw_Wmj8VRUSw,Yi Fang Taiwan Fruit Tea,ON,Toronto,M1V 1V2,8.0,3.5,1571 Sandhurst Circle,bubbletea,43.80893464349263,-79.26916708412921
+14,XpLRjfH-LfjvblHX1GVjVg,Shuyi Tealicious,ON,Toronto,M1V 5P1,4.0,2.5,633 Silver Star Blvd,bubbletea,43.82187,-79.29917
+15,gh1GB47c3fwVMyJmDCFI_w,Drinkii,ON,Toronto,M1V 5P7,1.0,5.0,5995 Steeles Ave E,bubbletea,43.836052104951,-79.2511167749763
+16,f3gE6ZZFd7jRBjTVgt-mAg,PaPa Chang's,ON,Markham,L3P 7R1,389.0,4.0,5970 16th Avenue,taiwanese,43.8914753583404,-79.2656064033508
+17,CfNmDCw6oZvb9lkyjJPKBQ,Kung Fu Tea,ON,Toronto,M1S 1K6,7.0,3.5,2361 Brimley Rd,bubbletea,43.7979891,-79.2729778
+18,2CkqCWvbV1VoO5aGSvaQRQ,CoCo Fresh Tea & Juice,ON,Markham,L3R 5Y7,85.0,3.5,8360 Kennedy Road,juicebars bubbletea,43.85912,-79.30438
+19,2cOZH2aoHWUXkn_nMvzMwA,Monkey Sushi,ON,Markham,L3R 8X6,25.0,3.0,3623 Highway 7,sushi soup fooddeliveryservices,43.8536511,-79.3370441
+20,8_SD9VotY6gF2cfR7HZnIA,Mika Sushi,ON,Scarborough,M1T 3K2,44.0,4.0,3307 Sheppard Avenue E,sushi bubbletea juicebars,43.777792333754,-79.3087818298119
+21,yQY2AVm-EcpKIt4m7XT5dQ,Real Fruit Bubble Tea,ON,Toronto,M4M 1Z3,5.0,2.5,K9 Gerrard's Square,coffee juicebars,43.6694183,-79.3392487
+22,5DT6DYPOQi-Bc_uiXjYQFQ,Real Fruit Bubble Tea,ON,Toronto,M1B 4Y7,6.0,3.5,31 Tapscott Road,coffee juicebars bubbletea,43.8055878,-79.2211766
+23,3bd5LGDc0v782OlAWU3R1Q,Pho Dau Bo,ON,Toronto,M1H 1R2,47.0,3.5,665 Markham Road,vietnamese,43.7611932,-79.2256551
+24,wtB0V3_iWa-IpLkpOpoPPA,Shuyi Tealicious,ON,Markham,L3R 0Y5,17.0,3.0,4300 Steeles Avenue E,coffee bubbletea,43.8263465189095,-79.3062879782462
+25,hSKiGEW5-dwrWK6_-AHKNA,CoCo Fresh Tea & Juice,ON,Toronto,M1P 5B7,3.0,3.0,8 William Kitchen Road,bubbletea juicebars tea,43.7717,-79.28033
+26,_-jVECj3_lfbtxgWSfMGwQ,Hi.Tea Cafe,ON,Toronto,M1V 1V2,5.0,4.0,1571 Sandhurst Circle,bubbletea coffee,43.80921110917053,-79.26950646531306
+27,8xPmlVJy2o6x0J04CBpEMQ,Toast Delight,ON,Markham,L3R 5T5,211.0,4.0,8339 Kennedy Road,desserts icecream waffles,43.85727,-79.30337
+28,4J5WT8HM2IINOmVtvRihbg,Kin Kin Bubble Tea,ON,Toronto,M1T 3L4,10.0,2.5,3850 E Sheppard Avenue,cafes,43.7841213339879,-79.2917110025883
+29,V40pIolvcIoYutYodgETUA,Yunique,ON,Markham,L3R 0G6,12.0,3.0,122-3621 Highway 7 E,bubbletea,43.8542649,-79.3379529
+30,QfoP76nFCnZYGm4B-ntmAg,Chung Chun Rice Dog,ON,Toronto,M1V 0C4,53.0,4.5,G112 - 3250 Midland Avenue,hotdog korean,43.8049823,-79.2876835
+32,yynw0xuha4DgkjDB_ll4Gw,Cheese Garden,ON,Scarborough,M1V 4W9,62.0,4.0,3250 Midland Avenue,desserts cakeshop bakeries,43.80513,-79.28757
+33,kBYBXh7M9wKXvHgluJWiLQ,Annie's Tea House,ON,Toronto,M1S 2C1,12.0,3.5,8 Glen Watford Drive,bubbletea foodstands juicebars,43.7868388043524,-79.2769266664982
+35,OdfSxOFFu4yjhnWYtdbM0g,Presotea,ON,Scarborough,M1P 4P5,2.0,3.0,"229, 300 Borough Dr",bubbletea,43.7754047,-79.2541134
+36,H-Qjk9Lglp2s_nvBlURAeQ,Real Fruit Bubble Tea,ON,Scarborough,M1S 3L6,19.0,3.0,Chartwell Mall,coffee juicebars,43.7633313169603,-79.2285991471935
+37,z_y5lmO9W8RCfK2cP9j1IA,Urban Cova,ON,Markham,L3R 9S5,8.0,4.0,7710 Kennedy Road,bubbletea,43.84224,-79.30568
+38,-2uYjztVuVZpkTNAC38zdg,Presotea,ON,Toronto,M1W 2S8,14.0,3.5,Bridlewood Mall,coffee,43.7990718210602,-79.3190192431211
+39,vOdY5xomz8nNX756zNYQxQ,Real Fruit Bubble Tea,ON,Toronto,M1R 4C1,7.0,2.5,85 Ellesmere Road,bubbletea,43.7580789613751,-79.3132716044784
+40,wvwK2We8zThm2LGUQsXRDA,Boba Boy,ON,Markham,L3R 0Y5,2.0,4.0,4300 Steeles Avenue E,bubbletea,43.82527578077232,-79.30591737856206
+41,1hWn56ht_YIYX8Nl82Rmmw,CoCo Fresh Tea & Juice,ON,Toronto,M1V 5P6,6.0,3.0,5651 Steeles Avenue E,bubbletea juicebars,43.831541,-79.26467199999999
+42,JW2Qf6i4sbvKQE2Fu4yL2A,House of China Restaurant,ON,Toronto,M1K 2M2,1.0,3.0,2306 Eglinton Avenue E,chinese caribbean,43.730950555994916,-79.27517484873533
+43,ur6SaSHK_CFDdbP_Thu56g,HoneyB Hives Restaurant,ON,Toronto,M1K 2R9,1.0,5.0,2608 Eglington Ave East,newcanadian bubbletea breakfast_brunch,43.7361287581,-79.2529113561
+44,qLhl535HoW8lNCuVqavCRA,Katsupan,ON,Toronto,M1V 0C6,58.0,4.0,E111 - 3262 Midland Avenue,japanese cakeshop sandwiches,43.80564,-79.28761
+47,7jUxslBJKErIPbmupBdNMg,Hey Sugar,ON,Scarborough,M1V 0C9,6.0,3.0,D116 - 3278 Midland Avenue,bubbletea,43.8053,-79.28857
+48,TrDdeK3WnhMSOSWWkR_L9g,Royaltea,ON,Toronto,M1P 4P5,1.0,2.0,300 Borough Dr,bubbletea,43.7754495,-79.2541513
+0,f1ekudjT4wtVZBcI_GIcFA,Pop Up House,ON,Markham,L3R 1J5,60.0,3.5,8339 Kennedy Road,desserts bubbletea hotdogs,43.8573341430669,-79.3040560201817
+1,nwj8pRkycruESmjD4a0ydQ,Yu Cha,ON,Markham,L3R 6E4,6.0,3.5,A04-1661 Denison Street,bubbletea,43.83478,-79.30598
+2,UyN4L-8ocNG_7Mq6fRa5YQ,Cafe Mirage Grill & Lounge,ON,Scarborough,M1P 5B7,107.0,3.0,26 William Kitchen Road,breakfast_brunch mediterranean,43.77297,-79.28201
+3,m0ONN_-2wq-xN9clbhoSKQ,Kin-Kin Bubble Tea Company,ON,Toronto,M1V 1V2,6.0,2.5,1571 Sandhurst Circle,bubbletea,43.80968035941042,-79.26975560773616
+5,BRvEDbUjO1H7Ako0mv5iBw,CoCo Fresh Tea & Juice,ON,Toronto,M1V 1V2,3.0,4.5,105A - 1571 Sandbhurst Circle,bubbletea juicebars,43.8087543774944,-79.2709002946159
+6,n2I2JDgmK62LLxxmBZZavA,Coco,ON,Toronto,M1P 5J5,1.0,5.0,60 Brian Harrison Way,bubbletea,43.7727463,-79.2587171
+7,Q01d7yT7U1nseHXeTOHK9g,Chatime,ON,Markham,L6G 0E7,73.0,3.0,Downtown Markham,coffee,43.84865795733,-79.3231797267133
+8,xyWjGIkXRwUThjRNz8SqcQ,Ten Ren's Tea - Scarborough Town Centre,ON,Toronto,M1P 4P5,12.0,2.5,300 Borough Drive,coffee bubbletea,43.776833,-79.258577
+9,YnNa4IoSKRNBOmIvX-qNXQ,Du Hsiao Yueh,ON,Markham,L3R 5Y3,30.0,3.0,7040 Warden Avenue,taiwanese chinese noodles,43.82103,-79.32554
+10,qikNjb3CE2KHWIcxRpovgQ,Presotea,ON,Markham,L3R 4M9,10.0,3.0,5000 Highway 7 E,bubbletea,43.8691840864426,-79.2866127938032
+11,a7XlXsv8f9hxilCXGRnA4A,Flavours of Unionville,ON,Markham,L3R 2G9,32.0,4.0,155 Main Street Unionville,desserts icecream juicebars,43.8666633,-79.3114739
+12,yzKym9jyj9XFt2pn7Z6XLA,Hey Juice,ON,Toronto,M1W 3Y1,7.0,2.5,375 Bamburgh Cir,bubbletea,43.81576,-79.32229
+13,FnQ-_pGdw11za0LQ_aORxQ,0109 Dessert & Chocolate,ON,Toronto,M1V 0B3,217.0,3.5,2190 McNicoll Avenue,chocolate desserts,43.81476,-79.29486
+14,Xo1LNzhnwE-ilqsM3ybs9Q,Happy Lemon,ON,Markham,L3R 0N8,37.0,3.5,B25 4300 Steeles Avenue E,bubbletea coffee,43.8258200636421,-79.3063458055258
+17,RH8x-YKDYkb9w57fx4XtVg,Confused Kitchen,ON,Toronto,M1V 5K1,47.0,4.5,5005 Steeles Avenue E,burgers srilankan,43.82784,-79.28777
+20,TFhZOVGcViyYZkxJ62X-dQ,CoCo Fresh Tea & Juice,ON,Markham,L3R 1K9,34.0,3.5,3636 Steeles Avenue E,bubbletea juicebars,43.81892,-79.33075
+21,A7_Rhwhi5Xv_PvBbKGJ_ng,Pho Metro,ON,Scarborough,M1R 2Z4,334.0,4.0,2057 Lawrence Avenue E,vietnamese,43.7452661839602,-79.2940485477448
+22,IOW3tgHozrXRHTfvWAGgeg,CoCo Fresh Tea & Juice,ON,Toronto,M1R 4C1,1.0,3.0,85 Ellesmere Rd,bubbletea,43.7582723,-79.3129468
+23,uc8kRsWnbYXmJ0LV8B0Psg,Real Fruit Bubble Tea,ON,Toronto,M1P 4P5,2.0,2.5,300 Borough Drive,bubbletea coffee juicebars,43.7754648821818,-79.257305637002
+25,gx3_hb3Yeijy2R03bGnHVw,Boba Boy,ON,Toronto,M1X 1E6,1.0,3.0,2900 Markham Road,bubbletea juicebars icecream,43.82408,-79.24877
+26,F09jtEb9KEph2L7Pbji5QQ,Golden Bubbles,ON,Toronto,M1V 0C8,179.0,3.5,3276 Midland Avenue,waffles icecream bubbletea,43.8051261724689,-79.2898304387927
+28,5llHETQuLu1ZZ9-tfEnAcQ,Tiger Sugar,ON,Scarborough,M1V 0C8,2.0,4.0,3276 Midland Avenue,bubbletea,43.805129,-79.289725
+29,F2-3LtOzGAkUqeCky2xGrA,Presotea,ON,Toronto,M1V 1V2,3.0,3.0,1571 Sandhurst Circle,bubbletea,43.8086400827339,-79.2694935112
+30,sr0rCMn-XtKATvl9adYQxA,Double Ming Chinese Dessert,ON,Scarborough,M1S 4T5,102.0,3.5,4186 Finch Avenue E,chinese desserts,43.804083,-79.288352
+31,42-UJ-c_97IeqUc6BWjmnA,Pho 88,ON,Toronto,M3C 1V6,94.0,3.0,900 Don Mills Road,vietnamese thai,43.7268982,-79.3420715
+32,677wKZ4xW75ZwoAIpSfM7Q,Presotea,ON,Markham,L3R 2G9,1.0,3.0,175 Main St,bubbletea,43.86695911735919,-79.31213300675154
+34,bL2q7-EuevjMuri8W24eLA,Great Fountain Fast Food,ON,Scarborough,M1S 2C1,51.0,3.5,8 Glen Watford Drive,hotdogs,43.78687383319029,-79.27724980204526
+36,ueLwgTqgK3SCa86UVcZIaA,Coco Fresh Tea & Juice,ON,Markham,L3R 0B5,1.0,4.0,8601 Warden Avenue,bubbletea juicebars,43.85837,-79.33356
+37,TFlFQzAp34GhEYxeMmEMHw,Mabu Generation,ON,Scarborough,M1S 1K6,12.0,4.0,2361 Brimley Road,taiwanese,43.7979891,-79.2729778
+38,nJPRLOSVAGxKyHJzMEnJhA,A Corner Cafe,ON,Markham,L3R 1N1,102.0,4.0,4981 Highway 7 E,cafes,43.864782410529,-79.2924204468727
+39,gPQOUyooQ3O9H8OmnxVNnA,Pho Saigon Restaurant,ON,Scarborough,M1L 2L6,69.0,3.0,1921 Eglinton Avenue E,vietnamese bubbletea thai,43.7272853,-79.289569
+40,dc7QXmF47zYr_GrtdEnHKA,Fruit Jungle,ON,Toronto,M1V 0B7,3.0,4.0,4675 Steeles Avenue E,bubbletea juicebars,43.824,-79.30283
+41,Cp8sWqqo7j94Q2dvlc0YrA,Presotea,ON,Markham,L3R 0Y5,2.0,4.5,4300 Steels Ave E,bubbletea,43.8241737,-79.3055156
+42,JJGaGqskCW1ADmnc-NEucA,Yogen Fruz,ON,Scarborough,M1P 4P5,3.0,3.5,300 Borough Drive,juicebars icecream,43.7779957,-79.255424
+43,kK8x7Hjr3IyuohZQCK9LsA,Real Fruit Bubble Tea,ON,Markham,L3R 2G8,18.0,2.5,209 Main Street,tea juicebars,43.8687438294409,-79.312102037025
+44,tFoek1FCQQAbdbEdpS5ZWw,Presotea,ON,Unionville,L3R 2G8,1.0,3.0,175 Main Street,bubbletea,43.86717,-79.31178
+46,gh4yZ9b-ESlIUcOTIMRjMQ,Yi Fang Fruit Tea,ON,Toronto,M1V 0C4,2.0,3.0,3272 Midland Avenue,bubbletea,43.80500416511523,-79.29053759518213
+47,gnkyosoOepBUqog7iDdggQ,Chef Papa Tea & Noodle Bar,ON,Markham,L3R 0W4,178.0,3.5,8390 Kennedy Road,asianfusion noodles ramen,43.8610687,-79.3042297
+48,IrYOUMq3yFRhgWo_Gzex2w,Juicy Mix,ON,Markham,L3R 0Y5,1.0,4.0,4300 Steeles Ave E,juicebars,43.8241737,-79.3055156
+49,8QoA582ev_bhXevVAI_qtg,Presotea,ON,Markham,L3R 0Y5,2.0,3.5,4300 Steels Ave E,bubbletea,43.8241737,-79.3055156
+0,KvonfJBpIl3pQRyXVNYCAg,Fruity Juice Bar,ON,Markham,L3R 0Y5,10.0,3.0,4300 Steeles Aveenue E,juicebars bubbletea,43.825986,-79.3062592
+1,3XMbSoeaz2tw3_EAXKcqzQ,Ten Ren Tea,ON,Markham,L3R 0Y5,12.0,3.0,4350 Steeles Avenue E,coffee,43.82605,-79.30657
+2,2xqJec__mYWP-7gP8XnkCQ,Ivan Sushi & Tea,ON,Toronto,M4E 1T5,2.0,3.0,1033 Kingston Road,sushi bubbletea,43.68062,-79.28449
+3,1HhD635Eoyn1-Toi2FGuHg,Real Fruit Bubble Tea,ON,Markham,L3R 0Y5,15.0,3.5,4300 Steeles Avenue E,coffee tea juicebars,43.82592,-79.306378
+4,S26Hz-1_OZuGVHGk6w6Qbg,Ten Ren's Tea,ON,Markham,L3R 4M9,12.0,3.0,5000 Highway 7 E,bubbletea icecream,43.86849118341287,-79.28908228168844
+5,LB9CJ9TGS2jYYMqH9FvrDw,Real Fruit,ON,Markham,L3R 0Y5,9.0,3.5,B223 - 4300 Steeles Avenue E,coffee tea juicebars,43.82588234,-79.30637322
+6,uO0CgfF7GFguOssT7JdIJQ,Presotea,ON,Markham,L3R 0Y5,2.0,3.0,4300 Steels Ave E,bubbletea,43.8241737,-79.3055156
+7,GujOIeaNyPGu6epBkAgcTw,Real Fruit Bubble Tea,ON,Markham,L3R 0Y5,4.0,2.5,Q & R - 4300 Steeles Avenue E,coffee tea juicebars,43.82588234,-79.30637322
+8,xugkZQhtyFfO7KYYAVCJSw,Kin Kin Bakery & Bubble Tea,ON,Toronto,M1W 2S8,4.0,3.0,2900 Warden Avenue,bakeries bubbletea,43.7984201,-79.3167071
+9,qNnd-4bG1hm2NFMaOHj1kg,Chatime,ON,Markham,L3R 0N8,22.0,2.5,Pacific Mall,coffee,43.8268776781237,-79.3061126757304
+10,qrr5PjTljEn_94tL83ETag,Lac Vien Express Restaurant,ON,Scarborough,M1B 2W4,96.0,3.0,2270 Markham Road,vietnamese,43.81152,-79.24309
+12,uwlQWhtrqm8k7CZwrNtRsg,Tai Ping Hsiang,ON,Markham,L3R 1K9,73.0,4.0,139-3636 Steeles Avenue E,taiwanese chinese,43.81892,-79.33075
+13,vRV4EHzaY5ta6Diz07ElgQ,Tea Shop 168,ON,Markham,L3R 0N8,4.0,3.0,4300 Steeles Avenue E,coffee juicebars,43.8241844,-79.3055191
+14,p4VrKw8CufwzBbvJkuLksQ,Tea Shop 168,ON,Markham,L3R 0Y5,3.0,2.5,4300 Steeles Ave E,coffee,43.8241737,-79.3055156
+15,g1UVmCOhQDY7TGSZ2rRT_w,Congee Queen,ON,Toronto,M1T 3L4,185.0,3.5,3850 Sheppard Avenue E,chinese,43.7837517174925,-79.2927074432373
+16,XlqnI6vcZUJ2tRFwjYKzcg,Ajisen Ramen,ON,Markham,L3R 9W4,63.0,3.5,8360 Kennedy Road,ramen,43.85912,-79.30438
+17,AtUtG-oQp1rkk6ZdYcfSzw,Cafe Hollywood,ON,Markham,L3R 7P2,261.0,3.0,Hollywood Square,chinese bubbletea sportsbars,43.8326563812883,-79.3065831128441
+18,XNVUXM8xY-slNbcPAr-w8Q,Potato Noodle Soup of Bai,ON,Markham,L3R,41.0,4.0,4300 Steeles Avenue  E,chinese,43.8259512,-79.3057108
+19,G6EkDTXZ6zMUovg7JTG4YQ,Vietnam Noodle Star,ON,Toronto,M1S 4T6,214.0,3.5,4188 Finch Avenue E,vietnamese noodles,43.80461259075736,-79.28730089037131
+20,teDbCTDdgICtC-pSTzCBAA,DM Chicken,ON,Toronto,M1V 0C7,60.0,3.0,3250 Midland Avenue,korean chinese,43.80513,-79.28757
+21,tOsvHZpxmyIK4Ngk8FaLJg,Fish Ball Place,ON,Markham,L3R 0Y5,27.0,3.5,4300 Steeles Ave. E,coffee chinese,43.8241844,-79.3055191
+22,oZyaFqZYf0eqKRiP-aY81Q,Pho Vietnam,ON,Scarborough,M1V 5K5,138.0,3.5,3262 Midland Avenue,vietnamese,43.80434749374215,-79.29055986633857
+23,D_rIXASVY4z3OD9pwMzA0w,Ye Skewers Hot Pot,ON,Toronto,M1V 0C7,34.0,3.5,F110 - 3260 Midland Avenue,hotpot,43.80472,-79.28856
+24,-7EwIdxcRC5McO35DVfeSQ,Xin Jiang Restaurant,ON,Markham,L3R 2Z5,151.0,4.0,3636 Steeles Avenue E,chinese,43.81892,-79.33075
+25,An-JJle53UMHokU4MwFktg,Deer Garden Signatures,ON,Toronto,M1V 5N1,178.0,3.5,633 Silver Star Boulevard .,chinese,43.822058,-79.298592
+26,1Epby_tsFDci4sP0Nbjwsw,Pho Vietnam,ON,Toronto,M1P,103.0,3.0,1280 Kennedy Rd,vietnamese,43.75773,-79.27856
+28,tQ9BtMUHFr8rdpmjmayUcA,Lucky Noodle,ON,Markham,L3R,86.0,3.5,1661 Denison Street,chinese noodles,43.8336238577348,-79.3065843991914
+29,1oD3ndgNI997hTEqkEh8EA,Pho Quinn Authentic Vietnamese Cuisine,ON,Markham,L3P 1B9,158.0,3.0,5284 Highway 7,vietnamese,43.8677249,-79.2830364
+30,Cs8BaiKkyNU6mzxq9nTsmg,Congee Queen,ON,Markham,L3P 1B9,231.0,3.5,5308 Highway 7,chinese,43.8685191164343,-79.2823904867378
+31,MSA9WlcVCjlektkeDX5keA,Ajisen Ramen,ON,Markham,L3R 5Y3,194.0,3.5,7010 Warden Avenue,ramen,43.820472014851596,-79.32536867636836
+28,3veazI0Wvf3O8CPtR7pnNA,Check In Corner,ON,Toronto,M3J 1N8,5.0,3.0,3930 Keele Street,bubbletea desserts cafes,43.7627628537164,-79.4913280382752
+6,RdwHiTJzpCU4Q8pgsJhiKg,Max's Restaurant,ON,Concord,L4K 3B9,152.0,3.0,1520 Steeles Avenue W,filipino,43.788602,-79.470939
+26,5fg-RNWNbqyGn8b8wqe4QQ,168 Sushi Asian Buffet,ON,Vaughan,L4K 3B9,281.0,3.5,1520 Steeles Avenue W,buffets asianfusion sushi,43.78738,-79.471494
+2,IvYQAv3R3UH9beGV3PNVBg,Fat Lenny's,PA,Erie,16502,38.0,4.5,443 W 8th,icecream toys bubbletea,42.1235773372645,-80.0938014686108
+4,j3WPr3GO5iL3AK_WsWFawA,Rita's Italian Ice,PA,Erie,16509,15.0,3.5,1406 W Gore Rd,icecream desserts shavedice,42.082088470459,-80.0889663696289
+2,4LLCQgyJMHZqyhCR_0Y06w,Andora's Bubble Tea Shop,PA,Erie,16501,32.0,4.5,516 State St,bubbletea coffee importedfood,42.1300712433952,-80.0857664366224
+4,4dN7w6zuoPcPAAmTMUKCeA,f&f Poke Bowl,PA,Erie,16509,11.0,3.5,6831 Peach St,bubbletea poke,42.056505,-80.088475
+14,PAJ6enRLMRgbsBtISqimhg,Thai Eatery,PA,Erie,16509,151.0,4.5,5641 Peach St,thai,42.0713566607163,-80.0930163894891
+18,X-bAS7tFhh49YfwvSpalHQ,Happy Wok,PA,Erie,16508,17.0,4.0,1537 W 38th St,chinese,42.089865,-80.0985
+9,CaTDHr2sQzlcf4Di-fA9Uw,F&F Poke Bowl,PA,Erie,16505,41.0,4.5,2501 West 12th St,poke bubbletea,42.102359566742294,-80.1352912
+20,lvG_jHXWB2AnatvdM_qrgA,Hong Kong Chinese Restaurant,PA,Erie,16506,16.0,4.0,2887 W 26th St,chinese,42.086193,-80.137579
+3,APMQb7xX9meeFB0MbP16Ug,Snowies Bingsu,ON,Mississauga,L5A 1W4,72.0,4.5,169 Dundas Street East,desserts,43.58447,-79.61244
+4,NKHvmp19c6wrm0dZXcLtmQ,Sugar Marmalade,ON,Mississauga,L5C 3X3,160.0,3.0,780 Burnhamthorpe Road W,chinese desserts,43.5772599054089,-79.653254360007
+5,QgZW5R7j4iUDQ0QSRWbbWA,Meet Fresh,ON,Mississauga,L5R 3V2,7.0,4.0,670 Eglinton Avenue W,taiwanese bubbletea shavedsnow,43.592199773394,-79.6677647439375
+6,mVv_VJhp8WMM0J6e76dp2Q,Crêpe de licious,ON,Mississauga,L5B 2C9,5.0,3.0,100 City Centre Drive,creperies newcanadian,43.5907304517586,-79.6467188320408
+7,sb17pKkJKA3pjiYuNvZTnA,Cha Me. Cha,ON,Mississauga,L5B 0H7,28.0,3.5,4188 Living Arts Drive,desserts taiwanese coffee,43.5902907359659,-79.6486307204188
+8,tX1fI1TgkvPQNYvwABea0w,Bubble Republic Tea House,ON,Mississauga,L4Z,139.0,3.0,4555 Hurontario Street,taiwanese tea bubbletea,43.6054636402131,-79.6493142217063
+9,2damZxZzaKKc5z2eK3OZmw,ZenQ,ON,Mississauga,L5B 0G4,31.0,2.5,516 Curran Place,taiwanese bubbletea desserts,43.5858174469884,-79.6467258408666
+11,Np8MXME68JGYxJQ01lDd3g,Bubble Republic Tea House,ON,Mississauga,L5C 3Y8,123.0,3.0,4040 Creditview Road,taiwanese coffee,43.56811850505,-79.6663337945938
+12,qiRyyRWt6jmAxcoVW0-WHA,Heart Sushi,ON,Mississauga,L5V 2X8,376.0,3.0,815 Britannia Road W,sushi chinese japanese,43.6105329657933,-79.6984212268385
+13,qA0SlNp1fVtMuB51okYhIw,Lion City Restaurant,ON,Mississauga,L5C 4P3,170.0,3.5,1177 Central Parkway W,singaporean,43.5670258133,-79.6595937386
+14,HESQNQe96hb6heem0ji0xQ,168 Sushi Japan Buffet,ON,Mississauga,L5K 1R7,252.0,3.0,2366 Dundas Street W,sushi buffets asianfusion,43.5297620745803,-79.6731489740901
+19,ly0SNB5mUdqkYW_pj-M9wQ,Carinderia,ON,Mississauga,L4W 1K3,32.0,4.0,980 Eglinton Avenue E,filipino,43.6270669993125,-79.6296760439873
+9,WPcnYQQxSftVlU2bRX9D_Q,Teafun - Hamilton,ON,Hamilton,L8N 1B1,3.0,1.5,139 King Street E,bubbletea fooddeliveryservices internetcafe,43.255586,-79.864701
+0,c4spi3ZZwG5kQmP9bhS9fQ,SkyHy Nutrition Lounge,NY,Geneva,14456,1.0,5.0,134 Castle St,bubbletea juicebars,42.868154,-76.984703
+2,3Cl0WnHb8-y4ERG3VMpZAg,Mightea Boba,NY,Canandaigua,14424,10.0,4.0,3225 State Rte 364,bubbletea coffee icecream,42.874087,-77.248522
+19,wMBTfr_axUHy4PZbwJ1vRg,Geneva Gelato,NY,Geneva,14456,25.0,4.0,504 Exchange St,gelato coffee,42.86724,-76.98213
+7,Oq_2zRhV9IntGbqlcMdatw,Poppleton Bakery & Cafe,NY,Corning,14830,112.0,4.0,23 W Market St,bakeries breakfast_brunch sandwiches,42.14374,-77.05551
+0,oV5lBaKn0VBUI9FKzFjYkw,StacyKay's Cafe,PA,Wellsboro,16901,1.0,4.0,17 Charleston St,bubbletea coffee waffles,41.75133207554598,-77.29629095451735
+0,MwzaVRXRu5CBnYnJxMViNg,Wu's Shaved Ice,PA,South Park Township,15129,3.0,5.0,,shavedice foodstands,40.2909736633301,-79.993537902832
+1,kIhSf0z0VEfvw9CGL-slug,Kona Ice,PA,Pittsburgh,15106,3.0,3.5,,foodtrucks shavedice,40.40542,-80.08658
+2,mmabEFN36hKEQC7-7alevw,Kona Ice,PA,Moon Twp,15108,1.0,1.0,,shavedice foodtrucks,40.5161247253418,-80.1665649414063
+3,T_p58FAZTTRztGtASp6QgA,Rita's Italian Ice,PA,Cranberry Twp.,16066,10.0,4.5,1302 Freedom Rd,icecream desserts shavedice,40.68425,-80.10976
+4,pv__91LMXAbNX50NgeO55g,Sumi's Cakery,PA,Pittsburgh,15217,95.0,4.5,2119 Murray Ave,bakeries korean desserts,40.4331,-79.92289
+5,ypSDELi0xMgoChahZkB3NA,Rita's Italian Ice,PA,Mckees Rocks,15136,13.0,4.0,6154 Steubenville Pike,icecream desserts shavedice,40.444459,-80.148496
+6,6Az5aA5sdrqwfJjnS8TROQ,Bao,PA,Pittsburgh,15213,121.0,4.5,114 Atwood St,taiwanese noodles dimsum,40.44123665182891,-79.95801470314531
+7,wUr4HeEhhPeiFb7UmiYRzg,Chick'n Bubbly,PA,Pittsburgh,15213,179.0,4.0,117 Oakland Ave,korean bubbletea chicken_wings,40.44193,-79.95718
+8,d2ZQRjuizstCTnicysmpMQ,Eleven,PA,Pittsburgh,15222,789.0,4.0,1150 Smallman St,newamerican,40.44602,-79.99325
+9,08t3_HjbpLyPeuft6eoa5A,Page Dairy Mart,PA,Pittsburgh,15210,268.0,4.5,4112 E Carson St,icecream desserts,40.4112284,-79.9557968
+10,7IQ_ZBBMh8kP2UoPe4Y_ww,Meet BAO,PA,Pittsburgh,15213,3.0,2.5,114 Atwood St,panasian,40.4412353,-79.9580146684343
+11,TmGxQgFdiG585PCs_2hCew,Rita's Italian Ice,PA,Pittsburgh,15217,47.0,4.5,5880 Forbes Ave,icecream desserts shavedice,40.43782,-79.91978
+12,f3y-4wAlDodHv-3Qnrg-vQ,Rita's Italian Ice,PA,Wexford,15090,12.0,3.5,10376 Perry Hwy,desserts shavedice icecream,40.6044991314411,-80.0506326556206
+13,9LxqI_Tatz6B1x7CbOLL7A,Kelly's Riverside Saloon,PA,Beaver,15009,60.0,2.5,1458 Riverside Dr,tradamerican irish_pubs,40.71068,-80.29904
+14,QEBS_iXJeUvZEP-tvoGAkg,Rita's Italian Ice,PA,Pittsburgh,15209,7.0,4.0,1320 Babcock Blvd,icecream desserts shavedice,40.4959599,-79.97645
+15,xKZ4YIid7eJbypOAGT2-NA,Rita's Italian Ice,PA,McKees Rocks,15136,2.0,1.5,1803 McKees Rocks Rd,icecream desserts shavedice,40.469276,-80.096253
+16,SaBQcVm_qyRbiQBcVgAa1Q,Rita's Italian Ice,PA,Bethel Park,15102,9.0,4.0,5029 Library Rd,icecream desserts shavedice,40.340165648456,-80.0252952662776
+17,19m3NtbbP2VX-tDFJB1lKQ,Rita's Italian Ice,PA,Pittsburgh,15236,6.0,3.5,229 Curry Hollow Rd,icecream desserts shavedice,40.337262,-79.979377
+18,BfIcrMq0Me0D7BBSYij7Fg,Difiore's Ice Cream Delite,PA,Pittsburgh,15211,108.0,2.5,120 Shiloh St,icecream sandwiches tradamerican,40.4310949665867,-80.0073662852848
+19,6qjYqf6memou9O3jiVcv3A,Rita's Italian Ice & Frozen Custard,PA,Pittsburgh,15226,1.0,5.0,427 McNeilly Rd,desserts shavedice icecream,40.383124,-80.014798
+20,cngjoKeAEdre-mBk5KSWuQ,Pittsburgh Rib Fesitval,PA,Pittsburgh,15212,3.0,3.0,Heinz Field,bbq,40.45505,-79.99264
+21,qAVoausNrMEByp2cFt8EaA,Rita's Italian Ice,PA,Oakland,15213,13.0,4.0,3712 Fifth Ave,shavedice desserts icecream,40.4419607456418,-79.9579681519875
+22,jemRU9DvmS0WGZuZ-k3jCQ,Rita's Italian Ice,PA,Pittsburgh,15220,12.0,3.5,2070 Greentree Rd,icecream desserts shavedice,40.392497,-80.068778
+0,FA96RzH0uFDrDHosI4Z-QQ,Tsaocaa,PA,Pittsburgh,15217,91.0,4.5,5871 Forbes Ave,bubbletea,40.43827,-79.92027
+1,O6MwxUBEAYmb_RWDlEtKCw,Saigon 88 Express,PA,McKees Rocks,15136,128.0,4.5,5500 Steubenville Pike,vietnamese noodles sandwiches,40.4505208153035,-80.12685097754
+2,5u27mhDjcJ4Y7QbDhRyaXg,Fuku Tea,PA,Pittsburgh,15213,205.0,4.0,3800 Forbes Ave,coffee bubbletea,40.4415422065159,-79.956820957154
+3,50KEvLtQl9Vv4YE1vs681Q,Thai Foon,PA,Pittsburgh,15205,233.0,3.5,1950 Settlers Ridge Center Dr,asianfusion thai vegan,40.438617960479,-80.146132531925
+4,DOMr84L1ENSVjP6XmI7HCg,Love Tea,PA,Pittsburgh,15213,23.0,4.5,229 Atwood St,coffee bubbletea,40.440572,-79.956502
+5,m2ESeAsMeKojQm3KXmHLGA,Yama Sushi,PA,Mars,16046,109.0,4.5,515 Adams Shoppes,sushi modern_european japanese,40.6877267360687,-80.0549148023129
+6,MG5Mwc-dA34-L2LUCv43jg,Chatime,PA,Pittsburgh,15237,33.0,3.5,1000 Ross Park Mall Dr,bubbletea juicebars,40.5442586910429,-80.0073454224762
+7,emb1r_tKM14KRkwtPotl0Q,Kung Fu Tea,PA,Pittsburgh,15217,19.0,4.5,2109 Murray Ave,bubbletea,40.43350417,-79.9231075
+8,QLTe5e-wKcNJOAfmydHt1A,Avor Thai,PA,Cranberry Township,16066,192.0,4.0,900 Commonwealth Dr,thai,40.6833267211914,-80.1116409301758
+9,FJAz6T7yDf_ph4Gnm-ka9Q,Amy’s Bakery,PA,Mount Lebanon,15228,28.0,4.5,654 Washington Rd,bakeries bubbletea customcakes,40.381148,-80.044573
+10,vnT_AQXCkchNRnKJNd0i7Q,Bae Bae’s Cafe,PA,Pittsburgh,15222,34.0,4.5,945 Liberty Ave,cafes sandwiches bubbletea,40.44376183,-79.99649867
+11,hg3pidNXBVcErL1l6EyQHw,Kungfu Tea,PA,Pittsburgh,15106,3.0,5.0,,bubbletea foodtrucks,40.4404976897654,-79.9602848048527
+12,q-vggL5FMBz_CnxWB2_XYA,Crave Mexican Grill,PA,Beaver,15009,45.0,3.0,431 3rd St,mexican,40.69606,-80.30212
+13,mooEWKEZERUDX1oMhfvc_A,Churn,PA,Glenshaw,15116,25.0,4.5,3390 Saxonburg Blvd,coffee icecream,40.54899,-79.91429
+14,ogGlctEavEWSVxFQ0ju3Gg,Sincerely Yogurt,PA,Bridgeville,15017,14.0,4.0,1025 Washington Pike,icecream juicebars,40.3694725036621,-80.1050796508789
+16,Fow67bYli1t2mny__9YinQ,Boba Tea Bar,PA,Pittsburgh,15237,27.0,3.5,4316 Butler St,cafes,40.4710517,-79.9597953
+17,swfdlAMXwV8OjYD5nkA6nQ,China Palace of Wexford,PA,Wexford,15090,56.0,3.5,10441 Perry Hwy,chinese sushi bubbletea,40.60674,-80.05271
+18,0sKUrbcWsnbx5gI5LCEVrw,Sincerely Yogurt,PA,Cranberry Township,16066,29.0,3.5,1183 Freedom Rd,icecream desserts juicebars,40.6822094,-80.1243399
+19,kiB4iXKPj69_wms2dd0U-w,Pho Saigon Cafe,PA,Bethel Park,15102,61.0,4.5,2822 South Park Rd,vietnamese,40.3280605,-80.03646117
+20,sGLdSwi3zKNM3c3f5Ep8jw,Gloria Jeans Coffees,PA,Pittsburgh,15241,19.0,4.5,301 S Hills Vlg,coffee,40.3424447894728,-80.0559294722137
+21,VgWvHMs5TJ2lr0ec2DaMtQ,Bae Bae's Kitchen,PA,Pittsburgh,15222,530.0,4.5,951 Liberty Ave,korean comfortfood,40.443682,-79.996195
+22,Yewf5KT9c-z8oc2-GeF06g,JJPOKÉ,PA,Pittsburgh,15213,81.0,4.5,110 Atwood St,bubbletea poke taiwanese,40.44141,-79.95823
+23,qh1GCWP_2TKxevp3ZeMxag,Chan's Tea House,PA,West View,15229,37.0,3.0,1009 W View Park Dr,chinese noodles soup,40.5159677540245,-80.0378046557307
+24,uRybQLCYWkC6N19MhaHf_w,Taiwanese Bistro Cafe 33,PA,Pittsburgh,15217,379.0,4.5,1711 Shady Ave,taiwanese noodles seafood,40.4376110828313,-79.9191114696594
+25,i-fdgshW3xovHeMZosDerw,My Thai,PA,Pittsburgh,15216,130.0,4.0,3024 W Liberty Ave,thai salad noodles,40.3930420493059,-80.0370368071787
+26,Ac-DbrST8bF9Cpge5D9_Cg,Pho Kim 88,PA,Pittsburgh,15234,197.0,4.0,4100 Library Rd,vietnamese,40.3603668212891,-80.0290145874023
+27,4mYS-4UOjTKgsf0tX1_IkQ,Banh Mi & Ti,PA,Pittsburgh,15201,323.0,4.5,4502 Butler St,vietnamese cafes bubbletea,40.472145273083,-79.9589364429569
+28,vTOe_2zCHlElAjyaXnHh5g,Yue Bai Wei,PA,Pittsburgh,15217,33.0,3.5,5874 Forbes Ave,chinese,40.43785220737042,-79.92011302534436
+29,ujInFnyExqAXtsti-qdrzg,Mola,PA,Pittsburgh,15206,178.0,4.5,6018 Penn Ave,sushi cocktailbars,40.4610694442199,-79.924216077817
+31,-8F04F54iDT6VgWPCgybug,Ineffable Ca Phe,PA,Pittsburgh,15224,159.0,4.5,3920 Penn Ave,vietnamese coffee sandwiches,40.46466,-79.95929
+32,QXKN5MYb5O1sg6-G2pwTzg,Shaka,PA,Pittsburgh,15212,44.0,4.0,200 Children's Way,asianfusion hawaiian cocktailbars,40.451519,-80.006036
+33,EZ9Uf-lSRtj1fvdMQlrwAw,Thai Me Up,PA,Pittsburgh,15203,242.0,4.0,118 S 23rd St,thai,40.427086,-79.973273
+34,LDVTTqruIDhbJcmrPr9D5g,KaFair Cafe,PA,Pittsburgh,15206,25.0,5.0,1806 Chislett St,coffee breakfast_brunch bakeries,40.48551,-79.92543
+35,qAzOcHnWerREl678su-p0A,Asian Garden,PA,Pittsburgh,15234,23.0,2.5,4136 Library Rd,chinese,40.358953,-80.029218
+37,Fozo0B-y42EhRMomR0K5vQ,Waffallonia,PA,Pittsburgh,15217,331.0,4.5,1709 Murray Ave,desserts icecream waffles,40.43769,-79.92283
+38,S-WbBty-kGOO3Fmwx3Jmlw,Pink Box Bakery Cafe,PA,Pittsburgh,15217,130.0,4.0,2104 Murray Ave,bakeries coffee desserts,40.4333842481899,-79.9231549468701
+39,tetKWtLT0639lqnD9QJRKw,Panda Express,PA,West Mifflin,15122,84.0,3.0,2070 Lebanon Church Rd,chinese hotdogs,40.3479348692857,-79.9462279517355
+40,MKd_EUD0PG__cOfIbeqYAg,Té Café,PA,Pittsburgh,15217,133.0,4.5,2000 Murray Ave,coffee sushi,40.43457,-79.92301
+41,cGQKUOAZm_VHcQOJWbatog,P.F. Chang's,PA,West Homestead,15120,217.0,3.0,148 W Bridge St,chinese asianfusion,40.407150649512886,-79.9160729348659
+42,vmR1bRA2liNwwxsUKS1k3w,T-Swirl Crepe,PA,Pittsburgh,15217,95.0,4.5,1714 Murray Ave,creperies japanese,40.437483,-79.9231457
+43,cG82vmu-bQd-WWmsveJlGw,Fuku Tea,PA,Pittsburgh,15213,9.0,4.0,300 S Craig St,bubbletea coffee,40.445527,-79.949217
+44,BrORoLCE5zVY6ekUb6omNA,Mad Noodles,PA,Pittsburgh,15203,133.0,3.5,2017 E Carson St,bubbletea ramen noodles,40.4288,-79.97688
+45,xRsm1kRIGbL_nGCtxd551g,Took Took 98,PA,Pittsburgh,15217,106.0,4.5,2018 Murray Ave,thai bubbletea asianfusion,40.4342,-79.92305
+46,xULATz2siGXOPia614mg2A,Lulu's Noodles,PA,Pittsburgh,15213,444.0,3.0,400 S Craig St,chinese noodles,40.44514,-79.94904
+47,Msq2CBPFaY7Fe7h7R20fOA,Dragon Palace,PA,Pittsburgh,15215,34.0,4.0,1714 Main St,chinese,40.494867,-79.922603
+48,P4w7kxvrr4odvXdyQzXIvw,Maiku Sushi,PA,Pittsburgh,15222,220.0,4.0,1611 Penn Ave,sushi soup vietnamese,40.4490736801823,-79.9872996658087
+49,eNsM5ezjhPQWI6XlUGrUhw,Lin's Asian Fusion,PA,Pittsburgh,15203,135.0,3.5,2018 E Carson St,asianfusion,40.4283,-79.97682
+0,hcFSc0OHgZJybnjQBrL_8Q,Everyday Noodles,PA,Pittsburgh,15217,832.0,4.0,5875 Forbes Ave,chinese noodles,40.438262,-79.920082
+1,Y4pqydzydqrVp_o56VmIig,Dagu Rice Noodle,PA,Pittsburgh,15217,17.0,4.0,5829 Forbes Ave,bubbletea chinese chicken_wings,40.43828,-79.921871
+2,1_Dg-GguWatioW4mvFQKQA,Little Tokyo Bistro,PA,Pittsburgh,15203,161.0,4.0,2122 E Carson St,sushi japanese korean,40.4281845092773,-79.9753036499023
+3,AYr2URtjoQ8Toh8_Jr4G6A,Rose Tea Cafe,PA,Pittsburgh,15213,93.0,3.0,414 S Craig St,chinese bubbletea taiwanese,40.44476,-79.94887
+4,DXP3MbE8srQITLlAuS45aQ,Hunan Bar,PA,Pittsburgh,15213,102.0,3.5,239 Atwood St,szechuan,40.4403038024902,-79.9562759399414
+5,K6AKMjAdCSe8xllsbyeL9Q,Asia Tea House,PA,Pittsburgh,15213,64.0,3.0,4230 Forbes Ave,chinese bubbletea,40.4427240453859,-79.9528134936706
+6,f1K6hzQecl-sJFYRUHvDDQ,Szechuan Spice,PA,Pittsburgh,15206,121.0,4.0,5700 Centre Ave,sushi szechuan hotpot,40.45701,-79.93346
+7,j3YEV0H16fRaSiKh-ne00g,Kiin Lao & Thai Eatery,PA,Pittsburgh,15217,132.0,4.5,5846 Forbes Ave,laotian thai,40.437770689507126,-79.9211285
+8,DwmAsemahJywywhuqv5J1Q,Sichuan Gourmet,PA,Pittsburgh,15213,176.0,4.0,328 Atwood St,szechuan,40.4389524203373,-79.9551590458901
+9,ZKBUoCqTpwMtmImz64DGyQ,Hong Kong Express II,PA,Pittsburgh,15219,15.0,3.5,529 Ct Pl,chinese,40.437018,-79.997166
+10,9PTRou9XCkO6ZiCBrbeh0A,Phat's Bar,PA,Pittsburgh,15213,2.0,1.5,418 Semple St,bars karaoke bubbletea,40.43651,-79.95461
+11,GjX2WgchvvS-JAWBmzkLyQ,Pho Van,PA,Pittsburgh,15222,267.0,3.5,2120 Penn Ave,vietnamese,40.4519857,-79.9824067
+12,X2X3n0PutSNonQQj2cjsCw,Tan Lac Vien,PA,Pittsburgh,15217,250.0,4.0,2114 Murray Ave,vietnamese,40.4332,-79.92325
+13,S6dARuOrrOXd4xSiTHti8g,Chengdu Gourmet,PA,Pittsburgh,15217,208.0,4.0,5840 Forward Ave,chinese,40.4295421034818,-79.9223725553359
+14,e7M2GgkCfDYTxdPN1LL1sQ,Wai Wai Chinese Cuisine,PA,Pittsburgh,15224,160.0,3.5,4717 Liberty Ave,chinese,40.4620628356934,-79.9491577148438
+15,kkD0tv_e5E6a8kRpLYEcaA,Oishii Bento,PA,Pittsburgh,15213,319.0,4.0,119 Oakland Ave,japanese korean sushi,40.4418999,-79.95714
+16,X4CRPHvv-33kjxVJISZpUg,Little Asia,PA,Pittsburgh,15213,139.0,3.0,311 S Craig St,sushi chinese,40.4454,-79.94853
+17,jDZJsIyc3jXjcTtJk_p8ZA,Orient Express,PA,Pittsburgh,15213,103.0,3.0,4609 Forbes Ave,chinese,40.44465,-79.94818
+18,7aZf5c1UNotq4MabBXMZLA,Sichuan Gourmet,PA,Pittsburgh,15217,311.0,3.5,1900 Murray Ave,szechuan,40.43588,-79.92307
+22,G_f-lzXmrLtLLDRt9ATq3g,Rita's Italian Ice,PA,White Oak,15131,4.0,3.0,1985 Lincoln Way,icecream desserts shavedice,40.338341,-79.806593
+22,F6F0JHqFtvYaEPlU2zj84w,Mico’s Kitchen,PA,Butler,16001,5.0,4.0,236 S Main St,bubbletea chinese asianfusion,40.85889,-79.89562
+30,MNmQ1s-zdjEgm3bdRs7iEw,The Green Mango,PA,Pittsburgh,15235,196.0,3.5,3461 William Penn Hwy,thai,40.430732,-79.810192
+36,ix8EZnEGi7pLJCf-KhKecQ,Burgh Thai,PA,Verona,15147,54.0,4.5,321 South Ave,thai,40.50501,-79.84348
+10,xCmFGgpTkf77fNCrvkDBsA,Thai Terrace,PA,Pittsburgh,15218,38.0,4.5,247 Edgewood Ave,thai,40.43035,-79.88411
+17,qfBp53c7Z2DpqUrGhV80zg,Thai Cottage,PA,Pittsburgh,15218,155.0,4.0,1109 S Braddock Ave,thai,40.4325718,-79.893728
+2,fuU0qyqey5kMY0PW4Y1ptA,Rita's Italian Ice,PA,Washington,15301,6.0,4.5,74 Trinity Point Dr,icecream desserts shavedice,40.18341,-80.21884
+10,i4CF-bIEfNeYoQ87klS78Q,Benichopsticks Restaurant,PA,Canonsburg,15317,64.0,3.5,1025 Waterdam Plz,japanese chinese,40.262821,-80.133828
+0,CEVkoAYuBhoPGS4WQZTeBA,The Snowman,PA,Portersville,16051,20.0,4.5,238 E Portersville Rd,shavedice icecream,40.92222,-80.12632
+24,72IdwUbxl8sG6ZrJCPcQng,Shanghai Tokyo Restaurant & Sushi Bar,PA,Sarver,16055,41.0,4.0,612 S Pike Rd,chinese japanese sushi,40.70262,-79.72269
+1,GeP9t1b9F0scfg_wSIox5A,Kona Ice Of Youngstown,OH,Canfield,44406,2.0,4.5,,shavedice icecream foodtrucks,41.0263214111328,-80.7182235717773
+0,u8NdJbRHSu26k1Ri1ZKyNQ,Bobba Tea Southern Park Mall,OH,Boardman,44512,1.0,5.0,7401 Market St,juicebars icecream bubbletea,41.021165642755975,-80.6587007734681
+4,Y9Pbq0Tzl-VE2hYYXv8g-Q,Izumi Japanese Restaurant,OH,Youngstown,44512,61.0,4.5,840 Boardman Poland Rd,sushi japanese,41.024871,-80.637786
+6,FsfAdBwkdMtUk9e1n4vNoA,Pho Saigon,OH,Youngstown,44512,83.0,4.0,6532 South Ave,chinese vietnamese,41.03186,-80.6353
+7,IXU_uBPr1IFQ09pK1N112g,Elephant #8 Thai Taste,PA,Slippery Rock,16057,35.0,4.5,126 S Main St,thai,41.06354,-80.05644
+13,Y2Vmt8HfdB-aLTh6ME9x5g,Mizu Japanese Restaurant,OH,Youngstown,44512,103.0,4.0,60 Boardman Poland Rd,japanese bars,41.0246053814223,-80.6597159243021
+1,wpSWzp9My63yl_12qVfCiw,Kona Ice of Westmoreland,PA,Greensburg,15601,1.0,5.0,,shavedice foodtrucks icecream,40.3028182983398,-79.5440673828125
+2,YTzi3m5AkcmGQlJUMXGQBg,Rita's Italian Ice,PA,Belle Vernon,15012,4.0,4.0,Tri-County Plz,desserts shavedice icecream,40.1380081,-79.8393326
+1,PsYxkIJn9K-GiA_g854qAQ,Bubble Tea,PA,Greensburg,15601,5.0,4.0,5256 US-30,bubbletea juicebars desserts,40.30071483160112,-79.50734078941039
+20,DXE4MooKSMh6Ay4AHKl8Vw,Cattfeinated Cat Cafe,PA,Greensburg,15601,12.0,4.5,159 E Otterman St,cafes,40.304166280065,-79.5416298508644
+3,JE7nM__FRx_GHhlEBbH5DA,Rachelle’s 15650,PA,Latrobe,15650,3.0,4.5,335 Main St,coffee sandwiches cafes,40.31697,-79.38338
+18,KJC4Go4IzSv0QIEXVggNSw,Asian Cafe,PA,Latrobe,15650,11.0,3.0,2401 Sharky's Dr,chinese,40.2860767019893,-79.3878723954319
+1,bsmbXH-HZ_jmt3whYgMJkw,Sno Biz- Moundsville,WV,Moundsville,26041,1.0,4.0,1917 1st St,shavedice icecream,39.92696330304652,-80.73276937349439
+2,LtlHwfNIPTdMzbEXVwB5xA,Rita's Italian Ice & Frozen Custard,WV,White Hall,26554,1.0,5.0,2600 White Hall Blvd,icecream desserts shavedice,39.428449584525836,-80.1862260028432
+4,KQSEzg_DmPtTEt_UdNTSzg,C Fruit Life,WV,Morgantown,26505,5.0,5.0,370 Patteson Dr,desserts bubbletea chinese,39.6512964743649,-79.968264350018
+0,rbD7zlRbS_u5RoToT33mSA,"TK'S Fruits, Produce & Bubble Tea",WV,Morgantown,26505,15.0,4.5,300 High St,bubbletea markets grocery,39.6297874,-79.9557266
+2,k-CGzOGHp1RtHeN7tJqXgg,bubble fish,WV,Morgantown,26505,26.0,4.5,376 High St,hawaiian bubbletea poke,39.63076,-79.95492
+3,hq_QhItY_FeX86hVVAZiDg,Lavender Cafe,WV,Morgantown,26505,108.0,4.0,247 Beechurst Ave,taiwanese chinese bubbletea,39.6384,-79.95851
+4,psaJSEHd8o7C8PucQHpZcw,Bubble Fish,WV,Morgantown,26505,1.0,5.0,1006 Suncrest Towne Centre Dr,poke bubbletea,39.6515375,-79.9421901
+5,AijmW7pbXBNIbNSNYGjzow,Bubble World,WV,Bridgeport,26330,2.0,2.0,2399 Meadowbrook Rd,bubbletea waffles icecream,39.312888,-80.271931
+6,CXq8Jh0Pow5OO9tr9Ie_2w,Asian Bistro,WV,Morgantown,26505,93.0,4.0,3006 Northpointe Plz,vietnamese japanese chinese,39.6522177010775,-79.9209820479155
+8,yRttVEIQSwRiBA8dOjCMPw,Green Tea Asian Fusion Restaurant,WV,Morgantown,26505,92.0,4.0,511 Burroughs St,asianfusion chinese,39.6574046,-79.9707919
+9,nZBEYj3V8Fs0wP3zyuHw6g,Saigon Pho Kitchen,WV,Morgantown,26505,91.0,4.5,3109 University Ave,vietnamese soup sandwiches,39.653918,-79.970437
+12,2i22KOQZzCnbbgoQel34hQ,Osaka Steak House,OH,Saint Clairsville,43950,25.0,4.0,67800 Mall Ring Rd,japanese sushi chinese,40.0688649759523,-80.8666143936411
+13,XBV4kCIuUol_2xpM79Rasw,Chaang Thai Restaurant,WV,Morgantown,26505,136.0,4.0,361 High St,thai vegetarian vegan,39.6306,-79.95538
+15,H-40G2Ozor49MvDuN1vtGA,Super Red Bowl,WV,Morgantown,26508,3.0,3.5,6100 Mid Atlantic Dr,asianfusion,39.64846,-79.89083
+16,SYOWhiZMkniGpFXuzwFZ5Q,Portias Donut's,PA,White Township,15701,1.0,5.0,Rte 422 W,bakeries donuts coffee,40.6230900001557,-79.1840400000569
+49,CcpcJgZkqjJwZTN5c3oamw,Bann Thai Restaurant,PA,Indiana,15701,3.0,3.5,1830 Oakland Ave,thai,40.6112388675,-79.1764212999
+4,qCIwtvSGrf7kUaRUl3Gfzg,Rita's Italian Ice,MD,La Vale,21502,3.0,3.5,1055 National Hwy,desserts shavedice icecream,39.641113,-78.826599
+11,SyrWdNUajHsTgQwzX_Iu8Q,56 Buffet,PA,Johnstown,15904,16.0,4.0,1425 Scalp Ave,chinese buffets,40.2716137447665,-78.8579406738281
+24,OwGGcCbSn-Z_1TkVGkgM5g,Thai at Indiana,PA,Indiana,15701,45.0,4.5,14 S 7th St,thai,40.6226107,-79.153523
+25,QbL5wlGgWu8bhsde-JRVVg,Teerak Thai Restaurant,PA,Indiana,15701,73.0,4.5,895 Wayne Ave,thai noodles soup,40.6159012522804,-79.1548312
+24,ta6LAmj9L_HXVsjHQ00rjQ,Everyday Gourmet & Fine Food Merchant,PA,Ebensburg,15931,96.0,4.5,204 W High St,tradamerican,40.48496,-78.72633
+1,4WMcxPE27ainmGMUwwp9aA,Brainfreezerz,PA,Altoona,16602,4.0,5.0,100 Logan Valley Mall,icecream foodstands shavedice,40.4703928881866,-78.4069629868209
+2,VZeYxSb1WKPsrB_8eG05-Q,Rita's Italian Ice & Frozen Custard,PA,Bedford,15522,1.0,5.0,106 E Pitt St,shavedice desserts icecream,40.01878,-78.50345
+6,unR11SzNbR6BNHxOhzAeeQ,Rita's Italian Ice & Frozen Custard,PA,Altoona,16602,1.0,2.0,3415 Pleasant Valley Blvd,shavedice desserts icecream,40.484298460217886,-78.3988706881914
+11,pGw0X7t_DPiKuLDMOQnsuQ,Jaidee Thai Restaurant,PA,Altoona,16601,97.0,4.5,519 E 25th Ave,thai,40.536331,-78.39917
+12,D1MLklPqknGa-ACtAIHMyg,Little Tokyo,PA,Altoona,16601,14.0,3.5,2720 Plank Rd,ramen sushi bubbletea,40.45650167,-78.40776167
+2,ZtX4kYuKRqn6DdCa3QLVQQ,The Meadows,PA,Huntingdon,16652,2.0,4.5,9081 William Penn Hwy,icecream gelato shavedice,40.487974,-78.031353
+5,QhKKjuGL7qu8uiC_l19taw,Rita's Italian Ice,PA,State College,16801,14.0,3.5,119 E Beaver Ave,desserts icecream shavedice,40.7939099,-77.8598899
+1,p6dCXYyPCPLG9Y-J6SldLw,Mr Wish,PA,State College,16801,2.0,4.5,320 E College Ave,juicebars bubbletea coffee,40.79697,-77.85802
+2,rXLyXQBO8sDwM0AKJiCZHw,Momotaro,PA,State College,16801,72.0,4.0,220 W College Ave,desserts bubbletea coffee,40.79287006609,-77.8630598634481
+3,vKNS8R-FOCJPoIYYxkjoTg,Café Wow,PA,State College,16801,32.0,4.0,234 E College Ave,cafes desserts bubbletea,40.7958947,-77.8591343
+4,uJv7C5apEWS0p8iOmpmlnA,Kung Fu Tea,PA,State College,16801,39.0,2.5,320 W Beaver Ave,bubbletea sandwiches desserts,40.791211,-77.8630696
+12,KkYe5rh1VjFJlK9jXGGFJQ,Kondu,PA,State College,16801,37.0,3.5,132 S Allen St,sushi japanese,40.79352,-77.86107
+13,vTq6gFAfjMeGvFkoyzGQNA,Uncle Chen's,PA,State College,16801,107.0,2.5,430 E Calder Way,chinese hotdogs bubbletea,40.79757,-77.85511
+14,l5Cl_W5qVOR45nRmZvw9iw,Big Bowl Noodle House,PA,State College,16801,227.0,4.0,418 E College Ave,chinese taiwanese noodles,40.79798,-77.85652
+15,kjSYVYOQchVnn9C_zaqj7A,Yummy Cafe,PA,State College,16801,44.0,3.0,320 E Calder Way,szechuan,40.79661,-77.85749
+17,RWBkiQPlKVtn23VfOBDUKQ,Hibachi Express,PA,State College,16801,4.0,4.0,320 E College Ave,japanese asianfusion sushi,40.79697,-77.85802
+2,jPZgXKH48lTsoVbJOOB3mQ,Makua's Shave Ice,WV,Martinsburg,25404,1.0,5.0,,shavedice,39.4625,-77.95522
+0,QojjBN3aFPdFrRXvIi6_tg,Sweet Hut Cafe,WV,Martinsburg,25401,13.0,4.5,220 N Queen St,poke icecream bubbletea,39.459285,-77.963262
+1,MDFTMBigAYyDxQeUrXKvcg,Golden China Restaurant,WV,Martinsburg,25404,44.0,4.0,1117 N Queen St,chinese bubbletea seafood,39.4706345,-77.954653
+6,038tjuNt-8EQbTziydG0Ew,Green Pineapple,WV,Shepherdstown,25443,73.0,3.5,140 East German St,bubbletea korean asianfusion,39.4301575667509,-77.8041723930218
+6,A-utx4lygyE-w7rfbxdtEA,Byers Market,MD,Hagerstown,21740,4.0,3.5,152 N Burhans Blvd,grocery convenience delis,39.6473122,-77.7250671
+7,IC_LspyYeE1SNQfGaX14Sw,Rita's Italian Ice,PA,Shippensburg,17257,4.0,4.0,10016 Molly Pitcher Hwy,icecream desserts shavedice,40.043455,-77.533057
+8,LXuhJmP9Ox0eMQFa8W4hZg,Rita's Italian Ice,MD,Hagerstown,21742,5.0,3.5,1313 Pennsylvania Ave,icecream desserts shavedice,39.6643829345703,-77.7193756103516
+4,pI6zNGKw0UfQ-2-9P8-Tbg,Juno Bakery & Cafe,MD,Frederick,21702,2.0,4.5,1063 W Patrick St,coffee customcakes bubbletea,39.418783,-77.446488
+7,207npuDSH_riTpL6YiXdzg,Sapporo,PA,Waynesboro,17268,117.0,5.0,5 E Main St,japanese korean sushi,39.755724,-77.577213
+9,ohDF-yIcZoJ9OylH5xAaaQ,Sakura,PA,Shippensburg,17257,29.0,4.0,17 Shippensburg Shopping Ctr,japanese asianfusion,40.05782,-77.500024
+10,hy_9FUAlBjulGjffg1JG_g,Fuji Asian Food & Sushi Bar,MD,Hagerstown,21742,72.0,3.5,11205 John F Kennedy Dr,sushi asianfusion,39.62263,-77.67613
+11,EnnIAyyCuHcFbnGMRxMWRQ,Cafe L'ami,MD,Frederick,21702,4.0,5.0,1063 W Patrick St,cafes,39.4188688002443,-77.446323688078
+12,tF_-7pBgUsFErM7e5OplHg,H Mart - Frederick,MD,Frederick,21702,73.0,4.0,1063 W. Patrick St.,grocery korean food_court,39.4187400165834,-77.4465925991535
+13,XdIh5016ZBDLnuRilbM2Ag,The Pham,MD,Frederick,21701,18.0,4.5,440 Prospect Blvd,foodtrucks vietnamese,39.4046001,-77.4283359
+7,uMiddVkJWY2kebEmjdfO-Q,Rita's Italian Ice,MD,Frederick,21701,29.0,3.5,538 W South St,icecream desserts shavedice,39.4129064,-77.4250841
+1,mNmwlLRYJp9iAjTc9oDhag,8Tea8,MD,Frederick,21701,6.0,4.0,211 Shorebird St,bubbletea,39.447474,-77.395212
+9,dTr7iPNa1g3Es7_4LxiO6g,Market Street Boba & Beans,MD,Frederick,21701,22.0,3.5,35 N Market St,coffee bubbletea,39.41504,-77.411
+14,uzU8PCFVAAwcfeM9bpwcBA,Ibiza Cafe,MD,Frederick,21701,28.0,5.0,8 West 4th St,cafes coffee,39.418971,-77.4109474
+16,YRrwnICEc3UwSHGAu4yu9g,Poke Bowl,MD,Frederick,21704,55.0,4.5,5253 Buckeystown Pike,hawaiian asianfusion,39.37481667,-77.412905
+17,mmJrPKPxEtR3YzQ8hevFvw,Tsunami,MD,Frederick,21701,88.0,4.5,20 N Market St,ramen tapasmallplates,39.414567,-77.410574
+19,kzENjRtdOtvL9ovJi2EQbA,Wok In Wok Out,MD,Frederick,21701,105.0,4.0,211 Shorebird St,asianfusion,39.4473354,-77.3952407
+20,_NzmRp5JGxa-cN6MtUWlrQ,Pho Basil,MD,Frederick,21701,76.0,3.5,701 Motter Ave,vietnamese,39.42326,-77.411859
+21,f9ENLq2K2o-hH1zENfbaTQ,Old Dominion Grill and Sushi,MD,Frederick,21704,108.0,4.0,5732 Buckeystown Pike,sushi bbq thai,39.39294193996934,-77.41030410079927
+22,frTthI8ZECgNLd4HvO1vkA,Hunan Gourmet Restaurant,MD,Frederick,21701,71.0,3.5,915 W 7th St,chinese,39.4262545,-77.417065
+5,QIMRnlr0A4XrFCu4qr0mNw,Chop Stick Cafe,VA,Winchester,22601,128.0,4.0,207 N Kent St,thai asianfusion,39.18615,-78.16182
+14,YhsWJmWjG4TMrxE8DuJH-w,Bobba,PA,Grove City,16137,4.0,4.5,1911 Leesburg Grove City Rd,bubbletea icecream wraps,41.142233,-80.157525
+4,-QJNFRYydXX17eeFd4ACYQ,Dimmick's Roadway Cafe,PA,DuBois,15801,1.0,1.0,5522 Shaffer Rd,bubbletea icecream coffee,41.1205283778915,-78.7256227433681
+6,qsK8eQtcZaVl-4UPKQlrvw,Spilling the Beans,PA,Oil City,16301,12.0,4.0,2 W Front St,coffee breakfast_brunch sandwiches,41.4292509,-79.7111372
